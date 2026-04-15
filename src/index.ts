@@ -50,6 +50,7 @@ function emitRoomState(room: GameRoom) {
     explanationPlayerAnswer: room.explanationPlayerAnswer,
     hotSeatVotes: room.hotSeatVotes,
     expectatorCount: room.expectators.size,
+    usedCategories: room.usedCategories,
   };
 
   // Full question (with correctAnswer + explanation) is shown only AFTER explanation: reveal + scoreboard
@@ -114,6 +115,7 @@ io.on('connection', (socket) => {
       explanationPlayerId: null,
       explanationPlayerAnswer: null,
       hotSeatVotes: {},
+      usedCategories: [],
     };
     rooms[code] = room;
     socket.join(code);
@@ -178,8 +180,11 @@ io.on('connection', (socket) => {
     if (!room) return;
     // Only the hot seat player can select the category
     if (room.hotSeatPlayerId && room.hotSeatPlayerId !== socket.id) return;
+    // Block already-used categories
+    if (room.usedCategories.includes(data.categoryId)) return;
     const question = questions.find((q) => q.category === data.categoryId);
     if (question) {
+      room.usedCategories.push(data.categoryId);
       room.currentQuestion = question;
       room.gameState = 'question';
       room.isAnswerEnabled = false;
@@ -359,6 +364,7 @@ io.on('connection', (socket) => {
     room.explanationPlayerId = null;
     room.explanationPlayerAnswer = null;
     room.hotSeatVotes = {};
+    room.usedCategories = [];
     room.players = {};
     room.expectators = new Set();
     if (room.timerInterval) clearInterval(room.timerInterval);

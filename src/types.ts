@@ -11,6 +11,7 @@ export interface Question {
   options: string[];
   correctAnswer: string;
   explanation: string;
+  difficulty: number; // 1–10
 }
 
 export type GameState = 'lobby' | 'category-selection' | 'question' | 'answer-reveal' | 'explanation' | 'voting' | 'reveal' | 'scoreboard' | 'finished';
@@ -41,4 +42,6 @@ export interface GameRoom {
   explanationPlayerAnswer: string | null;
   /** Votes from non-berlinda players: playerId → 'lying' | 'truth' */
   hotSeatVotes: Record<string, 'lying' | 'truth'>;
+  /** Categories already selected in this game (no repeats allowed) */
+  usedCategories: string[];
 }
