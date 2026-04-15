@@ -22,6 +22,10 @@ export interface Player {
   avatar: string;
   score: number;
   selectedAnswer: string | null;
+  /** Total rounds this player participated as a voter (not berlinda) */
+  totalVotes: number;
+  /** Total rounds this player guessed correctly (lying/truth) */
+  correctVotes: number;
 }
 
 export interface GameRoom {
@@ -44,4 +48,6 @@ export interface GameRoom {
   hotSeatVotes: Record<string, 'lying' | 'truth'>;
   /** Categories already selected in this game (no repeats allowed) */
   usedCategories: string[];
+  /** IDs of questions already used across all rounds, including after resets (no question repeats in a session) */
+  usedQuestionIds: number[];
 }

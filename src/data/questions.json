@@ -16,413 +16,859 @@
     { "id": "ecologia", "name": "Ecologia e Sustentabilidade", "icon": "🌱" }
   ],
   "questions": [
-    {
-      "id": 1,
-      "category": "thoughtworks",
-      "difficulty": 6,
+
+    { "id": 1, "category": "thoughtworks", "difficulty": 1,
+      "question": "Em qual país a Thoughtworks tem sua sede global?",
+      "options": ["Reino Unido", "Austrália", "Estados Unidos", "Índia"],
+      "correctAnswer": "Estados Unidos",
+      "explanation": "A Thoughtworks tem sede em Chicago, Illinois, EUA, desde sua fundação em 1993." },
+
+    { "id": 2, "category": "thoughtworks", "difficulty": 2,
       "question": "Em que ano a Thoughtworks foi fundada?",
-      "options": ["1991", "1993", "1995", "1997"],
+      "options": ["1989", "1991", "1993", "1997"],
       "correctAnswer": "1993",
-      "explanation": "A Thoughtworks foi fundada por Roy Singham em Chicago, Illinois, em 1993, com o objetivo de ser uma empresa de consultoria de software diferente."
-    },
-    {
-      "id": 2,
-      "category": "thoughtworks",
-      "difficulty": 5,
+      "explanation": "A Thoughtworks foi fundada por Roy Singham em Chicago em 1993." },
+
+    { "id": 3, "category": "thoughtworks", "difficulty": 3,
       "question": "Qual metodologia ágil é fortemente associada à cultura da Thoughtworks?",
       "options": ["Scrum", "Kanban", "Extreme Programming (XP)", "SAFe"],
       "correctAnswer": "Extreme Programming (XP)",
-      "explanation": "A Thoughtworks é pioneira e grande defensora do Extreme Programming (XP), com figuras como Kent Beck e Martin Fowler contribuindo para sua popularização."
-    },
-    {
-      "id": 3,
-      "category": "thoughtworks",
-      "difficulty": 7,
+      "explanation": "A Thoughtworks é pioneira no XP, com Martin Fowler e Kent Beck entre seus principais defensores." },
+
+    { "id": 4, "category": "thoughtworks", "difficulty": 4,
       "question": "O que é o Thoughtworks Technology Radar?",
-      "options": [
-        "Um produto de monitoramento de infraestrutura",
-        "Um guia bianual de tendências tecnológicas",
-        "Uma ferramenta interna de gestão de projetos",
-        "Um ranking de linguagens de programação"
-      ],
+      "options": ["Uma ferramenta de monitoramento", "Um guia bianual de tendências tecnológicas", "Uma plataforma de recrutamento", "Um ranking de linguagens"],
       "correctAnswer": "Um guia bianual de tendências tecnológicas",
-      "explanation": "O Technology Radar é publicado semestralmente pela Thoughtworks e classifica tecnologias em quatro quadrantes: Técnicas, Plataformas, Ferramentas e Linguagens & Frameworks."
-    },
-    {
-      "id": 4,
-      "category": "cultura-pop",
-      "difficulty": 3,
-      "question": "Qual filme da Marvel foi o primeiro a ganhar mais de US$ 1 bilhão nas bilheterias mundiais?",
-      "options": ["Homem de Ferro", "Os Vingadores", "Capitão América: Guerra Civil", "Thor: O Mundo Sombrio"],
-      "correctAnswer": "Os Vingadores",
-      "explanation": "Os Vingadores (2012), dirigido por Joss Whedon, foi o primeiro filme da Marvel Studios a ultrapassar a marca de US$ 1 bilhão de bilheteria mundial."
-    },
-    {
-      "id": 5,
-      "category": "cultura-pop",
-      "difficulty": 2,
+      "explanation": "O Technology Radar é publicado semestralmente e classifica tecnologias em quatro quadrantes: Técnicas, Plataformas, Ferramentas e Linguagens." },
+
+    { "id": 5, "category": "thoughtworks", "difficulty": 5,
+      "question": "Qual é o nome da plataforma open-source de CD criada pela Thoughtworks?",
+      "options": ["Jenkins", "CircleCI", "GoCD", "Spinnaker"],
+      "correctAnswer": "GoCD",
+      "explanation": "O GoCD é uma ferramenta open-source de Continuous Delivery criada e mantida pela Thoughtworks." },
+
+    { "id": 6, "category": "thoughtworks", "difficulty": 6,
+      "question": "Qual livro clássico de Martin Fowler, Thoughtworker, define padrões de arquitetura empresarial?",
+      "options": ["Clean Code", "Patterns of Enterprise Application Architecture", "The Pragmatic Programmer", "Domain-Driven Design"],
+      "correctAnswer": "Patterns of Enterprise Application Architecture",
+      "explanation": "Martin Fowler publicou 'Patterns of Enterprise Application Architecture' em 2002, tornando-se referência na área." },
+
+    { "id": 7, "category": "thoughtworks", "difficulty": 7,
+      "question": "Como se chama a abordagem da Thoughtworks para construção de software centrada no domínio, defendida por Eric Evans e popularizada internamente?",
+      "options": ["TDD", "BDD", "Domain-Driven Design", "Event Storming"],
+      "correctAnswer": "Domain-Driven Design",
+      "explanation": "O DDD (Domain-Driven Design) é amplamente adotado e promovido pela Thoughtworks como forma de alinhar código ao negócio." },
+
+    { "id": 8, "category": "thoughtworks", "difficulty": 8,
+      "question": "Qual conceito de arquitetura de microsserviços foi popularizado por um artigo de Martin Fowler e James Lewis na Thoughtworks?",
+      "options": ["Serverless", "Microservices", "Service Mesh", "Event-Driven Architecture"],
+      "correctAnswer": "Microservices",
+      "explanation": "O artigo 'Microservices' de Fowler e Lewis (2014) definiu e popularizou o termo e a abordagem arquitetural." },
+
+    { "id": 9, "category": "thoughtworks", "difficulty": 9,
+      "question": "Qual prática de engenharia, formalizada por Kent Beck na Thoughtworks, exige que todo código novo seja escrito a partir de um teste que falha primeiro?",
+      "options": ["BDD", "ATDD", "TDD", "Property-based testing"],
+      "correctAnswer": "TDD",
+      "explanation": "Test-Driven Development (TDD) exige o ciclo Red-Green-Refactor: escrever o teste que falha, implementar o mínimo para passar e refatorar." },
+
+    { "id": 10, "category": "thoughtworks", "difficulty": 10,
+      "question": "No contexto de arquitetura evolutiva defendida pela Thoughtworks, o que é um 'fitness function'?",
+      "options": ["Uma métrica de desempenho de banco de dados", "Um mecanismo automatizado que avalia se a arquitetura mantém suas características desejadas", "Um algoritmo genético para otimização de código", "Um indicador de saúde de microsserviços"],
+      "correctAnswer": "Um mecanismo automatizado que avalia se a arquitetura mantém suas características desejadas",
+      "explanation": "Definido no livro 'Building Evolutionary Architectures' de Neal Ford, Rebecca Parsons e Patrick Kua (Thoughtworkers), fitness functions guiam a evolução arquitetural." },
+
+
+    { "id": 11, "category": "cultura-pop", "difficulty": 1,
+      "question": "Qual personagem da Marvel usa um escudo redondo vermelho, branco e azul?",
+      "options": ["Thor", "Capitão América", "Homem de Ferro", "Hulk"],
+      "correctAnswer": "Capitão América",
+      "explanation": "O Capitão América é conhecido pelo seu escudo de vibranium com as cores da bandeira americana." },
+
+    { "id": 12, "category": "cultura-pop", "difficulty": 2,
       "question": "Qual artista detém o recorde de álbum mais vendido da história?",
       "options": ["Elvis Presley", "The Beatles", "Michael Jackson", "Madonna"],
       "correctAnswer": "Michael Jackson",
-      "explanation": "Thriller (1982), de Michael Jackson, é o álbum mais vendido da história com estimativas entre 66 e 100 milhões de cópias vendidas no mundo inteiro."
-    },
-    {
-      "id": 6,
-      "category": "cultura-pop",
-      "difficulty": 5,
-      "question": "Qual série de streaming estreou em 2019 e se tornou a mais assistida da Netflix por semanas seguidas com a história de uma família disfuncional?",
-      "options": ["Ozark", "The Crown", "You", "Você não vai acreditar"],
-      "correctAnswer": "Ozark",
-      "explanation": "Ozark, com Jason Bateman e Laura Linney, se consolidou como um dos maiores sucessos da Netflix, abordando crime, lavagem de dinheiro e dilemas morais familiares."
-    },
-    {
-      "id": 7,
-      "category": "geografia",
-      "difficulty": 8,
-      "question": "Qual é o país com maior número de fusos horários no mundo?",
-      "options": ["Rússia", "Estados Unidos", "França", "China"],
-      "correctAnswer": "França",
-      "explanation": "A França possui 12 fusos horários quando considerados seus territórios ultramarinos espalhados pelo mundo, superando inclusive a Rússia (11) e os EUA (11)."
-    },
-    {
-      "id": 8,
-      "category": "geografia",
-      "difficulty": 6,
+      "explanation": "'Thriller' de Michael Jackson é o álbum mais vendido de todos os tempos, com mais de 66 milhões de cópias." },
+
+    { "id": 13, "category": "cultura-pop", "difficulty": 3,
+      "question": "Qual filme da Marvel foi o primeiro a ultrapassar US$ 1 bilhão nas bilheterias mundiais?",
+      "options": ["Homem de Ferro", "Os Vingadores", "Capitão América: Guerra Civil", "Thor"],
+      "correctAnswer": "Os Vingadores",
+      "explanation": "'Os Vingadores' (2012) foi o primeiro filme do MCU a arrecadar mais de US$ 1 bilhão globalmente." },
+
+    { "id": 14, "category": "cultura-pop", "difficulty": 4,
+      "question": "Em qual série de streaming a personagem Eleven usa poderes telecinéticos e foge de um laboratório governamental?",
+      "options": ["Dark", "Stranger Things", "The OA", "Sense8"],
+      "correctAnswer": "Stranger Things",
+      "explanation": "Eleven é a protagonista de Stranger Things (Netflix), com poderes psíquicos desenvolvidos em experimentos governamentais." },
+
+    { "id": 15, "category": "cultura-pop", "difficulty": 5,
+      "question": "Qual banda britânica lançou o álbum 'The Dark Side of the Moon' em 1973?",
+      "options": ["Led Zeppelin", "The Rolling Stones", "Pink Floyd", "The Who"],
+      "correctAnswer": "Pink Floyd",
+      "explanation": "O álbum ficou 741 semanas na Billboard 200, um recorde absoluto na história da música." },
+
+    { "id": 16, "category": "cultura-pop", "difficulty": 6,
+      "question": "Qual diretor assinou o filme 'Pulp Fiction' (1994)?",
+      "options": ["Martin Scorsese", "Quentin Tarantino", "Coen Brothers", "David Fincher"],
+      "correctAnswer": "Quentin Tarantino",
+      "explanation": "'Pulp Fiction' é considerado uma das obras mais influentes do cinema moderno, vencendo a Palma de Ouro em Cannes." },
+
+    { "id": 17, "category": "cultura-pop", "difficulty": 7,
+      "question": "Qual artista visual é conhecido pela instalação 'The Physical Impossibility of Death in the Mind of Someone Living', que consiste em um tubarão-tigre dentro de um aquário de formol?",
+      "options": ["Banksy", "Jeff Koons", "Damien Hirst", "Tracey Emin"],
+      "correctAnswer": "Damien Hirst",
+      "explanation": "Damien Hirst criou essa obra em 1991, tornando-se um dos artistas vivos mais caros do mundo." },
+
+    { "id": 18, "category": "cultura-pop", "difficulty": 8,
+      "question": "Qual animação japonesa de 1988, dirigida por Katsuhiro Otomo, é considerada marco do anime cyberpunk e influenciou Matrix e outros filmes?",
+      "options": ["Ghost in the Shell", "Akira", "Neon Genesis Evangelion", "Nausicaä"],
+      "correctAnswer": "Akira",
+      "explanation": "'Akira' (1988) revolucionou a animação mundial com sua produção detalhada e temas futuristas sombrios." },
+
+    { "id": 19, "category": "cultura-pop", "difficulty": 9,
+      "question": "Qual álbum conceitual de David Bowie, lançado em 1972, introduziu o personagem Ziggy Stardust e o glam rock?",
+      "options": ["Aladdin Sane", "Diamond Dogs", "The Rise and Fall of Ziggy Stardust and the Spiders from Mars", "Station to Station"],
+      "correctAnswer": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "explanation": "Lançado em junho de 1972, o álbum transformou Bowie em ícone cultural e redefiniu o papel do personagem na música pop." },
+
+    { "id": 20, "category": "cultura-pop", "difficulty": 10,
+      "question": "Qual cineasta francês cunhou o termo 'politique des auteurs' nos Cahiers du Cinéma nos anos 1950, base da teoria que elevou o diretor a artista principal de um filme?",
+      "options": ["Jean-Luc Godard", "François Truffaut", "André Bazin", "Claude Chabrol"],
+      "correctAnswer": "François Truffaut",
+      "explanation": "Truffaut publicou em 1954 o artigo 'Une certaine tendance du cinéma français', lançando a politique des auteurs que moldou a crítica cinematográfica mundial." },
+
+
+    { "id": 21, "category": "geografia", "difficulty": 1,
+      "question": "Qual é o maior país do mundo em extensão territorial?",
+      "options": ["China", "Canadá", "Brasil", "Rússia"],
+      "correctAnswer": "Rússia",
+      "explanation": "A Rússia ocupa cerca de 17 milhões de km², tornando-a o maior país do mundo." },
+
+    { "id": 22, "category": "geografia", "difficulty": 2,
       "question": "Qual é o maior deserto frio do mundo?",
-      "options": ["Saara", "Gobi", "Antártica", "Atacama"],
+      "options": ["Gobi", "Atacama", "Antártica", "Patagônia"],
       "correctAnswer": "Antártica",
-      "explanation": "A Antártica é o maior deserto do mundo com cerca de 14,2 milhões de km². Desertos são definidos pela baixa precipitação, não pela temperatura."
-    },
-    {
-      "id": 9,
-      "category": "geografia",
-      "difficulty": 4,
+      "explanation": "A Antártica é o maior deserto do mundo (14 milhões de km²) e também o mais frio e seco." },
+
+    { "id": 23, "category": "geografia", "difficulty": 3,
+      "question": "Qual é o rio mais longo do mundo?",
+      "options": ["Amazonas", "Yangtzé", "Mississippi", "Nilo"],
+      "correctAnswer": "Nilo",
+      "explanation": "O Nilo tem aproximadamente 6.650 km de extensão, sendo o mais longo, embora o Amazonas tenha maior volume d'água." },
+
+    { "id": 24, "category": "geografia", "difficulty": 4,
       "question": "Por qual país passa o maior trecho do Rio Amazonas?",
-      "options": ["Peru", "Colômbia", "Brasil", "Bolívia"],
+      "options": ["Peru", "Colômbia", "Brasil", "Venezuela"],
       "correctAnswer": "Brasil",
-      "explanation": "Embora o Rio Amazonas nasça nos Andes peruanos, cerca de 60% de seu curso total atravessa o território brasileiro, onde também deságua no Oceano Atlântico."
-    },
-    {
-      "id": 10,
-      "category": "historia-geral",
-      "difficulty": 3,
-      "question": "Qual civilização construiu Machu Picchu?",
-      "options": ["Asteca", "Maia", "Inca", "Olmeca"],
-      "correctAnswer": "Inca",
-      "explanation": "Machu Picchu foi construída no século XV pelo imperador inca Pachacuti e está localizada nos Andes peruanos a 2.430 metros de altitude."
-    },
-    {
-      "id": 11,
-      "category": "historia-geral",
-      "difficulty": 2,
-      "question": "A Revolução Francesa começou em qual ano?",
-      "options": ["1776", "1789", "1799", "1804"],
-      "correctAnswer": "1789",
-      "explanation": "A Revolução Francesa teve início em 1789 com a queda da Bastilha em 14 de julho, marcando o fim do Antigo Regime e o início de profundas transformações sociais e políticas."
-    },
-    {
-      "id": 12,
-      "category": "historia-geral",
-      "difficulty": 4,
-      "question": "Quem foi a primeira mulher a ganhar o Prêmio Nobel?",
-      "options": ["Rosalind Franklin", "Marie Curie", "Ada Lovelace", "Florence Nightingale"],
-      "correctAnswer": "Marie Curie",
-      "explanation": "Marie Curie ganhou o Prêmio Nobel de Física em 1903 (compartilhado com Pierre Curie e Henri Becquerel) e mais tarde o de Química em 1911, sendo a única pessoa a ganhar em duas áreas diferentes."
-    },
-    {
-      "id": 13,
-      "category": "ciencia-natureza",
-      "difficulty": 4,
-      "question": "Qual é o elemento mais abundante no universo?",
-      "options": ["Oxigênio", "Carbono", "Hidrogênio", "Hélio"],
-      "correctAnswer": "Hidrogênio",
-      "explanation": "O hidrogênio é o elemento mais abundante no universo, constituindo cerca de 75% de toda a matéria bariônica existente."
-    },
-    {
-      "id": 14,
-      "category": "ciencia-natureza",
-      "difficulty": 5,
-      "question": "Quantos pares de cromossomos tem uma célula humana saudável?",
-      "options": ["21", "23", "46", "48"],
-      "correctAnswer": "23",
-      "explanation": "As células humanas possuem 23 pares de cromossomos (totalizando 46), sendo 22 pares autossômicos e 1 par de cromossomos sexuais (XX ou XY)."
-    },
-    {
-      "id": 15,
-      "category": "ciencia-natureza",
-      "difficulty": 2,
-      "question": "Qual processo permite que as plantas transformem luz solar em energia?",
-      "options": ["Respiração celular", "Fotossíntese", "Osmose", "Fermentação"],
-      "correctAnswer": "Fotossíntese",
-      "explanation": "A fotossíntese é o processo pelo qual plantas, algas e algumas bactérias convertem dióxido de carbono e água em glicose e oxigênio usando energia luminosa."
-    },
-    {
-      "id": 16,
-      "category": "esportes",
-      "difficulty": 3,
-      "question": "Em qual cidade foram realizados os primeiros Jogos Olímpicos modernos?",
-      "options": ["Roma", "Paris", "Londres", "Atenas"],
-      "correctAnswer": "Atenas",
-      "explanation": "Os primeiros Jogos Olímpicos da era moderna foram realizados em Atenas, Grécia, em 1896, sob a iniciativa do Barão Pierre de Coubertin."
-    },
-    {
-      "id": 17,
-      "category": "esportes",
-      "difficulty": 2,
-      "question": "Qual país ganhou mais títulos da Copa do Mundo de Futebol Masculino?",
-      "options": ["Alemanha", "Argentina", "Itália", "Brasil"],
-      "correctAnswer": "Brasil",
-      "explanation": "O Brasil é o maior campeão da Copa do Mundo com 5 títulos (1958, 1962, 1970, 1994 e 2002), sendo o único país a ter participado de todas as edições do torneio."
-    },
-    {
-      "id": 18,
-      "category": "esportes",
-      "difficulty": 4,
-      "question": "Qual atleta detém o recorde de mais medalhas olímpicas da história?",
-      "options": ["Usain Bolt", "Carl Lewis", "Michael Phelps", "Larisa Latynina"],
-      "correctAnswer": "Michael Phelps",
-      "explanation": "Michael Phelps, nadador americano, é o maior medalhista olímpico da história com 28 medalhas (23 de ouro, 3 de prata e 2 de bronze) conquistadas entre 2000 e 2016."
-    },
-    {
-      "id": 19,
-      "category": "literatura",
-      "difficulty": 4,
-      "question": "Quem escreveu 'Dom Casmurro'?",
-      "options": ["José de Alencar", "Graciliano Ramos", "Machado de Assis", "Eça de Queirós"],
-      "correctAnswer": "Machado de Assis",
-      "explanation": "Dom Casmurro (1899), de Machado de Assis, é um dos maiores clássicos da literatura brasileira e do Realismo, narrando a história de Bentinho e o célebre dilema sobre a fidelidade de Capitu."
-    },
-    {
-      "id": 20,
-      "category": "literatura",
-      "difficulty": 5,
-      "question": "Em qual país nasceu Gabriel García Márquez, autor de 'Cem Anos de Solidão'?",
-      "options": ["México", "Argentina", "Colômbia", "Peru"],
-      "correctAnswer": "Colômbia",
-      "explanation": "Gabriel García Márquez nasceu em Aracataca, Colômbia, em 1927. Cem Anos de Solidão (1967) é considerada a obra máxima do realismo mágico latino-americano."
-    },
-    {
-      "id": 21,
-      "category": "literatura",
-      "difficulty": 3,
-      "question": "Qual obra de Shakespeare conta a história de um príncipe dinamarquês que busca vingar a morte do pai?",
-      "options": ["Otelo", "Macbeth", "Hamlet", "Rei Lear"],
-      "correctAnswer": "Hamlet",
-      "explanation": "Hamlet (c. 1600-1601) é uma das mais famosas tragédias de Shakespeare, explorando temas como vingança, traição, moralidade e a natureza humana através do Príncipe Hamlet da Dinamarca."
-    },
-    {
-      "id": 22,
-      "category": "gastronomia",
-      "difficulty": 2,
-      "question": "De qual país é originário o prato 'Sushi'?",
-      "options": ["China", "Coreia do Sul", "Tailândia", "Japão"],
-      "correctAnswer": "Japão",
-      "explanation": "O sushi é originário do Japão, tendo evoluído ao longo dos séculos de um método de conservação de peixe em arroz fermentado para a culinária refinada que conhecemos hoje."
-    },
-    {
-      "id": 23,
-      "category": "gastronomia",
-      "difficulty": 7,
-      "question": "Qual especiaria é mais cara por peso do que o ouro?",
-      "options": ["Cardamomo", "Baunilha", "Açafrão", "Noz-moscada"],
-      "correctAnswer": "Açafrão",
-      "explanation": "O açafrão (Crocus sativus) é a especiaria mais cara do mundo por peso — pode custar entre R$ 30.000 e R$ 90.000 por quilo — pois cada flor produz apenas três estigmas colhidos à mão."
-    },
-    {
-      "id": 24,
-      "category": "gastronomia",
-      "difficulty": 8,
-      "question": "O 'Croissant' é símbolo da culinária francesa, mas em qual país ele foi criado?",
-      "options": ["França", "Áustria", "Suíça", "Bélgica"],
-      "correctAnswer": "Áustria",
-      "explanation": "O croissant foi criado em Viena, Áustria, no século XVII como 'Kipferl'. Foi levado à França por Marie Antoinette e lá ganhou sua forma e receita com manteiga que o tornou famoso."
-    },
-    {
-      "id": 25,
-      "category": "artes",
-      "difficulty": 1,
-      "question": "Quem pintou a 'Mona Lisa'?",
-      "options": ["Michelangelo", "Rafael", "Leonardo da Vinci", "Botticelli"],
-      "correctAnswer": "Leonardo da Vinci",
-      "explanation": "A Mona Lisa foi pintada por Leonardo da Vinci entre 1503 e 1519, e hoje está exposta no Museu do Louvre, em Paris, sendo a obra de arte mais visitada do mundo."
-    },
-    {
-      "id": 26,
-      "category": "artes",
-      "difficulty": 8,
-      "question": "Qual artista brasileiro é conhecido pelo estilo 'naïf' e pela obra 'O Mamoeiro'?",
-      "options": ["Cândido Portinari", "Tarsila do Amaral", "José Antonio da Silva", "Di Cavalcanti"],
-      "correctAnswer": "José Antonio da Silva",
-      "explanation": "José Antonio da Silva, nascido em São José do Rio Pardo (SP), é o maior representante da arte naïf brasileira, famoso por suas pinturas coloridas do cotidiano rural."
-    },
-    {
-      "id": 27,
-      "category": "artes",
-      "difficulty": 6,
-      "question": "O movimento artístico 'Impressionismo' surgiu em qual país?",
-      "options": ["Itália", "Alemanha", "França", "Espanha"],
+      "explanation": "Embora o Amazonas nasça nos Andes peruanos, cerca de 60% de seu curso fica em território brasileiro." },
+
+    { "id": 25, "category": "geografia", "difficulty": 5,
+      "question": "Qual é o país com maior número de fusos horários no mundo?",
+      "options": ["Rússia", "Estados Unidos", "China", "França"],
       "correctAnswer": "França",
-      "explanation": "O Impressionismo surgiu na França na segunda metade do século XIX. O nome vem do quadro 'Impressão, Sol Nascente' (1872) de Claude Monet, criticado ironicamente por um jornalista."
-    },
-    {
-      "id": 28,
-      "category": "astronomia",
-      "difficulty": 5,
-      "question": "Qual é a estrela mais próxima do Sol?",
-      "options": ["Sírius", "Vega", "Proxima Centauri", "Betelgeuse"],
-      "correctAnswer": "Proxima Centauri",
-      "explanation": "Proxima Centauri, parte do sistema Alpha Centauri, está a cerca de 4,24 anos-luz do Sol, sendo a estrela conhecida mais próxima do nosso sistema solar."
-    },
-    {
-      "id": 29,
-      "category": "astronomia",
-      "difficulty": 7,
-      "question": "Qual planeta do sistema solar tem o maior número de luas conhecidas?",
-      "options": ["Júpiter", "Saturno", "Urano", "Netuno"],
-      "correctAnswer": "Saturno",
-      "explanation": "Saturno detém o recorde com 146 luas confirmadas (2023), superando Júpiter. A maior delas, Titã, é a única lua do sistema solar com atmosfera densa."
-    },
-    {
-      "id": 30,
-      "category": "astronomia",
-      "difficulty": 4,
-      "question": "O que é um ano-luz?",
-      "options": [
-        "O tempo que a luz leva para chegar à Terra",
-        "A distância percorrida pela luz em um ano",
-        "A intensidade da luz de uma estrela por ano",
-        "A unidade de brilho de uma galáxia"
-      ],
-      "correctAnswer": "A distância percorrida pela luz em um ano",
-      "explanation": "Um ano-luz é uma unidade de distância equivalente a aproximadamente 9,46 trilhões de quilômetros — a distância que a luz percorre no vácuo em um ano terrestre."
-    },
-    {
-      "id": 31,
-      "category": "linguas",
-      "difficulty": 7,
-      "question": "De qual língua vem a palavra 'Xampô' (shampoo) usada no português?",
-      "options": ["Árabe", "Hindi", "Persa", "Malaio"],
-      "correctAnswer": "Hindi",
-      "explanation": "A palavra 'shampoo' vem do hindi 'chāmpo' (चाँपो), que significa 'pressionar' ou 'massagear'. Foi levada ao inglês por colonizadores britânicos na Índia no século XVIII."
-    },
-    {
-      "id": 32,
-      "category": "linguas",
-      "difficulty": 4,
-      "question": "Qual é a língua com mais falantes nativos no mundo?",
-      "options": ["Inglês", "Espanhol", "Mandarim", "Hindi"],
-      "correctAnswer": "Mandarim",
-      "explanation": "O mandarim (chinês padrão) é a língua com mais falantes nativos no mundo, com cerca de 900 milhões a 1 bilhão de falantes, seguido pelo espanhol e pelo inglês."
-    },
-    {
-      "id": 33,
-      "category": "linguas",
-      "difficulty": 6,
-      "question": "O que significa a palavra 'Serendipidade'?",
-      "options": [
-        "Saudade profunda de algo perdido",
-        "Descoberta feliz por acaso",
-        "Sentimento de melancolia ao entardecer",
-        "Alegria excessiva e passageira"
-      ],
-      "correctAnswer": "Descoberta feliz por acaso",
-      "explanation": "Serendipidade vem do inglês 'serendipity', cunhado por Horace Walpole em 1754 baseado no conto persa 'Os Três Príncipes de Serendip', significando fazer descobertas valiosas por acidente."
-    },
-    {
-      "id": 34,
-      "category": "jogos",
-      "difficulty": 3,
-      "question": "Qual jogo é considerado o primeiro videogame comercial da história?",
-      "options": ["Pong", "Space Invaders", "Tetris", "Pac-Man"],
-      "correctAnswer": "Pong",
-      "explanation": "Pong, lançado pela Atari em 1972, é amplamente considerado o primeiro videogame de arcade comercialmente bem-sucedido, simulando uma partida de tênis de mesa."
-    },
-    {
-      "id": 35,
-      "category": "jogos",
-      "difficulty": 6,
-      "question": "Em qual país nasceu o jogo de tabuleiro 'Xadrez'?",
-      "options": ["China", "Grécia", "Índia", "Pérsia"],
-      "correctAnswer": "Índia",
-      "explanation": "O xadrez tem origem na Índia, por volta do século VI d.C., onde era chamado de 'Chaturanga'. Foi levado à Pérsia, onde ganhou o nome 'Shatranj', e depois se espalhou pelo mundo árabe e Europa."
-    },
-    {
-      "id": 36,
-      "category": "jogos",
-      "difficulty": 2,
-      "question": "Qual empresa criou o personagem Mario?",
-      "options": ["Sega", "Atari", "Nintendo", "Capcom"],
-      "correctAnswer": "Nintendo",
-      "explanation": "Mario foi criado por Shigeru Miyamoto para a Nintendo e estreou no arcade Donkey Kong (1981) como 'Jumpman'. É o personagem de videogame mais reconhecido do mundo."
-    },
-    {
-      "id": 37,
-      "category": "economia",
-      "difficulty": 5,
-      "question": "O que é o PIB (Produto Interno Bruto)?",
-      "options": [
-        "O total de exportações de um país",
-        "A soma de todos os bens e serviços produzidos num país em um período",
-        "O valor total das reservas internacionais de um país",
-        "O total de impostos arrecadados pelo governo"
-      ],
-      "correctAnswer": "A soma de todos os bens e serviços produzidos num país em um período",
-      "explanation": "O PIB é o indicador econômico que mede o valor total de bens e serviços finais produzidos dentro de um país em um determinado período, geralmente um ano."
-    },
-    {
-      "id": 38,
-      "category": "economia",
-      "difficulty": 6,
-      "question": "Qual foi a maior crise financeira global do século XXI até hoje?",
-      "options": [
-        "Crise da Zona do Euro (2010)",
-        "Crise das Dot-com (2000)",
-        "Crise do Subprime (2008)",
-        "Recessão pós-COVID (2020)"
-      ],
-      "correctAnswer": "Crise do Subprime (2008)",
-      "explanation": "A Crise Financeira Global de 2008, originada no mercado imobiliário americano com os chamados 'subprime mortgages', foi a maior crise econômica global desde a Grande Depressão de 1929."
-    },
-    {
-      "id": 39,
-      "category": "economia",
-      "difficulty": 8,
-      "question": "Qual teoria econômica defende que o governo deve intervir na economia para estimular a demanda em períodos de recessão?",
-      "options": ["Monetarismo", "Liberalismo clássico", "Keynesianismo", "Neoliberalismo"],
-      "correctAnswer": "Keynesianismo",
-      "explanation": "O Keynesianismo, desenvolvido pelo economista britânico John Maynard Keynes na obra 'Teoria Geral do Emprego, do Juro e da Moeda' (1936), defende a intervenção estatal para regular a demanda agregada."
-    },
-    {
-      "id": 40,
-      "category": "ecologia",
-      "difficulty": 5,
-      "question": "Qual acordo internacional define metas para redução de emissões de gases de efeito estufa?",
-      "options": ["Protocolo de Montreal", "Acordo de Paris", "Convenção de Kyoto", "Agenda 21"],
-      "correctAnswer": "Acordo de Paris",
-      "explanation": "O Acordo de Paris (2015), dentro da UNFCCC, estabelece metas para limitar o aquecimento global a 1,5°C acima dos níveis pré-industriais e foi ratificado por 196 países."
-    },
-    {
-      "id": 41,
-      "category": "ecologia",
-      "difficulty": 6,
-      "question": "O que é a 'Pegada de Carbono'?",
-      "options": [
-        "A quantidade de petróleo consumida por um país",
-        "A medida total de gases de efeito estufa gerados pelas atividades humanas",
-        "O rastro de carbono deixado por combustíveis fósseis na atmosfera",
-        "A quantidade de florestas derrubadas por ano"
-      ],
-      "correctAnswer": "A medida total de gases de efeito estufa gerados pelas atividades humanas",
-      "explanation": "A pegada de carbono é a quantidade total de gases de efeito estufa (especialmente CO2 e metano) emitidos direta ou indiretamente pelas atividades de um indivíduo, organização ou produto."
-    },
-    {
-      "id": 42,
-      "category": "ecologia",
-      "difficulty": 3,
-      "question": "Qual país possui a maior área de floresta tropical do mundo?",
-      "options": ["Congo", "Indonésia", "Brasil", "Peru"],
+      "explanation": "Contando territórios ultramarinos, a França possui 12 fusos horários, mais do que qualquer outro país." },
+
+    { "id": 26, "category": "geografia", "difficulty": 6,
+      "question": "Qual é o estreito que separa a Europa da África?",
+      "options": ["Bósforo", "Messina", "Gibraltar", "Ormuz"],
+      "correctAnswer": "Gibraltar",
+      "explanation": "O Estreito de Gibraltar separa a Espanha (Europa) de Marrocos (África) com apenas 14 km em seu ponto mais estreito." },
+
+    { "id": 27, "category": "geografia", "difficulty": 7,
+      "question": "Qual arquipélago do Pacífico pertence ao Equador e foi fundamental para as teorias de Darwin?",
+      "options": ["Galápagos", "Havaí", "Maldivas", "Marquesas"],
+      "correctAnswer": "Galápagos",
+      "explanation": "As ilhas Galápagos inspiraram Darwin a formular a teoria da evolução por seleção natural após sua visita em 1835." },
+
+    { "id": 28, "category": "geografia", "difficulty": 8,
+      "question": "Qual país possui a maior parte da Floresta Amazônica, mas qual é o segundo maior detentor?",
+      "options": ["Colômbia", "Venezuela", "Peru", "Bolívia"],
+      "correctAnswer": "Peru",
+      "explanation": "O Brasil detém cerca de 60% da Amazônia; o Peru vem em segundo com aproximadamente 13%." },
+
+    { "id": 29, "category": "geografia", "difficulty": 9,
+      "question": "A linha de datação internacional (180° de longitude) contorna quais ilhas para evitar que um país fique em dois dias diferentes?",
+      "options": ["Ilhas Fiji", "Ilhas Tonga", "Ilhas Kiribati", "Samoa Americana"],
+      "correctAnswer": "Ilhas Kiribati",
+      "explanation": "As Ilhas Kiribati fazem a linha de datação fazer um desvio para leste de modo que todo o arquipélago fique no mesmo dia calendário." },
+
+    { "id": 30, "category": "geografia", "difficulty": 10,
+      "question": "Qual é o nome do fenômeno geográfico onde o Rio Casiquiare conecta naturalmente as bacias do Orinoco e do Amazonas, formando um bifurcação fluvial rara?",
+      "options": ["Anastomose do Casiquiare", "Canal do Casiquiare", "Bifurcação do Orinoco", "Delta interior do Casiquiare"],
+      "correctAnswer": "Canal do Casiquiare",
+      "explanation": "O Canal do Casiquiare é uma das poucas bifurcações naturais do mundo que conecta duas grandes bacias hidrográficas distintas, na Venezuela." },
+
+
+    { "id": 31, "category": "historia-geral", "difficulty": 1,
+      "question": "Em qual ano ocorreu a Revolução Francesa?",
+      "options": ["1776", "1789", "1804", "1815"],
+      "correctAnswer": "1789",
+      "explanation": "A Revolução Francesa teve início em 1789 com a queda da Bastilha em 14 de julho." },
+
+    { "id": 32, "category": "historia-geral", "difficulty": 2,
+      "question": "Qual civilização construiu Machu Picchu?",
+      "options": ["Maia", "Asteca", "Inca", "Olmeca"],
+      "correctAnswer": "Inca",
+      "explanation": "Machu Picchu foi construída pelos Incas por volta de 1450, no Peru, e redescoberta pelo ocidente em 1911." },
+
+    { "id": 33, "category": "historia-geral", "difficulty": 3,
+      "question": "Quem foi a primeira mulher a ganhar o Prêmio Nobel?",
+      "options": ["Rosalind Franklin", "Marie Curie", "Lise Meitner", "Dorothy Hodgkin"],
+      "correctAnswer": "Marie Curie",
+      "explanation": "Marie Curie ganhou o Nobel de Física em 1903 e o Nobel de Química em 1911, sendo a única pessoa a vencer em duas áreas diferentes." },
+
+    { "id": 34, "category": "historia-geral", "difficulty": 4,
+      "question": "Em qual batalha Napoleão Bonaparte foi definitivamente derrotado em 1815?",
+      "options": ["Austerlitz", "Leipzig", "Waterloo", "Trafalgar"],
+      "correctAnswer": "Waterloo",
+      "explanation": "A Batalha de Waterloo, em junho de 1815, no atual território da Bélgica, encerrou o período napoleônico." },
+
+    { "id": 35, "category": "historia-geral", "difficulty": 5,
+      "question": "Qual tratado encerrou a Primeira Guerra Mundial?",
+      "options": ["Tratado de Viena", "Tratado de Versalhes", "Tratado de Paris", "Tratado de Lausanne"],
+      "correctAnswer": "Tratado de Versalhes",
+      "explanation": "O Tratado de Versalhes foi assinado em 28 de junho de 1919 e impôs pesadas reparações à Alemanha." },
+
+    { "id": 36, "category": "historia-geral", "difficulty": 6,
+      "question": "Qual imperatriz romana foi a mãe de Constantino I e contribuiu para a difusão do Cristianismo no império?",
+      "options": ["Lívia", "Agripina", "Helena", "Teodora"],
+      "correctAnswer": "Helena",
+      "explanation": "Santa Helena, mãe de Constantino I, empreendeu peregrinação à Terra Santa e é creditada pela descoberta de relíquias cristãs." },
+
+    { "id": 37, "category": "historia-geral", "difficulty": 7,
+      "question": "Qual foi o principal motivo econômico que levou as potências europeias a disputarem a África na 'Corrida para a África' do século XIX?",
+      "options": ["Busca por especiarias", "Acesso a matérias-primas e mercados consumidores", "Controle das rotas marítimas para a Ásia", "Expansão do comércio de escravos"],
+      "correctAnswer": "Acesso a matérias-primas e mercados consumidores",
+      "explanation": "A Revolução Industrial criou enorme demanda por matérias-primas e mercados para produtos manufaturados, impulsionando a colonização africana." },
+
+    { "id": 38, "category": "historia-geral", "difficulty": 8,
+      "question": "Em qual ano ocorreu a Revolução Russa de outubro que levou os bolcheviques ao poder?",
+      "options": ["1905", "1914", "1917", "1921"],
+      "correctAnswer": "1917",
+      "explanation": "A Revolução de Outubro de 1917 (novembro no calendário gregoriano) derrubou o Governo Provisório e instalou o poder soviético." },
+
+    { "id": 39, "category": "historia-geral", "difficulty": 9,
+      "question": "Qual acordo secreto de 1916, entre Reino Unido e França, dividiu o Oriente Médio em zonas de influência após a queda do Império Otomano?",
+      "options": ["Declaração Balfour", "Acordo Sykes-Picot", "Tratado de Sèvres", "Pacto de San Remo"],
+      "correctAnswer": "Acordo Sykes-Picot",
+      "explanation": "O Acordo Sykes-Picot definiu fronteiras artificiais no Oriente Médio que ainda hoje são fonte de conflitos regionais." },
+
+    { "id": 40, "category": "historia-geral", "difficulty": 10,
+      "question": "Qual foi o nome do plano alemão de 1905, elaborado pelo Marechal Alfred von Schlieffen, que previa derrotar a França rapidamente antes de virar-se contra a Rússia em uma guerra de dois fronts?",
+      "options": ["Plano Barbarossa", "Plano Schlieffen", "Plano Hindenburg", "Plano Blau"],
+      "correctAnswer": "Plano Schlieffen",
+      "explanation": "O Plano Schlieffen previa invadir a França via Bélgica em 6 semanas. Sua falha em 1914 condenou a Alemanha à guerra de trincheiras na WWI." },
+
+
+    { "id": 41, "category": "ciencia-natureza", "difficulty": 1,
+      "question": "Qual é o elemento mais abundante no universo?",
+      "options": ["Oxigênio", "Hélio", "Carbono", "Hidrogênio"],
+      "correctAnswer": "Hidrogênio",
+      "explanation": "O hidrogênio representa cerca de 75% da massa bariônica do universo." },
+
+    { "id": 42, "category": "ciencia-natureza", "difficulty": 2,
+      "question": "Qual processo permite que as plantas transformem luz solar em energia?",
+      "options": ["Respiração celular", "Fermentação", "Fotossíntese", "Quimiossíntese"],
+      "correctAnswer": "Fotossíntese",
+      "explanation": "Na fotossíntese, plantas convertem CO₂ e água em glicose e oxigênio usando energia luminosa." },
+
+    { "id": 43, "category": "ciencia-natureza", "difficulty": 3,
+      "question": "Quantos pares de cromossomos tem uma célula humana saudável?",
+      "options": ["21", "23", "24", "46"],
+      "correctAnswer": "23",
+      "explanation": "Células humanas possuem 46 cromossomos organizados em 23 pares (22 autossomos + 1 par sexual)." },
+
+    { "id": 44, "category": "ciencia-natureza", "difficulty": 4,
+      "question": "Qual é a velocidade da luz no vácuo, aproximadamente?",
+      "options": ["150.000 km/s", "300.000 km/s", "600.000 km/s", "1.000.000 km/s"],
+      "correctAnswer": "300.000 km/s",
+      "explanation": "A velocidade da luz no vácuo é de 299.792.458 m/s, aproximadamente 300.000 km/s." },
+
+    { "id": 45, "category": "ciencia-natureza", "difficulty": 5,
+      "question": "Qual é o símbolo químico do ouro?",
+      "options": ["Go", "Or", "Au", "Ag"],
+      "correctAnswer": "Au",
+      "explanation": "Au vem do latim 'aurum'. O ouro tem número atômico 79 na tabela periódica." },
+
+    { "id": 46, "category": "ciencia-natureza", "difficulty": 6,
+      "question": "Qual é o nome do processo pelo qual uma célula engolfa partículas grandes como bactérias?",
+      "options": ["Pinocitose", "Exocitose", "Fagocitose", "Osmose"],
+      "correctAnswer": "Fagocitose",
+      "explanation": "Fagocitose é o processo pelo qual células (como macrófagos) englobam partículas sólidas. 'Pinocitose' é para líquidos." },
+
+    { "id": 47, "category": "ciencia-natureza", "difficulty": 7,
+      "question": "Qual lei da termodinâmica afirma que a entropia de um sistema isolado nunca diminui?",
+      "options": ["1ª Lei", "2ª Lei", "3ª Lei", "Lei Zero"],
+      "correctAnswer": "2ª Lei",
+      "explanation": "A 2ª Lei da Termodinâmica estabelece que processos naturais tendem ao aumento da desordem (entropia)." },
+
+    { "id": 48, "category": "ciencia-natureza", "difficulty": 8,
+      "question": "Qual é o nome do fenômeno em que elétrons são emitidos por um metal ao ser iluminado por luz de frequência suficiente?",
+      "options": ["Efeito Compton", "Efeito fotoelétrico", "Efeito Doppler", "Efeito Zeeman"],
+      "correctAnswer": "Efeito fotoelétrico",
+      "explanation": "O efeito fotoelétrico foi explicado por Einstein em 1905, rendendo-lhe o Nobel de Física de 1921." },
+
+    { "id": 49, "category": "ciencia-natureza", "difficulty": 9,
+      "question": "Em qual organela celular ocorre o Ciclo de Krebs?",
+      "options": ["Núcleo", "Retículo endoplasmático", "Mitocôndria", "Lisossomo"],
+      "correctAnswer": "Mitocôndria",
+      "explanation": "O Ciclo de Krebs (ou Ciclo do Ácido Cítrico) ocorre na matriz mitocondrial e é central para a respiração celular aeróbica." },
+
+    { "id": 50, "category": "ciencia-natureza", "difficulty": 10,
+      "question": "Qual é o nome do princípio quântico que afirma ser impossível conhecer simultaneamente e com precisão arbitrária a posição e o momento de uma partícula?",
+      "options": ["Princípio de Pauli", "Princípio de Mach", "Princípio da Incerteza de Heisenberg", "Princípio da Complementaridade de Bohr"],
+      "correctAnswer": "Princípio da Incerteza de Heisenberg",
+      "explanation": "Formulado por Werner Heisenberg em 1927, o princípio estabelece que Δx·Δp ≥ ℏ/2, limitando fundamentalmente o conhecimento simultâneo de posição e momento." },
+
+
+    { "id": 51, "category": "esportes", "difficulty": 1,
+      "question": "Qual país ganhou mais títulos da Copa do Mundo de Futebol Masculino?",
+      "options": ["Argentina", "Alemanha", "Itália", "Brasil"],
       "correctAnswer": "Brasil",
-      "explanation": "O Brasil abriga a maior floresta tropical do mundo — a Floresta Amazônica — que cobre cerca de 5,5 milhões de km², representando mais de 50% das florestas tropicais restantes no planeta."
-    }
+      "explanation": "O Brasil é pentacampeão da Copa do Mundo: 1958, 1962, 1970, 1994 e 2002." },
+
+    { "id": 52, "category": "esportes", "difficulty": 2,
+      "question": "Em qual cidade foram realizados os primeiros Jogos Olímpicos modernos?",
+      "options": ["Paris", "Londres", "Roma", "Atenas"],
+      "correctAnswer": "Atenas",
+      "explanation": "Os primeiros Jogos Olímpicos modernos foram realizados em Atenas, Grécia, em 1896." },
+
+    { "id": 53, "category": "esportes", "difficulty": 3,
+      "question": "Qual atleta detém o recorde de mais medalhas olímpicas da história?",
+      "options": ["Usain Bolt", "Carl Lewis", "Larissa Latynina", "Michael Phelps"],
+      "correctAnswer": "Michael Phelps",
+      "explanation": "Michael Phelps conquistou 28 medalhas olímpicas (23 de ouro) ao longo de quatro Olimpíadas." },
+
+    { "id": 54, "category": "esportes", "difficulty": 4,
+      "question": "Qual é o torneio de tênis mais antigo ainda em disputa?",
+      "options": ["Roland Garros", "US Open", "Australian Open", "Wimbledon"],
+      "correctAnswer": "Wimbledon",
+      "explanation": "Wimbledon é realizado desde 1877 no All England Club, em Londres, sendo o torneio de tênis mais tradicional." },
+
+    { "id": 55, "category": "esportes", "difficulty": 5,
+      "question": "No basquete, quantos pontos vale uma cesta convertida de dentro da área de três pontos?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": "2",
+      "explanation": "Cestas de dentro do arco de três pontos valem 2 pontos. As de além do arco valem 3, e lances livres valem 1." },
+
+    { "id": 56, "category": "esportes", "difficulty": 6,
+      "question": "Qual corredor jamaicano estabeleceu o recorde mundial dos 100m rasos com 9,58 segundos nos Jogos Olímpicos de Berlim?",
+      "options": ["Yohan Blake", "Asafa Powell", "Usain Bolt", "Justin Gatlin"],
+      "correctAnswer": "Usain Bolt",
+      "explanation": "Usain Bolt correu os 100m em 9,58s no Mundial de Berlim em 2009, estabelecendo o recorde mundial atual." },
+
+    { "id": 57, "category": "esportes", "difficulty": 7,
+      "question": "Em que ano o Brasil sediou a Copa do Mundo de Futebol pela segunda vez?",
+      "options": ["2006", "2010", "2014", "2018"],
+      "correctAnswer": "2014",
+      "explanation": "O Brasil sediou pela primeira vez em 1950 e novamente em 2014, quando foi eliminado pela Alemanha por 7×1 na semifinal." },
+
+    { "id": 58, "category": "esportes", "difficulty": 8,
+      "question": "No críquete, qual é o nome do movimento que consiste em eliminar o rebatedor ao acertar os stumps com a bola?",
+      "options": ["Catch", "Bowled", "Run out", "LBW"],
+      "correctAnswer": "Bowled",
+      "explanation": "No críquete, 'bowled' ocorre quando a bola lançada pelo bowler derruba diretamente os stumps do rebatedor." },
+
+    { "id": 59, "category": "esportes", "difficulty": 9,
+      "question": "Qual equipe de Fórmula 1 tem o maior número de títulos de construtores na história do esporte?",
+      "options": ["McLaren", "Williams", "Red Bull", "Ferrari"],
+      "correctAnswer": "Ferrari",
+      "explanation": "A Ferrari é a equipe mais vitoriosa da F1 em títulos de construtores, com 16 conquistas até 2023." },
+
+    { "id": 60, "category": "esportes", "difficulty": 10,
+      "question": "No judô, qual é o nome do princípio filosófico central desenvolvido por Jigoro Kano que significa 'melhor uso da energia' e norteia toda a prática da modalidade?",
+      "options": ["Mushin", "Seiryoku Zenyo", "Zanshin", "Kuzushi"],
+      "correctAnswer": "Seiryoku Zenyo",
+      "explanation": "'Seiryoku Zenyo' (精力善用) é um dos dois princípios fundamentais do judô criado por Kano, significando uso máximo e eficiente de energia física e mental." },
+
+
+    { "id": 61, "category": "literatura", "difficulty": 1,
+      "question": "Quem escreveu 'Dom Casmurro'?",
+      "options": ["José de Alencar", "Machado de Assis", "Lima Barreto", "Aluísio Azevedo"],
+      "correctAnswer": "Machado de Assis",
+      "explanation": "'Dom Casmurro' (1899) é o romance mais célebre de Machado de Assis, com o famoso dilema sobre a fidelidade de Capitu." },
+
+    { "id": 62, "category": "literatura", "difficulty": 2,
+      "question": "Em qual país nasceu Gabriel García Márquez, autor de 'Cem Anos de Solidão'?",
+      "options": ["Argentina", "México", "Colômbia", "Peru"],
+      "correctAnswer": "Colômbia",
+      "explanation": "García Márquez nasceu em Aracataca, Colômbia, em 1927, e ganhou o Nobel de Literatura em 1982." },
+
+    { "id": 63, "category": "literatura", "difficulty": 3,
+      "question": "Qual obra de Shakespeare narra a história de um príncipe dinamarquês que busca vingar a morte do pai?",
+      "options": ["Macbeth", "Rei Lear", "Otelo", "Hamlet"],
+      "correctAnswer": "Hamlet",
+      "explanation": "'Hamlet' é a tragédia mais famosa de Shakespeare, com o monólogo 'Ser ou não ser, eis a questão'." },
+
+    { "id": 64, "category": "literatura", "difficulty": 4,
+      "question": "Qual escritora britânica criou o personagem Elizabeth Bennet, protagonista de 'Orgulho e Preconceito'?",
+      "options": ["Charlotte Brontë", "George Eliot", "Virginia Woolf", "Jane Austen"],
+      "correctAnswer": "Jane Austen",
+      "explanation": "'Orgulho e Preconceito' foi publicado em 1813 e é considerado o romance mais popular de Jane Austen." },
+
+    { "id": 65, "category": "literatura", "difficulty": 5,
+      "question": "Qual movimento literário brasileiro do séc. XIX usou a natureza tropical e o índio como símbolos nacionais?",
+      "options": ["Romantismo", "Realismo", "Parnasianismo", "Modernismo"],
+      "correctAnswer": "Romantismo",
+      "explanation": "O Romantismo brasileiro (1836-1881) exaltou o índio como herói nacional e a natureza tropical como identidade do país." },
+
+    { "id": 66, "category": "literatura", "difficulty": 6,
+      "question": "Qual autor russo escreveu 'Crime e Castigo' e 'O Idiota'?",
+      "options": ["León Tolstói", "Fiódor Dostoiévski", "Anton Tchekhov", "Nikolai Gogol"],
+      "correctAnswer": "Fiódor Dostoiévski",
+      "explanation": "Dostoiévski é um dos maiores romancistas da literatura universal, com obras que exploram culpa, fé e psicologia humana." },
+
+    { "id": 67, "category": "literatura", "difficulty": 7,
+      "question": "Qual poeta brasileiro modernista publicou 'Alguma Poesia' em 1930 e é conhecido pelo poema 'No meio do caminho'?",
+      "options": ["Oswald de Andrade", "Mário de Andrade", "Carlos Drummond de Andrade", "Manuel Bandeira"],
+      "correctAnswer": "Carlos Drummond de Andrade",
+      "explanation": "'No meio do caminho tinha uma pedra' é o verso mais famoso de Drummond, símbolo do modernismo brasileiro." },
+
+    { "id": 68, "category": "literatura", "difficulty": 8,
+      "question": "Em qual obra James Joyce usa o fluxo de consciência para retratar um único dia (16 de junho de 1904) em Dublin?",
+      "options": ["Dublinenses", "Retrato do Artista Quando Jovem", "Ulisses", "Finnegans Wake"],
+      "correctAnswer": "Ulisses",
+      "explanation": "'Ulisses' (1922) é considerado o romance mais influente do século XX, com cada capítulo correspondendo a um episódio da Odisseia de Homero." },
+
+    { "id": 69, "category": "literatura", "difficulty": 9,
+      "question": "Qual é o nome do narrador-protagonista de 'Em Busca do Tempo Perdido', de Marcel Proust?",
+      "options": ["Charles Swann", "Marcel", "Robert de Saint-Loup", "Baron de Charlus"],
+      "correctAnswer": "Marcel",
+      "explanation": "O narrador semi-autobiográfico é chamado apenas de 'Marcel' na obra; Proust nunca o nomeia explicitamente até perto do fim." },
+
+    { "id": 70, "category": "literatura", "difficulty": 10,
+      "question": "Qual é o termo literário para o recurso narrativo em que o narrador revela ao leitor informações que os personagens desconhecem, criando tensão dramática?",
+      "options": ["Analepse", "Ironia dramática", "Metalepse", "Mise en abyme"],
+      "correctAnswer": "Ironia dramática",
+      "explanation": "A ironia dramática (ou ironia trágica) é o recurso pelo qual o leitor sabe mais que o personagem, criando suspense ou pathos." },
+
+
+    { "id": 71, "category": "gastronomia", "difficulty": 1,
+      "question": "De qual país é originário o prato 'Sushi'?",
+      "options": ["China", "Coreia", "Japão", "Tailândia"],
+      "correctAnswer": "Japão",
+      "explanation": "O sushi é originário do Japão, onde evoluiu de um método de preservação de peixe com arroz fermentado." },
+
+    { "id": 72, "category": "gastronomia", "difficulty": 2,
+      "question": "Qual especiaria é mais cara por peso do que o ouro?",
+      "options": ["Baunilha", "Cardamomo", "Açafrão", "Trufa"],
+      "correctAnswer": "Açafrão",
+      "explanation": "O açafrão é extraído manualmente dos estigmas da flor Crocus sativus, exigindo cerca de 150.000 flores por quilo." },
+
+    { "id": 73, "category": "gastronomia", "difficulty": 3,
+      "question": "O 'Croissant' é símbolo da culinária francesa, mas em qual país foi criado?",
+      "options": ["Itália", "Áustria", "Hungria", "Suíça"],
+      "correctAnswer": "Áustria",
+      "explanation": "O Kipferl austríaco é o ancestral do croissant. Padeiros vienenses levaram a receita para Paris no séc. XIX." },
+
+    { "id": 74, "category": "gastronomia", "difficulty": 4,
+      "question": "Qual ingrediente dá a cor amarela característica ao risoto alla Milanese?",
+      "options": ["Cúrcuma", "Açafrão", "Curry", "Colorau"],
+      "correctAnswer": "Açafrão",
+      "explanation": "O açafrão é o ingrediente essencial do risoto alla Milanese, prato tradicional da culinária lombarda." },
+
+    { "id": 75, "category": "gastronomia", "difficulty": 5,
+      "question": "Qual processo de cocção consiste em cozinhar alimentos a vácuo em temperatura precisa e controlada por longo período?",
+      "options": ["Confitar", "Sous vide", "Brasear", "Escaldar"],
+      "correctAnswer": "Sous vide",
+      "explanation": "Sous vide (em francês: 'sob vácuo') é uma técnica em que o alimento é selado e cozido em banho-maria com temperatura exata." },
+
+    { "id": 76, "category": "gastronomia", "difficulty": 6,
+      "question": "Qual fermento natural, composto de farinha e água fermentada, é base de pães como o sourdough?",
+      "options": ["Levedura seca", "Poolish", "Levain (massa madre)", "Biga"],
+      "correctAnswer": "Levain (massa madre)",
+      "explanation": "O levain, ou massa madre, é uma cultura de fermentação natural com leveduras selvagens e bactérias lácticas, que confere sabor complexo ao pão." },
+
+    { "id": 77, "category": "gastronomia", "difficulty": 7,
+      "question": "Qual é o nome da reação química entre aminoácidos e açúcares redutores que causa o escurecimento e o sabor de crosta em carnes e pães assados?",
+      "options": ["Caramelização", "Fermentação", "Reação de Maillard", "Oxidação lipídica"],
+      "correctAnswer": "Reação de Maillard",
+      "explanation": "A Reação de Maillard, descrita pelo químico Louis-Camille Maillard em 1912, é responsável pelos aromas e sabores de crosta em alimentos aquecidos." },
+
+    { "id": 78, "category": "gastronomia", "difficulty": 8,
+      "question": "Qual é a denominação de origem protegida do presunto curado a seco produzido na região de Parma, Itália?",
+      "options": ["Prosciutto di San Daniele", "Prosciutto di Parma", "Culatello di Zibello", "Speck dell'Alto Adige"],
+      "correctAnswer": "Prosciutto di Parma",
+      "explanation": "O Prosciutto di Parma possui DOP (Denominação de Origem Protegida) e deve ser produzido em área específica de Parma segundo rígidos critérios." },
+
+    { "id": 79, "category": "gastronomia", "difficulty": 9,
+      "question": "Na gastronomia molecular, o que é a 'esferificação básica'?",
+      "options": ["Criação de espumas com lecitina de soja", "Técnica de gelificação com nitrogênio líquido", "Técnica que usa alginato de sódio e cloreto de cálcio para criar esferas com interior líquido", "Emulsificação de gorduras com goma xantana"],
+      "correctAnswer": "Técnica que usa alginato de sódio e cloreto de cálcio para criar esferas com interior líquido",
+      "explanation": "A esferificação básica (desenvolvida por Ferran Adrià) mergulha líquido com alginato em banho de cálcio, criando uma membrana gelatinosa ao redor do líquido." },
+
+    { "id": 80, "category": "gastronomia", "difficulty": 10,
+      "question": "Qual é o nome do método de fermentação dupla japonês que produz o molho de soja tradicional, envolvendo o fungo Aspergillus oryzae, fermento e bactérias lácticas durante meses?",
+      "options": ["Tsukemono", "Koji fermentation", "Natto fermentation", "Shio-koji process"],
+      "correctAnswer": "Koji fermentation",
+      "explanation": "A fermentação com koji (Aspergillus oryzae) é a base do shoyu, missô, sake e mirin. O fungo produz enzimas que decompõem proteínas e amidos." },
+
+
+    { "id": 81, "category": "artes", "difficulty": 1,
+      "question": "Quem pintou a 'Mona Lisa'?",
+      "options": ["Michelangelo", "Rafael", "Caravaggio", "Leonardo da Vinci"],
+      "correctAnswer": "Leonardo da Vinci",
+      "explanation": "A Mona Lisa foi pintada por Leonardo da Vinci entre 1503 e 1519 e está exposta no Louvre, em Paris." },
+
+    { "id": 82, "category": "artes", "difficulty": 2,
+      "question": "Em qual museu de Amsterdam está exposta a maioria das obras de Vincent van Gogh?",
+      "options": ["Rijksmuseum", "Stedelijk Museum", "Van Gogh Museum", "Hermitage Amsterdam"],
+      "correctAnswer": "Van Gogh Museum",
+      "explanation": "O Van Gogh Museum, fundado em 1973, abriga a maior coleção de obras do artista, incluindo 'Os Girassóis' e 'O Quarto em Arles'." },
+
+    { "id": 83, "category": "artes", "difficulty": 3,
+      "question": "Qual movimento artístico do séc. XX é caracterizado pela decomposição de formas em planos geométricos, associado a Picasso e Braque?",
+      "options": ["Surrealismo", "Expressionismo", "Cubismo", "Fauvismo"],
+      "correctAnswer": "Cubismo",
+      "explanation": "O Cubismo surgiu por volta de 1907, com 'Les Demoiselles d'Avignon' de Picasso sendo considerada sua obra inaugural." },
+
+    { "id": 84, "category": "artes", "difficulty": 4,
+      "question": "O movimento artístico 'Impressionismo' surgiu em qual país?",
+      "options": ["Alemanha", "Inglaterra", "Itália", "França"],
+      "correctAnswer": "França",
+      "explanation": "O Impressionismo nasceu na França nos anos 1860-70, com artistas como Monet, Degas, Renoir e Pissarro." },
+
+    { "id": 85, "category": "artes", "difficulty": 5,
+      "question": "Qual artista brasileiro é conhecido pelo estilo naïf e pela obra 'O Mamoeiro'?",
+      "options": ["Cândido Portinari", "José Antonio da Silva", "Tarsila do Amaral", "Di Cavalcanti"],
+      "correctAnswer": "José Antonio da Silva",
+      "explanation": "José Antonio da Silva (1909-1996) foi um artista autodidata de São José do Rio Preto, símbolo da arte naïf brasileira." },
+
+    { "id": 86, "category": "artes", "difficulty": 6,
+      "question": "Em qual obra Hieronymus Bosch retrata, em três painéis, a criação, o paraíso terrestre e o inferno?",
+      "options": ["O Juízo Final", "A Tentação de Santo Antônio", "O Jardim das Delícias Terrestres", "As Sete Pecados Capitais"],
+      "correctAnswer": "O Jardim das Delícias Terrestres",
+      "explanation": "O tríptico 'Jardim das Delícias Terrestres' (c. 1490-1510) está no Prado, Madrid, e é a obra mais enigmática de Bosch." },
+
+    { "id": 87, "category": "artes", "difficulty": 7,
+      "question": "Qual artista da Pop Art americana ficou famoso por reproduzir em serigrafia rostos de celebridades como Marilyn Monroe e Campbell's Soup Cans?",
+      "options": ["Roy Lichtenstein", "Jasper Johns", "Andy Warhol", "Robert Rauschenberg"],
+      "correctAnswer": "Andy Warhol",
+      "explanation": "Warhol transformou ícones do consumismo em arte, questionando os limites entre arte elevada e cultura de massa." },
+
+    { "id": 88, "category": "artes", "difficulty": 8,
+      "question": "Qual artista modernista brasileira pintou 'Abaporu' em 1928, obra que inspirou o Manifesto Antropófago de Oswald de Andrade?",
+      "options": ["Anita Malfatti", "Tarsila do Amaral", "Maria Martins", "Lygia Clark"],
+      "correctAnswer": "Tarsila do Amaral",
+      "explanation": "'Abaporu' (do tupi: 'homem que come gente') foi pintado por Tarsila como presente de aniversário para Oswald de Andrade e deu origem ao movimento Antropofágico." },
+
+    { "id": 89, "category": "artes", "difficulty": 9,
+      "question": "Qual é o nome do método de pintura de Caravaggio que usa forte contraste entre luz e sombra para modelar as figuras?",
+      "options": ["Sfumato", "Chiaroscuro (tenebrismo)", "Pointillisme", "Grisaille"],
+      "correctAnswer": "Chiaroscuro (tenebrismo)",
+      "explanation": "Caravaggio desenvolveu o tenebrismo, versão extrema do chiaroscuro, com luz intensa emergindo de fundo escuro, influenciando toda a pintura barroca." },
+
+    { "id": 90, "category": "artes", "difficulty": 10,
+      "question": "Na teoria das cores de Josef Albers, descrita em 'A Interação da Cor' (1963), qual é o fenômeno que faz com que a mesma cor pareça diferente dependendo do contexto cromático ao redor?",
+      "options": ["Ilusão de Müller-Lyer", "Simultaneous color contrast", "Isocromia", "Aberração cromática"],
+      "correctAnswer": "Simultaneous color contrast",
+      "explanation": "Albers demonstrou que cores são perceptivamente relativas: o mesmo matiz parece mais claro ou mais escuro, quente ou frio, conforme as cores que o cercam — fenômeno chamado de contraste simultâneo." },
+
+
+    { "id": 91, "category": "astronomia", "difficulty": 1,
+      "question": "Qual é o planeta mais próximo do Sol?",
+      "options": ["Vênus", "Terra", "Mercúrio", "Marte"],
+      "correctAnswer": "Mercúrio",
+      "explanation": "Mercúrio é o menor planeta do Sistema Solar e o mais próximo do Sol, com órbita de apenas 88 dias terrestres." },
+
+    { "id": 92, "category": "astronomia", "difficulty": 2,
+      "question": "Qual é a estrela mais próxima do Sol?",
+      "options": ["Sirius", "Betelgeuse", "Proxima Centauri", "Alpha Centauri A"],
+      "correctAnswer": "Proxima Centauri",
+      "explanation": "Proxima Centauri, a apenas 4,24 anos-luz, é a estrela mais próxima do Sol e parte do sistema triplo Alpha Centauri." },
+
+    { "id": 93, "category": "astronomia", "difficulty": 3,
+      "question": "O que é um ano-luz?",
+      "options": ["A duração de um ano em outro planeta", "A distância percorrida pela luz em um ano", "A medida de brilho de uma estrela", "A velocidade média de uma estrela"],
+      "correctAnswer": "A distância percorrida pela luz em um ano",
+      "explanation": "Um ano-luz equivale a aproximadamente 9,46 × 10¹² km — a distância que a luz percorre em um ano no vácuo." },
+
+    { "id": 94, "category": "astronomia", "difficulty": 4,
+      "question": "Qual planeta do Sistema Solar tem o maior número de luas conhecidas?",
+      "options": ["Júpiter", "Urano", "Netuno", "Saturno"],
+      "correctAnswer": "Saturno",
+      "explanation": "Com 146 luas confirmadas até 2023, Saturno supera Júpiter e detém o maior número de satélites naturais." },
+
+    { "id": 95, "category": "astronomia", "difficulty": 5,
+      "question": "Qual telescópio espacial, lançado em 1990, revolucionou a astronomia com imagens do cosmos em alta resolução?",
+      "options": ["Spitzer", "Chandra", "Hubble", "Kepler"],
+      "correctAnswer": "Hubble",
+      "explanation": "O Telescópio Espacial Hubble orbita a Terra a 547 km de altitude e produziu algumas das imagens mais icônicas do universo." },
+
+    { "id": 96, "category": "astronomia", "difficulty": 6,
+      "question": "Como se chama o fenômeno em que a luz de uma galáxia distante é curvada e amplificada pela gravidade de outra galáxia no caminho?",
+      "options": ["Paralaxe estelar", "Lente gravitacional", "Redshift gravitacional", "Aberração cromática"],
+      "correctAnswer": "Lente gravitacional",
+      "explanation": "Prevista por Einstein na Relatividade Geral, a lente gravitacional foi observada pela primeira vez em 1979 e é usada para estudar matéria escura." },
+
+    { "id": 97, "category": "astronomia", "difficulty": 7,
+      "question": "Qual é o nome da teoria que descreve a expansão acelerada do universo, atribuída a uma energia desconhecida que permeia o espaço?",
+      "options": ["Matéria escura", "Energia escura", "Constante cosmológica inflacionária", "Radiação de fundo"],
+      "correctAnswer": "Energia escura",
+      "explanation": "A energia escura corresponde a cerca de 68% do conteúdo energético do universo e é responsável pela expansão acelerada observada desde 1998." },
+
+    { "id": 98, "category": "astronomia", "difficulty": 8,
+      "question": "Qual missão espacial foi a primeira a pousar na face oculta da Lua, em janeiro de 2019?",
+      "options": ["Luna 9 (URSS)", "Chang'e 4 (China)", "LCROSS (EUA)", "Chandrayaan-2 (Índia)"],
+      "correctAnswer": "Chang'e 4 (China)",
+      "explanation": "A sonda Chang'e 4 e o rover Yutu-2 pousaram na cratera Von Kármán na face oculta lunar em janeiro de 2019, uma primeiríssima na exploração espacial." },
+
+    { "id": 99, "category": "astronomia", "difficulty": 9,
+      "question": "O que é a 'Radiação Cósmica de Fundo de Micro-ondas' (CMB)?",
+      "options": ["Luz emitida por buracos negros", "Radiação remanescente do Big Bang, detectada como ruído de micro-ondas em todas as direções", "Emissão de pulsares no centro da galáxia", "Reflexo da luz solar nas partículas do espaço interestelar"],
+      "correctAnswer": "Radiação remanescente do Big Bang, detectada como ruído de micro-ondas em todas as direções",
+      "explanation": "Descoberta acidentalmente por Penzias e Wilson em 1965, a CMB é considerada a maior evidência observacional do Big Bang." },
+
+    { "id": 100, "category": "astronomia", "difficulty": 10,
+      "question": "Qual é o nome do limite teórico ao redor de um buraco negro além do qual nenhuma informação ou matéria pode escapar?",
+      "options": ["Esfera de Schwarzschild", "Horizonte de eventos", "Ergosfera", "Singularidade gravitacional"],
+      "correctAnswer": "Horizonte de eventos",
+      "explanation": "O horizonte de eventos é a fronteira causal de um buraco negro. A partir dele, a velocidade de escape supera a da luz. A 'Esfera de Schwarzschild' é o mesmo conceito, mas 'horizonte de eventos' é o termo mais preciso e abrangente." },
+
+
+    { "id": 101, "category": "linguas", "difficulty": 1,
+      "question": "Qual é a língua oficial do Brasil?",
+      "options": ["Espanhol", "Inglês", "Português", "Tupi"],
+      "correctAnswer": "Português",
+      "explanation": "O português é a língua oficial do Brasil, herdada da colonização portuguesa iniciada em 1500." },
+
+    { "id": 102, "category": "linguas", "difficulty": 2,
+      "question": "Qual é a língua com mais falantes nativos no mundo?",
+      "options": ["Inglês", "Espanhol", "Hindi", "Mandarim"],
+      "correctAnswer": "Mandarim",
+      "explanation": "O Mandarim (Putonghua) tem mais de 900 milhões de falantes nativos, sendo a língua materna com mais falantes no planeta." },
+
+    { "id": 103, "category": "linguas", "difficulty": 3,
+      "question": "O que significa a palavra 'Serendipidade'?",
+      "options": ["Melancolia profunda", "Nostalgia da terra natal", "Descoberta feliz por acaso", "Sensação de deja-vu"],
+      "correctAnswer": "Descoberta feliz por acaso",
+      "explanation": "Serendipidade vem do inglês 'serendipity', criado por Horace Walpole em 1754 a partir do conto persa 'Os Três Príncipes de Serendip'." },
+
+    { "id": 104, "category": "linguas", "difficulty": 4,
+      "question": "De qual língua vem a palavra 'xampô' (shampoo) usada no português?",
+      "options": ["Árabe", "Malaio", "Hindi", "Swahili"],
+      "correctAnswer": "Hindi",
+      "explanation": "Shampoo vem do hindi 'champo' (चाँपो), que significa 'massagear'. A palavra chegou ao inglês no séc. XVIII." },
+
+    { "id": 105, "category": "linguas", "difficulty": 5,
+      "question": "Qual é o alfabeto mais utilizado no mundo em número de línguas que o adotam?",
+      "options": ["Cirílico", "Árabe", "Latino", "Devanágari"],
+      "correctAnswer": "Latino",
+      "explanation": "O alfabeto latino é usado por mais línguas do que qualquer outro, graças à expansão colonial europeia e ao inglês como língua global." },
+
+    { "id": 106, "category": "linguas", "difficulty": 6,
+      "question": "Qual é o nome da língua artificial criada em 1887 por Ludwig Lazarus Zamenhof com o objetivo de ser uma língua universal de paz?",
+      "options": ["Volapük", "Interlingua", "Esperanto", "Ido"],
+      "correctAnswer": "Esperanto",
+      "explanation": "O Esperanto tem cerca de 2 milhões de falantes e é a língua construída mais bem-sucedida da história, com uma gramática regular e vocabulário baseado em línguas europeias." },
+
+    { "id": 107, "category": "linguas", "difficulty": 7,
+      "question": "Qual é o nome do fenômeno linguístico em que uma palavra passa a ter um significado oposto ao original ao longo do tempo?",
+      "options": ["Metáfora", "Eufemismo", "Enantiosemia", "Polissemia"],
+      "correctAnswer": "Enantiosemia",
+      "explanation": "Enantiosemia (ou auto-antônimo) ocorre quando uma palavra adquire significados opostos. Ex: 'sanção' pode significar tanto 'punição' quanto 'aprovação'." },
+
+    { "id": 108, "category": "linguas", "difficulty": 8,
+      "question": "Qual é o nome da hipótese linguística que sugere que a estrutura da língua que falamos influencia nossa percepção e categorização da realidade?",
+      "options": ["Hipótese de Chomsky", "Relatividade linguística (Sapir-Whorf)", "Teoria dos atos de fala", "Hipótese biolingüística"],
+      "correctAnswer": "Relatividade linguística (Sapir-Whorf)",
+      "explanation": "A hipótese Sapir-Whorf (ou relatividade linguística) propõe que a língua molda o pensamento. A versão forte (determinismo) é rejeitada, mas a fraca tem suporte empírico." },
+
+    { "id": 109, "category": "linguas", "difficulty": 9,
+      "question": "Qual é o nome da protolíngua hipotética da qual derivam a maioria das línguas europeias e algumas asiáticas, como o sânscrito e o persa?",
+      "options": ["Proto-semítico", "Proto-urálico", "Proto-indo-europeu", "Proto-afro-asiático"],
+      "correctAnswer": "Proto-indo-europeu",
+      "explanation": "O Proto-indo-europeu (PIE) é uma língua reconstruída que teria sido falada entre 4.500-2.500 a.C. e é ancestral de mais de 400 línguas atuais, incluindo o português." },
+
+    { "id": 110, "category": "linguas", "difficulty": 10,
+      "question": "Qual é o nome do fenômeno em que o mesmo morfema tem formas fônicas distintas dependendo do contexto, como o plural '-s', '-es' e '-en' em inglês?",
+      "options": ["Alomorfia", "Supletivismo", "Fusão morfológica", "Aglutinação"],
+      "correctAnswer": "Alomorfia",
+      "explanation": "Alomorfia é a variação fonológica de um morfema (alomorfes). Em inglês: 'cats' /s/, 'dogs' /z/, 'horses' /ɪz/ são alomorfes do morfema plural." },
+
+
+    { "id": 111, "category": "jogos", "difficulty": 1,
+      "question": "Qual empresa criou o personagem Mario?",
+      "options": ["Sega", "Capcom", "Nintendo", "Konami"],
+      "correctAnswer": "Nintendo",
+      "explanation": "Mario foi criado por Shigeru Miyamoto e apareceu pela primeira vez em Donkey Kong (1981) como 'Jumpman'." },
+
+    { "id": 112, "category": "jogos", "difficulty": 2,
+      "question": "Qual jogo é considerado o primeiro videogame comercial da história?",
+      "options": ["Space Invaders", "Pac-Man", "Pong", "Tetris"],
+      "correctAnswer": "Pong",
+      "explanation": "Pong foi lançado pela Atari em 1972 e é amplamente reconhecido como o primeiro videogame comercialmente bem-sucedido." },
+
+    { "id": 113, "category": "jogos", "difficulty": 3,
+      "question": "Em qual país nasceu o jogo de tabuleiro Xadrez?",
+      "options": ["China", "Pérsia", "Índia", "Egito"],
+      "correctAnswer": "Índia",
+      "explanation": "O xadrez originou-se na Índia por volta do séc. VI, como o jogo Chaturanga, antes de se espalhar para a Pérsia e Europa." },
+
+    { "id": 114, "category": "jogos", "difficulty": 4,
+      "question": "Qual série de RPG da Square Enix é conhecida pelo personagem Cloud Strife e um planeta chamado Gaia?",
+      "options": ["Dragon Quest", "Kingdom Hearts", "Final Fantasy VII", "Chrono Trigger"],
+      "correctAnswer": "Final Fantasy VII",
+      "explanation": "Final Fantasy VII (1997) é um dos jogos mais influentes da história, com Cloud Strife combatendo a Shinra e Sephiroth." },
+
+    { "id": 115, "category": "jogos", "difficulty": 5,
+      "question": "Qual jogo de estratégia em tempo real foi lançado pela Blizzard em 1998 e se tornou eSport dominante na Coreia do Sul?",
+      "options": ["Warcraft II", "Age of Empires II", "StarCraft", "Command & Conquer"],
+      "correctAnswer": "StarCraft",
+      "explanation": "StarCraft se tornou uma obsessão nacional na Coreia, com transmissões em TV aberta e jogadores profissionais tratados como estrelas." },
+
+    { "id": 116, "category": "jogos", "difficulty": 6,
+      "question": "Em Minecraft, qual é o nome do chefe final do jogo, encontrado na End dimension?",
+      "options": ["Wither", "Elder Guardian", "Ender Dragon", "Enderman"],
+      "correctAnswer": "Ender Dragon",
+      "explanation": "O Ender Dragon é o chefe final de Minecraft, encontrado na dimensão The End, e sua derrota é considerada o encerramento da progressão principal do jogo." },
+
+    { "id": 117, "category": "jogos", "difficulty": 7,
+      "question": "Qual foi o primeiro jogo a usar o sistema de 'bullet time' (tempo lento) como mecânica principal de ação?",
+      "options": ["F.E.A.R.", "The Matrix: Path of Neo", "Max Payne", "Stranglehold"],
+      "correctAnswer": "Max Payne",
+      "explanation": "Max Payne (2001) popularizou o 'bullet time' em jogos, inspirado no filme Matrix (1999), tornando-o mecânica central de ação." },
+
+    { "id": 118, "category": "jogos", "difficulty": 8,
+      "question": "Qual designer japonês criou os jogos Dark Souls e é conhecido por criar universos de lore denso comunicado principalmente pelo ambiente e descrições de itens?",
+      "options": ["Shigeru Miyamoto", "Hideo Kojima", "Hidetaka Miyazaki", "Yoko Taro"],
+      "correctAnswer": "Hidetaka Miyazaki",
+      "explanation": "Miyazaki (FromSoftware) é criador de Demon's Souls, Dark Souls, Bloodborne, Sekiro e Elden Ring, revolucionando o design de jogos de ação RPG." },
+
+    { "id": 119, "category": "jogos", "difficulty": 9,
+      "question": "Qual é o nome do fenômeno em design de jogos descrito por Jenova Chen em sua tese de mestrado, que se refere à zona de equilíbrio entre ansiedade e tédio que mantém o jogador engajado?",
+      "options": ["Core loop", "Flow state", "Feedback loop", "Skinner Box"],
+      "correctAnswer": "Flow state",
+      "explanation": "Jenova Chen adaptou o conceito de 'flow' do psicólogo Mihaly Csikszentmihalyi para jogos: o estado ótimo de engajamento entre desafio e habilidade." },
+
+    { "id": 120, "category": "jogos", "difficulty": 10,
+      "question": "Qual é o termo técnico para o padrão de design de jogos onde recompensas são distribuídas em intervalos variáveis imprevisíveis, criando compulsão similar ao jogo de azar?",
+      "options": ["Core gameplay loop", "Variable ratio reinforcement schedule", "Gacha mechanics", "FOMO design"],
+      "correctAnswer": "Variable ratio reinforcement schedule",
+      "explanation": "Derivado do condicionamento operante de B.F. Skinner, o Variable Ratio Reinforcement é o mecanismo psicológico por trás de loot boxes, sistemas gacha e slot machines." },
+
+
+    { "id": 121, "category": "economia", "difficulty": 1,
+      "question": "O que significa a sigla PIB?",
+      "options": ["Produto Interno Bruto", "Plano Industrial Brasileiro", "Produção Interna de Bens", "Programa de Integração Brasileira"],
+      "correctAnswer": "Produto Interno Bruto",
+      "explanation": "O PIB é a soma de todos os bens e serviços finais produzidos em um país em determinado período." },
+
+    { "id": 122, "category": "economia", "difficulty": 2,
+      "question": "Qual foi a maior crise financeira global do século XXI até hoje?",
+      "options": ["Crise das Pontocom (2001)", "Crise do Subprime (2008)", "Crise do Euro (2012)", "Crise do COVID (2020)"],
+      "correctAnswer": "Crise do Subprime (2008)",
+      "explanation": "A crise de 2008 começou com o colapso do mercado hipotecário americano e se tornou a pior recessão global desde a Grande Depressão de 1929." },
+
+    { "id": 123, "category": "economia", "difficulty": 3,
+      "question": "Qual teoria econômica defende que o governo deve intervir na economia para estimular a demanda em períodos de recessão?",
+      "options": ["Monetarismo", "Liberalismo clássico", "Keynesianismo", "Escola Austríaca"],
+      "correctAnswer": "Keynesianismo",
+      "explanation": "John Maynard Keynes defendeu que em recessões o governo deve aumentar gastos públicos para compensar a queda na demanda privada." },
+
+    { "id": 124, "category": "economia", "difficulty": 4,
+      "question": "Qual é o nome do índice que mede a desigualdade de renda de um país, variando de 0 (igualdade perfeita) a 1 (desigualdade máxima)?",
+      "options": ["Índice de Desenvolvimento Humano", "Coeficiente de Gini", "Índice de Liberdade Econômica", "Índice de Theil"],
+      "correctAnswer": "Coeficiente de Gini",
+      "explanation": "O Coeficiente de Gini foi desenvolvido pelo estatístico italiano Corrado Gini em 1912 e é o indicador de desigualdade mais utilizado no mundo." },
+
+    { "id": 125, "category": "economia", "difficulty": 5,
+      "question": "O que é a 'Lei de Oferta e Demanda'?",
+      "options": ["Quanto maior o preço, maior a demanda", "Preço de equilíbrio é aquele onde quantidade ofertada iguala quantidade demandada", "O governo deve controlar preços para garantir equilíbrio", "A produção sempre supera o consumo em economias livres"],
+      "correctAnswer": "Preço de equilíbrio é aquele onde quantidade ofertada iguala quantidade demandada",
+      "explanation": "Em mercados competitivos, o preço se estabiliza onde oferta e demanda se cruzam, chamado de equilíbrio de mercado." },
+
+    { "id": 126, "category": "economia", "difficulty": 6,
+      "question": "Qual economista austríaco descreveu o processo de 'destruição criativa' como motor do capitalismo, em que inovações destroem setores obsoletos?",
+      "options": ["Friedrich Hayek", "Ludwig von Mises", "Joseph Schumpeter", "Karl Polanyi"],
+      "correctAnswer": "Joseph Schumpeter",
+      "explanation": "Em 'Capitalismo, Socialismo e Democracia' (1942), Schumpeter descreveu a destruição criativa como a essência do capitalismo: inovação que destrói o antigo para criar o novo." },
+
+    { "id": 127, "category": "economia", "difficulty": 7,
+      "question": "Qual é o nome do paradoxo econômico em que um aumento de preço de um bem inferior leva a um aumento de sua demanda, contrariando a lei básica da demanda?",
+      "options": ["Paradoxo de Giffen", "Paradoxo de Veblen", "Paradoxo de Leontief", "Paradoxo de Jevons"],
+      "correctAnswer": "Paradoxo de Giffen",
+      "explanation": "Os bens Giffen são bens inferiores tão essenciais que, ao subirem de preço, consomem renda que seria gasta em bens superiores, aumentando sua própria demanda." },
+
+    { "id": 128, "category": "economia", "difficulty": 8,
+      "question": "O que é o 'Trilema de Mundell-Fleming' em economia internacional?",
+      "options": ["Um país não pode ter simultaneamente livre movimentação de capitais, taxa de câmbio fixa e política monetária autônoma", "A impossibilidade de crescimento, equilíbrio fiscal e baixa inflação ao mesmo tempo", "O trade-off entre desemprego e inflação descrito na Curva de Phillips", "A incompatibilidade entre crescimento, sustentabilidade e equidade"],
+      "correctAnswer": "Um país não pode ter simultaneamente livre movimentação de capitais, taxa de câmbio fixa e política monetária autônoma",
+      "explanation": "O Trilema impossível (ou triângulo de Mundell-Fleming) afirma que de três objetivos — câmbio fixo, mobilidade de capital e autonomia monetária — apenas dois podem coexistir." },
+
+    { "id": 129, "category": "economia", "difficulty": 9,
+      "question": "Qual é o nome do fenômeno em que mercados com informação assimétrica tendem a ser dominados por produtos de baixa qualidade, levando os produtos de alta qualidade a saírem do mercado?",
+      "options": ["Risco moral", "Seleção adversa (mercado de limões)", "Tragédia dos comuns", "Falha de coordenação"],
+      "correctAnswer": "Seleção adversa (mercado de limões)",
+      "explanation": "Descrito por George Akerlof em 'The Market for Lemons' (1970), o artigo que lhe valeu o Nobel: compradores não conseguem distinguir qualidade, pagam preço médio, vendedores de alta qualidade saem, deteriorando o mercado." },
+
+    { "id": 130, "category": "economia", "difficulty": 10,
+      "question": "Qual é o nome do equilíbrio em teoria dos jogos em que nenhum jogador tem incentivo unilateral para mudar sua estratégia, dado o que os outros jogadores estão fazendo?",
+      "options": ["Ótimo de Pareto", "Equilíbrio de Stackelberg", "Equilíbrio de Nash", "Equilíbrio de Walras"],
+      "correctAnswer": "Equilíbrio de Nash",
+      "explanation": "O Equilíbrio de Nash, desenvolvido por John Nash em 1950, é o conceito central da teoria dos jogos não-cooperativos e base de múltiplas análises econômicas e estratégicas." },
+
+
+    { "id": 131, "category": "ecologia", "difficulty": 1,
+      "question": "O que é reciclagem?",
+      "options": ["Queimar resíduos para gerar energia", "Descartar materiais em aterros sanitários", "Reprocessar materiais usados para fabricar novos produtos", "Reutilizar embalagens sem transformação"],
+      "correctAnswer": "Reprocessar materiais usados para fabricar novos produtos",
+      "explanation": "Reciclagem transforma materiais descartados em matéria-prima para novos produtos, reduzindo extração de recursos naturais." },
+
+    { "id": 132, "category": "ecologia", "difficulty": 2,
+      "question": "Qual país possui a maior área de floresta tropical do mundo?",
+      "options": ["Congo", "Indonésia", "Colômbia", "Brasil"],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil abriga cerca de 60% da Floresta Amazônica, a maior floresta tropical do planeta." },
+
+    { "id": 133, "category": "ecologia", "difficulty": 3,
+      "question": "Qual acordo internacional define metas para redução de emissões de gases de efeito estufa?",
+      "options": ["Protocolo de Montreal", "Convenção de Viena", "Acordo de Paris", "Agenda 21"],
+      "correctAnswer": "Acordo de Paris",
+      "explanation": "O Acordo de Paris (2015) comprometeu 196 países a limitar o aquecimento global a 1,5-2°C acima dos níveis pré-industriais." },
+
+    { "id": 134, "category": "ecologia", "difficulty": 4,
+      "question": "O que é a 'Pegada de Carbono'?",
+      "options": ["Marcas deixadas por combustíveis fósseis no solo", "A medida total de gases de efeito estufa gerados por atividades humanas", "O rastro de CO₂ em rochas sedimentares", "A quantidade de carbono absorvida por florestas"],
+      "correctAnswer": "A medida total de gases de efeito estufa gerados por atividades humanas",
+      "explanation": "A pegada de carbono é expressa em toneladas equivalentes de CO₂ e inclui emissões diretas e indiretas de indivíduos, organizações ou produtos." },
+
+    { "id": 135, "category": "ecologia", "difficulty": 5,
+      "question": "O que é a Camada de Ozônio e por que é importante?",
+      "options": ["É a troposfera, que nos protege do vento solar", "É uma região da estratosfera rica em O₃ que absorve a maior parte da radiação UV solar", "É uma camada de gases poluentes que aquece o planeta", "É a fronteira entre a atmosfera e o espaço"],
+      "correctAnswer": "É uma região da estratosfera rica em O₃ que absorve a maior parte da radiação UV solar",
+      "explanation": "A camada de ozônio está entre 15-35 km de altitude e absorve 97-99% da radiação ultravioleta solar, protegendo a vida na Terra." },
+
+    { "id": 136, "category": "ecologia", "difficulty": 6,
+      "question": "Qual fenômeno climático, causado pelo aquecimento anômalo das águas do Pacífico tropical, afeta padrões climáticos globais com secas e chuvas intensas?",
+      "options": ["La Niña", "El Niño", "PDO (Oscilação Decadal do Pacífico)", "Dipolo do Oceano Índico"],
+      "correctAnswer": "El Niño",
+      "explanation": "El Niño é o aquecimento periódico do Pacífico equatorial que altera a circulação atmosférica global, causando efeitos climáticos extremos em todos os continentes." },
+
+    { "id": 137, "category": "ecologia", "difficulty": 7,
+      "question": "Qual é o conceito de 'serviços ecossistêmicos'?",
+      "options": ["Empresas ambientais que vendem serviços de plantio de árvores", "Os benefícios que os ecossistemas naturais fornecem às populações humanas, como polinização, purificação da água e regulação do clima", "Sistemas de monitoramento ambiental mantidos por governos", "Tecnologias de captura de carbono desenvolvidas por ONGs"],
+      "correctAnswer": "Os benefícios que os ecossistemas naturais fornecem às populações humanas, como polinização, purificação da água e regulação do clima",
+      "explanation": "O conceito, formalizado pela Avaliação Ecossistêmica do Milênio (2005), inclui serviços de provisão, regulação, cultural e suporte que a natureza oferece gratuitamente." },
+
+    { "id": 138, "category": "ecologia", "difficulty": 8,
+      "question": "O que é o 'Limite Planetário' de nitrogênio, e por que está sendo ultrapassado?",
+      "options": ["A quantidade máxima de nitrogênio na atmosfera, reduzida pela emissão de NOₓ", "A quantidade segura de nitrogênio reativo introduzido nos ecossistemas pela atividade humana, amplamente excedida pela agricultura com fertilizantes sintéticos", "O nível de óxido nitroso aceitável para não comprometer a camada de ozônio", "A taxa de perda de nitrogênio dos oceanos por acidificação"],
+      "correctAnswer": "A quantidade segura de nitrogênio reativo introduzido nos ecossistemas pela atividade humana, amplamente excedida pela agricultura com fertilizantes sintéticos",
+      "explanation": "Rockström et al. (2009) identificaram 9 limites planetários; o ciclo de nitrogênio é um dos mais violados, causando eutrofização de rios, lagos e zonas costeiras." },
+
+    { "id": 139, "category": "ecologia", "difficulty": 9,
+      "question": "O que é 'biodiversidade funcional' e como ela difere da biodiversidade taxonômica?",
+      "options": ["Biodiversidade funcional conta espécies úteis para humanos; taxonômica conta todas as espécies", "Biodiversidade funcional mede a variedade de funções ecológicas desempenhadas por organismos; taxonômica mede o número e variedade de espécies", "Biodiversidade funcional refere-se a genes; taxonômica refere-se a ecossistemas", "São sinônimos usados em contextos diferentes"],
+      "correctAnswer": "Biodiversidade funcional mede a variedade de funções ecológicas desempenhadas por organismos; taxonômica mede o número e variedade de espécies",
+      "explanation": "Biodiversidade funcional foca em traits (características) e papéis ecológicos. Dois ecossistemas podem ter igual riqueza taxonômica mas diferente resiliência dependendo de sua diversidade funcional." },
+
+    { "id": 140, "category": "ecologia", "difficulty": 10,
+      "question": "Qual é o mecanismo pelo qual o permafrost do Ártico em degelo pode criar um 'feedback positivo' de aquecimento global, e qual gás é o principal agente?",
+      "options": ["O degelo expõe rochas escuras que absorvem mais calor, aumentando CO₂ por respiração bacteriana aeróbica", "O degelo libera metano (CH₄) de matéria orgânica previamente congelada, gás com potencial de aquecimento 80× superior ao CO₂ em 20 anos", "O degelo aumenta a evaporação oceânica, amplificando o efeito estufa pelo vapor d'água", "O degelo reduz a cobertura de neve, diminuindo o albedo e causando absorção adicional de radiação"],
+      "correctAnswer": "O degelo libera metano (CH₄) de matéria orgânica previamente congelada, gás com potencial de aquecimento 80× superior ao CO₂ em 20 anos",
+      "explanation": "O permafrost ártico contém ~1.500 Gt de carbono. Seu degelo libera metano via decomposição anaeróbica, criando um loop de amplificação: mais calor → mais degelo → mais CH₄ → mais calor." }
+
   ]
 }

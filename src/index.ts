@@ -51,6 +51,7 @@ function emitRoomState(room: GameRoom) {
     hotSeatVotes: room.hotSeatVotes,
     expectatorCount: room.expectators.size,
     usedCategories: room.usedCategories,
+    usedQuestionIds: room.usedQuestionIds,
   };
 
   // Full question (with correctAnswer + explanation) is shown only AFTER explanation: reveal + scoreboard
@@ -116,6 +117,7 @@ io.on('connection', (socket) => {
       explanationPlayerAnswer: null,
       hotSeatVotes: {},
       usedCategories: [],
+      usedQuestionIds: [],
     };
     rooms[code] = room;
     socket.join(code);
@@ -142,6 +144,8 @@ io.on('connection', (socket) => {
       avatar: data.avatar,
       score: 0,
       selectedAnswer: null,
+      totalVotes: 0,
+      correctVotes: 0,
     };
     room.players[socket.id] = player;
     socket.join(data.code.toUpperCase());
@@ -182,9 +186,20 @@ io.on('connection', (socket) => {
     if (room.hotSeatPlayerId && room.hotSeatPlayerId !== socket.id) return;
     // Block already-used categories
     if (room.usedCategories.includes(data.categoryId)) return;
-    const question = questions.find((q) => q.category === data.categoryId);
+    // Difficulty = current round number (1-based), capped at 10
+    const targetDifficulty = Math.min(room.usedCategories.length + 1, 10);
+    // Pick the question for this category at the target difficulty, skipping already-used question IDs
+    const question = questions.find(
+      (q) => q.category === data.categoryId &&
+             q.difficulty === targetDifficulty &&
+             !room.usedQuestionIds.includes(q.id)
+    ) ?? questions.find(
+      // Fallback: any unused question for this category
+      (q) => q.category === data.categoryId && !room.usedQuestionIds.includes(q.id)
+    );
     if (question) {
       room.usedCategories.push(data.categoryId);
+      room.usedQuestionIds.push(question.id);
       room.currentQuestion = question;
       room.gameState = 'question';
       room.isAnswerEnabled = false;
@@ -309,8 +324,12 @@ io.on('connection', (socket) => {
       const correctVote: 'lying' | 'truth' = berlindaWasCorrect ? 'truth' : 'lying';
 
       Object.entries(room.hotSeatVotes).forEach(([voterId, vote]) => {
-        if (vote === correctVote && room.players[voterId]) {
-          room.players[voterId].score += 1;
+        if (room.players[voterId]) {
+          room.players[voterId].totalVotes += 1;
+          if (vote === correctVote) {
+            room.players[voterId].score += 1;
+            room.players[voterId].correctVotes += 1;
+          }
         }
       });
     }
@@ -352,6 +371,18 @@ io.on('connection', (socket) => {
     emitRoomState(room);
   });
 
+  // ── PRESENTER: kick player ────────────────────────────────────────────────────
+  socket.on('presenter:kick_player', (data: { code: string; playerId: string }) => {
+    const room = rooms[data.code];
+    if (!room || room.presenterSocketId !== socket.id) return;
+    if (!room.players[data.playerId]) return;
+    delete room.players[data.playerId];
+    // Notify the kicked player so they can return to lobby screen
+    io.to(data.playerId).emit('room:kicked', { message: 'Você foi removido da sala pelo apresentador.' });
+    // Broadcast updated player list to everyone
+    io.to(room.code).emit('game:players_update', room.players);
+  });
+
   // ── PRESENTER: reset game ────────────────────────────────────────────────────
   socket.on('presenter:reset_game', (data: { code: string }) => {
     const room = rooms[data.code];
@@ -365,9 +396,14 @@ io.on('connection', (socket) => {
     room.explanationPlayerAnswer = null;
     room.hotSeatVotes = {};
     room.usedCategories = [];
-    room.players = {};
-    room.expectators = new Set();
     if (room.timerInterval) clearInterval(room.timerInterval);
+    // Reset all player scores/votes but keep them in the room
+    Object.values(room.players).forEach((p) => {
+      p.score = 0;
+      p.selectedAnswer = null;
+      p.totalVotes = 0;
+      p.correctVotes = 0;
+    });
     emitRoomState(room);
   });
 
