@@ -1,0 +1,386 @@
+{
+  "categories": [
+    { "id": "thoughtworks", "name": "Thoughtworks", "icon": "🌐" },
+    { "id": "cultura-pop", "name": "Cultura Pop", "icon": "🎬" },
+    { "id": "geografia", "name": "Geografia do Mundo", "icon": "🗺️" },
+    { "id": "historia-geral", "name": "História Geral", "icon": "📜" },
+    { "id": "ciencia-natureza", "name": "Ciência e Natureza", "icon": "🔬" },
+    { "id": "esportes", "name": "Esportes e Olimpíadas", "icon": "🏅" },
+    { "id": "literatura", "name": "Literatura", "icon": "📚" },
+    { "id": "gastronomia", "name": "Gastronomia Mundial", "icon": "🍽️" },
+    { "id": "artes", "name": "Artes e Pintura", "icon": "🎨" },
+    { "id": "astronomia", "name": "Astronomia e Espaço", "icon": "🚀" },
+    { "id": "linguas", "name": "Línguas e Etimologia", "icon": "🗣️" },
+    { "id": "jogos", "name": "Jogos e Videogames", "icon": "🎮" },
+    { "id": "economia", "name": "Economia e Finanças", "icon": "💰" },
+    { "id": "ecologia", "name": "Ecologia e Sustentabilidade", "icon": "🌱" }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "category": "thoughtworks",
+      "question": "Em que ano a Thoughtworks foi fundada?",
+      "options": ["1991", "1993", "1995", "1997"],
+      "correctAnswer": "1993",
+      "explanation": "A Thoughtworks foi fundada por Roy Singham em Chicago, Illinois, em 1993, com o objetivo de ser uma empresa de consultoria de software diferente."
+    },
+    {
+      "id": 2,
+      "category": "thoughtworks",
+      "question": "Qual metodologia ágil é fortemente associada à cultura da Thoughtworks?",
+      "options": ["Scrum", "Kanban", "Extreme Programming (XP)", "SAFe"],
+      "correctAnswer": "Extreme Programming (XP)",
+      "explanation": "A Thoughtworks é pioneira e grande defensora do Extreme Programming (XP), com figuras como Kent Beck e Martin Fowler contribuindo para sua popularização."
+    },
+    {
+      "id": 3,
+      "category": "thoughtworks",
+      "question": "O que é o Thoughtworks Technology Radar?",
+      "options": [
+        "Um produto de monitoramento de infraestrutura",
+        "Um guia bianual de tendências tecnológicas",
+        "Uma ferramenta interna de gestão de projetos",
+        "Um ranking de linguagens de programação"
+      ],
+      "correctAnswer": "Um guia bianual de tendências tecnológicas",
+      "explanation": "O Technology Radar é publicado semestralmente pela Thoughtworks e classifica tecnologias em quatro quadrantes: Técnicas, Plataformas, Ferramentas e Linguagens & Frameworks."
+    },
+    {
+      "id": 4,
+      "category": "cultura-pop",
+      "question": "Qual filme da Marvel foi o primeiro a ganhar mais de US$ 1 bilhão nas bilheterias mundiais?",
+      "options": ["Homem de Ferro", "Os Vingadores", "Capitão América: Guerra Civil", "Thor: O Mundo Sombrio"],
+      "correctAnswer": "Os Vingadores",
+      "explanation": "Os Vingadores (2012), dirigido por Joss Whedon, foi o primeiro filme da Marvel Studios a ultrapassar a marca de US$ 1 bilhão de bilheteria mundial."
+    },
+    {
+      "id": 5,
+      "category": "cultura-pop",
+      "question": "Qual artista detém o recorde de álbum mais vendido da história?",
+      "options": ["Elvis Presley", "The Beatles", "Michael Jackson", "Madonna"],
+      "correctAnswer": "Michael Jackson",
+      "explanation": "Thriller (1982), de Michael Jackson, é o álbum mais vendido da história com estimativas entre 66 e 100 milhões de cópias vendidas no mundo inteiro."
+    },
+    {
+      "id": 6,
+      "category": "cultura-pop",
+      "question": "Qual série de streaming estreou em 2019 e se tornou a mais assistida da Netflix por semanas seguidas com a história de uma família disfuncional?",
+      "options": ["Ozark", "The Crown", "You", "Você não vai acreditar"],
+      "correctAnswer": "Ozark",
+      "explanation": "Ozark, com Jason Bateman e Laura Linney, se consolidou como um dos maiores sucessos da Netflix, abordando crime, lavagem de dinheiro e dilemas morais familiares."
+    },
+    {
+      "id": 7,
+      "category": "geografia",
+      "question": "Qual é o país com maior número de fusos horários no mundo?",
+      "options": ["Rússia", "Estados Unidos", "França", "China"],
+      "correctAnswer": "França",
+      "explanation": "A França possui 12 fusos horários quando considerados seus territórios ultramarinos espalhados pelo mundo, superando inclusive a Rússia (11) e os EUA (11)."
+    },
+    {
+      "id": 8,
+      "category": "geografia",
+      "question": "Qual é o maior deserto frio do mundo?",
+      "options": ["Saara", "Gobi", "Antártica", "Atacama"],
+      "correctAnswer": "Antártica",
+      "explanation": "A Antártica é o maior deserto do mundo com cerca de 14,2 milhões de km². Desertos são definidos pela baixa precipitação, não pela temperatura."
+    },
+    {
+      "id": 9,
+      "category": "geografia",
+      "question": "Por qual país passa o maior trecho do Rio Amazonas?",
+      "options": ["Peru", "Colômbia", "Brasil", "Bolívia"],
+      "correctAnswer": "Brasil",
+      "explanation": "Embora o Rio Amazonas nasça nos Andes peruanos, cerca de 60% de seu curso total atravessa o território brasileiro, onde também deságua no Oceano Atlântico."
+    },
+    {
+      "id": 10,
+      "category": "historia-geral",
+      "question": "Qual civilização construiu Machu Picchu?",
+      "options": ["Asteca", "Maia", "Inca", "Olmeca"],
+      "correctAnswer": "Inca",
+      "explanation": "Machu Picchu foi construída no século XV pelo imperador inca Pachacuti e está localizada nos Andes peruanos a 2.430 metros de altitude."
+    },
+    {
+      "id": 11,
+      "category": "historia-geral",
+      "question": "A Revolução Francesa começou em qual ano?",
+      "options": ["1776", "1789", "1799", "1804"],
+      "correctAnswer": "1789",
+      "explanation": "A Revolução Francesa teve início em 1789 com a queda da Bastilha em 14 de julho, marcando o fim do Antigo Regime e o início de profundas transformações sociais e políticas."
+    },
+    {
+      "id": 12,
+      "category": "historia-geral",
+      "question": "Quem foi a primeira mulher a ganhar o Prêmio Nobel?",
+      "options": ["Rosalind Franklin", "Marie Curie", "Ada Lovelace", "Florence Nightingale"],
+      "correctAnswer": "Marie Curie",
+      "explanation": "Marie Curie ganhou o Prêmio Nobel de Física em 1903 (compartilhado com Pierre Curie e Henri Becquerel) e mais tarde o de Química em 1911, sendo a única pessoa a ganhar em duas áreas diferentes."
+    },
+    {
+      "id": 13,
+      "category": "ciencia-natureza",
+      "question": "Qual é o elemento mais abundante no universo?",
+      "options": ["Oxigênio", "Carbono", "Hidrogênio", "Hélio"],
+      "correctAnswer": "Hidrogênio",
+      "explanation": "O hidrogênio é o elemento mais abundante no universo, constituindo cerca de 75% de toda a matéria bariônica existente."
+    },
+    {
+      "id": 14,
+      "category": "ciencia-natureza",
+      "question": "Quantos pares de cromossomos tem uma célula humana saudável?",
+      "options": ["21", "23", "46", "48"],
+      "correctAnswer": "23",
+      "explanation": "As células humanas possuem 23 pares de cromossomos (totalizando 46), sendo 22 pares autossômicos e 1 par de cromossomos sexuais (XX ou XY)."
+    },
+    {
+      "id": 15,
+      "category": "ciencia-natureza",
+      "question": "Qual processo permite que as plantas transformem luz solar em energia?",
+      "options": ["Respiração celular", "Fotossíntese", "Osmose", "Fermentação"],
+      "correctAnswer": "Fotossíntese",
+      "explanation": "A fotossíntese é o processo pelo qual plantas, algas e algumas bactérias convertem dióxido de carbono e água em glicose e oxigênio usando energia luminosa."
+    },
+    {
+      "id": 16,
+      "category": "esportes",
+      "question": "Em qual cidade foram realizados os primeiros Jogos Olímpicos modernos?",
+      "options": ["Roma", "Paris", "Londres", "Atenas"],
+      "correctAnswer": "Atenas",
+      "explanation": "Os primeiros Jogos Olímpicos da era moderna foram realizados em Atenas, Grécia, em 1896, sob a iniciativa do Barão Pierre de Coubertin."
+    },
+    {
+      "id": 17,
+      "category": "esportes",
+      "question": "Qual país ganhou mais títulos da Copa do Mundo de Futebol Masculino?",
+      "options": ["Alemanha", "Argentina", "Itália", "Brasil"],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil é o maior campeão da Copa do Mundo com 5 títulos (1958, 1962, 1970, 1994 e 2002), sendo o único país a ter participado de todas as edições do torneio."
+    },
+    {
+      "id": 18,
+      "category": "esportes",
+      "question": "Qual atleta detém o recorde de mais medalhas olímpicas da história?",
+      "options": ["Usain Bolt", "Carl Lewis", "Michael Phelps", "Larisa Latynina"],
+      "correctAnswer": "Michael Phelps",
+      "explanation": "Michael Phelps, nadador americano, é o maior medalhista olímpico da história com 28 medalhas (23 de ouro, 3 de prata e 2 de bronze) conquistadas entre 2000 e 2016."
+    },
+    {
+      "id": 19,
+      "category": "literatura",
+      "question": "Quem escreveu 'Dom Casmurro'?",
+      "options": ["José de Alencar", "Graciliano Ramos", "Machado de Assis", "Eça de Queirós"],
+      "correctAnswer": "Machado de Assis",
+      "explanation": "Dom Casmurro (1899), de Machado de Assis, é um dos maiores clássicos da literatura brasileira e do Realismo, narrando a história de Bentinho e o célebre dilema sobre a fidelidade de Capitu."
+    },
+    {
+      "id": 20,
+      "category": "literatura",
+      "question": "Em qual país nasceu Gabriel García Márquez, autor de 'Cem Anos de Solidão'?",
+      "options": ["México", "Argentina", "Colômbia", "Peru"],
+      "correctAnswer": "Colômbia",
+      "explanation": "Gabriel García Márquez nasceu em Aracataca, Colômbia, em 1927. Cem Anos de Solidão (1967) é considerada a obra máxima do realismo mágico latino-americano."
+    },
+    {
+      "id": 21,
+      "category": "literatura",
+      "question": "Qual obra de Shakespeare conta a história de um príncipe dinamarquês que busca vingar a morte do pai?",
+      "options": ["Otelo", "Macbeth", "Hamlet", "Rei Lear"],
+      "correctAnswer": "Hamlet",
+      "explanation": "Hamlet (c. 1600-1601) é uma das mais famosas tragédias de Shakespeare, explorando temas como vingança, traição, moralidade e a natureza humana através do Príncipe Hamlet da Dinamarca."
+    },
+    {
+      "id": 22,
+      "category": "gastronomia",
+      "question": "De qual país é originário o prato 'Sushi'?",
+      "options": ["China", "Coreia do Sul", "Tailândia", "Japão"],
+      "correctAnswer": "Japão",
+      "explanation": "O sushi é originário do Japão, tendo evoluído ao longo dos séculos de um método de conservação de peixe em arroz fermentado para a culinária refinada que conhecemos hoje."
+    },
+    {
+      "id": 23,
+      "category": "gastronomia",
+      "question": "Qual especiaria é mais cara por peso do que o ouro?",
+      "options": ["Cardamomo", "Baunilha", "Açafrão", "Noz-moscada"],
+      "correctAnswer": "Açafrão",
+      "explanation": "O açafrão (Crocus sativus) é a especiaria mais cara do mundo por peso — pode custar entre R$ 30.000 e R$ 90.000 por quilo — pois cada flor produz apenas três estigmas colhidos à mão."
+    },
+    {
+      "id": 24,
+      "category": "gastronomia",
+      "question": "O 'Croissant' é símbolo da culinária francesa, mas em qual país ele foi criado?",
+      "options": ["França", "Áustria", "Suíça", "Bélgica"],
+      "correctAnswer": "Áustria",
+      "explanation": "O croissant foi criado em Viena, Áustria, no século XVII como 'Kipferl'. Foi levado à França por Marie Antoinette e lá ganhou sua forma e receita com manteiga que o tornou famoso."
+    },
+    {
+      "id": 25,
+      "category": "artes",
+      "question": "Quem pintou a 'Mona Lisa'?",
+      "options": ["Michelangelo", "Rafael", "Leonardo da Vinci", "Botticelli"],
+      "correctAnswer": "Leonardo da Vinci",
+      "explanation": "A Mona Lisa foi pintada por Leonardo da Vinci entre 1503 e 1519, e hoje está exposta no Museu do Louvre, em Paris, sendo a obra de arte mais visitada do mundo."
+    },
+    {
+      "id": 26,
+      "category": "artes",
+      "question": "Qual artista brasileiro é conhecido pelo estilo 'naïf' e pela obra 'O Mamoeiro'?",
+      "options": ["Cândido Portinari", "Tarsila do Amaral", "José Antonio da Silva", "Di Cavalcanti"],
+      "correctAnswer": "José Antonio da Silva",
+      "explanation": "José Antonio da Silva, nascido em São José do Rio Pardo (SP), é o maior representante da arte naïf brasileira, famoso por suas pinturas coloridas do cotidiano rural."
+    },
+    {
+      "id": 27,
+      "category": "artes",
+      "question": "O movimento artístico 'Impressionismo' surgiu em qual país?",
+      "options": ["Itália", "Alemanha", "França", "Espanha"],
+      "correctAnswer": "França",
+      "explanation": "O Impressionismo surgiu na França na segunda metade do século XIX. O nome vem do quadro 'Impressão, Sol Nascente' (1872) de Claude Monet, criticado ironicamente por um jornalista."
+    },
+    {
+      "id": 28,
+      "category": "astronomia",
+      "question": "Qual é a estrela mais próxima do Sol?",
+      "options": ["Sírius", "Vega", "Proxima Centauri", "Betelgeuse"],
+      "correctAnswer": "Proxima Centauri",
+      "explanation": "Proxima Centauri, parte do sistema Alpha Centauri, está a cerca de 4,24 anos-luz do Sol, sendo a estrela conhecida mais próxima do nosso sistema solar."
+    },
+    {
+      "id": 29,
+      "category": "astronomia",
+      "question": "Qual planeta do sistema solar tem o maior número de luas conhecidas?",
+      "options": ["Júpiter", "Saturno", "Urano", "Netuno"],
+      "correctAnswer": "Saturno",
+      "explanation": "Saturno detém o recorde com 146 luas confirmadas (2023), superando Júpiter. A maior delas, Titã, é a única lua do sistema solar com atmosfera densa."
+    },
+    {
+      "id": 30,
+      "category": "astronomia",
+      "question": "O que é um ano-luz?",
+      "options": [
+        "O tempo que a luz leva para chegar à Terra",
+        "A distância percorrida pela luz em um ano",
+        "A intensidade da luz de uma estrela por ano",
+        "A unidade de brilho de uma galáxia"
+      ],
+      "correctAnswer": "A distância percorrida pela luz em um ano",
+      "explanation": "Um ano-luz é uma unidade de distância equivalente a aproximadamente 9,46 trilhões de quilômetros — a distância que a luz percorre no vácuo em um ano terrestre."
+    },
+    {
+      "id": 31,
+      "category": "linguas",
+      "question": "De qual língua vem a palavra 'Xampô' (shampoo) usada no português?",
+      "options": ["Árabe", "Hindi", "Persa", "Malaio"],
+      "correctAnswer": "Hindi",
+      "explanation": "A palavra 'shampoo' vem do hindi 'chāmpo' (चाँपो), que significa 'pressionar' ou 'massagear'. Foi levada ao inglês por colonizadores britânicos na Índia no século XVIII."
+    },
+    {
+      "id": 32,
+      "category": "linguas",
+      "question": "Qual é a língua com mais falantes nativos no mundo?",
+      "options": ["Inglês", "Espanhol", "Mandarim", "Hindi"],
+      "correctAnswer": "Mandarim",
+      "explanation": "O mandarim (chinês padrão) é a língua com mais falantes nativos no mundo, com cerca de 900 milhões a 1 bilhão de falantes, seguido pelo espanhol e pelo inglês."
+    },
+    {
+      "id": 33,
+      "category": "linguas",
+      "question": "O que significa a palavra 'Serendipidade'?",
+      "options": [
+        "Saudade profunda de algo perdido",
+        "Descoberta feliz por acaso",
+        "Sentimento de melancolia ao entardecer",
+        "Alegria excessiva e passageira"
+      ],
+      "correctAnswer": "Descoberta feliz por acaso",
+      "explanation": "Serendipidade vem do inglês 'serendipity', cunhado por Horace Walpole em 1754 baseado no conto persa 'Os Três Príncipes de Serendip', significando fazer descobertas valiosas por acidente."
+    },
+    {
+      "id": 34,
+      "category": "jogos",
+      "question": "Qual jogo é considerado o primeiro videogame comercial da história?",
+      "options": ["Pong", "Space Invaders", "Tetris", "Pac-Man"],
+      "correctAnswer": "Pong",
+      "explanation": "Pong, lançado pela Atari em 1972, é amplamente considerado o primeiro videogame de arcade comercialmente bem-sucedido, simulando uma partida de tênis de mesa."
+    },
+    {
+      "id": 35,
+      "category": "jogos",
+      "question": "Em qual país nasceu o jogo de tabuleiro 'Xadrez'?",
+      "options": ["China", "Grécia", "Índia", "Pérsia"],
+      "correctAnswer": "Índia",
+      "explanation": "O xadrez tem origem na Índia, por volta do século VI d.C., onde era chamado de 'Chaturanga'. Foi levado à Pérsia, onde ganhou o nome 'Shatranj', e depois se espalhou pelo mundo árabe e Europa."
+    },
+    {
+      "id": 36,
+      "category": "jogos",
+      "question": "Qual empresa criou o personagem Mario?",
+      "options": ["Sega", "Atari", "Nintendo", "Capcom"],
+      "correctAnswer": "Nintendo",
+      "explanation": "Mario foi criado por Shigeru Miyamoto para a Nintendo e estreou no arcade Donkey Kong (1981) como 'Jumpman'. É o personagem de videogame mais reconhecido do mundo."
+    },
+    {
+      "id": 37,
+      "category": "economia",
+      "question": "O que é o PIB (Produto Interno Bruto)?",
+      "options": [
+        "O total de exportações de um país",
+        "A soma de todos os bens e serviços produzidos num país em um período",
+        "O valor total das reservas internacionais de um país",
+        "O total de impostos arrecadados pelo governo"
+      ],
+      "correctAnswer": "A soma de todos os bens e serviços produzidos num país em um período",
+      "explanation": "O PIB é o indicador econômico que mede o valor total de bens e serviços finais produzidos dentro de um país em um determinado período, geralmente um ano."
+    },
+    {
+      "id": 38,
+      "category": "economia",
+      "question": "Qual foi a maior crise financeira global do século XXI até hoje?",
+      "options": [
+        "Crise da Zona do Euro (2010)",
+        "Crise das Dot-com (2000)",
+        "Crise do Subprime (2008)",
+        "Recessão pós-COVID (2020)"
+      ],
+      "correctAnswer": "Crise do Subprime (2008)",
+      "explanation": "A Crise Financeira Global de 2008, originada no mercado imobiliário americano com os chamados 'subprime mortgages', foi a maior crise econômica global desde a Grande Depressão de 1929."
+    },
+    {
+      "id": 39,
+      "category": "economia",
+      "question": "Qual teoria econômica defende que o governo deve intervir na economia para estimular a demanda em períodos de recessão?",
+      "options": ["Monetarismo", "Liberalismo clássico", "Keynesianismo", "Neoliberalismo"],
+      "correctAnswer": "Keynesianismo",
+      "explanation": "O Keynesianismo, desenvolvido pelo economista britânico John Maynard Keynes na obra 'Teoria Geral do Emprego, do Juro e da Moeda' (1936), defende a intervenção estatal para regular a demanda agregada."
+    },
+    {
+      "id": 40,
+      "category": "ecologia",
+      "question": "Qual acordo internacional define metas para redução de emissões de gases de efeito estufa?",
+      "options": ["Protocolo de Montreal", "Acordo de Paris", "Convenção de Kyoto", "Agenda 21"],
+      "correctAnswer": "Acordo de Paris",
+      "explanation": "O Acordo de Paris (2015), dentro da UNFCCC, estabelece metas para limitar o aquecimento global a 1,5°C acima dos níveis pré-industriais e foi ratificado por 196 países."
+    },
+    {
+      "id": 41,
+      "category": "ecologia",
+      "question": "O que é a 'Pegada de Carbono'?",
+      "options": [
+        "A quantidade de petróleo consumida por um país",
+        "A medida total de gases de efeito estufa gerados pelas atividades humanas",
+        "O rastro de carbono deixado por combustíveis fósseis na atmosfera",
+        "A quantidade de florestas derrubadas por ano"
+      ],
+      "correctAnswer": "A medida total de gases de efeito estufa gerados pelas atividades humanas",
+      "explanation": "A pegada de carbono é a quantidade total de gases de efeito estufa (especialmente CO2 e metano) emitidos direta ou indiretamente pelas atividades de um indivíduo, organização ou produto."
+    },
+    {
+      "id": 42,
+      "category": "ecologia",
+      "question": "Qual país possui a maior área de floresta tropical do mundo?",
+      "options": ["Congo", "Indonésia", "Brasil", "Peru"],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil abriga a maior floresta tropical do mundo — a Floresta Amazônica — que cobre cerca de 5,5 milhões de km², representando mais de 50% das florestas tropicais restantes no planeta."
+    }
+  ]
+}
