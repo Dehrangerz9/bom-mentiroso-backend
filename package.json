@@ -4,7 +4,7 @@
   "description": "Backend for Bom Mentiroso gameshow app",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc && cp -r src/data dist/data",
     "start": "node dist/index.js",
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
   },
