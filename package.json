@@ -5,7 +5,6 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc && cp -r src/data dist/data",
-    "postinstall": "npm run build",
     "start": "node dist/index.js",
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
   },
