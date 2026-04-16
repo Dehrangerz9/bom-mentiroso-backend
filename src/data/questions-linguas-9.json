@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "linguas-9-1",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "Qual é o nome da protolíngua hipotética da qual derivam a maioria das línguas europeias e algumas asiáticas, como o sânscrito e o persa?",
+      "options": [
+        "Proto-semítico",
+        "Proto-urálico",
+        "Proto-indo-europeu",
+        "Proto-afro-asiático"
+      ],
+      "correctAnswer": "Proto-indo-europeu",
+      "explanation": "O Proto-indo-europeu (PIE) é uma língua reconstruída que teria sido falada entre 4.500-2.500 a.C. e é ancestral de mais de 400 línguas atuais, incluindo o português."
+    }
+  ]
+}

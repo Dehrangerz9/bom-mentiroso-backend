@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "jogos-5-1",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Qual jogo de estratégia em tempo real foi lançado pela Blizzard em 1998 e se tornou eSport dominante na Coreia do Sul?",
+      "options": [
+        "Warcraft II",
+        "Age of Empires II",
+        "StarCraft",
+        "Command & Conquer"
+      ],
+      "correctAnswer": "StarCraft",
+      "explanation": "StarCraft se tornou uma obsessão nacional na Coreia, com transmissões em TV aberta e jogadores profissionais tratados como estrelas."
+    }
+  ]
+}

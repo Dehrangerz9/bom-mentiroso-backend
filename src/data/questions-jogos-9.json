@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "jogos-9-1",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual é o nome do fenômeno em design de jogos descrito por Jenova Chen em sua tese de mestrado, que se refere à zona de equilíbrio entre ansiedade e tédio que mantém o jogador engajado?",
+      "options": [
+        "Core loop",
+        "Flow state",
+        "Feedback loop",
+        "Skinner Box"
+      ],
+      "correctAnswer": "Flow state",
+      "explanation": "Jenova Chen adaptou o conceito de 'flow' do psicólogo Mihaly Csikszentmihalyi para jogos: o estado ótimo de engajamento entre desafio e habilidade."
+    }
+  ]
+}

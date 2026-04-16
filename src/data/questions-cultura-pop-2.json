@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-2-1",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual artista detém o recorde de álbum mais vendido da história?",
+      "options": [
+        "Elvis Presley",
+        "The Beatles",
+        "Michael Jackson",
+        "Madonna"
+      ],
+      "correctAnswer": "Michael Jackson",
+      "explanation": "'Thriller' de Michael Jackson é o álbum mais vendido de todos os tempos, com mais de 66 milhões de cópias."
+    },
+    {
+      "id": "cultura-pop-2-2",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual grupo musical britânico é conhecido pelos álbuns 'Abbey Road' e 'Let It Be'?",
+      "options": [
+        "The Rolling Stones",
+        "The Who",
+        "The Beatles",
+        "Led Zeppelin"
+      ],
+      "correctAnswer": "The Beatles",
+      "explanation": "The Beatles são a banda mais influente da história da música pop, com Abbey Road (1969) e Let It Be (1970) entre seus últimos álbuns."
+    },
+    {
+      "id": "cultura-pop-2-3",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual filme de animação da Pixar conta a história de um rato que sonha em ser chef em Paris?",
+      "options": [
+        "Bee Movie",
+        "Ratatouille",
+        "Kung Fu Panda",
+        "A Bug's Life"
+      ],
+      "correctAnswer": "Ratatouille",
+      "explanation": "Ratatouille (2007) conta a história de Remy, um rato parisiense que sonha em cozinhar no restaurante do famoso chef Gusteau."
+    },
+    {
+      "id": "cultura-pop-2-4",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual banda de rock britânica é conhecida pelos hits 'Bohemian Rhapsody' e 'We Will Rock You'?",
+      "options": [
+        "The Rolling Stones",
+        "David Bowie",
+        "Queen",
+        "Elton John"
+      ],
+      "correctAnswer": "Queen",
+      "explanation": "Queen, liderada por Freddie Mercury, é uma das bandas de rock mais icônicas da história, com 'Bohemian Rhapsody' sendo seu maior clássico."
+    },
+    {
+      "id": "cultura-pop-2-5",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual ator interpretou James Bond no filme 'Casino Royale' (2006)?",
+      "options": [
+        "Pierce Brosnan",
+        "Sean Connery",
+        "Daniel Craig",
+        "Roger Moore"
+      ],
+      "correctAnswer": "Daniel Craig",
+      "explanation": "Daniel Craig estreou como o agente 007 em 'Casino Royale' (2006) e interpretou Bond em 5 filmes até 'Sem Tempo Para Morrer' (2021)."
+    },
+    {
+      "id": "cultura-pop-2-6",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual cantora americana lançou o aclamado álbum 'Lemonade' em 2016?",
+      "options": [
+        "Rihanna",
+        "Adele",
+        "Beyoncé",
+        "Alicia Keys"
+      ],
+      "correctAnswer": "Beyoncé",
+      "explanation": "'Lemonade' (2016) de Beyoncé é considerado um dos álbuns mais influentes da década, acompanhado de um filme visual."
+    },
+    {
+      "id": "cultura-pop-2-7",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual filme da Disney conta a história de uma sereia que deseja viver no mundo dos humanos?",
+      "options": [
+        "Moana",
+        "Frozen",
+        "A Pequena Sereia",
+        "Encanto"
+      ],
+      "correctAnswer": "A Pequena Sereia",
+      "explanation": "'A Pequena Sereia' (1989) é baseado no conto de Hans Christian Andersen e marcou o renascimento do estúdio Disney."
+    },
+    {
+      "id": "cultura-pop-2-8",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual série animada retrata um esponja amarelo que trabalha como cozinheiro no fundo do mar?",
+      "options": [
+        "Futurama",
+        "Bob Esponja",
+        "As Tartarugas Ninja",
+        "O Laboratório de Dexter"
+      ],
+      "correctAnswer": "Bob Esponja",
+      "explanation": "Bob Esponja Calça Quadrada estreou em 1999 no Nickelodeon e tornou-se um dos desenhos mais populares do mundo."
+    },
+    {
+      "id": "cultura-pop-2-9",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual videogame de 2013 protagonizado por Joel e Ellie em um mundo pós-apocalíptico virou série da HBO?",
+      "options": [
+        "Resident Evil",
+        "The Last of Us",
+        "Days Gone",
+        "Metro Exodus"
+      ],
+      "correctAnswer": "The Last of Us",
+      "explanation": "'The Last of Us' foi lançado pela Naughty Dog em 2013 e adaptado para série da HBO em 2023, tornando-se fenômeno global."
+    },
+    {
+      "id": "cultura-pop-2-10",
+      "category": "cultura-pop",
+      "difficulty": 2,
+      "question": "Qual foi o primeiro filme da trilogia 'O Senhor dos Anéis' de Peter Jackson, lançado em 2001?",
+      "options": [
+        "As Duas Torres",
+        "O Retorno do Rei",
+        "A Sociedade do Anel",
+        "O Hobbit"
+      ],
+      "correctAnswer": "A Sociedade do Anel",
+      "explanation": "'O Senhor dos Anéis: A Sociedade do Anel' (2001) foi o primeiro dos três filmes de Peter Jackson baseados nos livros de J.R.R. Tolkien."
+    }
+  ]
+}

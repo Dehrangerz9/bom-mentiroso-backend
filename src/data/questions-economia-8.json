@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "economia-8-1",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "O que é o 'Trilema de Mundell-Fleming' em economia internacional?",
+      "options": [
+        "Um país não pode ter simultaneamente livre movimentação de capitais, taxa de câmbio fixa e política monetária autônoma",
+        "A impossibilidade de crescimento, equilíbrio fiscal e baixa inflação ao mesmo tempo",
+        "O trade-off entre desemprego e inflação descrito na Curva de Phillips",
+        "A incompatibilidade entre crescimento, sustentabilidade e equidade"
+      ],
+      "correctAnswer": "Um país não pode ter simultaneamente livre movimentação de capitais, taxa de câmbio fixa e política monetária autônoma",
+      "explanation": "O Trilema impossível (ou triângulo de Mundell-Fleming) afirma que de três objetivos — câmbio fixo, mobilidade de capital e autonomia monetária — apenas dois podem coexistir."
+    }
+  ]
+}

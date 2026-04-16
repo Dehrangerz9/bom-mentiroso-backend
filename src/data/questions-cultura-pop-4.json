@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-4-1",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Em qual série de streaming a personagem Eleven usa poderes telecinéticos e foge de um laboratório governamental?",
+      "options": [
+        "Dark",
+        "Stranger Things",
+        "The OA",
+        "Sense8"
+      ],
+      "correctAnswer": "Stranger Things",
+      "explanation": "Eleven é a protagonista de Stranger Things (Netflix), com poderes psíquicos desenvolvidos em experimentos governamentais."
+    },
+    {
+      "id": "cultura-pop-4-2",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Qual cantora britânica ficou conhecida como 'Queen of Pop' e tem hits como 'Rolling in the Deep'?",
+      "options": [
+        "Amy Winehouse",
+        "Adele",
+        "Lily Allen",
+        "Dua Lipa"
+      ],
+      "correctAnswer": "Adele",
+      "explanation": "Adele Laurie Blue Adkins é uma das artistas mais vendidas de todos os tempos. 'Rolling in the Deep' de seu álbum 21 (2011) foi um dos maiores hits da década."
+    },
+    {
+      "id": "cultura-pop-4-3",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Qual filme de animação da Disney de 2013 apresenta a música 'Let It Go' e duas irmãs princesas?",
+      "options": [
+        "Valente",
+        "Enrolados",
+        "Frozen",
+        "Moana"
+      ],
+      "correctAnswer": "Frozen",
+      "explanation": "Frozen (2013) é o filme de animação mais lucrativo da história, com a trilha sonora batendo recordes. A sequência Frozen 2 (2019) manteve o sucesso."
+    },
+    {
+      "id": "cultura-pop-4-4",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Qual foi o primeiro smartphone touchscreen da Apple, lançado em 2007?",
+      "options": [
+        "iPhone 3G",
+        "iPod Touch",
+        "iPhone",
+        "iPad"
+      ],
+      "correctAnswer": "iPhone",
+      "explanation": "Steve Jobs apresentou o iPhone original em janeiro de 2007, revolucionando a indústria mobile ao combinar telefone, iPod e internet num único dispositivo touchscreen."
+    },
+    {
+      "id": "cultura-pop-4-5",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Qual personagem de quadrinhos é conhecido como 'O Homem-Aranha' e tem como alter ego Peter Parker?",
+      "options": [
+        "Clark Kent",
+        "Bruce Wayne",
+        "Peter Parker",
+        "Barry Allen"
+      ],
+      "correctAnswer": "Peter Parker",
+      "explanation": "O Homem-Aranha foi criado por Stan Lee e Steve Ditko em 1962 para a Marvel Comics. Peter Parker é um fotógrafo que adquire poderes após ser picado por uma aranha radioativa."
+    },
+    {
+      "id": "cultura-pop-4-6",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Qual banda britânica de rock formada em Liverpool nos anos 1960 é considerada a mais influente da história?",
+      "options": [
+        "Rolling Stones",
+        "The Who",
+        "The Beatles",
+        "Led Zeppelin"
+      ],
+      "correctAnswer": "The Beatles",
+      "explanation": "The Beatles (John Lennon, Paul McCartney, George Harrison, Ringo Starr) revolucionaram a música popular. Venderam mais de 600 milhões de cópias, sendo a banda mais vendida da história."
+    },
+    {
+      "id": "cultura-pop-4-7",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Qual série de jogos apresenta o personagem Link em busca da Princesa Zelda?",
+      "options": [
+        "Metroid",
+        "Fire Emblem",
+        "The Legend of Zelda",
+        "Final Fantasy"
+      ],
+      "correctAnswer": "The Legend of Zelda",
+      "explanation": "The Legend of Zelda é uma das franquias mais icônicas da Nintendo, criada em 1986 por Shigeru Miyamoto. Link é o protagonista jogável; Zelda é a princesa a ser salva ou parceira."
+    },
+    {
+      "id": "cultura-pop-4-8",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Qual programa de TV brasileiro de humor criado nos anos 1990 trouxe personagens como Chico Anysio?",
+      "options": [
+        "Zorra Total",
+        "A Praça é Nossa",
+        "Casseta e Planeta",
+        "Chico Anysio Show"
+      ],
+      "correctAnswer": "Chico Anysio Show",
+      "explanation": "Chico Anysio foi um dos maiores humoristas brasileiros, com programas de TV que duraram décadas e personagens eternizados como Bozóle, Pantaleão e Professor Raimundo."
+    },
+    {
+      "id": "cultura-pop-4-9",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Qual fenômeno das redes sociais criado pelo TikTok popularizou desafios virais com danças sincronizadas?",
+      "options": [
+        "Hashtag challenge",
+        "Ice Bucket Challenge",
+        "Lip Sync Battle",
+        "Dance challenge"
+      ],
+      "correctAnswer": "Dance challenge",
+      "explanation": "Os dance challenges do TikTok tornaram-se uma das tendências mais impactantes da cultura digital, propagando estilos musicais e de dança globalmente em questão de horas."
+    },
+    {
+      "id": "cultura-pop-4-10",
+      "category": "cultura-pop",
+      "difficulty": 4,
+      "question": "Qual cantora pop americana ficou famosa pela série de álbuns 'Eras' e turnê recorde em 2023?",
+      "options": [
+        "Beyoncé",
+        "Taylor Swift",
+        "Katy Perry",
+        "Lady Gaga"
+      ],
+      "correctAnswer": "Taylor Swift",
+      "explanation": "Taylor Swift e sua 'The Eras Tour' (2023-2024) se tornaram fenômeno cultural e econômico, arrecadando mais de US$ 1 bilhão, a maior turnê da história da música."
+    }
+  ]
+}

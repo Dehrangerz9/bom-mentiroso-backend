@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-10-1",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Qual é o nome do método de fermentação dupla japonês que produz o molho de soja tradicional, envolvendo o fungo Aspergillus oryzae, fermento e bactérias lácticas durante meses?",
+      "options": [
+        "Tsukemono",
+        "Koji fermentation",
+        "Natto fermentation",
+        "Shio-koji process"
+      ],
+      "correctAnswer": "Koji fermentation",
+      "explanation": "A fermentação com koji (Aspergillus oryzae) é a base do shoyu, missô, sake e mirin. O fungo produz enzimas que decompõem proteínas e amidos."
+    }
+  ]
+}

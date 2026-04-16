@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "economia-5-1",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "O que é a 'Lei de Oferta e Demanda'?",
+      "options": [
+        "Quanto maior o preço, maior a demanda",
+        "Preço de equilíbrio é aquele onde quantidade ofertada iguala quantidade demandada",
+        "O governo deve controlar preços para garantir equilíbrio",
+        "A produção sempre supera o consumo em economias livres"
+      ],
+      "correctAnswer": "Preço de equilíbrio é aquele onde quantidade ofertada iguala quantidade demandada",
+      "explanation": "Em mercados competitivos, o preço se estabiliza onde oferta e demanda se cruzam, chamado de equilíbrio de mercado."
+    }
+  ]
+}

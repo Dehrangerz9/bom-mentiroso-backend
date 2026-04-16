@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "thoughtworks-9-1",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "Qual prática de engenharia, formalizada por Kent Beck na Thoughtworks, exige que todo código novo seja escrito a partir de um teste que falha primeiro?",
+      "options": [
+        "BDD",
+        "ATDD",
+        "TDD",
+        "Property-based testing"
+      ],
+      "correctAnswer": "TDD",
+      "explanation": "Test-Driven Development (TDD) exige o ciclo Red-Green-Refactor: escrever o teste que falha, implementar o mínimo para passar e refatorar."
+    }
+  ]
+}

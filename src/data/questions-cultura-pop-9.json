@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-9-1",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual álbum conceitual de David Bowie, lançado em 1972, introduziu o personagem Ziggy Stardust e o glam rock?",
+      "options": [
+        "Aladdin Sane",
+        "Diamond Dogs",
+        "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+        "Station to Station"
+      ],
+      "correctAnswer": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "explanation": "Lançado em junho de 1972, o álbum transformou Bowie em ícone cultural e redefiniu o papel do personagem na música pop."
+    },
+    {
+      "id": "cultura-pop-9-2",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual diretora neozelandesa revolucionou a representação indígena no cinema com 'Whale Rider' (2002) e depois dirigiu 'Thor: Ragnarok' (2017)?",
+      "options": [
+        "Jane Campion",
+        "Niki Caro",
+        "Taika Waititi",
+        "Lee Tamahori"
+      ],
+      "correctAnswer": "Niki Caro",
+      "explanation": "Niki Caro dirigiu 'Whale Rider' (2002), sobre uma garota maori que desafia tradições patriarcais; depois dirigiu 'Mulan' (2020) para a Disney."
+    },
+    {
+      "id": "cultura-pop-9-3",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual álbum de estreia de Amy Winehouse, lançado em 2003, foi produzido por Salaam Remi e mostrou influências de jazz e soul britânicos?",
+      "options": [
+        "Back to Black",
+        "Frank",
+        "Lioness: Hidden Treasures",
+        "I Told You I Was Trouble"
+      ],
+      "correctAnswer": "Frank",
+      "explanation": "'Frank' (2003) mostrou Amy Winehouse como uma voz excepcional influenciada por Sarah Vaughan e Dinah Washington; o título é referência à franqueza de suas letras sobre relacionamentos."
+    },
+    {
+      "id": "cultura-pop-9-4",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual cineasta taiwanês, radicado nos EUA, dirigiu 'O Tigre e o Dragão' (2000), 'Brokeback Mountain' (2005) e 'As Aventuras de Pi' (2012), ganhando dois Oscars?",
+      "options": [
+        "John Woo",
+        "Wong Kar-wai",
+        "Ang Lee",
+        "Tsui Hark"
+      ],
+      "correctAnswer": "Ang Lee",
+      "explanation": "Ang Lee ganhou o Oscar de Melhor Diretor por 'Brokeback Mountain' (2006) e 'As Aventuras de Pi' (2013); é o único diretor asiático a ganhar o prêmio duas vezes."
+    },
+    {
+      "id": "cultura-pop-9-5",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual coletivo de arte japonês, fundado em 1995, cria instalações imersivas de luz e tecnologia digital como o 'teamLab Borderless' em Tóquio?",
+      "options": [
+        "Dumb Type",
+        "teamLab",
+        "Chim↑Pom",
+        "Exonemo"
+      ],
+      "correctAnswer": "teamLab",
+      "explanation": "teamLab é um coletivo interdisciplinar de mais de 1.000 artistas, engenheiros e programadores; o 'teamLab Borderless' em Odaiba, Tóquio, atraiu 2,3 milhões de visitantes em seu primeiro ano."
+    },
+    {
+      "id": "cultura-pop-9-6",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual compositora e produtora islandesa ficou conhecida pela trilha sonora de 'Succession', 'The Northman' e 'Lamb', e pelo álbum 'Tidal' (1996)?",
+      "options": [
+        "Björk",
+        "Sigur Rós",
+        "Hildur Guðnadóttir",
+        "Ólafur Arnalds"
+      ],
+      "correctAnswer": "Hildur Guðnadóttir",
+      "explanation": "Hildur Guðnadóttir ganhou o Oscar, Emmy e Grammy pela trilha sonora de 'Joker' (2019); é conhecida por seu trabalho com violoncelo e texturas eletrônicas."
+    },
+    {
+      "id": "cultura-pop-9-7",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual escritor colombiano publicou 'Cem Anos de Solidão' (1967), fundador do realismo mágico e vencedor do Nobel de Literatura em 1982?",
+      "options": [
+        "Jorge Luis Borges",
+        "Julio Cortázar",
+        "Gabriel García Márquez",
+        "Carlos Fuentes"
+      ],
+      "correctAnswer": "Gabriel García Márquez",
+      "explanation": "'Cem Anos de Solidão' de García Márquez vendeu mais de 50 milhões de cópias e foi traduzido para 46 idiomas; a família Buendía e Macondo são símbolos do realismo mágico latino-americano."
+    },
+    {
+      "id": "cultura-pop-9-8",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual artista de pop digital chinesa, 'Luo Tianyi', é uma vocaloid cujo avatar virtual acumula milhões de fãs e realiza shows holográficos?",
+      "options": [
+        "Hatsune Miku",
+        "Kizuna AI",
+        "Luo Tianyi",
+        "Xingchen"
+      ],
+      "correctAnswer": "Luo Tianyi",
+      "explanation": "Luo Tianyi é a vocaloid chinesa mais popular; lançada em 2012 pela Shanghai HENIAN Information Technology, tem mais de 3 milhões de seguidores e realiza concertos holográficos."
+    },
+    {
+      "id": "cultura-pop-9-9",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual documentário de Frederick Wiseman de 1967 sobre a vida em uma instituição psiquiátrica americana foi considerado marco do cinema direto?",
+      "options": [
+        "Salesman",
+        "Grey Gardens",
+        "Titicut Follies",
+        "Primary"
+      ],
+      "correctAnswer": "Titicut Follies",
+      "explanation": "'Titicut Follies' de Frederick Wiseman registrou condições degradantes no Hospital Bridgewater para criminosos com doenças mentais; foi censurado em Massachusetts por mais de 20 anos."
+    },
+    {
+      "id": "cultura-pop-9-10",
+      "category": "cultura-pop",
+      "difficulty": 9,
+      "question": "Qual artista e produtor americano, cofundador do Def Jam Recordings em 1984, transformou o hip-hop em indústria multibilionária?",
+      "options": [
+        "Dr. Dre",
+        "Russell Simmons",
+        "Suge Knight",
+        "Diddy"
+      ],
+      "correctAnswer": "Russell Simmons",
+      "explanation": "Russell Simmons cofundou a Def Jam com Rick Rubin em 1984; a gravadora lançou LL Cool J, Public Enemy e Beastie Boys, estabelecendo o hip-hop como força cultural dominante."
+    }
+  ]
+}

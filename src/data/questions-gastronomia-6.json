@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-6-1",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "Qual fermento natural, composto de farinha e água fermentada, é base de pães como o sourdough?",
+      "options": [
+        "Levedura seca",
+        "Poolish",
+        "Levain (massa madre)",
+        "Biga"
+      ],
+      "correctAnswer": "Levain (massa madre)",
+      "explanation": "O levain, ou massa madre, é uma cultura de fermentação natural com leveduras selvagens e bactérias lácticas, que confere sabor complexo ao pão."
+    }
+  ]
+}

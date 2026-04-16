@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "historia-geral-5-1",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Qual tratado encerrou a Primeira Guerra Mundial?",
+      "options": [
+        "Tratado de Viena",
+        "Tratado de Versalhes",
+        "Tratado de Paris",
+        "Tratado de Lausanne"
+      ],
+      "correctAnswer": "Tratado de Versalhes",
+      "explanation": "O Tratado de Versalhes foi assinado em 28 de junho de 1919 e impôs pesadas reparações à Alemanha."
+    }
+  ]
+}

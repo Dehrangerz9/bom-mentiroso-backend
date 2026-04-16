@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-5-1",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Qual artista brasileiro é conhecido pelo estilo naïf e pela obra 'O Mamoeiro'?",
+      "options": [
+        "Cândido Portinari",
+        "José Antonio da Silva",
+        "Tarsila do Amaral",
+        "Di Cavalcanti"
+      ],
+      "correctAnswer": "José Antonio da Silva",
+      "explanation": "José Antonio da Silva (1909-1996) foi um artista autodidata de São José do Rio Preto, símbolo da arte naïf brasileira."
+    },
+    {
+      "id": "artes-5-2",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Qual movimento artístico do século XX é caracterizado por formas geométricas, fragmentação do espaço e múltiplos pontos de vista simultâneos?",
+      "options": [
+        "Surrealismo",
+        "Cubismo",
+        "Expressionismo",
+        "Futurismo"
+      ],
+      "correctAnswer": "Cubismo",
+      "explanation": "O Cubismo, criado por Picasso e Braque no início do século XX, rompeu com a perspectiva tradicional ao representar objetos sob vários ângulos ao mesmo tempo."
+    },
+    {
+      "id": "artes-5-3",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Qual escultura de Michelangelo representa o jovem herói bíblico nu, em postura de alerta antes do combate?",
+      "options": [
+        "Pietà",
+        "Moisés",
+        "Davi",
+        "Baco"
+      ],
+      "correctAnswer": "Davi",
+      "explanation": "O 'Davi' (1501-1504) de Michelangelo, em mármore, está na Galleria dell'Accademia em Florença e é considerado um dos maiores símbolos da escultura renascentista."
+    },
+    {
+      "id": "artes-5-4",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Qual técnica de pintura utiliza pigmentos diluídos em água aplicados sobre gesso úmido, integrando a tinta à parede?",
+      "options": [
+        "Afresco",
+        "Têmpera",
+        "Encáustica",
+        "Óleo"
+      ],
+      "correctAnswer": "Afresco",
+      "explanation": "O afresco ('fresco' em italiano significa 'fresco') é uma técnica mural em que os pigmentos se fundem ao reboco úmido ao secar, tornando a pintura parte da parede."
+    },
+    {
+      "id": "artes-5-5",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Qual artista impressionista francês é famoso pela série de pinturas de bailarinas, como 'A Aula de Dança'?",
+      "options": [
+        "Pierre-Auguste Renoir",
+        "Claude Monet",
+        "Edgar Degas",
+        "Camille Pissarro"
+      ],
+      "correctAnswer": "Edgar Degas",
+      "explanation": "Edgar Degas dedicou grande parte de sua obra às bailarinas da Ópera de Paris, capturando o movimento e a luz artificial dos ensaios e apresentações."
+    },
+    {
+      "id": "artes-5-6",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Qual pintor holandês do século XVII é conhecido pelo uso magistral da luz e pela obra 'A Ronda Noturna'?",
+      "options": [
+        "Johannes Vermeer",
+        "Rembrandt van Rijn",
+        "Frans Hals",
+        "Jan Steen"
+      ],
+      "correctAnswer": "Rembrandt van Rijn",
+      "explanation": "'A Ronda Noturna' (1642) de Rembrandt é uma das pinturas mais famosas do mundo, celebrada pela composição dinâmica e uso dramático da luz e sombra."
+    },
+    {
+      "id": "artes-5-7",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Como se chama a técnica de colagem que usa recortes de papel, tecidos e outros materiais para criar composições artísticas?",
+      "options": [
+        "Mosaico",
+        "Collage",
+        "Decoupage",
+        "Frottage"
+      ],
+      "correctAnswer": "Collage",
+      "explanation": "A collage (do francês 'coller', colar) foi popularizada pelos cubistas Picasso e Braque no início do século XX e tornou-se técnica fundamental da arte moderna."
+    },
+    {
+      "id": "artes-5-8",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Qual pintor pós-impressionista cortou parte da própria orelha e é conhecido pela obra 'Noite Estrelada'?",
+      "options": [
+        "Paul Gauguin",
+        "Paul Cézanne",
+        "Vincent van Gogh",
+        "Georges Seurat"
+      ],
+      "correctAnswer": "Vincent van Gogh",
+      "explanation": "Vincent van Gogh (1853-1890) pintou 'Noite Estrelada' em 1889 enquanto estava no asilo de Saint-Paul-de-Mausole; o incidente da orelha ocorreu em dezembro de 1888."
+    },
+    {
+      "id": "artes-5-9",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Qual arquiteto brasileiro projetou o Museu de Arte de São Paulo (MASP), com sua estrutura suspensa por vigas vermelhas?",
+      "options": [
+        "Oscar Niemeyer",
+        "Lina Bo Bardi",
+        "Paulo Mendes da Rocha",
+        "João Batista Vilanova Artigas"
+      ],
+      "correctAnswer": "Lina Bo Bardi",
+      "explanation": "Lina Bo Bardi projetou o MASP, inaugurado em 1968, com um vão livre de 74 metros sustentado por dois pórticos de concreto pintados de vermelho."
+    },
+    {
+      "id": "artes-5-10",
+      "category": "artes",
+      "difficulty": 5,
+      "question": "Qual movimento artístico, surgido na Alemanha no início do século XX, expressava emoções intensas por meio de distorções e cores exageradas?",
+      "options": [
+        "Impressionismo",
+        "Expressionismo",
+        "Dadaísmo",
+        "Neoclassicismo"
+      ],
+      "correctAnswer": "Expressionismo",
+      "explanation": "O Expressionismo (c. 1905-1925) priorizava a expressão de estados emocionais subjetivos, deformando a realidade visual para transmitir angústia, medo ou alegria intensa."
+    }
+  ]
+}

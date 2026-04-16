@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-5-1",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "O que é a Camada de Ozônio e por que é importante?",
+      "options": [
+        "É a troposfera, que nos protege do vento solar",
+        "É uma região da estratosfera rica em O₃ que absorve a maior parte da radiação UV solar",
+        "É uma camada de gases poluentes que aquece o planeta",
+        "É a fronteira entre a atmosfera e o espaço"
+      ],
+      "correctAnswer": "É uma região da estratosfera rica em O₃ que absorve a maior parte da radiação UV solar",
+      "explanation": "A camada de ozônio está entre 15-35 km de altitude e absorve 97-99% da radiação ultravioleta solar, protegendo a vida na Terra."
+    }
+  ]
+}

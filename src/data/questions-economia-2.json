@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "economia-2-1",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "Qual foi a maior crise financeira global do século XXI até hoje?",
+      "options": [
+        "Crise das Pontocom (2001)",
+        "Crise do Subprime (2008)",
+        "Crise do Euro (2012)",
+        "Crise do COVID (2020)"
+      ],
+      "correctAnswer": "Crise do Subprime (2008)",
+      "explanation": "A crise de 2008 começou com o colapso do mercado hipotecário americano e se tornou a pior recessão global desde a Grande Depressão de 1929."
+    },
+    {
+      "id": "economia-2-2",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "O que é o PIB per capita?",
+      "options": [
+        "PIB dividido pela área do país",
+        "PIB dividido pelo número de habitantes",
+        "PIB dividido pelo número de empresas",
+        "PIB dividido pelas exportações"
+      ],
+      "correctAnswer": "PIB dividido pelo número de habitantes",
+      "explanation": "O PIB per capita divide o produto interno bruto pelo número de habitantes, servindo como indicador aproximado do padrão de vida médio de uma população."
+    },
+    {
+      "id": "economia-2-3",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "Qual é a moeda oficial dos Estados Unidos?",
+      "options": [
+        "Franco",
+        "Libra",
+        "Dólar",
+        "Euro"
+      ],
+      "correctAnswer": "Dólar",
+      "explanation": "O dólar americano (USD) é a moeda dos EUA e a principal moeda de reserva e comércio internacional do mundo."
+    },
+    {
+      "id": "economia-2-4",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "O que é uma ação no mercado financeiro?",
+      "options": [
+        "Um empréstimo concedido pelo governo",
+        "Uma fração do capital de uma empresa negociada na bolsa",
+        "Um título de dívida emitido por banco",
+        "Um contrato de câmbio futuro"
+      ],
+      "correctAnswer": "Uma fração do capital de uma empresa negociada na bolsa",
+      "explanation": "Uma ação representa uma parcela do capital social de uma empresa; ao comprar ações, o investidor torna-se sócio proporcional da companhia."
+    },
+    {
+      "id": "economia-2-5",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "Qual é o nome do banco central dos Estados Unidos?",
+      "options": [
+        "Banco Mundial",
+        "Citibank",
+        "Federal Reserve (Fed)",
+        "Goldman Sachs"
+      ],
+      "correctAnswer": "Federal Reserve (Fed)",
+      "explanation": "O Federal Reserve (Fed) é o banco central americano, responsável pela política monetária dos EUA e com grande influência na economia global."
+    },
+    {
+      "id": "economia-2-6",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "O que é deflação?",
+      "options": [
+        "Aumento rápido da inflação",
+        "Queda generalizada dos preços",
+        "Aumento do desemprego",
+        "Desvalorização cambial"
+      ],
+      "correctAnswer": "Queda generalizada dos preços",
+      "explanation": "Deflação é o processo contrário à inflação: uma queda sustentada no nível geral de preços, que pode levar à recessão econômica."
+    },
+    {
+      "id": "economia-2-7",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "Qual é o nome do banco central do Brasil?",
+      "options": [
+        "Banco do Brasil",
+        "Caixa Econômica Federal",
+        "BNDES",
+        "Banco Central do Brasil"
+      ],
+      "correctAnswer": "Banco Central do Brasil",
+      "explanation": "O Banco Central do Brasil (BACEN) é a autarquia federal responsável pela política monetária, emissão de moeda e regulação do sistema financeiro nacional."
+    },
+    {
+      "id": "economia-2-8",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "Qual famoso índice da bolsa de valores americana reúne as 30 maiores empresas industriais dos EUA?",
+      "options": [
+        "S&P 500",
+        "Nasdaq Composite",
+        "Dow Jones Industrial Average",
+        "Russell 2000"
+      ],
+      "correctAnswer": "Dow Jones Industrial Average",
+      "explanation": "O Dow Jones Industrial Average (DJIA) é o índice mais antigo dos EUA (criado em 1896) e acompanha as ações das 30 maiores empresas americanas."
+    },
+    {
+      "id": "economia-2-9",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "O que é o mercado de câmbio (Forex)?",
+      "options": [
+        "Mercado de ações internacionais",
+        "Mercado onde moedas de diferentes países são compradas e vendidas",
+        "Mercado de commodities agrícolas",
+        "Mercado de títulos governamentais"
+      ],
+      "correctAnswer": "Mercado onde moedas de diferentes países são compradas e vendidas",
+      "explanation": "O mercado Forex (Foreign Exchange) é o maior mercado financeiro do mundo, com volume diário superior a 7 trilhões de dólares."
+    },
+    {
+      "id": "economia-2-10",
+      "category": "economia",
+      "difficulty": 2,
+      "question": "Qual é o nome do imposto brasileiro cobrado sobre produtos industrializados?",
+      "options": [
+        "ICMS",
+        "ISS",
+        "IOF",
+        "IPI"
+      ],
+      "correctAnswer": "IPI",
+      "explanation": "O IPI (Imposto sobre Produtos Industrializados) é um imposto federal cobrado na saída de produtos industrializados das fábricas ou na importação."
+    }
+  ]
+}

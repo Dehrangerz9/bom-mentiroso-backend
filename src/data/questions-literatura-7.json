@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "literatura-7-1",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Qual poeta brasileiro modernista publicou 'Alguma Poesia' em 1930 e é conhecido pelo poema 'No meio do caminho'?",
+      "options": [
+        "Oswald de Andrade",
+        "Mário de Andrade",
+        "Carlos Drummond de Andrade",
+        "Manuel Bandeira"
+      ],
+      "correctAnswer": "Carlos Drummond de Andrade",
+      "explanation": "'No meio do caminho tinha uma pedra' é o verso mais famoso de Drummond, símbolo do modernismo brasileiro."
+    }
+  ]
+}

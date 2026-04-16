@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "jogos-6-1",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Em Minecraft, qual é o nome do chefe final do jogo, encontrado na End dimension?",
+      "options": [
+        "Wither",
+        "Elder Guardian",
+        "Ender Dragon",
+        "Enderman"
+      ],
+      "correctAnswer": "Ender Dragon",
+      "explanation": "O Ender Dragon é o chefe final de Minecraft, encontrado na dimensão The End, e sua derrota é considerada o encerramento da progressão principal do jogo."
+    }
+  ]
+}

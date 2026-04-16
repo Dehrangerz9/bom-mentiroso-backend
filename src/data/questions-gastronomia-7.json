@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-7-1",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Qual é o nome da reação química entre aminoácidos e açúcares redutores que causa o escurecimento e o sabor de crosta em carnes e pães assados?",
+      "options": [
+        "Caramelização",
+        "Fermentação",
+        "Reação de Maillard",
+        "Oxidação lipídica"
+      ],
+      "correctAnswer": "Reação de Maillard",
+      "explanation": "A Reação de Maillard, descrita pelo químico Louis-Camille Maillard em 1912, é responsável pelos aromas e sabores de crosta em alimentos aquecidos."
+    }
+  ]
+}

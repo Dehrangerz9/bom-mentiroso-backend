@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "literatura-8-1",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Em qual obra James Joyce usa o fluxo de consciência para retratar um único dia (16 de junho de 1904) em Dublin?",
+      "options": [
+        "Dublinenses",
+        "Retrato do Artista Quando Jovem",
+        "Ulisses",
+        "Finnegans Wake"
+      ],
+      "correctAnswer": "Ulisses",
+      "explanation": "'Ulisses' (1922) é considerado o romance mais influente do século XX, com cada capítulo correspondendo a um episódio da Odisseia de Homero."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-6-1",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Em qual obra Hieronymus Bosch retrata, em três painéis, a criação, o paraíso terrestre e o inferno?",
+      "options": [
+        "O Juízo Final",
+        "A Tentação de Santo Antônio",
+        "O Jardim das Delícias Terrestres",
+        "As Sete Pecados Capitais"
+      ],
+      "correctAnswer": "O Jardim das Delícias Terrestres",
+      "explanation": "O tríptico 'Jardim das Delícias Terrestres' (c. 1490-1510) está no Prado, Madrid, e é a obra mais enigmática de Bosch."
+    },
+    {
+      "id": "artes-6-2",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Qual pintor espanhol do século XVII criou 'Las Meninas', obra que questiona a relação entre o artista, o modelo e o espectador?",
+      "options": [
+        "Francisco de Goya",
+        "El Greco",
+        "Diego Velázquez",
+        "Bartolomé Esteban Murillo"
+      ],
+      "correctAnswer": "Diego Velázquez",
+      "explanation": "'Las Meninas' (1656) é considerada uma das obras mais complexas da história da arte pela ambiguidade de quem está sendo retratado e pelo papel do espelho ao fundo."
+    },
+    {
+      "id": "artes-6-3",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Qual movimento artístico dos anos 1960 usava objetos cotidianos industrializados e ironia para questionar o mercado de arte?",
+      "options": [
+        "Arte Concreta",
+        "Pop Art",
+        "Minimalismo",
+        "Fluxus"
+      ],
+      "correctAnswer": "Pop Art",
+      "explanation": "A Pop Art surgiu nos EUA e no Reino Unido na segunda metade do século XX, apropriando-se de imagens da publicidade, quadrinhos e cultura de massa para criar obras de arte."
+    },
+    {
+      "id": "artes-6-4",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Qual artista neoconcreta brasileira desenvolveu os 'Bichos', esculturas metálicas articuladas que o espectador pode manipular?",
+      "options": [
+        "Tarsila do Amaral",
+        "Lygia Clark",
+        "Hélio Oiticica",
+        "Anna Maria Maiolino"
+      ],
+      "correctAnswer": "Lygia Clark",
+      "explanation": "Lygia Clark criou os 'Bichos' a partir de 1960: placas de alumínio articuladas por dobradiças que ganham forma diferente a cada manipulação do espectador."
+    },
+    {
+      "id": "artes-6-5",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Qual pintura de Salvador Dalí mostra relógios derretendo em uma paisagem árida e onírica?",
+      "options": [
+        "O Grande Masturbador",
+        "A Persistência da Memória",
+        "Sonho Causado pelo Voo de uma Abelha",
+        "Metamorfose de Narciso"
+      ],
+      "correctAnswer": "A Persistência da Memória",
+      "explanation": "'A Persistência da Memória' (1931) é a obra mais famosa de Dalí; os relógios moles evocam a fluidez do tempo nos sonhos, conceito central do Surrealismo."
+    },
+    {
+      "id": "artes-6-6",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Qual artista japonesa, radicada em Nova York, criou instalações com bolinhas de poá e espelhos chamadas 'Infinity Mirror Rooms'?",
+      "options": [
+        "Yoko Ono",
+        "Mariko Mori",
+        "Yayoi Kusama",
+        "Takashi Murakami"
+      ],
+      "correctAnswer": "Yayoi Kusama",
+      "explanation": "Yayoi Kusama (1929-) é conhecida pela obsessão com bolinhas de poá e pelas 'Infinity Mirror Rooms', instalações imersivas com reflexos infinitos."
+    },
+    {
+      "id": "artes-6-7",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Qual técnica de gravura usa uma placa de metal onde o artista raspa e entalha diretamente a superfície para criar a imagem?",
+      "options": [
+        "Litografia",
+        "Xilogravura",
+        "Serigrafia",
+        "Calcogravura"
+      ],
+      "correctAnswer": "Calcogravura",
+      "explanation": "A calcogravura (ou intaglio) usa placas de metal (cobre, zinco) entalhadas; a tinta fica nos sulcos e é transferida ao papel sob pressão na prensa."
+    },
+    {
+      "id": "artes-6-8",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Qual pintor renascentista italiano é o autor dos afrescos da Capela Sistina, incluindo 'A Criação de Adão'?",
+      "options": [
+        "Rafael Sanzio",
+        "Leonardo da Vinci",
+        "Michelangelo Buonarroti",
+        "Sandro Botticelli"
+      ],
+      "correctAnswer": "Michelangelo Buonarroti",
+      "explanation": "Michelangelo pintou o teto da Capela Sistina entre 1508 e 1512 a pedido do Papa Júlio II; 'A Criação de Adão' é o afresco mais icônico desse conjunto."
+    },
+    {
+      "id": "artes-6-9",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Qual artista brasileiro criou os 'Parangolés', capas coloridas usadas por pessoas em movimento, integrando arte e corpo?",
+      "options": [
+        "Lygia Pape",
+        "Hélio Oiticica",
+        "Cildo Meireles",
+        "Tunga"
+      ],
+      "correctAnswer": "Hélio Oiticica",
+      "explanation": "Hélio Oiticica criou os Parangolés a partir de 1964, capas e estandartes usados pelo corpo em movimento, aproximando arte, dança e vida cotidiana."
+    },
+    {
+      "id": "artes-6-10",
+      "category": "artes",
+      "difficulty": 6,
+      "question": "Qual estilo arquitetônico, predominante na Europa entre os séculos XII e XVI, é caracterizado por arcos ogivais, vitrais coloridos e torres altas?",
+      "options": [
+        "Românico",
+        "Barroco",
+        "Gótico",
+        "Renascentista"
+      ],
+      "correctAnswer": "Gótico",
+      "explanation": "A arquitetura Gótica surgiu na França no século XII; o arco ogival distribui melhor o peso, permitindo paredes mais finas, grandes vitrais e torres elevadas."
+    }
+  ]
+}

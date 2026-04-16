@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-4-1",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "Qual ingrediente dá a cor amarela característica ao risoto alla Milanese?",
+      "options": [
+        "Cúrcuma",
+        "Açafrão",
+        "Curry",
+        "Colorau"
+      ],
+      "correctAnswer": "Açafrão",
+      "explanation": "O açafrão é o ingrediente essencial do risoto alla Milanese, prato tradicional da culinária lombarda."
+    },
+    {
+      "id": "gastronomia-4-2",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "O que é 'fermentação láctica' na produção de alimentos?",
+      "options": [
+        "Produção de álcool por leveduras no leite",
+        "Conversão de lactose em ácido láctico por bactérias",
+        "Pasteurização do leite para eliminar bactérias",
+        "Coagulação das proteínas do leite pelo calor"
+      ],
+      "correctAnswer": "Conversão de lactose em ácido láctico por bactérias",
+      "explanation": "A fermentação láctica, realizada por bactérias como Lactobacillus, converte açúcares em ácido láctico, preservando alimentos e criando produtos como iogurte, queijo e chucrute."
+    },
+    {
+      "id": "gastronomia-4-3",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "Qual é o processo de cocção que usa vapor d'água sem contato direto com a água?",
+      "options": [
+        "Branquear",
+        "Cocção a vapor",
+        "Pochar",
+        "Escaldar"
+      ],
+      "correctAnswer": "Cocção a vapor",
+      "explanation": "A cocção a vapor preserva mais nutrientes e sabores que a fervura, pois os alimentos não ficam em contato com a água. É amplamente usada na culinária asiática."
+    },
+    {
+      "id": "gastronomia-4-4",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "O que é o 'mirepoix' na culinária francesa clássica?",
+      "options": [
+        "Um molho base de tomate e ervas",
+        "Uma mistura de cebola, cenoura e salsão cortados como base aromática",
+        "Um tipo de corte julienne de vegetais",
+        "Uma técnica de gratinar com queijo no forno"
+      ],
+      "correctAnswer": "Uma mistura de cebola, cenoura e salsão cortados como base aromática",
+      "explanation": "O mirepoix (proporção 2:1:1 de cebola, cenoura e salsão) é a base aromática da culinária francesa clássica, usado em fundos, sopas, molhos e braseados."
+    },
+    {
+      "id": "gastronomia-4-5",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "Qual é o ingrediente que confere cor e sabor característico ao curry indiano?",
+      "options": [
+        "Cominho",
+        "Coentro",
+        "Cúrcuma (açafrão-da-terra)",
+        "Cardamomo"
+      ],
+      "correctAnswer": "Cúrcuma (açafrão-da-terra)",
+      "explanation": "A cúrcuma (Curcuma longa) é o pigmento amarelo-alaranjado que dá cor ao curry. Contém curcumina, com potencial anti-inflamatório estudado pela ciência."
+    },
+    {
+      "id": "gastronomia-4-6",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "O que é 'emulsificação' na culinária?",
+      "options": [
+        "Espessamento de molhos por redução",
+        "Mistura estável de dois líquidos imiscíveis como óleo e água",
+        "Técnica de clarificar caldos",
+        "Processo de caramelização de açúcares"
+      ],
+      "correctAnswer": "Mistura estável de dois líquidos imiscíveis como óleo e água",
+      "explanation": "Emulsificação une óleo e água usando emulsificantes (como lecitina da gema de ovo). Maionese, hollandaise e vinagrete são emulsões clássicas da culinária."
+    },
+    {
+      "id": "gastronomia-4-7",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "Qual é o corte de carne bovino conhecido como 'wagyu', famoso por seu marmoreio?",
+      "options": [
+        "Angus americano",
+        "Raça bovina japonesa Wagyu",
+        "Corte especial do contrafilé",
+        "Carne de vitela francesa"
+      ],
+      "correctAnswer": "Raça bovina japonesa Wagyu",
+      "explanation": "Wagyu é uma raça bovina japonesa (wa=japonês, gyu=boi) com predisposição genética para gordura intramuscular (marmoreio), resultando em carne extremamente macia e saborosa."
+    },
+    {
+      "id": "gastronomia-4-8",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "O que é 'tempura' na culinária japonesa?",
+      "options": [
+        "Molho fermentado de soja envelhecido",
+        "Técnica de fritar alimentos em massa leve e crocante",
+        "Sopa miso com tofu e algas",
+        "Arroz cozido com vinagre servido frio"
+      ],
+      "correctAnswer": "Técnica de fritar alimentos em massa leve e crocante",
+      "explanation": "A tempura é uma técnica culinária introduzida no Japão por missionários portugueses no século XVI. A massa leve e crocante envolve frutos do mar e vegetais fritos rapidamente."
+    },
+    {
+      "id": "gastronomia-4-9",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "Qual é a diferença entre 'espresso' e 'café filtrado'?",
+      "options": [
+        "Diferem apenas no tipo de grão usado",
+        "O espresso usa pressão alta e pouca água; o filtrado usa gravidade e mais água",
+        "Espresso é mais fraco e menos concentrado",
+        "Café filtrado tem mais cafeína que espresso"
+      ],
+      "correctAnswer": "O espresso usa pressão alta e pouca água; o filtrado usa gravidade e mais água",
+      "explanation": "Espresso é preparado com água quente sob pressão de ~9 bar por 25-30 segundos, resultando em bebida concentrada. Café filtrado usa gravidade, produzindo bebida mais diluída e maior volume."
+    },
+    {
+      "id": "gastronomia-4-10",
+      "category": "gastronomia",
+      "difficulty": 4,
+      "question": "O que é 'coulis' na culinária?",
+      "options": [
+        "Um caldo concentrado de carne reduzido",
+        "Um purê líquido e peneirado de frutas ou legumes",
+        "Uma massa folhada francesa com recheio",
+        "Um molho cremoso à base de natas"
+      ],
+      "correctAnswer": "Um purê líquido e peneirado de frutas ou legumes",
+      "explanation": "Coulis é um molho leve obtido ao processar e coar frutas (ex.: coulis de framboesa) ou legumes (ex.: coulis de tomate), usado como acompanhamento ou decoração de pratos."
+    }
+  ]
+}

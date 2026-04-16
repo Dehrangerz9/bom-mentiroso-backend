@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "astronomia-4-1",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "Qual planeta do Sistema Solar tem o maior número de luas conhecidas?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Netuno",
+        "Saturno"
+      ],
+      "correctAnswer": "Saturno",
+      "explanation": "Com 146 luas confirmadas até 2023, Saturno supera Júpiter e detém o maior número de satélites naturais."
+    },
+    {
+      "id": "astronomia-4-2",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "O que é uma 'gigante vermelha', estágio evolutivo de estrelas?",
+      "options": [
+        "Uma estrela de nêutrons em colapso",
+        "Uma estrela que esgotou hidrogênio no núcleo e expandiu",
+        "Uma protoestrela em formação na nebulosa",
+        "Um buraco negro em estágio inicial"
+      ],
+      "correctAnswer": "Uma estrela que esgotou hidrogênio no núcleo e expandiu",
+      "explanation": "Quando uma estrela como o Sol esgota seu hidrogênio, expande centenas de vezes, tornando-se uma gigante vermelha. O Sol se tornará uma em ~5 bilhões de anos, possivelmente engolindo a Terra."
+    },
+    {
+      "id": "astronomia-4-3",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "Qual é o nome do telescópio espacial lançado em 1990 que revolucionou a astronomia?",
+      "options": [
+        "Telescópio James Webb",
+        "Telescópio Spitzer",
+        "Telescópio Hubble",
+        "Telescópio Kepler"
+      ],
+      "correctAnswer": "Telescópio Hubble",
+      "explanation": "O Telescópio Espacial Hubble, lançado em 1990, forneceu imagens sem precedentes do universo. Após correção óptica em 1993, revolucionou nossa compreensão de galáxias e expansão do universo."
+    },
+    {
+      "id": "astronomia-4-4",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "O que é a 'matéria escura'?",
+      "options": [
+        "Matéria feita de buracos negros e estrelas mortas",
+        "Substância hipotética que não emite luz mas exerce força gravitacional",
+        "Gases que não refletem luz nas nebulosas",
+        "A matéria presente no interior dos buracos negros"
+      ],
+      "correctAnswer": "Substância hipotética que não emite luz mas exerce força gravitacional",
+      "explanation": "A matéria escura não interage com luz electromagnética, sendo detectada apenas por seus efeitos gravitacionais. Estima-se que compõe ~27% do universo, mas sua natureza é desconhecida."
+    },
+    {
+      "id": "astronomia-4-5",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "Qual planeta do Sistema Solar tem um dia mais longo que seu ano?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Mercúrio",
+        "Vênus"
+      ],
+      "correctAnswer": "Vênus",
+      "explanation": "Vênus tem rotação muito lenta: um dia venusiano (243 dias terrestres) é mais longo que seu ano (225 dias terrestres). Além disso, gira no sentido retrógrado."
+    },
+    {
+      "id": "astronomia-4-6",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "O que são 'pulsares' no universo?",
+      "options": [
+        "Estrelas variáveis que pulsam de tamanho regularmente",
+        "Estrelas de nêutrons que emitem radiação em feixes rotativos regulares",
+        "Quasares com emissão periódica de energia",
+        "Sistemas binários de estrelas que orbitam pulsando"
+      ],
+      "correctAnswer": "Estrelas de nêutrons que emitem radiação em feixes rotativos regulares",
+      "explanation": "Pulsares são estrelas de nêutrons altamente magnetizadas que giram rapidamente, emitindo feixes de ondas de rádio com precisão tão regular que foram inicialmente confundidos com sinais alienígenas."
+    },
+    {
+      "id": "astronomia-4-7",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "Qual é o nome do fenômeno em que a gravidade de um objeto massivo curva a luz ao seu redor?",
+      "options": [
+        "Paralaxe estelar",
+        "Efeito Doppler",
+        "Lente gravitacional",
+        "Aberração cromática"
+      ],
+      "correctAnswer": "Lente gravitacional",
+      "explanation": "A lente gravitacional, prevista pela relatividade geral de Einstein, foi confirmada em 1919. A gravidade de galáxias e buracos negros pode ampliar e distorcer imagens de objetos distantes."
+    },
+    {
+      "id": "astronomia-4-8",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "Qual é o nome do modelo científico que descreve a origem do universo há cerca de 13,8 bilhões de anos?",
+      "options": [
+        "Teoria do Estado Estacionário",
+        "Big Bang",
+        "Modelo Inflacionário",
+        "Hipótese do Universo Cíclico"
+      ],
+      "correctAnswer": "Big Bang",
+      "explanation": "O modelo do Big Bang é o mais aceito para descrever a origem e evolução do universo. O fundo cósmico de micro-ondas, descoberto em 1965, é sua principal evidência observacional."
+    },
+    {
+      "id": "astronomia-4-9",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "Qual sonda espacial é o objeto feito pelo homem mais distante da Terra?",
+      "options": [
+        "Pioneer 10",
+        "Voyager 2",
+        "Voyager 1",
+        "New Horizons"
+      ],
+      "correctAnswer": "Voyager 1",
+      "explanation": "A Voyager 1, lançada em 1977, ultrapassou a heliopausa em 2012 e está a mais de 23 bilhões de km da Terra. É o único objeto humano que saiu do Sistema Solar para o espaço interestelar."
+    },
+    {
+      "id": "astronomia-4-10",
+      "category": "astronomia",
+      "difficulty": 4,
+      "question": "O que são 'exoplanetas'?",
+      "options": [
+        "Planetas expulsos do Sistema Solar por forças gravitacionais",
+        "Planetas que orbitam estrelas fora do nosso Sistema Solar",
+        "Asteroides e cometas além da órbita de Netuno",
+        "Luas de planetas gigantes gasosos"
+      ],
+      "correctAnswer": "Planetas que orbitam estrelas fora do nosso Sistema Solar",
+      "explanation": "Exoplanetas são planetas além do nosso Sistema Solar. O primeiro foi confirmado em 1992. O telescópio Kepler (2009-2018) descobriu mais de 2.600, incluindo alguns na zona habitável de suas estrelas."
+    }
+  ]
+}

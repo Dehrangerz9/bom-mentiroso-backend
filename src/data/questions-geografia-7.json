@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "geografia-7-1",
+      "category": "geografia",
+      "difficulty": 7,
+      "question": "Qual arquipélago do Pacífico pertence ao Equador e foi fundamental para as teorias de Darwin?",
+      "options": [
+        "Galápagos",
+        "Havaí",
+        "Maldivas",
+        "Marquesas"
+      ],
+      "correctAnswer": "Galápagos",
+      "explanation": "As ilhas Galápagos inspiraram Darwin a formular a teoria da evolução por seleção natural após sua visita em 1835."
+    }
+  ]
+}

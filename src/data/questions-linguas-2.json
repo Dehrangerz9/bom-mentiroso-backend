@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "linguas-2-1",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "Qual é a língua com mais falantes nativos no mundo?",
+      "options": [
+        "Inglês",
+        "Espanhol",
+        "Hindi",
+        "Mandarim"
+      ],
+      "correctAnswer": "Mandarim",
+      "explanation": "O Mandarim (Putonghua) tem mais de 900 milhões de falantes nativos, sendo a língua materna com mais falantes no planeta."
+    },
+    {
+      "id": "linguas-2-2",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "Qual é a língua oficial da China?",
+      "options": [
+        "Cantonês",
+        "Shanghainês",
+        "Mandarim",
+        "Wu"
+      ],
+      "correctAnswer": "Mandarim",
+      "explanation": "O Mandarim (Putonghua) é a língua oficial da República Popular da China, baseada no dialeto de Pequim."
+    },
+    {
+      "id": "linguas-2-3",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "Em quantos países o português é língua oficial?",
+      "options": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "correctAnswer": "9",
+      "explanation": "O português é língua oficial em 9 países: Brasil, Portugal, Angola, Moçambique, Cabo Verde, Guiné-Bissau, São Tomé e Príncipe, Timor-Leste e Guiné Equatorial."
+    },
+    {
+      "id": "linguas-2-4",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "De qual língua africana vem a palavra 'samba'?",
+      "options": [
+        "Iorubá",
+        "Swahili",
+        "Zulu",
+        "Quimbundo"
+      ],
+      "correctAnswer": "Quimbundo",
+      "explanation": "A palavra 'samba' origina-se do quimbundo (língua banta de Angola), onde 'semba' significa o umbigada dançada nos rituais angolanos."
+    },
+    {
+      "id": "linguas-2-5",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "O que é uma língua franca?",
+      "options": [
+        "Uma língua extinta da França medieval",
+        "Uma língua artificial criada para diplomacia",
+        "Uma língua usada para comunicação entre falantes de línguas maternas diferentes",
+        "Uma língua com apenas uma variação dialetal"
+      ],
+      "correctAnswer": "Uma língua usada para comunicação entre falantes de línguas maternas diferentes",
+      "explanation": "Língua franca é qualquer idioma utilizado como meio de comunicação comum entre pessoas que não compartilham a mesma língua nativa."
+    },
+    {
+      "id": "linguas-2-6",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "Qual é o nome do sistema de escrita japonês mais utilizado para palavras nativas e conjugações verbais?",
+      "options": [
+        "Kanji",
+        "Romaji",
+        "Katakana",
+        "Hiragana"
+      ],
+      "correctAnswer": "Hiragana",
+      "explanation": "O Hiragana é um silabário japonês com 46 caracteres básicos, usado para palavras nativas, conjugações e partículas gramaticais."
+    },
+    {
+      "id": "linguas-2-7",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "Qual é a língua oficial da Suíça que também é oficial na Itália?",
+      "options": [
+        "Francês",
+        "Alemão",
+        "Romanche",
+        "Italiano"
+      ],
+      "correctAnswer": "Italiano",
+      "explanation": "A Suíça tem 4 línguas oficiais: alemão, francês, italiano e romanche. O italiano é também língua oficial da Itália e do Vaticano."
+    },
+    {
+      "id": "linguas-2-8",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "Qual é o nome do fenômeno linguístico em que palavras de línguas diferentes se misturam no mesmo discurso?",
+      "options": [
+        "Diglossia",
+        "Code-switching",
+        "Pidginização",
+        "Transliteração"
+      ],
+      "correctAnswer": "Code-switching",
+      "explanation": "Code-switching (ou alternância de código) é a prática de alternar entre duas ou mais línguas ou variedades linguísticas na mesma conversa."
+    },
+    {
+      "id": "linguas-2-9",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "Em qual país da África o swahili é língua oficial junto com o inglês?",
+      "options": [
+        "Nigéria",
+        "Etiópia",
+        "Tanzânia",
+        "Gana"
+      ],
+      "correctAnswer": "Tanzânia",
+      "explanation": "A Tanzânia tem o swahili e o inglês como línguas oficiais; o swahili é também amplamente falado no Quênia, Uganda e República Democrática do Congo."
+    },
+    {
+      "id": "linguas-2-10",
+      "category": "linguas",
+      "difficulty": 2,
+      "question": "O que é um falso cognato (ou 'falso amigo') em linguística?",
+      "options": [
+        "Uma palavra que tem o mesmo significado em dois idiomas",
+        "Uma palavra que parece similar em dois idiomas mas tem significados diferentes",
+        "Uma palavra emprestada de outro idioma com mesmo significado",
+        "Um arcaísmo reintroduzido na língua moderna"
+      ],
+      "correctAnswer": "Uma palavra que parece similar em dois idiomas mas tem significados diferentes",
+      "explanation": "Falsos cognatos são palavras parecidas em forma mas com significados diferentes: ex. 'borracha' em português (rubber) vs. 'borracha' em espanhol (drunk woman)."
+    }
+  ]
+}

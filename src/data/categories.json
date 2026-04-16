@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "id": "thoughtworks",
+      "name": "Thoughtworks",
+      "icon": "🌐"
+    },
+    {
+      "id": "cultura-pop",
+      "name": "Cultura Pop",
+      "icon": "🎬"
+    },
+    {
+      "id": "geografia",
+      "name": "Geografia do Mundo",
+      "icon": "🗺️"
+    },
+    {
+      "id": "historia-geral",
+      "name": "História Geral",
+      "icon": "📜"
+    },
+    {
+      "id": "ciencia-natureza",
+      "name": "Ciência e Natureza",
+      "icon": "🔬"
+    },
+    {
+      "id": "esportes",
+      "name": "Esportes e Olimpíadas",
+      "icon": "🏅"
+    },
+    {
+      "id": "literatura",
+      "name": "Literatura",
+      "icon": "📚"
+    },
+    {
+      "id": "gastronomia",
+      "name": "Gastronomia Mundial",
+      "icon": "🍽️"
+    },
+    {
+      "id": "artes",
+      "name": "Artes e Pintura",
+      "icon": "🎨"
+    },
+    {
+      "id": "astronomia",
+      "name": "Astronomia e Espaço",
+      "icon": "🚀"
+    },
+    {
+      "id": "linguas",
+      "name": "Línguas e Etimologia",
+      "icon": "🗣️"
+    },
+    {
+      "id": "jogos",
+      "name": "Jogos e Videogames",
+      "icon": "🎮"
+    },
+    {
+      "id": "economia",
+      "name": "Economia e Finanças",
+      "icon": "💰"
+    },
+    {
+      "id": "ecologia",
+      "name": "Ecologia e Sustentabilidade",
+      "icon": "🌱"
+    }
+  ]
+}

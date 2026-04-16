@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-1-1",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Qual personagem da Marvel usa um escudo redondo vermelho, branco e azul?",
+      "options": [
+        "Thor",
+        "Capitão América",
+        "Homem de Ferro",
+        "Hulk"
+      ],
+      "correctAnswer": "Capitão América",
+      "explanation": "O Capitão América é conhecido pelo seu escudo de vibranium com as cores da bandeira americana."
+    },
+    {
+      "id": "cultura-pop-1-2",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Qual personagem da DC Comics é conhecido como o 'Cavaleiro das Trevas'?",
+      "options": [
+        "Superman",
+        "Flash",
+        "Batman",
+        "Lanterna Verde"
+      ],
+      "correctAnswer": "Batman",
+      "explanation": "Batman é o herói mascarado de Gotham City, criado por Bob Kane e Bill Finger em 1939."
+    },
+    {
+      "id": "cultura-pop-1-3",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Qual cantora é mundialmente conhecida como a 'Rainha do Pop'?",
+      "options": [
+        "Beyoncé",
+        "Britney Spears",
+        "Lady Gaga",
+        "Madonna"
+      ],
+      "correctAnswer": "Madonna",
+      "explanation": "Madonna é chamada de Rainha do Pop pela sua influência cultural e longevidade na música desde os anos 1980."
+    },
+    {
+      "id": "cultura-pop-1-4",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Qual ator interpretou o personagem Tony Stark / Homem de Ferro no MCU?",
+      "options": [
+        "Chris Evans",
+        "Chris Hemsworth",
+        "Robert Downey Jr.",
+        "Mark Ruffalo"
+      ],
+      "correctAnswer": "Robert Downey Jr.",
+      "explanation": "Robert Downey Jr. interpretou Tony Stark em 10 filmes do MCU, de 2008 a 2019."
+    },
+    {
+      "id": "cultura-pop-1-5",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Em qual cidade fictícia mora a família Simpson?",
+      "options": [
+        "Shelbyville",
+        "Capital City",
+        "Springfield",
+        "Ogdenville"
+      ],
+      "correctAnswer": "Springfield",
+      "explanation": "A família Simpson mora em Springfield, cidade fictícia criada por Matt Groening na série que estreou em 1989."
+    },
+    {
+      "id": "cultura-pop-1-6",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Qual personagem fictício mora no número 221B da Baker Street?",
+      "options": [
+        "Hercule Poirot",
+        "James Bond",
+        "Sherlock Holmes",
+        "Inspector Clouseau"
+      ],
+      "correctAnswer": "Sherlock Holmes",
+      "explanation": "Sherlock Holmes, criado por Arthur Conan Doyle, vive no 221B Baker Street em Londres junto com o Dr. Watson."
+    },
+    {
+      "id": "cultura-pop-1-7",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Qual banda britânica ficou famosa pelos hits 'Yellow' e 'The Scientist'?",
+      "options": [
+        "Radiohead",
+        "Oasis",
+        "Coldplay",
+        "Muse"
+      ],
+      "correctAnswer": "Coldplay",
+      "explanation": "Coldplay é uma banda britânica formada em 1996 em Londres, liderada pelo vocalista Chris Martin."
+    },
+    {
+      "id": "cultura-pop-1-8",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Qual filme sul-coreano ganhou o Oscar de Melhor Filme em 2020?",
+      "options": [
+        "Tudo em Todo o Lugar ao Mesmo Tempo",
+        "Parasite",
+        "1917",
+        "Era Uma Vez em Hollywood"
+      ],
+      "correctAnswer": "Parasite",
+      "explanation": "'Parasite' (Bong Joon-ho) foi o primeiro filme não-inglês a vencer o Oscar de Melhor Filme na história da premiação."
+    },
+    {
+      "id": "cultura-pop-1-9",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Qual escritora criou a série de livros 'Harry Potter'?",
+      "options": [
+        "Stephenie Meyer",
+        "Suzanne Collins",
+        "J.K. Rowling",
+        "Ursula K. Le Guin"
+      ],
+      "correctAnswer": "J.K. Rowling",
+      "explanation": "J.K. Rowling publicou o primeiro livro de Harry Potter, 'A Pedra Filosofal', em 1997."
+    },
+    {
+      "id": "cultura-pop-1-10",
+      "category": "cultura-pop",
+      "difficulty": 1,
+      "question": "Qual série da Netflix apresenta crianças enfrentando criaturas sobrenaturais em Hawkins, Indiana?",
+      "options": [
+        "Dark",
+        "The OA",
+        "Stranger Things",
+        "Outer Banks"
+      ],
+      "correctAnswer": "Stranger Things",
+      "explanation": "Stranger Things, criada pelos irmãos Duffer, estreou na Netflix em 2016 e se tornou fenômeno cultural mundial."
+    }
+  ]
+}

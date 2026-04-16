@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "thoughtworks-3-1",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "Qual metodologia ágil é fortemente associada à cultura da Thoughtworks?",
+      "options": [
+        "Scrum",
+        "Kanban",
+        "Extreme Programming (XP)",
+        "SAFe"
+      ],
+      "correctAnswer": "Extreme Programming (XP)",
+      "explanation": "A Thoughtworks é pioneira no XP, com Martin Fowler e Kent Beck entre seus principais defensores."
+    },
+    {
+      "id": "thoughtworks-3-2",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "Qual metodologia ágil divide o trabalho em iterações chamadas sprints?",
+      "options": [
+        "Kanban",
+        "XP",
+        "Scrum",
+        "SAFe"
+      ],
+      "correctAnswer": "Scrum",
+      "explanation": "O Scrum usa sprints (iterações de 1–4 semanas) com cerimônias como planejamento, daily, revisão e retrospectiva para entregar valor incrementalmente."
+    },
+    {
+      "id": "thoughtworks-3-3",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "O que significa TDD no desenvolvimento de software?",
+      "options": [
+        "Test-Driven Development",
+        "Technical Debt Dashboard",
+        "Team Development Design",
+        "Total Deployment Delivery"
+      ],
+      "correctAnswer": "Test-Driven Development",
+      "explanation": "TDD é a prática de escrever testes automatizados antes do código de produção, guiando o design com ciclos Red-Green-Refactor."
+    },
+    {
+      "id": "thoughtworks-3-4",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "Qual dos valores do Manifesto Ágil prioriza 'software funcionando' sobre o quê?",
+      "options": [
+        "Processos e ferramentas",
+        "Documentação abrangente",
+        "Negociação de contratos",
+        "Seguir um plano"
+      ],
+      "correctAnswer": "Documentação abrangente",
+      "explanation": "O Manifesto Ágil valoriza 'software funcionando mais que documentação abrangente', sem eliminar a documentação, mas priorizando entregas funcionais."
+    },
+    {
+      "id": "thoughtworks-3-5",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "O que é 'refatoração' no contexto de desenvolvimento de software?",
+      "options": [
+        "Reescrever o sistema do zero",
+        "Melhorar a estrutura interna do código sem alterar seu comportamento externo",
+        "Adicionar novas funcionalidades ao sistema",
+        "Corrigir bugs críticos em produção"
+      ],
+      "correctAnswer": "Melhorar a estrutura interna do código sem alterar seu comportamento externo",
+      "explanation": "Refatoração melhora a legibilidade, manutenibilidade e design do código sem modificar o comportamento observável pelo usuário."
+    },
+    {
+      "id": "thoughtworks-3-6",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "Qual é o papel do 'Product Owner' em Scrum?",
+      "options": [
+        "Facilitar as cerimônias do time",
+        "Desenvolver as funcionalidades técnicas",
+        "Priorizar o backlog e representar os interesses do negócio",
+        "Gerenciar a infraestrutura de produção"
+      ],
+      "correctAnswer": "Priorizar o backlog e representar os interesses do negócio",
+      "explanation": "O Product Owner é responsável por maximizar o valor do produto, priorizando o backlog conforme as necessidades dos stakeholders."
+    },
+    {
+      "id": "thoughtworks-3-7",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "O que é 'integração contínua' (CI)?",
+      "options": [
+        "Fazer deploy em produção a cada commit",
+        "Integrar código de múltiplos desenvolvedores frequentemente com build e testes automáticos",
+        "Revisar código manualmente antes de cada release",
+        "Sincronizar bancos de dados entre ambientes"
+      ],
+      "correctAnswer": "Integrar código de múltiplos desenvolvedores frequentemente com build e testes automáticos",
+      "explanation": "CI automatiza build e testes a cada integração de código, detectando problemas rapidamente e reduzindo conflitos de merge."
+    },
+    {
+      "id": "thoughtworks-3-8",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "Qual princípio SOLID determina que uma classe deve ter apenas um motivo para mudar?",
+      "options": [
+        "Open/Closed Principle",
+        "Liskov Substitution",
+        "Single Responsibility Principle",
+        "Interface Segregation"
+      ],
+      "correctAnswer": "Single Responsibility Principle",
+      "explanation": "O Princípio da Responsabilidade Única (SRP) afirma que cada classe deve ter uma única responsabilidade, tornando o código mais coeso e fácil de manter."
+    },
+    {
+      "id": "thoughtworks-3-9",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "O que é 'pair programming'?",
+      "options": [
+        "Dois times competindo para implementar a mesma feature",
+        "Dois programadores trabalhando juntos no mesmo computador simultaneamente",
+        "Revisar o código de outro programador de forma assíncrona",
+        "Programar usando duas linguagens ao mesmo tempo"
+      ],
+      "correctAnswer": "Dois programadores trabalhando juntos no mesmo computador simultaneamente",
+      "explanation": "No pair programming, um programador escreve o código (driver) enquanto o outro revisa em tempo real (navigator), melhorando qualidade e compartilhamento de conhecimento."
+    },
+    {
+      "id": "thoughtworks-3-10",
+      "category": "thoughtworks",
+      "difficulty": 3,
+      "question": "O que é um 'retrospectiva' no Scrum?",
+      "options": [
+        "Revisão do produto com os stakeholders",
+        "Planejamento do próximo sprint",
+        "Cerimônia para o time refletir e melhorar seus processos",
+        "Apresentação de métricas de desempenho ao cliente"
+      ],
+      "correctAnswer": "Cerimônia para o time refletir e melhorar seus processos",
+      "explanation": "A retrospectiva ocorre ao final de cada sprint e permite ao time inspecionar seu processo de trabalho e criar planos de melhoria contínua."
+    }
+  ]
+}

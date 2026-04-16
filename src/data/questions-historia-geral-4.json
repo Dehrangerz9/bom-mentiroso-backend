@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "historia-geral-4-1",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Em qual batalha Napoleão Bonaparte foi definitivamente derrotado em 1815?",
+      "options": [
+        "Austerlitz",
+        "Leipzig",
+        "Waterloo",
+        "Trafalgar"
+      ],
+      "correctAnswer": "Waterloo",
+      "explanation": "A Batalha de Waterloo, em junho de 1815, no atual território da Bélgica, encerrou o período napoleônico."
+    },
+    {
+      "id": "historia-geral-4-2",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Qual civilização antiga construiu Machu Picchu, nas montanhas dos Andes?",
+      "options": [
+        "Maias",
+        "Astecas",
+        "Incas",
+        "Olmecas"
+      ],
+      "correctAnswer": "Incas",
+      "explanation": "Machu Picchu foi construída pelos Incas no século XV, a 2.430m de altitude no Peru. Foi 'redescoberta' pelo ocidente em 1911 por Hiram Bingham e é Patrimônio da Humanidade."
+    },
+    {
+      "id": "historia-geral-4-3",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Qual foi o nome do navio em que Darwin viajou e realizou suas observações que levaram à teoria da evolução?",
+      "options": [
+        "HMS Victory",
+        "HMS Beagle",
+        "HMS Endeavour",
+        "HMS Discovery"
+      ],
+      "correctAnswer": "HMS Beagle",
+      "explanation": "Darwin viajou pelo mundo no HMS Beagle entre 1831 e 1836. As observações nas Ilhas Galápagos foram cruciais para formular a teoria da seleção natural."
+    },
+    {
+      "id": "historia-geral-4-4",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Em que ano foi derrubado o Muro de Berlim, simbolizando o fim da Guerra Fria?",
+      "options": [
+        "1987",
+        "1988",
+        "1989",
+        "1991"
+      ],
+      "correctAnswer": "1989",
+      "explanation": "O Muro de Berlim foi derrubado em 9 de novembro de 1989, após 28 anos dividindo a cidade. A reunificação alemã foi concluída em outubro de 1990."
+    },
+    {
+      "id": "historia-geral-4-5",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Qual imperador francês foi derrotado na Batalha de Waterloo em 1815?",
+      "options": [
+        "Luís XIV",
+        "Napoleão Bonaparte",
+        "Napoleão III",
+        "Luís XVI"
+      ],
+      "correctAnswer": "Napoleão Bonaparte",
+      "explanation": "Napoleão Bonaparte foi derrotado em Waterloo (atual Bélgica) em 18 de junho de 1815 pelas forças britânicas e prussianas, encerrando o Império Napoleônico."
+    },
+    {
+      "id": "historia-geral-4-6",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Qual foi a primeira civilização a desenvolver a escrita cuneiforme?",
+      "options": [
+        "Egípcios",
+        "Fenícios",
+        "Sumérios",
+        "Acadianos"
+      ],
+      "correctAnswer": "Sumérios",
+      "explanation": "Os Sumérios da Mesopotâmia (atual Iraque) desenvolveram a escrita cuneiforme por volta de 3.500 a.C., usada para registros comerciais, leis e literatura como a Epopeia de Gilgamesh."
+    },
+    {
+      "id": "historia-geral-4-7",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Qual evento de 1453 marcou o fim da Idade Média?",
+      "options": [
+        "Descobrimento da América",
+        "Queda de Constantinopla",
+        "Invenção da imprensa",
+        "Fim da Guerra dos Cem Anos"
+      ],
+      "correctAnswer": "Queda de Constantinopla",
+      "explanation": "A queda de Constantinopla para os turcos otomanos em 1453 é convencionalmente usada para marcar o fim da Idade Média e início da Idade Moderna."
+    },
+    {
+      "id": "historia-geral-4-8",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Qual foi a principal causa da Revolução Industrial na Inglaterra no século XVIII?",
+      "options": [
+        "Descoberta de novas rotas comerciais",
+        "Invenção da máquina a vapor e mecanização da produção",
+        "Expansão do comércio escravagista atlântico",
+        "Reforma religiosa protestante de Lutero"
+      ],
+      "correctAnswer": "Invenção da máquina a vapor e mecanização da produção",
+      "explanation": "A Revolução Industrial (c. 1760-1840) foi impulsionada pela máquina a vapor de James Watt, carvão mineral e mecanização têxtil, transformando produção artesanal em industrial."
+    },
+    {
+      "id": "historia-geral-4-9",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Qual líder indiano liderou a resistência não violenta contra o domínio britânico?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Bhimrao Ambedkar"
+      ],
+      "correctAnswer": "Mahatma Gandhi",
+      "explanation": "Mahatma Gandhi (1869-1948) liderou o movimento de independência indiana através da desobediência civil não violenta (satyagraha), inspirando movimentos de direitos civis em todo o mundo."
+    },
+    {
+      "id": "historia-geral-4-10",
+      "category": "historia-geral",
+      "difficulty": 4,
+      "question": "Qual foi o nome da política de separação racial institucionalizada na África do Sul?",
+      "options": [
+        "Segregação",
+        "Apartheid",
+        "Jim Crow",
+        "Balcanização"
+      ],
+      "correctAnswer": "Apartheid",
+      "explanation": "O apartheid (afrikaans: 'separação') foi o regime de segregação racial da África do Sul de 1948 a 1994, encerrado com a eleição de Nelson Mandela como primeiro presidente negro."
+    }
+  ]
+}

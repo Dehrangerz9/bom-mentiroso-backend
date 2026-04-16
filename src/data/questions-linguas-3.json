@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "linguas-3-1",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "O que significa a palavra 'Serendipidade'?",
+      "options": [
+        "Melancolia profunda",
+        "Nostalgia da terra natal",
+        "Descoberta feliz por acaso",
+        "Sensação de deja-vu"
+      ],
+      "correctAnswer": "Descoberta feliz por acaso",
+      "explanation": "Serendipidade vem do inglês 'serendipity', criado por Horace Walpole em 1754 a partir do conto persa 'Os Três Príncipes de Serendip'."
+    },
+    {
+      "id": "linguas-3-2",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "Qual é a língua mais falada no mundo como língua nativa?",
+      "options": [
+        "Inglês",
+        "Mandarim",
+        "Espanhol",
+        "Hindi"
+      ],
+      "correctAnswer": "Mandarim",
+      "explanation": "O mandarim é a língua com mais falantes nativos (~920 milhões), seguido do espanhol. O inglês lidera quando somados falantes nativos e não-nativos."
+    },
+    {
+      "id": "linguas-3-3",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "De qual língua a palavra 'tsunami' é originária?",
+      "options": [
+        "Chinês",
+        "Português",
+        "Japonês",
+        "Havaiano"
+      ],
+      "correctAnswer": "Japonês",
+      "explanation": "Tsunami vem do japonês: 'tsu' (porto/baía) + 'nami' (onda). O termo foi adotado internacionalmente após o tsunami do Oceano Índico de 2004."
+    },
+    {
+      "id": "linguas-3-4",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "Qual é o único país lusófono da América do Sul?",
+      "options": [
+        "Suriname",
+        "Guiana Francesa",
+        "Brasil",
+        "Paraguai"
+      ],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil é o único país da América do Sul onde o português é língua oficial, resultado da colonização portuguesa após o Tratado de Tordesilhas (1494)."
+    },
+    {
+      "id": "linguas-3-5",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "Qual é o sistema de escrita usado no japonês para palavras estrangeiras adaptadas?",
+      "options": [
+        "Hiragana",
+        "Kanji",
+        "Romaji",
+        "Katakana"
+      ],
+      "correctAnswer": "Katakana",
+      "explanation": "O katakana é um dos três sistemas de escrita japoneses, usado principalmente para transcrever palavras estrangeiras (gairaigo), como 'terebi' (televisão)."
+    },
+    {
+      "id": "linguas-3-6",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "Qual língua românica é falada na Romênia?",
+      "options": [
+        "Latim vulgar",
+        "Romeno",
+        "Catalão",
+        "Reto-romano"
+      ],
+      "correctAnswer": "Romeno",
+      "explanation": "O romeno é uma língua românica derivada do latim, falada por cerca de 24 milhões de pessoas. Preserva muitas características do latim vulgar do Império Romano."
+    },
+    {
+      "id": "linguas-3-7",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "O que é um 'falso cognato' entre dois idiomas?",
+      "options": [
+        "Palavras idênticas com mesmo significado",
+        "Palavras semelhantes na forma mas com significados diferentes",
+        "Palavras sem equivalência em outra língua",
+        "Palavras emprestadas entre idiomas"
+      ],
+      "correctAnswer": "Palavras semelhantes na forma mas com significados diferentes",
+      "explanation": "Falsos cognatos (ou 'false friends') são armadilhas linguísticas; ex.: 'polvo' em português (octopus) e 'polvo' em espanhol (pó/dust) têm significados opostos."
+    },
+    {
+      "id": "linguas-3-8",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "Qual é o alfabeto mais usado no mundo em número de idiomas que o utilizam?",
+      "options": [
+        "Cirílico",
+        "Árabe",
+        "Latino",
+        "Devanágari"
+      ],
+      "correctAnswer": "Latino",
+      "explanation": "O alfabeto latino é usado por mais línguas do que qualquer outro, incluindo inglês, espanhol, português, francês, alemão, italiano e centenas de outras."
+    },
+    {
+      "id": "linguas-3-9",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "O que estuda a 'fonologia' na linguística?",
+      "options": [
+        "A origem histórica das palavras",
+        "O sistema de sons de uma língua e suas funções",
+        "A estrutura das sentenças",
+        "O significado das palavras e expressões"
+      ],
+      "correctAnswer": "O sistema de sons de uma língua e suas funções",
+      "explanation": "A fonologia estuda os sistemas de sons (fonemas) das línguas e como eles funcionam para distinguir significados, diferente da fonética, que estuda os sons fisicamente."
+    },
+    {
+      "id": "linguas-3-10",
+      "category": "linguas",
+      "difficulty": 3,
+      "question": "Qual é o nome do estudo da origem e história das palavras?",
+      "options": [
+        "Morfologia",
+        "Etimologia",
+        "Semântica",
+        "Pragmática"
+      ],
+      "correctAnswer": "Etimologia",
+      "explanation": "A etimologia rastreia a origem e evolução histórica das palavras. Por exemplo, 'escola' vem do grego 'skholē' (lazer), pois estudar era inicialmente privilégio dos que tinham tempo livre."
+    }
+  ]
+}

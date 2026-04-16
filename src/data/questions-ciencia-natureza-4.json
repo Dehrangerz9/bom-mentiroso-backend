@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "ciencia-natureza-4-1",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "Qual é a velocidade da luz no vácuo, aproximadamente?",
+      "options": [
+        "150.000 km/s",
+        "300.000 km/s",
+        "600.000 km/s",
+        "1.000.000 km/s"
+      ],
+      "correctAnswer": "300.000 km/s",
+      "explanation": "A velocidade da luz no vácuo é de 299.792.458 m/s, aproximadamente 300.000 km/s."
+    },
+    {
+      "id": "ciencia-natureza-4-2",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "O que é o DNA e qual é sua função principal?",
+      "options": [
+        "Proteína que catalisa reações químicas",
+        "Molécula que armazena a informação genética dos organismos",
+        "Hormônio produzido pelas células",
+        "Organela responsável pela produção de energia"
+      ],
+      "correctAnswer": "Molécula que armazena a informação genética dos organismos",
+      "explanation": "O DNA (ácido desoxirribonucleico) é a molécula helicoidal dupla que contém as instruções genéticas para o desenvolvimento, funcionamento e reprodução de todos os seres vivos."
+    },
+    {
+      "id": "ciencia-natureza-4-3",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "Qual é o nome do processo pelo qual líquidos se transformam em gás abaixo do ponto de ebulição?",
+      "options": [
+        "Condensação",
+        "Evaporação",
+        "Sublimação",
+        "Fusão"
+      ],
+      "correctAnswer": "Evaporação",
+      "explanation": "A evaporação ocorre na superfície de um líquido a qualquer temperatura, enquanto a ebulição ocorre em toda a massa do líquido a temperatura específica de pressão normal."
+    },
+    {
+      "id": "ciencia-natureza-4-4",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "Quantos cromossomos tem uma célula somática humana normal?",
+      "options": [
+        "23",
+        "46",
+        "48",
+        "44"
+      ],
+      "correctAnswer": "46",
+      "explanation": "Células somáticas (não sexuais) humanas têm 46 cromossomos em 23 pares. Os gametas têm 23 cromossomos (haploides). Síndromes como Down (trissomia 21) alteram esse número."
+    },
+    {
+      "id": "ciencia-natureza-4-5",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "O que é a 'entropia' na termodinâmica?",
+      "options": [
+        "A energia total de um sistema",
+        "A medida da desordem ou aleatoriedade de um sistema",
+        "A temperatura de equilíbrio entre dois sistemas",
+        "A pressão exercida por um gás num recipiente"
+      ],
+      "correctAnswer": "A medida da desordem ou aleatoriedade de um sistema",
+      "explanation": "A entropia (Segunda Lei da Termodinâmica) tende a aumentar em sistemas isolados. Significa que energia tende a se dispersar e sistemas evoluem naturalmente para maior desordem."
+    },
+    {
+      "id": "ciencia-natureza-4-6",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "Qual é o elemento mais abundante no universo?",
+      "options": [
+        "Oxigênio",
+        "Carbono",
+        "Hidrogênio",
+        "Hélio"
+      ],
+      "correctAnswer": "Hidrogênio",
+      "explanation": "O hidrogênio representa cerca de 75% da massa atômica do universo. É o combustível das estrelas através da fusão nuclear, que converte hidrogênio em hélio."
+    },
+    {
+      "id": "ciencia-natureza-4-7",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "O que é a 'gravidade quântica', problema em aberto na física?",
+      "options": [
+        "A gravidade em ambientes com vácuo absoluto",
+        "A busca por uma teoria que unifique relatividade geral e mecânica quântica",
+        "A força gravitacional em escala subatômica já explicada",
+        "O estudo de buracos negros sob a relatividade especial"
+      ],
+      "correctAnswer": "A busca por uma teoria que unifique relatividade geral e mecânica quântica",
+      "explanation": "A gravidade quântica é um dos maiores problemas não resolvidos da física: a relatividade geral (macroscópica) e a mecânica quântica (microscópica) são incompatíveis matematicamente."
+    },
+    {
+      "id": "ciencia-natureza-4-8",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "Qual organela celular é responsável pela produção de ATP (energia)?",
+      "options": [
+        "Ribossomo",
+        "Retículo endoplasmático",
+        "Mitocôndria",
+        "Aparelho de Golgi"
+      ],
+      "correctAnswer": "Mitocôndria",
+      "explanation": "A mitocôndria realiza a respiração celular aeróbia, produzindo ATP através do ciclo de Krebs e fosforilação oxidativa. É chamada de 'usina de energia' da célula."
+    },
+    {
+      "id": "ciencia-natureza-4-9",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "Qual é o nome do campo magnético que protege a Terra do vento solar?",
+      "options": [
+        "Ionosfera",
+        "Atmosfera",
+        "Magnetosfera",
+        "Troposfera"
+      ],
+      "correctAnswer": "Magnetosfera",
+      "explanation": "A magnetosfera terrestre, gerada pelo núcleo líquido de ferro, deflete partículas carregadas do vento solar. Sem ela, a atmosfera seria gradualmente erodida como aconteceu em Marte."
+    },
+    {
+      "id": "ciencia-natureza-4-10",
+      "category": "ciencia-natureza",
+      "difficulty": 4,
+      "question": "Qual é o nome da teoria que explica a formação do Sistema Solar a partir de uma nuvem de gás e poeira?",
+      "options": [
+        "Teoria da panspermia",
+        "Hipótese nebular",
+        "Teoria do Big Bang",
+        "Hipótese de Gaia"
+      ],
+      "correctAnswer": "Hipótese nebular",
+      "explanation": "A Hipótese Nebular, proposta por Kant e Laplace, descreve como o Sistema Solar se formou há ~4,6 bilhões de anos a partir do colapso gravitacional de uma nuvem de gás e poeira."
+    }
+  ]
+}

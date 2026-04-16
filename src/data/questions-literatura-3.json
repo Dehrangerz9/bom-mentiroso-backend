@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "literatura-3-1",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Qual obra de Shakespeare narra a história de um príncipe dinamarquês que busca vingar a morte do pai?",
+      "options": [
+        "Macbeth",
+        "Rei Lear",
+        "Otelo",
+        "Hamlet"
+      ],
+      "correctAnswer": "Hamlet",
+      "explanation": "'Hamlet' é a tragédia mais famosa de Shakespeare, com o monólogo 'Ser ou não ser, eis a questão'."
+    },
+    {
+      "id": "literatura-3-2",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Quem escreveu 'Dom Casmurro', obra do Realismo brasileiro?",
+      "options": [
+        "José de Alencar",
+        "Euclides da Cunha",
+        "Machado de Assis",
+        "Lima Barreto"
+      ],
+      "correctAnswer": "Machado de Assis",
+      "explanation": "'Dom Casmurro' (1899) de Machado de Assis é um dos maiores clássicos da literatura brasileira, famoso pela questão não resolvida sobre a fidelidade de Capitu."
+    },
+    {
+      "id": "literatura-3-3",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Qual é o nome do protagonista de 'O Senhor dos Anéis' de J.R.R. Tolkien?",
+      "options": [
+        "Bilbo Bolseiro",
+        "Aragorn",
+        "Frodo Bolseiro",
+        "Gandalf"
+      ],
+      "correctAnswer": "Frodo Bolseiro",
+      "explanation": "Frodo Bolseiro é o hobbit encarregado de destruir o Um Anel nas Fendas da Perdição em Mordor, jornada que forma o eixo central da trilogia de Tolkien."
+    },
+    {
+      "id": "literatura-3-4",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Qual escritora britânica criou o personagem Harry Potter?",
+      "options": [
+        "Agatha Christie",
+        "J.K. Rowling",
+        "Virginia Woolf",
+        "Enid Blyton"
+      ],
+      "correctAnswer": "J.K. Rowling",
+      "explanation": "J.K. Rowling escreveu os 7 livros da saga Harry Potter entre 1997 e 2007, tornando-se uma das autoras mais vendidas da história com mais de 500 milhões de cópias."
+    },
+    {
+      "id": "literatura-3-5",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Em qual obra Dante Alighieri descreve uma viagem imaginária pelo Inferno, Purgatório e Paraíso?",
+      "options": [
+        "Os Lusíadas",
+        "A Divina Comédia",
+        "Eneida",
+        "A Odisseia"
+      ],
+      "correctAnswer": "A Divina Comédia",
+      "explanation": "A Divina Comédia, escrita entre 1308 e 1320, é o poema épico de Dante em que ele é guiado por Virgílio pelo Inferno e Purgatório e por Beatriz pelo Paraíso."
+    },
+    {
+      "id": "literatura-3-6",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Qual é o movimento literário de Drummond, Oswald de Andrade e Mário de Andrade no Brasil?",
+      "options": [
+        "Romantismo",
+        "Parnasianismo",
+        "Modernismo",
+        "Simbolismo"
+      ],
+      "correctAnswer": "Modernismo",
+      "explanation": "O Modernismo brasileiro teve como marco a Semana de Arte Moderna de 1922 em São Paulo. Drummond, Oswald e Mário de Andrade são seus maiores representantes."
+    },
+    {
+      "id": "literatura-3-7",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Qual autor russo escreveu 'Crime e Castigo'?",
+      "options": [
+        "Leon Tolstói",
+        "Anton Tchekhov",
+        "Fiódor Dostoiévski",
+        "Nikolai Gogol"
+      ],
+      "correctAnswer": "Fiódor Dostoiévski",
+      "explanation": "'Crime e Castigo' (1866) de Dostoiévski narra o estudante Raskólnikov que comete um assassinato e é consumido pela culpa, explorando psicologia e moralidade."
+    },
+    {
+      "id": "literatura-3-8",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Qual obra de Gabriel García Márquez é considerada o maior exemplo do Realismo Mágico?",
+      "options": [
+        "O Amor nos Tempos do Cólera",
+        "Cem Anos de Solidão",
+        "O Coronel não tem quem lhe escreva",
+        "A Increível e Triste História de Cândida Erêndira"
+      ],
+      "correctAnswer": "Cem Anos de Solidão",
+      "explanation": "'Cem Anos de Solidão' (1967) narra sete gerações da família Buendía em Macondo, misturando realidade e fantasia. Valeu a García Márquez o Nobel de Literatura em 1982."
+    },
+    {
+      "id": "literatura-3-9",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Qual escritora brasileira é autora de 'A Paixão Segundo G.H.'?",
+      "options": [
+        "Rachel de Queiroz",
+        "Clarice Lispector",
+        "Cecília Meireles",
+        "Lygia Fagundes Telles"
+      ],
+      "correctAnswer": "Clarice Lispector",
+      "explanation": "Clarice Lispector (1920-1977) é considerada a maior escritora brasileira do século XX. 'A Paixão Segundo G.H.' (1964) é seu romance mais experimental e filosófico."
+    },
+    {
+      "id": "literatura-3-10",
+      "category": "literatura",
+      "difficulty": 3,
+      "question": "Qual é o nome da obra épica de Homero que narra as aventuras de Ulisses ao retornar da Guerra de Troia?",
+      "options": [
+        "Ilíada",
+        "Odisseia",
+        "Eneida",
+        "Teogonia"
+      ],
+      "correctAnswer": "Odisseia",
+      "explanation": "A Odisseia narra os 10 anos de peregrinação de Ulisses (Odisseu) após a Guerra de Troia, enfrentando ciclopes, sereias e a ira do deus Poseidon."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-5-1",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Qual processo de cocção consiste em cozinhar alimentos a vácuo em temperatura precisa e controlada por longo período?",
+      "options": [
+        "Confitar",
+        "Sous vide",
+        "Brasear",
+        "Escaldar"
+      ],
+      "correctAnswer": "Sous vide",
+      "explanation": "Sous vide (em francês: 'sob vácuo') é uma técnica em que o alimento é selado e cozido em banho-maria com temperatura exata."
+    }
+  ]
+}

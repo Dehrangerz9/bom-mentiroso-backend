@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "esportes-9-1",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "Qual equipe de Fórmula 1 tem o maior número de títulos de construtores na história do esporte?",
+      "options": [
+        "McLaren",
+        "Williams",
+        "Red Bull",
+        "Ferrari"
+      ],
+      "correctAnswer": "Ferrari",
+      "explanation": "A Ferrari é a equipe mais vitoriosa da F1 em títulos de construtores, com 16 conquistas até 2023."
+    }
+  ]
+}

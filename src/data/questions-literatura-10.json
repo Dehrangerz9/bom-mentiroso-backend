@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "literatura-10-1",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Qual é o termo literário para o recurso narrativo em que o narrador revela ao leitor informações que os personagens desconhecem, criando tensão dramática?",
+      "options": [
+        "Analepse",
+        "Ironia dramática",
+        "Metalepse",
+        "Mise en abyme"
+      ],
+      "correctAnswer": "Ironia dramática",
+      "explanation": "A ironia dramática (ou ironia trágica) é o recurso pelo qual o leitor sabe mais que o personagem, criando suspense ou pathos."
+    }
+  ]
+}

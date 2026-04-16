@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "linguas-8-1",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "Qual é o nome da hipótese linguística que sugere que a estrutura da língua que falamos influencia nossa percepção e categorização da realidade?",
+      "options": [
+        "Hipótese de Chomsky",
+        "Relatividade linguística (Sapir-Whorf)",
+        "Teoria dos atos de fala",
+        "Hipótese biolingüística"
+      ],
+      "correctAnswer": "Relatividade linguística (Sapir-Whorf)",
+      "explanation": "A hipótese Sapir-Whorf (ou relatividade linguística) propõe que a língua molda o pensamento. A versão forte (determinismo) é rejeitada, mas a fraca tem suporte empírico."
+    }
+  ]
+}

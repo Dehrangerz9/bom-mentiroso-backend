@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-1-1",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Quem pintou a 'Mona Lisa'?",
+      "options": [
+        "Michelangelo",
+        "Rafael",
+        "Caravaggio",
+        "Leonardo da Vinci"
+      ],
+      "correctAnswer": "Leonardo da Vinci",
+      "explanation": "A Mona Lisa foi pintada por Leonardo da Vinci entre 1503 e 1519 e está exposta no Louvre, em Paris."
+    },
+    {
+      "id": "artes-1-2",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Qual artista pintou 'A Noite Estrelada'?",
+      "options": [
+        "Pablo Picasso",
+        "Claude Monet",
+        "Salvador Dalí",
+        "Vincent van Gogh"
+      ],
+      "correctAnswer": "Vincent van Gogh",
+      "explanation": "'A Noite Estrelada' foi pintada por Vincent van Gogh em 1889 enquanto estava internado num asilo em Saint-Rémy-de-Provence."
+    },
+    {
+      "id": "artes-1-3",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Em qual país fica o Museu do Louvre?",
+      "options": [
+        "Itália",
+        "Espanha",
+        "Alemanha",
+        "França"
+      ],
+      "correctAnswer": "França",
+      "explanation": "O Louvre fica em Paris, França, e é o maior museu de arte do mundo, recebendo cerca de 9 milhões de visitantes por ano."
+    },
+    {
+      "id": "artes-1-4",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Qual é o nome da famosa escultura de Michelangelo que representa o rei Davi bíblico?",
+      "options": [
+        "A Pietá",
+        "O Moisés",
+        "Davi",
+        "O Escravo Moribundo"
+      ],
+      "correctAnswer": "Davi",
+      "explanation": "O Davi de Michelangelo foi esculpido entre 1501 e 1504 em mármore branco e está exposto na Galleria dell'Accademia, em Florença."
+    },
+    {
+      "id": "artes-1-5",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Qual movimento artístico é associado a sonhos e ao inconsciente, com Salvador Dalí como representante?",
+      "options": [
+        "Cubismo",
+        "Expressionismo",
+        "Surrealismo",
+        "Dadaísmo"
+      ],
+      "correctAnswer": "Surrealismo",
+      "explanation": "O Surrealismo, fundado por André Breton em 1924, explorava o inconsciente e os sonhos como fonte criativa."
+    },
+    {
+      "id": "artes-1-6",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Quem criou a escultura 'O Pensador'?",
+      "options": [
+        "Bernini",
+        "Rodin",
+        "Brancusi",
+        "Giacometti"
+      ],
+      "correctAnswer": "Rodin",
+      "explanation": "'O Pensador' foi criado pelo escultor francês Auguste Rodin em 1880 e é uma das esculturas mais reconhecíveis do mundo."
+    },
+    {
+      "id": "artes-1-7",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Qual artista espanhol co-fundou o Cubismo e pintou 'Guernica'?",
+      "options": [
+        "Francisco Goya",
+        "Salvador Dalí",
+        "Joan Miró",
+        "Pablo Picasso"
+      ],
+      "correctAnswer": "Pablo Picasso",
+      "explanation": "Pablo Picasso (1881-1973) é um dos artistas mais influentes do século XX, cofundador do Cubismo e autor de 'Guernica'."
+    },
+    {
+      "id": "artes-1-8",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Em qual técnica artística o criador usa agulha e linha para criar imagens em tecido?",
+      "options": [
+        "Mosaico",
+        "Bordado",
+        "Vitral",
+        "Gravura"
+      ],
+      "correctAnswer": "Bordado",
+      "explanation": "O bordado é uma técnica milenar de decoração de tecidos com agulha e linha, presente em praticamente todas as culturas do mundo."
+    },
+    {
+      "id": "artes-1-9",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Qual artista brasileiro pintou 'Operários' e os afrescos da Igreja da Pampulha?",
+      "options": [
+        "Di Cavalcanti",
+        "Lasar Segall",
+        "Cândido Portinari",
+        "Tarsila do Amaral"
+      ],
+      "correctAnswer": "Cândido Portinari",
+      "explanation": "Cândido Portinari (1903-1962) é um dos mais importantes pintores brasileiros, famoso pelas obras 'Café', 'Retirantes' e os painéis da ONU."
+    },
+    {
+      "id": "artes-1-10",
+      "category": "artes",
+      "difficulty": 1,
+      "question": "Qual instrumento de teclado foi amplamente associado às composições de Ludwig van Beethoven?",
+      "options": [
+        "Órgão",
+        "Cravo",
+        "Acordeão",
+        "Piano"
+      ],
+      "correctAnswer": "Piano",
+      "explanation": "Beethoven compôs 32 sonatas para piano e foi um dos primeiros grandes compositores a explorar plenamente o pianoforte."
+    }
+  ]
+}

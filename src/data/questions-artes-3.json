@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-3-1",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Qual movimento artístico do séc. XX é caracterizado pela decomposição de formas em planos geométricos, associado a Picasso e Braque?",
+      "options": [
+        "Surrealismo",
+        "Expressionismo",
+        "Cubismo",
+        "Fauvismo"
+      ],
+      "correctAnswer": "Cubismo",
+      "explanation": "O Cubismo surgiu por volta de 1907, com 'Les Demoiselles d'Avignon' de Picasso sendo considerada sua obra inaugural."
+    },
+    {
+      "id": "artes-3-2",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Quem pintou 'A Noite Estrelada', famosa obra com espirais de céu noturno?",
+      "options": [
+        "Claude Monet",
+        "Paul Gauguin",
+        "Vincent van Gogh",
+        "Paul Cézanne"
+      ],
+      "correctAnswer": "Vincent van Gogh",
+      "explanation": "'A Noite Estrelada' (1889) foi pintada por Van Gogh durante sua internação no asilo Saint-Paul-de-Mausole. É uma das pinturas mais reconhecidas do mundo."
+    },
+    {
+      "id": "artes-3-3",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Qual é o nome da técnica de escultura em que se remove material de um bloco sólido?",
+      "options": [
+        "Modelagem",
+        "Escultura por subtração",
+        "Fundição",
+        "Assemblagem"
+      ],
+      "correctAnswer": "Escultura por subtração",
+      "explanation": "A escultura subtrativa (como a cinzelagem em mármore ou madeira) remove material do bloco. Michelangelo disse que a estátua já estava na pedra; ele apenas a libertava."
+    },
+    {
+      "id": "artes-3-4",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Qual movimento artístico do início do século XX desafiou a lógica com imagens oníricas e absurdas?",
+      "options": [
+        "Impressionismo",
+        "Cubismo",
+        "Surrealismo",
+        "Expressionismo"
+      ],
+      "correctAnswer": "Surrealismo",
+      "explanation": "O Surrealismo, fundado por André Breton em 1924, explorava o inconsciente e os sonhos na arte. Salvador Dalí e René Magritte são seus maiores representantes."
+    },
+    {
+      "id": "artes-3-5",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Qual artista plástica mexicana ficou famosa por seus autorretratos com flores no cabelo?",
+      "options": [
+        "Remedios Varo",
+        "Leonora Carrington",
+        "Frida Kahlo",
+        "Tarsila do Amaral"
+      ],
+      "correctAnswer": "Frida Kahlo",
+      "explanation": "Frida Kahlo (1907-1954) produziu cerca de 55 autorretratos explorando dor, identidade e cultura mexicana. Sua obra ganhou projeção internacional após sua morte."
+    },
+    {
+      "id": "artes-3-6",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Qual é o nome da técnica de pintura que usa pigmentos misturados com clara de ovo?",
+      "options": [
+        "Aquarela",
+        "Têmpera",
+        "Óleo",
+        "Afresco"
+      ],
+      "correctAnswer": "Têmpera",
+      "explanation": "A têmpera (ou têmpera de ovo) foi a técnica dominante na pintura europeia até o século XV, quando o óleo a substituiu. Produz cores brilhantes e secagem rápida."
+    },
+    {
+      "id": "artes-3-7",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Qual arquiteto brasileiro projetou a cidade de Brasília?",
+      "options": [
+        "Rino Levi",
+        "Affonso Reidy",
+        "Oscar Niemeyer",
+        "Vilanova Artigas"
+      ],
+      "correctAnswer": "Oscar Niemeyer",
+      "explanation": "Oscar Niemeyer projetou os principais edifícios de Brasília, como o Congresso Nacional, o Palácio do Planalto e a Catedral Metropolitana, com o urbanismo de Lúcio Costa."
+    },
+    {
+      "id": "artes-3-8",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Qual é o estilo musical clássico desenvolvido por Johann Sebastian Bach no século XVIII?",
+      "options": [
+        "Romantismo",
+        "Barroco",
+        "Clássico",
+        "Renascentismo"
+      ],
+      "correctAnswer": "Barroco",
+      "explanation": "Bach é o maior representante do Barroco musical (1600-1750), período marcado por contraponto complexo, ornamentação e estruturas polifônicas como fugas e cantatas."
+    },
+    {
+      "id": "artes-3-9",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Qual obra de Leonardo da Vinci é conhecida pelo sorriso misterioso de sua protagonista?",
+      "options": [
+        "A Última Ceia",
+        "O Homem Vitruviano",
+        "Mona Lisa",
+        "A Anunciação"
+      ],
+      "correctAnswer": "Mona Lisa",
+      "explanation": "A Mona Lisa (c. 1503-1519) é o quadro mais famoso do mundo, exposta no Louvre, Paris. O sorriso ambíguo e o fundo atmosférico são seus traços mais discutidos."
+    },
+    {
+      "id": "artes-3-10",
+      "category": "artes",
+      "difficulty": 3,
+      "question": "Qual artista pop americano ficou famoso por retratos de latas de sopa Campbell e ícones da cultura de massa?",
+      "options": [
+        "Roy Lichtenstein",
+        "Andy Warhol",
+        "Jasper Johns",
+        "Robert Rauschenberg"
+      ],
+      "correctAnswer": "Andy Warhol",
+      "explanation": "Andy Warhol foi o principal representante da Pop Art nos EUA, transformando imagens do cotidiano e celebridades em ícones artísticos nas décadas de 1960-70."
+    }
+  ]
+}

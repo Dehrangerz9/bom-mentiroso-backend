@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "esportes-8-1",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "No críquete, qual é o nome do movimento que consiste em eliminar o rebatedor ao acertar os stumps com a bola?",
+      "options": [
+        "Catch",
+        "Bowled",
+        "Run out",
+        "LBW"
+      ],
+      "correctAnswer": "Bowled",
+      "explanation": "No críquete, 'bowled' ocorre quando a bola lançada pelo bowler derruba diretamente os stumps do rebatedor."
+    }
+  ]
+}

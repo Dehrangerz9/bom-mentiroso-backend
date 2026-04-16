@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "astronomia-9-1",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "O que é a 'Radiação Cósmica de Fundo de Micro-ondas' (CMB)?",
+      "options": [
+        "Luz emitida por buracos negros",
+        "Radiação remanescente do Big Bang, detectada como ruído de micro-ondas em todas as direções",
+        "Emissão de pulsares no centro da galáxia",
+        "Reflexo da luz solar nas partículas do espaço interestelar"
+      ],
+      "correctAnswer": "Radiação remanescente do Big Bang, detectada como ruído de micro-ondas em todas as direções",
+      "explanation": "Descoberta acidentalmente por Penzias e Wilson em 1965, a CMB é considerada a maior evidência observacional do Big Bang."
+    }
+  ]
+}

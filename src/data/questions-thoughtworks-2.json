@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "thoughtworks-2-1",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Em que ano a Thoughtworks foi fundada?",
+      "options": [
+        "1989",
+        "1991",
+        "1993",
+        "1997"
+      ],
+      "correctAnswer": "1993",
+      "explanation": "A Thoughtworks foi fundada por Roy Singham em Chicago em 1993."
+    },
+    {
+      "id": "thoughtworks-2-2",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Em que ano a Thoughtworks foi listada na bolsa de valores Nasdaq?",
+      "options": [
+        "2018",
+        "2019",
+        "2021",
+        "2023"
+      ],
+      "correctAnswer": "2021",
+      "explanation": "A Thoughtworks realizou seu IPO (oferta pública inicial) na Nasdaq em setembro de 2021."
+    },
+    {
+      "id": "thoughtworks-2-3",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Qual Thoughtworker co-assinou o Manifesto Ágil em 2001?",
+      "options": [
+        "Linus Torvalds",
+        "Martin Fowler",
+        "Grady Booch",
+        "Uncle Bob"
+      ],
+      "correctAnswer": "Martin Fowler",
+      "explanation": "Martin Fowler foi um dos 17 signatários do Manifesto Ágil em fevereiro de 2001 em Snowbird, Utah."
+    },
+    {
+      "id": "thoughtworks-2-4",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Em qual cidade brasileira fica o principal escritório da Thoughtworks?",
+      "options": [
+        "Rio de Janeiro",
+        "Belo Horizonte",
+        "Porto Alegre",
+        "São Paulo"
+      ],
+      "correctAnswer": "São Paulo",
+      "explanation": "O principal escritório da Thoughtworks no Brasil está em São Paulo, um dos maiores hubs tecnológicos da América Latina."
+    },
+    {
+      "id": "thoughtworks-2-5",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Qual abordagem de entrega de software, popularizada pela Thoughtworks, garante que o código esteja sempre pronto para ir à produção?",
+      "options": [
+        "DevOps",
+        "Continuous Delivery",
+        "Agile Release Train",
+        "Scrum of Scrums"
+      ],
+      "correctAnswer": "Continuous Delivery",
+      "explanation": "Continuous Delivery (CD) é uma prática em que cada mudança de código é automaticamente testada e preparada para implantação em produção."
+    },
+    {
+      "id": "thoughtworks-2-6",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Qual livro de Kent Beck, amplamente utilizado na Thoughtworks, define o ciclo Red-Green-Refactor?",
+      "options": [
+        "Clean Code",
+        "The Pragmatic Programmer",
+        "Test-Driven Development by Example",
+        "Extreme Programming Explained"
+      ],
+      "correctAnswer": "Test-Driven Development by Example",
+      "explanation": "'TDD by Example' (2002) de Kent Beck é a referência principal da prática TDD, com o ciclo: escrever teste que falha, implementar, refatorar."
+    },
+    {
+      "id": "thoughtworks-2-7",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Qual conceito arquitetural divide sistemas em serviços pequenos e independentes, amplamente adotado pela Thoughtworks?",
+      "options": [
+        "SOA",
+        "Microsserviços",
+        "Monolito modular",
+        "Serverless"
+      ],
+      "correctAnswer": "Microsserviços",
+      "explanation": "Microsserviços é um estilo arquitetural onde o sistema é composto por pequenos serviços autônomos, popularizado pelo artigo de Fowler e Lewis da Thoughtworks em 2014."
+    },
+    {
+      "id": "thoughtworks-2-8",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Qual é o nome da plataforma de publicação de artigos técnicos e opiniões da Thoughtworks?",
+      "options": [
+        "Thoughtworks Dev",
+        "Thoughtworks Insights",
+        "Thoughtworks Blog",
+        "Thoughtworks Tech"
+      ],
+      "correctAnswer": "Thoughtworks Insights",
+      "explanation": "O Thoughtworks Insights é o portal onde Thoughtworkers publicam artigos sobre tecnologia, negócios e transformação digital."
+    },
+    {
+      "id": "thoughtworks-2-9",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Qual é o foco principal do programa social da Thoughtworks chamado 'Social Change'?",
+      "options": [
+        "Treinamento de desenvolvedores juniores",
+        "Uso da tecnologia para resolver problemas sociais e combater injustiças",
+        "Criação de startups internas",
+        "Consultoria gratuita para PMEs"
+      ],
+      "correctAnswer": "Uso da tecnologia para resolver problemas sociais e combater injustiças",
+      "explanation": "A Thoughtworks tem forte compromisso com responsabilidade social, usando tecnologia para causas como igualdade de gênero, direitos humanos e acesso à educação."
+    },
+    {
+      "id": "thoughtworks-2-10",
+      "category": "thoughtworks",
+      "difficulty": 2,
+      "question": "Qual é o nome do livro escrito por Neal Ford, Rebecca Parsons e Patrick Kua (todos Thoughtworkers) sobre como construir sistemas que evoluem bem ao longo do tempo?",
+      "options": [
+        "Building Microservices",
+        "Accelerate",
+        "Building Evolutionary Architectures",
+        "Software Architecture: The Hard Parts"
+      ],
+      "correctAnswer": "Building Evolutionary Architectures",
+      "explanation": "'Building Evolutionary Architectures' (2017) introduz o conceito de fitness functions para guiar a evolução de arquiteturas de software."
+    }
+  ]
+}

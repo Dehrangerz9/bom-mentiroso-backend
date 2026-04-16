@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "astronomia-8-1",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "Qual missão espacial foi a primeira a pousar na face oculta da Lua, em janeiro de 2019?",
+      "options": [
+        "Luna 9 (URSS)",
+        "Chang'e 4 (China)",
+        "LCROSS (EUA)",
+        "Chandrayaan-2 (Índia)"
+      ],
+      "correctAnswer": "Chang'e 4 (China)",
+      "explanation": "A sonda Chang'e 4 e o rover Yutu-2 pousaram na cratera Von Kármán na face oculta lunar em janeiro de 2019, uma primeiríssima na exploração espacial."
+    }
+  ]
+}

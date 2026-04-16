@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "geografia-8-1",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Qual país possui a maior parte da Floresta Amazônica, mas qual é o segundo maior detentor?",
+      "options": [
+        "Colômbia",
+        "Venezuela",
+        "Peru",
+        "Bolívia"
+      ],
+      "correctAnswer": "Peru",
+      "explanation": "O Brasil detém cerca de 60% da Amazônia; o Peru vem em segundo com aproximadamente 13%."
+    }
+  ]
+}

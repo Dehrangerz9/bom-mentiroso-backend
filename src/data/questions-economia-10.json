@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "economia-10-1",
+      "category": "economia",
+      "difficulty": 10,
+      "question": "Qual é o nome do equilíbrio em teoria dos jogos em que nenhum jogador tem incentivo unilateral para mudar sua estratégia, dado o que os outros jogadores estão fazendo?",
+      "options": [
+        "Ótimo de Pareto",
+        "Equilíbrio de Stackelberg",
+        "Equilíbrio de Nash",
+        "Equilíbrio de Walras"
+      ],
+      "correctAnswer": "Equilíbrio de Nash",
+      "explanation": "O Equilíbrio de Nash, desenvolvido por John Nash em 1950, é o conceito central da teoria dos jogos não-cooperativos e base de múltiplas análises econômicas e estratégicas."
+    }
+  ]
+}

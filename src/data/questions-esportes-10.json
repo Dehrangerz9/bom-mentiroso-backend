@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "esportes-10-1",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "No judô, qual é o nome do princípio filosófico central desenvolvido por Jigoro Kano que significa 'melhor uso da energia' e norteia toda a prática da modalidade?",
+      "options": [
+        "Mushin",
+        "Seiryoku Zenyo",
+        "Zanshin",
+        "Kuzushi"
+      ],
+      "correctAnswer": "Seiryoku Zenyo",
+      "explanation": "'Seiryoku Zenyo' (精力善用) é um dos dois princípios fundamentais do judô criado por Kano, significando uso máximo e eficiente de energia física e mental."
+    }
+  ]
+}

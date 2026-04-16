@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "astronomia-2-1",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "Qual é a estrela mais próxima do Sol?",
+      "options": [
+        "Sirius",
+        "Betelgeuse",
+        "Proxima Centauri",
+        "Alpha Centauri A"
+      ],
+      "correctAnswer": "Proxima Centauri",
+      "explanation": "Proxima Centauri, a apenas 4,24 anos-luz, é a estrela mais próxima do Sol e parte do sistema triplo Alpha Centauri."
+    },
+    {
+      "id": "astronomia-2-2",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "Qual é o planeta com os anéis mais visíveis e proeminentes do Sistema Solar?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Netuno",
+        "Saturno"
+      ],
+      "correctAnswer": "Saturno",
+      "explanation": "Os anéis de Saturno são compostos principalmente de gelo e rocha, podendo chegar a 282.000 km de diâmetro, mas com espessura de apenas 10-100 metros."
+    },
+    {
+      "id": "astronomia-2-3",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "O que é um cometa?",
+      "options": [
+        "Uma estrela cadente que entra na atmosfera",
+        "Um asteroide metálico no cinturão de asteroides",
+        "Um corpo celeste de gelo e poeira que forma uma cauda ao se aproximar do Sol",
+        "Uma estrela de nêutrons em colapso"
+      ],
+      "correctAnswer": "Um corpo celeste de gelo e poeira que forma uma cauda ao se aproximar do Sol",
+      "explanation": "Cometas são corpos formados de gelo, poeira e rocha que, ao se aproximarem do Sol, desenvolvem uma coma e uma cauda brilhante visível da Terra."
+    },
+    {
+      "id": "astronomia-2-4",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "Em que ano foi lançado o Sputnik, o primeiro satélite artificial da história?",
+      "options": [
+        "1952",
+        "1955",
+        "1957",
+        "1961"
+      ],
+      "correctAnswer": "1957",
+      "explanation": "O Sputnik 1 foi lançado pela União Soviética em 4 de outubro de 1957, inaugurando a era espacial e a corrida espacial da Guerra Fria."
+    },
+    {
+      "id": "astronomia-2-5",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "Qual foi o primeiro ser humano a viajar ao espaço?",
+      "options": [
+        "Neil Armstrong",
+        "Alan Shepard",
+        "John Glenn",
+        "Yuri Gagarin"
+      ],
+      "correctAnswer": "Yuri Gagarin",
+      "explanation": "Yuri Gagarin, cosmonauta soviético, realizou o primeiro voo espacial tripulado em 12 de abril de 1961, orbitando a Terra uma vez na nave Vostok 1."
+    },
+    {
+      "id": "astronomia-2-6",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "O que é o satélite natural da Terra?",
+      "options": [
+        "Io",
+        "Europa",
+        "Titã",
+        "Lua"
+      ],
+      "correctAnswer": "Lua",
+      "explanation": "A Lua é o único satélite natural da Terra, com diâmetro de 3.474 km, e está a uma distância média de 384.400 km do nosso planeta."
+    },
+    {
+      "id": "astronomia-2-7",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "Qual é o nome do fenômeno em que a Lua fica completamente dentro da sombra da Terra?",
+      "options": [
+        "Eclipse solar total",
+        "Eclipse lunar total",
+        "Ocultação lunar",
+        "Trânsito lunar"
+      ],
+      "correctAnswer": "Eclipse lunar total",
+      "explanation": "Um eclipse lunar total ocorre quando a Terra se interpõe entre o Sol e a Lua, bloqueando toda a luz solar direta sobre a Lua, que fica avermelhada."
+    },
+    {
+      "id": "astronomia-2-8",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "Qual é o nome da maior lua de Júpiter, também o maior satélite natural do Sistema Solar?",
+      "options": [
+        "Europa",
+        "Calisto",
+        "Io",
+        "Ganimedes"
+      ],
+      "correctAnswer": "Ganimedes",
+      "explanation": "Ganimedes é o maior satélite natural do Sistema Solar, maior até que o planeta Mercúrio, e possui um campo magnético próprio."
+    },
+    {
+      "id": "astronomia-2-9",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "Qual é o nome da zona ao redor de uma estrela onde a água pode existir no estado líquido, favorecendo a vida?",
+      "options": [
+        "Zona de exclusão solar",
+        "Zona de Goldilocks",
+        "Zona de radiação",
+        "Zona de convecção"
+      ],
+      "correctAnswer": "Zona de Goldilocks",
+      "explanation": "A 'Zona de Goldilocks' (ou zona habitável) é a região ao redor de uma estrela onde a temperatura permite a existência de água líquida, essencial para a vida."
+    },
+    {
+      "id": "astronomia-2-10",
+      "category": "astronomia",
+      "difficulty": 2,
+      "question": "Qual é o nome da nebulosa formada pelos restos da supernova de 1054, visível da Terra a olho nu por semanas?",
+      "options": [
+        "Nebulosa de Órion",
+        "Nebulosa do Caranguejo",
+        "Nebulosa da Águia",
+        "Nebulosa do Anel"
+      ],
+      "correctAnswer": "Nebulosa do Caranguejo",
+      "explanation": "A Nebulosa do Caranguejo (M1) é o remanescente de uma supernova registrada por astrônomos chineses em 1054, localizada na constelação de Touro."
+    }
+  ]
+}

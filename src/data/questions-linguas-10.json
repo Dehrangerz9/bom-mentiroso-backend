@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "linguas-10-1",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "Qual é o nome do fenômeno em que o mesmo morfema tem formas fônicas distintas dependendo do contexto, como o plural '-s', '-es' e '-en' em inglês?",
+      "options": [
+        "Alomorfia",
+        "Supletivismo",
+        "Fusão morfológica",
+        "Aglutinação"
+      ],
+      "correctAnswer": "Alomorfia",
+      "explanation": "Alomorfia é a variação fonológica de um morfema (alomorfes). Em inglês: 'cats' /s/, 'dogs' /z/, 'horses' /ɪz/ são alomorfes do morfema plural."
+    }
+  ]
+}

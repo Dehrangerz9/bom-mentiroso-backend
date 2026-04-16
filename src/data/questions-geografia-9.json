@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "geografia-9-1",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "A linha de datação internacional (180° de longitude) contorna quais ilhas para evitar que um país fique em dois dias diferentes?",
+      "options": [
+        "Ilhas Fiji",
+        "Ilhas Tonga",
+        "Ilhas Kiribati",
+        "Samoa Americana"
+      ],
+      "correctAnswer": "Ilhas Kiribati",
+      "explanation": "As Ilhas Kiribati fazem a linha de datação fazer um desvio para leste de modo que todo o arquipélago fique no mesmo dia calendário."
+    }
+  ]
+}

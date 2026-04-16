@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "economia-9-1",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Qual é o nome do fenômeno em que mercados com informação assimétrica tendem a ser dominados por produtos de baixa qualidade, levando os produtos de alta qualidade a saírem do mercado?",
+      "options": [
+        "Risco moral",
+        "Seleção adversa (mercado de limões)",
+        "Tragédia dos comuns",
+        "Falha de coordenação"
+      ],
+      "correctAnswer": "Seleção adversa (mercado de limões)",
+      "explanation": "Descrito por George Akerlof em 'The Market for Lemons' (1970), o artigo que lhe valeu o Nobel: compradores não conseguem distinguir qualidade, pagam preço médio, vendedores de alta qualidade saem, deteriorando o mercado."
+    }
+  ]
+}

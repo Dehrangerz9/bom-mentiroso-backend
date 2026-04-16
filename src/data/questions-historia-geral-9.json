@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "historia-geral-9-1",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual acordo secreto de 1916, entre Reino Unido e França, dividiu o Oriente Médio em zonas de influência após a queda do Império Otomano?",
+      "options": [
+        "Declaração Balfour",
+        "Acordo Sykes-Picot",
+        "Tratado de Sèvres",
+        "Pacto de San Remo"
+      ],
+      "correctAnswer": "Acordo Sykes-Picot",
+      "explanation": "O Acordo Sykes-Picot definiu fronteiras artificiais no Oriente Médio que ainda hoje são fonte de conflitos regionais."
+    }
+  ]
+}

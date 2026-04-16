@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "literatura-6-1",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Qual autor russo escreveu 'Crime e Castigo' e 'O Idiota'?",
+      "options": [
+        "León Tolstói",
+        "Fiódor Dostoiévski",
+        "Anton Tchekhov",
+        "Nikolai Gogol"
+      ],
+      "correctAnswer": "Fiódor Dostoiévski",
+      "explanation": "Dostoiévski é um dos maiores romancistas da literatura universal, com obras que exploram culpa, fé e psicologia humana."
+    }
+  ]
+}

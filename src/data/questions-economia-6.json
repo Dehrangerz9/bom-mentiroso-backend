@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "economia-6-1",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Qual economista austríaco descreveu o processo de 'destruição criativa' como motor do capitalismo, em que inovações destroem setores obsoletos?",
+      "options": [
+        "Friedrich Hayek",
+        "Ludwig von Mises",
+        "Joseph Schumpeter",
+        "Karl Polanyi"
+      ],
+      "correctAnswer": "Joseph Schumpeter",
+      "explanation": "Em 'Capitalismo, Socialismo e Democracia' (1942), Schumpeter descreveu a destruição criativa como a essência do capitalismo: inovação que destrói o antigo para criar o novo."
+    }
+  ]
+}

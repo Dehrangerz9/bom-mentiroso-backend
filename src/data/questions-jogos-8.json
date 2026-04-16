@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "jogos-8-1",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual designer japonês criou os jogos Dark Souls e é conhecido por criar universos de lore denso comunicado principalmente pelo ambiente e descrições de itens?",
+      "options": [
+        "Shigeru Miyamoto",
+        "Hideo Kojima",
+        "Hidetaka Miyazaki",
+        "Yoko Taro"
+      ],
+      "correctAnswer": "Hidetaka Miyazaki",
+      "explanation": "Miyazaki (FromSoftware) é criador de Demon's Souls, Dark Souls, Bloodborne, Sekiro e Elden Ring, revolucionando o design de jogos de ação RPG."
+    }
+  ]
+}

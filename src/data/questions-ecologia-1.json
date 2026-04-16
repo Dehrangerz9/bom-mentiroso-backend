@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-1-1",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "O que é reciclagem?",
+      "options": [
+        "Queimar resíduos para gerar energia",
+        "Descartar materiais em aterros sanitários",
+        "Reprocessar materiais usados para fabricar novos produtos",
+        "Reutilizar embalagens sem transformação"
+      ],
+      "correctAnswer": "Reprocessar materiais usados para fabricar novos produtos",
+      "explanation": "Reciclagem transforma materiais descartados em matéria-prima para novos produtos, reduzindo extração de recursos naturais."
+    },
+    {
+      "id": "ecologia-1-2",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "O que é um ecossistema?",
+      "options": [
+        "Conjunto de seres humanos num território",
+        "Uma reserva ambiental protegida por lei",
+        "Conjunto de seres vivos e o ambiente físico onde interagem",
+        "Uma espécie de animal ameaçada de extinção"
+      ],
+      "correctAnswer": "Conjunto de seres vivos e o ambiente físico onde interagem",
+      "explanation": "Um ecossistema é formado por todos os organismos vivos de uma área e os elementos não-vivos (água, solo, ar) com os quais interagem."
+    },
+    {
+      "id": "ecologia-1-3",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "Qual gás é o principal responsável pelo efeito estufa de origem humana?",
+      "options": [
+        "Oxigênio",
+        "Nitrogênio",
+        "Dióxido de carbono (CO₂)",
+        "Hidrogênio"
+      ],
+      "correctAnswer": "Dióxido de carbono (CO₂)",
+      "explanation": "O CO₂, liberado principalmente pela queima de combustíveis fósseis, é o principal gás de efeito estufa de origem antropogênica."
+    },
+    {
+      "id": "ecologia-1-4",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "O que é biodiversidade?",
+      "options": [
+        "Quantidade de minerais num bioma",
+        "Variedade de espécies vivas num ambiente",
+        "Número de plantas em uma floresta",
+        "Distribuição de chuvas numa região"
+      ],
+      "correctAnswer": "Variedade de espécies vivas num ambiente",
+      "explanation": "Biodiversidade refere-se à variedade de formas de vida — espécies, genes e ecossistemas — presentes num determinado local ou no planeta."
+    },
+    {
+      "id": "ecologia-1-5",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "Qual é o nome do fenômeno de aumento da temperatura média global do planeta?",
+      "options": [
+        "Efeito estufa",
+        "El Niño",
+        "Aquecimento global",
+        "Inversão térmica"
+      ],
+      "correctAnswer": "Aquecimento global",
+      "explanation": "Aquecimento global é o aumento da temperatura média da Terra causado principalmente pelo acúmulo de gases de efeito estufa na atmosfera."
+    },
+    {
+      "id": "ecologia-1-6",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "O que é desflorestamento?",
+      "options": [
+        "Plantio de novas florestas",
+        "Processo natural de renovação florestal",
+        "Remoção ou destruição de florestas pelo ser humano",
+        "Migração de animais entre florestas"
+      ],
+      "correctAnswer": "Remoção ou destruição de florestas pelo ser humano",
+      "explanation": "Desflorestamento é a conversão de áreas florestais em outros usos do solo, como agricultura e pecuária, causando perda de habitat e biodiversidade."
+    },
+    {
+      "id": "ecologia-1-7",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "Qual é a principal fonte de energia limpa derivada diretamente do Sol?",
+      "options": [
+        "Energia nuclear",
+        "Energia das marés",
+        "Energia eólica",
+        "Energia solar"
+      ],
+      "correctAnswer": "Energia solar",
+      "explanation": "A energia solar capta a radiação do Sol por meio de painéis fotovoltaicos ou coletores térmicos, sendo uma das fontes renováveis de maior crescimento global."
+    },
+    {
+      "id": "ecologia-1-8",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "O que é uma espécie em extinção?",
+      "options": [
+        "Espécie invasora em novo habitat",
+        "Espécie recém-descoberta pela ciência",
+        "Espécie em risco de desaparecer completamente da Terra",
+        "Espécie que migra sazonalmente"
+      ],
+      "correctAnswer": "Espécie em risco de desaparecer completamente da Terra",
+      "explanation": "Uma espécie em extinção é aquela cuja população diminuiu tanto que corre risco de desaparecer se não houver medidas de proteção."
+    },
+    {
+      "id": "ecologia-1-9",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "Como se chama uma grande região geográfica com clima, vegetação e fauna típicos?",
+      "options": [
+        "Habitat",
+        "Nicho ecológico",
+        "Bioma",
+        "Biotopo"
+      ],
+      "correctAnswer": "Bioma",
+      "explanation": "Bioma é uma grande área geográfica com condições climáticas, vegetação e fauna características, como a Amazônia, o Cerrado e a Caatinga."
+    },
+    {
+      "id": "ecologia-1-10",
+      "category": "ecologia",
+      "difficulty": 1,
+      "question": "Qual processo natural realizado pelas plantas remove CO₂ da atmosfera e libera oxigênio?",
+      "options": [
+        "Respiração",
+        "Fermentação",
+        "Fotossíntese",
+        "Decomposição"
+      ],
+      "correctAnswer": "Fotossíntese",
+      "explanation": "Na fotossíntese, plantas usam luz solar para converter CO₂ e água em glicose e oxigênio, sendo essencial para a vida na Terra."
+    }
+  ]
+}

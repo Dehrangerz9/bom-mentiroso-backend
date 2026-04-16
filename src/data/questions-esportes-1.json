@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "esportes-1-1",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Qual país ganhou mais títulos da Copa do Mundo de Futebol Masculino?",
+      "options": [
+        "Argentina",
+        "Alemanha",
+        "Itália",
+        "Brasil"
+      ],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil é pentacampeão da Copa do Mundo: 1958, 1962, 1970, 1994 e 2002."
+    },
+    {
+      "id": "esportes-1-2",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Quantos jogadores compõem um time de futebol em campo?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": "11",
+      "explanation": "Cada time de futebol joga com 11 jogadores em campo, incluindo o goleiro."
+    },
+    {
+      "id": "esportes-1-3",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Qual esporte é praticado no torneio de Wimbledon?",
+      "options": [
+        "Squash",
+        "Badminton",
+        "Tênis de mesa",
+        "Tênis"
+      ],
+      "correctAnswer": "Tênis",
+      "explanation": "Wimbledon é um dos quatro Grand Slams do tênis, realizado anualmente em Londres desde 1877."
+    },
+    {
+      "id": "esportes-1-4",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Em qual cidade o Brasil sediou os Jogos Olímpicos de 2016?",
+      "options": [
+        "São Paulo",
+        "Brasília",
+        "Rio de Janeiro",
+        "Belo Horizonte"
+      ],
+      "correctAnswer": "Rio de Janeiro",
+      "explanation": "O Rio de Janeiro sediou os Jogos Olímpicos de 2016, os primeiros realizados na América do Sul."
+    },
+    {
+      "id": "esportes-1-5",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Qual esporte usa um arco e flechas?",
+      "options": [
+        "Biatlo",
+        "Pentatlo",
+        "Tiro com arco",
+        "Canoagem"
+      ],
+      "correctAnswer": "Tiro com arco",
+      "explanation": "O tiro com arco é um esporte olímpico em que atletas atiram flechas em alvos a diferentes distâncias."
+    },
+    {
+      "id": "esportes-1-6",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Qual é a distância oficial de uma corrida de maratona?",
+      "options": [
+        "40 km",
+        "42,195 km",
+        "45 km",
+        "50 km"
+      ],
+      "correctAnswer": "42,195 km",
+      "explanation": "A distância da maratona foi padronizada em 42,195 km a partir dos Jogos Olímpicos de 1908 em Londres."
+    },
+    {
+      "id": "esportes-1-7",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Em qual esporte existe o termo 'nocaute'?",
+      "options": [
+        "Natação",
+        "Ciclismo",
+        "Boxe",
+        "Ginástica"
+      ],
+      "correctAnswer": "Boxe",
+      "explanation": "No boxe, o nocaute (KO) ocorre quando um lutador derruba o adversário e este não consegue levantar antes da contagem de dez."
+    },
+    {
+      "id": "esportes-1-8",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Qual país lidera o quadro histórico de medalhas olímpicas?",
+      "options": [
+        "Rússia",
+        "China",
+        "Estados Unidos",
+        "Alemanha"
+      ],
+      "correctAnswer": "Estados Unidos",
+      "explanation": "Os EUA lideram o quadro histórico de medalhas olímpicas com mais de 1.000 medalhas de ouro acumuladas."
+    },
+    {
+      "id": "esportes-1-9",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Qual esporte é disputado na água com embarcações impulsionadas por remos?",
+      "options": [
+        "Polo aquático",
+        "Surfe",
+        "Remo",
+        "Nado sincronizado"
+      ],
+      "correctAnswer": "Remo",
+      "explanation": "O remo é um esporte olímpico em que atletas impulsionam embarcações usando remos, disputado em rios ou lagos tranquilos."
+    },
+    {
+      "id": "esportes-1-10",
+      "category": "esportes",
+      "difficulty": 1,
+      "question": "Em basquete, quantos pontos vale um lance livre convertido?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "1",
+      "explanation": "No basquete, lances livres valem 1 ponto cada; cestas dentro do arco valem 2, e além do arco valem 3."
+    }
+  ]
+}

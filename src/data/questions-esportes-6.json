@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "esportes-6-1",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "Qual corredor jamaicano estabeleceu o recorde mundial dos 100m rasos com 9,58 segundos nos Jogos Olímpicos de Berlim?",
+      "options": [
+        "Yohan Blake",
+        "Asafa Powell",
+        "Usain Bolt",
+        "Justin Gatlin"
+      ],
+      "correctAnswer": "Usain Bolt",
+      "explanation": "Usain Bolt correu os 100m em 9,58s no Mundial de Berlim em 2009, estabelecendo o recorde mundial atual."
+    }
+  ]
+}

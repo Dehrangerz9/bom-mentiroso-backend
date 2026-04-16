@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "literatura-2-1",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Em qual país nasceu Gabriel García Márquez, autor de 'Cem Anos de Solidão'?",
+      "options": [
+        "Argentina",
+        "México",
+        "Colômbia",
+        "Peru"
+      ],
+      "correctAnswer": "Colômbia",
+      "explanation": "García Márquez nasceu em Aracataca, Colômbia, em 1927, e ganhou o Nobel de Literatura em 1982."
+    },
+    {
+      "id": "literatura-2-2",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Qual escritor irlandês escreveu 'Ulisses' e 'Dublinenses'?",
+      "options": [
+        "Samuel Beckett",
+        "Oscar Wilde",
+        "W.B. Yeats",
+        "James Joyce"
+      ],
+      "correctAnswer": "James Joyce",
+      "explanation": "James Joyce (1882-1941) é um dos maiores escritores do século XX, com 'Ulisses' (1922) sendo considerado o romance mais influente da língua inglesa."
+    },
+    {
+      "id": "literatura-2-3",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Qual distopia de George Orwell retrata uma sociedade totalitária controlada pelo 'Grande Irmão'?",
+      "options": [
+        "Admirável Mundo Novo",
+        "Fahrenheit 451",
+        "Nós",
+        "1984"
+      ],
+      "correctAnswer": "1984",
+      "explanation": "'1984' (1949) de George Orwell cunhou termos como 'Grande Irmão', 'novilíngua' e 'duplipensar', tornando-se referência das distopias literárias."
+    },
+    {
+      "id": "literatura-2-4",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Qual escritor brasileiro escreveu 'Grande Sertão: Veredas'?",
+      "options": [
+        "Graciliano Ramos",
+        "Jorge Amado",
+        "Érico Veríssimo",
+        "João Guimarães Rosa"
+      ],
+      "correctAnswer": "João Guimarães Rosa",
+      "explanation": "'Grande Sertão: Veredas' (1956) de Guimarães Rosa é considerado o maior romance brasileiro, com linguagem inventiva baseada no falar sertanejo."
+    },
+    {
+      "id": "literatura-2-5",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Qual é o nome do protagonista de 'O Senhor dos Anéis', de J.R.R. Tolkien?",
+      "options": [
+        "Gandalf",
+        "Aragorn",
+        "Samwise",
+        "Frodo Bolseiro"
+      ],
+      "correctAnswer": "Frodo Bolseiro",
+      "explanation": "Frodo Bolseiro é o hobbit protagonista de 'O Senhor dos Anéis', encarregado de destruir o Um Anel nas chamas da Montanha da Perdição."
+    },
+    {
+      "id": "literatura-2-6",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Qual obra de Dostoiévski narra a história de Raskólnikov, um estudante que comete um assassinato?",
+      "options": [
+        "Os Irmãos Karamazov",
+        "O Idiota",
+        "Os Demônios",
+        "Crime e Castigo"
+      ],
+      "correctAnswer": "Crime e Castigo",
+      "explanation": "'Crime e Castigo' (1866) acompanha o estudante Raskólnikov antes, durante e após um assassinato, explorando culpa, moralidade e redenção."
+    },
+    {
+      "id": "literatura-2-7",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Em qual idioma foram escritas as obras originais de Luís de Camões, autor de 'Os Lusíadas'?",
+      "options": [
+        "Latim",
+        "Galego",
+        "Castelhano",
+        "Português"
+      ],
+      "correctAnswer": "Português",
+      "explanation": "Luís de Camões (c. 1524-1580) escreveu 'Os Lusíadas' em português, tornando-se o maior poeta da língua portuguesa."
+    },
+    {
+      "id": "literatura-2-8",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Qual escritora nigeriana escreveu 'Hibisco Roxo' e 'Americanah', conhecida pela palestra 'Todos Devemos Ser Feministas'?",
+      "options": [
+        "Wole Soyinka",
+        "Chinua Achebe",
+        "Ben Okri",
+        "Chimamanda Ngozi Adichie"
+      ],
+      "correctAnswer": "Chimamanda Ngozi Adichie",
+      "explanation": "Chimamanda Ngozi Adichie é uma das escritoras mais influentes da atualidade, com obras que abordam identidade africana, feminismo e raça."
+    },
+    {
+      "id": "literatura-2-9",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Qual famosa obra de Homero narra as aventuras do herói grego Odisseu ao retornar à sua terra após a Guerra de Troia?",
+      "options": [
+        "Ilíada",
+        "Eneida",
+        "Odisseia",
+        "Teogonia"
+      ],
+      "correctAnswer": "Odisseia",
+      "explanation": "A 'Odisseia' de Homero narra as aventuras de Odisseu (Ulisses) em sua jornada de 10 anos de volta a Ítaca após a Guerra de Troia."
+    },
+    {
+      "id": "literatura-2-10",
+      "category": "literatura",
+      "difficulty": 2,
+      "question": "Qual prêmio é considerado o mais prestigioso da literatura mundial?",
+      "options": [
+        "Prêmio Booker",
+        "Prêmio Pulitzer",
+        "Prêmio Nobel de Literatura",
+        "Prêmio Cervantes"
+      ],
+      "correctAnswer": "Prêmio Nobel de Literatura",
+      "explanation": "O Prêmio Nobel de Literatura, concedido anualmente pela Academia Sueca desde 1901, é o maior reconhecimento literário do mundo."
+    }
+  ]
+}

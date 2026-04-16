@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "thoughtworks-4-1",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "O que é o Thoughtworks Technology Radar?",
+      "options": [
+        "Uma ferramenta de monitoramento",
+        "Um guia bianual de tendências tecnológicas",
+        "Uma plataforma de recrutamento",
+        "Um ranking de linguagens"
+      ],
+      "correctAnswer": "Um guia bianual de tendências tecnológicas",
+      "explanation": "O Technology Radar é publicado semestralmente e classifica tecnologias em quatro quadrantes: Técnicas, Plataformas, Ferramentas e Linguagens."
+    },
+    {
+      "id": "thoughtworks-4-2",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "O que significa o conceito de 'dívida técnica' em desenvolvimento de software?",
+      "options": [
+        "Dinheiro gasto em licenças de software",
+        "Custo futuro gerado por soluções rápidas e subótimas no presente",
+        "Débitos financeiros de um projeto de TI",
+        "Falta de documentação técnica do sistema"
+      ],
+      "correctAnswer": "Custo futuro gerado por soluções rápidas e subótimas no presente",
+      "explanation": "Dívida técnica é a metáfora de Ward Cunningham: tomar atalhos no código gera 'juros' no futuro na forma de maior esforço para manutenção e evolução."
+    },
+    {
+      "id": "thoughtworks-4-3",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "Qual é o principal benefício do padrão de arquitetura de microsserviços?",
+      "options": [
+        "Menor complexidade operacional",
+        "Implantação e escalabilidade independentes por serviço",
+        "Menor latência entre componentes",
+        "Banco de dados centralizado e consistente"
+      ],
+      "correctAnswer": "Implantação e escalabilidade independentes por serviço",
+      "explanation": "Microsserviços permitem que cada serviço seja desenvolvido, implantado e escalado independentemente, mas trazem maior complexidade operacional e de rede."
+    },
+    {
+      "id": "thoughtworks-4-4",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "O que é 'feature toggle' (feature flag)?",
+      "options": [
+        "Um botão para mudar o tema visual da aplicação",
+        "Mecanismo para ativar/desativar funcionalidades sem novo deploy",
+        "Uma configuração de permissões de usuário",
+        "Um tipo de teste automatizado de funcionalidades"
+      ],
+      "correctAnswer": "Mecanismo para ativar/desativar funcionalidades sem novo deploy",
+      "explanation": "Feature toggles permitem lançar código em produção desativado e ativá-lo gradualmente ou por segmento de usuários, suportando práticas como trunk-based development."
+    },
+    {
+      "id": "thoughtworks-4-5",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "Qual prática do XP (Extreme Programming) defende que o código deve ser projetado apenas para necessidades atuais?",
+      "options": [
+        "YAGNI",
+        "DRY",
+        "SOLID",
+        "KISS"
+      ],
+      "correctAnswer": "YAGNI",
+      "explanation": "YAGNI (You Aren't Gonna Need It) adverte contra implementar funcionalidades antecipando necessidades futuras especulativas, reduzindo desperdício e complexidade desnecessária."
+    },
+    {
+      "id": "thoughtworks-4-6",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "O que é 'Continuous Deployment' em contraste com 'Continuous Delivery'?",
+      "options": [
+        "São sinônimos no contexto de DevOps",
+        "Continuous Deployment faz deploy automático em produção sem aprovação manual",
+        "Continuous Delivery exige mais automação que Continuous Deployment",
+        "Continuous Deployment é aplicado apenas em ambientes de staging"
+      ],
+      "correctAnswer": "Continuous Deployment faz deploy automático em produção sem aprovação manual",
+      "explanation": "Continuous Delivery mantém o software sempre pronto para deploy mas exige aprovação humana. Continuous Deployment vai além: qualquer código que passa nos testes vai automaticamente para produção."
+    },
+    {
+      "id": "thoughtworks-4-7",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "Qual é o objetivo do 'Domain-Driven Design' (DDD)?",
+      "options": [
+        "Focar na performance do banco de dados como domínio central",
+        "Alinhar o design do software com o domínio de negócio e sua linguagem",
+        "Separar o frontend do backend em domínios independentes",
+        "Usar padrões de design GOF em todos os módulos"
+      ],
+      "correctAnswer": "Alinhar o design do software com o domínio de negócio e sua linguagem",
+      "explanation": "DDD, proposto por Eric Evans, centra o desenvolvimento no entendimento profundo do domínio de negócio, usando uma linguagem ubíqua compartilhada entre técnicos e especialistas."
+    },
+    {
+      "id": "thoughtworks-4-8",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "O que é um 'Bounded Context' no DDD?",
+      "options": [
+        "Um limite de performance imposto ao sistema",
+        "Uma fronteira explícita dentro da qual um modelo de domínio é definido e aplicável",
+        "Um contexto de segurança que isola microserviços",
+        "O escopo máximo de um sprint em Scrum"
+      ],
+      "correctAnswer": "Uma fronteira explícita dentro da qual um modelo de domínio é definido e aplicável",
+      "explanation": "Bounded Contexts definem os limites onde um modelo específico se aplica. O mesmo termo pode ter significados diferentes em contextos diferentes (ex.: 'cliente' em vendas vs. suporte)."
+    },
+    {
+      "id": "thoughtworks-4-9",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "Qual é a principal diferença entre testes unitários e testes de integração?",
+      "options": [
+        "Testes unitários são mais lentos que testes de integração",
+        "Testes unitários testam componentes isolados; de integração testam a colaboração entre componentes",
+        "Testes de integração só testam APIs externas",
+        "Testes unitários precisam de banco de dados real"
+      ],
+      "correctAnswer": "Testes unitários testam componentes isolados; de integração testam a colaboração entre componentes",
+      "explanation": "Testes unitários isolam uma unidade de código (usando mocks/stubs para dependências). Testes de integração verificam se múltiplos componentes funcionam juntos corretamente."
+    },
+    {
+      "id": "thoughtworks-4-10",
+      "category": "thoughtworks",
+      "difficulty": 4,
+      "question": "O que é o princípio 'Open/Closed' do SOLID?",
+      "options": [
+        "Abrir o código-fonte para contribuições externas e fechar bugs",
+        "O software deve ser aberto para extensão mas fechado para modificação",
+        "Classes abertas herdam de classes fechadas",
+        "Interfaces abertas são preferíveis a classes concretas fechadas"
+      ],
+      "correctAnswer": "O software deve ser aberto para extensão mas fechado para modificação",
+      "explanation": "O OCP (Bertrand Meyer) diz que entidades de software devem permitir extensão de comportamento sem modificar o código existente, tipicamente usando herança ou composição."
+    }
+  ]
+}

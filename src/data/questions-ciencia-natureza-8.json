@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ciencia-natureza-8-1",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "Qual é o nome do fenômeno em que elétrons são emitidos por um metal ao ser iluminado por luz de frequência suficiente?",
+      "options": [
+        "Efeito Compton",
+        "Efeito fotoelétrico",
+        "Efeito Doppler",
+        "Efeito Zeeman"
+      ],
+      "correctAnswer": "Efeito fotoelétrico",
+      "explanation": "O efeito fotoelétrico foi explicado por Einstein em 1905, rendendo-lhe o Nobel de Física de 1921."
+    }
+  ]
+}

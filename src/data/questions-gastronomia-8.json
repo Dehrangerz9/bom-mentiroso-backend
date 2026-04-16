@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-8-1",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Qual é a denominação de origem protegida do presunto curado a seco produzido na região de Parma, Itália?",
+      "options": [
+        "Prosciutto di San Daniele",
+        "Prosciutto di Parma",
+        "Culatello di Zibello",
+        "Speck dell'Alto Adige"
+      ],
+      "correctAnswer": "Prosciutto di Parma",
+      "explanation": "O Prosciutto di Parma possui DOP (Denominação de Origem Protegida) e deve ser produzido em área específica de Parma segundo rígidos critérios."
+    }
+  ]
+}

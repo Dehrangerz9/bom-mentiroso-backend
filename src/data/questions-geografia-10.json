@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "geografia-10-1",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome do fenômeno geográfico onde o Rio Casiquiare conecta naturalmente as bacias do Orinoco e do Amazonas, formando um bifurcação fluvial rara?",
+      "options": [
+        "Anastomose do Casiquiare",
+        "Canal do Casiquiare",
+        "Bifurcação do Orinoco",
+        "Delta interior do Casiquiare"
+      ],
+      "correctAnswer": "Canal do Casiquiare",
+      "explanation": "O Canal do Casiquiare é uma das poucas bifurcações naturais do mundo que conecta duas grandes bacias hidrográficas distintas, na Venezuela."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-1-1",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "De qual país é originário o prato 'Sushi'?",
+      "options": [
+        "China",
+        "Coreia",
+        "Japão",
+        "Tailândia"
+      ],
+      "correctAnswer": "Japão",
+      "explanation": "O sushi é originário do Japão, onde evoluiu de um método de preservação de peixe com arroz fermentado."
+    },
+    {
+      "id": "gastronomia-1-2",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "Qual é o ingrediente principal do guacamole?",
+      "options": [
+        "Tomate",
+        "Cebola",
+        "Abacate",
+        "Pimentão"
+      ],
+      "correctAnswer": "Abacate",
+      "explanation": "O guacamole é um molho mexicano feito principalmente de abacate amassado, limão, coentro e pimenta."
+    },
+    {
+      "id": "gastronomia-1-3",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "De qual país é originária a pizza?",
+      "options": [
+        "Grécia",
+        "Espanha",
+        "França",
+        "Itália"
+      ],
+      "correctAnswer": "Itália",
+      "explanation": "A pizza moderna originou-se em Nápoles, Itália, no século XIX, com a famosa pizza Margherita criada em 1889."
+    },
+    {
+      "id": "gastronomia-1-4",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "Qual bebida alcoólica é feita de uvas fermentadas?",
+      "options": [
+        "Cerveja",
+        "Cachaça",
+        "Vinho",
+        "Vodca"
+      ],
+      "correctAnswer": "Vinho",
+      "explanation": "O vinho é produzido pela fermentação do suco de uvas, com tradição de mais de 8.000 anos na história humana."
+    },
+    {
+      "id": "gastronomia-1-5",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "Qual é o principal ingrediente do hummus?",
+      "options": [
+        "Lentilha",
+        "Feijão preto",
+        "Grão-de-bico",
+        "Ervilha"
+      ],
+      "correctAnswer": "Grão-de-bico",
+      "explanation": "O hummus é um patê do Oriente Médio feito de grão-de-bico cozido, tahine, azeite, limão e alho."
+    },
+    {
+      "id": "gastronomia-1-6",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "De que é feito o tofu?",
+      "options": [
+        "Leite de vaca",
+        "Leite de coco",
+        "Soja",
+        "Arroz"
+      ],
+      "correctAnswer": "Soja",
+      "explanation": "O tofu é feito de leite de soja coagulado e prensado, originário da China há mais de 2.000 anos."
+    },
+    {
+      "id": "gastronomia-1-7",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "Qual é o prato considerado símbolo da culinária brasileira?",
+      "options": [
+        "Churrasco",
+        "Tapioca",
+        "Pão de queijo",
+        "Feijoada"
+      ],
+      "correctAnswer": "Feijoada",
+      "explanation": "A feijoada é um cozido de feijão preto com carnes, considerada o prato mais representativo da culinária brasileira."
+    },
+    {
+      "id": "gastronomia-1-8",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "Qual bebida quente é preparada pela infusão de folhas secas em água quente?",
+      "options": [
+        "Café",
+        "Chocolate quente",
+        "Chá",
+        "Mate"
+      ],
+      "correctAnswer": "Chá",
+      "explanation": "O chá é a segunda bebida mais consumida no mundo, feito pela infusão das folhas da planta Camellia sinensis."
+    },
+    {
+      "id": "gastronomia-1-9",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "Qual é o nome do pão tipicamente brasileiro feito com polvilho e queijo?",
+      "options": [
+        "Cuscuz",
+        "Tapioca",
+        "Pão de queijo",
+        "Broa"
+      ],
+      "correctAnswer": "Pão de queijo",
+      "explanation": "O pão de queijo é uma iguaria mineira feita com polvilho e queijo minas, tornada símbolo da culinária brasileira."
+    },
+    {
+      "id": "gastronomia-1-10",
+      "category": "gastronomia",
+      "difficulty": 1,
+      "question": "Qual especiaria de cor amarelo-alaranjada dá cor característica ao curry?",
+      "options": [
+        "Páprica",
+        "Açafrão",
+        "Cúrcuma",
+        "Cominho"
+      ],
+      "correctAnswer": "Cúrcuma",
+      "explanation": "A cúrcuma é uma raiz de cor amarelo-alaranjada que dá cor característica ao curry e tem propriedades anti-inflamatórias."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "geografia-1-1",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Qual é o maior país do mundo em extensão territorial?",
+      "options": [
+        "China",
+        "Canadá",
+        "Brasil",
+        "Rússia"
+      ],
+      "correctAnswer": "Rússia",
+      "explanation": "A Rússia ocupa cerca de 17 milhões de km², tornando-a o maior país do mundo."
+    },
+    {
+      "id": "geografia-1-2",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Qual é a capital do Brasil?",
+      "options": [
+        "São Paulo",
+        "Rio de Janeiro",
+        "Salvador",
+        "Brasília"
+      ],
+      "correctAnswer": "Brasília",
+      "explanation": "Brasília é a capital federal do Brasil desde 1960, quando substituiu o Rio de Janeiro."
+    },
+    {
+      "id": "geografia-1-3",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Qual é o maior oceano do mundo?",
+      "options": [
+        "Atlântico",
+        "Índico",
+        "Ártico",
+        "Pacífico"
+      ],
+      "correctAnswer": "Pacífico",
+      "explanation": "O Oceano Pacífico cobre cerca de 165 milhões de km², sendo o maior e mais profundo oceano do planeta."
+    },
+    {
+      "id": "geografia-1-4",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Em qual continente fica o Egito?",
+      "options": [
+        "Ásia",
+        "Europa",
+        "África",
+        "Oriente Médio"
+      ],
+      "correctAnswer": "África",
+      "explanation": "O Egito está localizado no nordeste da África, embora a Península do Sinai faça fronteira com a Ásia."
+    },
+    {
+      "id": "geografia-1-5",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Qual é a capital da França?",
+      "options": [
+        "Lyon",
+        "Marselha",
+        "Bordeaux",
+        "Paris"
+      ],
+      "correctAnswer": "Paris",
+      "explanation": "Paris é a capital e maior cidade da França, conhecida como a 'Cidade Luz'."
+    },
+    {
+      "id": "geografia-1-6",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Qual é o menor país do mundo?",
+      "options": [
+        "Mônaco",
+        "San Marino",
+        "Liechtenstein",
+        "Vaticano"
+      ],
+      "correctAnswer": "Vaticano",
+      "explanation": "O Vaticano tem apenas 0,44 km², tornando-o o menor estado soberano do mundo, dentro de Roma."
+    },
+    {
+      "id": "geografia-1-7",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Qual é o continente mais extenso do mundo?",
+      "options": [
+        "América",
+        "Europa",
+        "África",
+        "Ásia"
+      ],
+      "correctAnswer": "Ásia",
+      "explanation": "A Ásia cobre cerca de 44,6 milhões de km², sendo o maior e mais populoso continente do planeta."
+    },
+    {
+      "id": "geografia-1-8",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Qual é a capital da Austrália?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Camberra"
+      ],
+      "correctAnswer": "Camberra",
+      "explanation": "Camberra é a capital da Austrália desde 1913, construída especialmente para ser a sede do governo federal."
+    },
+    {
+      "id": "geografia-1-9",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Qual montanha é a mais alta do mundo?",
+      "options": [
+        "K2",
+        "Kangchenjunga",
+        "Monte Everest",
+        "Lhotse"
+      ],
+      "correctAnswer": "Monte Everest",
+      "explanation": "O Monte Everest, no Himalaia, tem 8.849 metros de altitude, sendo o pico mais alto do planeta."
+    },
+    {
+      "id": "geografia-1-10",
+      "category": "geografia",
+      "difficulty": 1,
+      "question": "Qual é o maior país da América do Sul em extensão territorial?",
+      "options": [
+        "Argentina",
+        "Peru",
+        "Colômbia",
+        "Brasil"
+      ],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil ocupa cerca de 8,5 milhões de km², sendo o maior país da América do Sul e o 5º do mundo."
+    }
+  ]
+}

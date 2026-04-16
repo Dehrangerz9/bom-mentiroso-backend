@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "jogos-2-1",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Qual jogo é considerado o primeiro videogame comercial da história?",
+      "options": [
+        "Space Invaders",
+        "Pac-Man",
+        "Pong",
+        "Tetris"
+      ],
+      "correctAnswer": "Pong",
+      "explanation": "Pong foi lançado pela Atari em 1972 e é amplamente reconhecido como o primeiro videogame comercialmente bem-sucedido."
+    },
+    {
+      "id": "jogos-2-2",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Qual empresa criou o console Nintendo Switch, lançado em 2017?",
+      "options": [
+        "Sony",
+        "Microsoft",
+        "Sega",
+        "Nintendo"
+      ],
+      "correctAnswer": "Nintendo",
+      "explanation": "O Nintendo Switch foi lançado em março de 2017 e é um console híbrido que funciona tanto como portátil quanto conectado à TV."
+    },
+    {
+      "id": "jogos-2-3",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Em qual jogo de mundo aberto os jogadores constroem, exploram e sobrevivem num universo feito de blocos?",
+      "options": [
+        "Terraria",
+        "Roblox",
+        "Fortnite",
+        "Minecraft"
+      ],
+      "correctAnswer": "Minecraft",
+      "explanation": "Minecraft, criado por Markus 'Notch' Persson e lançado em 2011, é o jogo mais vendido de todos os tempos, com mais de 238 milhões de cópias."
+    },
+    {
+      "id": "jogos-2-4",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Qual é o nome do personagem principal da série 'Halo', um super-soldado em armadura espartana?",
+      "options": [
+        "Doomguy",
+        "Marcus Fenix",
+        "Master Chief",
+        "Commander Shepard"
+      ],
+      "correctAnswer": "Master Chief",
+      "explanation": "Master Chief (John-117) é o protagonista da série Halo da Bungie/343 Industries, um dos ícones dos jogos de tiro em primeira pessoa."
+    },
+    {
+      "id": "jogos-2-5",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Qual jogo de corrida da Nintendo apresenta Mario, Luigi, Bowser e outros personagens em karts?",
+      "options": [
+        "F-Zero",
+        "Mario Party",
+        "Mario Kart",
+        "Diddy Kong Racing"
+      ],
+      "correctAnswer": "Mario Kart",
+      "explanation": "Mario Kart é uma das franquias de jogos de corrida mais populares da história, iniciada em 1992 no Super Nintendo."
+    },
+    {
+      "id": "jogos-2-6",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Qual foi o primeiro console doméstico de videogame da Nintendo?",
+      "options": [
+        "Super Nintendo",
+        "Game Boy",
+        "Famicom (NES)",
+        "Nintendo 64"
+      ],
+      "correctAnswer": "Famicom (NES)",
+      "explanation": "O Famicom (Family Computer) foi lançado no Japão em 1983 e internacionalmente como NES (Nintendo Entertainment System) em 1985."
+    },
+    {
+      "id": "jogos-2-7",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Em qual jogo de RPG o jogador explora a região nórdica gelada de Skyrim como o 'Dovahkiin' (Nascido do Dragão)?",
+      "options": [
+        "Dragon Age: Origins",
+        "The Witcher 3",
+        "Dark Souls",
+        "The Elder Scrolls V: Skyrim"
+      ],
+      "correctAnswer": "The Elder Scrolls V: Skyrim",
+      "explanation": "'Skyrim' (2011) da Bethesda é um dos RPGs de mundo aberto mais aclamados da história, com o jogador combatendo dragões e usando Shouts."
+    },
+    {
+      "id": "jogos-2-8",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Qual jogo de estratégia em tempo real permite construir civilizações da pré-história até o espaço?",
+      "options": [
+        "StarCraft",
+        "Warcraft III",
+        "Age of Empires",
+        "Civilization"
+      ],
+      "correctAnswer": "Civilization",
+      "explanation": "A série Civilization, criada por Sid Meier em 1991, é um jogo de estratégia por turnos onde o jogador guia uma civilização do início da história até o futuro."
+    },
+    {
+      "id": "jogos-2-9",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Qual empresa japonesa criou o PlayStation?",
+      "options": [
+        "Nintendo",
+        "Sega",
+        "Namco",
+        "Sony"
+      ],
+      "correctAnswer": "Sony",
+      "explanation": "A Sony Computer Entertainment lançou o PlayStation em 1994 no Japão, tornando-se um dos maiores fabricantes de consoles da história."
+    },
+    {
+      "id": "jogos-2-10",
+      "category": "jogos",
+      "difficulty": 2,
+      "question": "Qual jogo de luta clássico da Capcom popularizou o gênero de jogos de luta 1v1 nos arcades nos anos 1990?",
+      "options": [
+        "Mortal Kombat",
+        "Tekken",
+        "Street Fighter II",
+        "King of Fighters"
+      ],
+      "correctAnswer": "Street Fighter II",
+      "explanation": "Street Fighter II (1991) da Capcom definiu o gênero de jogos de luta competitivos, com personagens como Ryu, Ken e Chun-Li tornando-se ícones."
+    }
+  ]
+}

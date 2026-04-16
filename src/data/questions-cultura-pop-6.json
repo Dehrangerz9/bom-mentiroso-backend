@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-6-1",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual diretor assinou o filme 'Pulp Fiction' (1994)?",
+      "options": [
+        "Martin Scorsese",
+        "Quentin Tarantino",
+        "Coen Brothers",
+        "David Fincher"
+      ],
+      "correctAnswer": "Quentin Tarantino",
+      "explanation": "'Pulp Fiction' é considerado uma das obras mais influentes do cinema moderno, vencendo a Palma de Ouro em Cannes."
+    },
+    {
+      "id": "cultura-pop-6-2",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual videogame de RPG japonês de 1997 para PlayStation, com o personagem Cloud Strife, é considerado um dos melhores da história?",
+      "options": [
+        "Chrono Trigger",
+        "Final Fantasy VII",
+        "Dragon Quest VIII",
+        "Xenogears"
+      ],
+      "correctAnswer": "Final Fantasy VII",
+      "explanation": "'Final Fantasy VII' da Square Soft vendeu mais de 13 milhões de cópias; a morte da personagem Aerith é um dos momentos mais marcantes da cultura gamer."
+    },
+    {
+      "id": "cultura-pop-6-3",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual série de TV dramática da HBO retrata famílias nobres disputando o Trono de Ferro em um mundo de fantasia medieval?",
+      "options": [
+        "The Witcher",
+        "Game of Thrones",
+        "Vikings",
+        "Outlander"
+      ],
+      "correctAnswer": "Game of Thrones",
+      "explanation": "'Game of Thrones' (2011-2019), baseada na saga 'As Crônicas de Gelo e Fogo' de George R.R. Martin, ganhou 59 Emmy Awards, recorde na história da televisão."
+    },
+    {
+      "id": "cultura-pop-6-4",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual artista canadense lançou o álbum de estreia '19' em 2008 e ficou famosa pela voz soul e pelas músicas 'Chasing Pavements' e 'Someone Like You'?",
+      "options": [
+        "Norah Jones",
+        "Amy Winehouse",
+        "Adele",
+        "Duffy"
+      ],
+      "correctAnswer": "Adele",
+      "explanation": "Adele (Adele Laurie Blue Adkins) lançou '19' aos 19 anos; seu segundo álbum '21' (2011) vendeu mais de 31 milhões de cópias, tornando-se o mais vendido do século XXI até então."
+    },
+    {
+      "id": "cultura-pop-6-5",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual franquia de filmes de super-heróis da Marvel Studios estreou em 2008 com 'Homem de Ferro' e culminou em 'Vingadores: Ultimato' (2019)?",
+      "options": [
+        "DC Extended Universe",
+        "Marvel Cinematic Universe",
+        "X-Men Universe",
+        "Spider-Verse"
+      ],
+      "correctAnswer": "Marvel Cinematic Universe",
+      "explanation": "O MCU é a franquia cinematográfica mais lucrativa da história com mais de 29 bilhões de dólares arrecadados; 'Vingadores: Ultimato' é o segundo filme mais rentável de todos os tempos."
+    },
+    {
+      "id": "cultura-pop-6-6",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual rapper americano lançou o álbum 'To Pimp a Butterfly' (2015), obra política sobre identidade negra que ganhou o Pulitzer Prize em 2018?",
+      "options": [
+        "Jay-Z",
+        "Kanye West",
+        "Kendrick Lamar",
+        "J. Cole"
+      ],
+      "correctAnswer": "Kendrick Lamar",
+      "explanation": "Kendrick Lamar ganhou o Pulitzer Prize de Música em 2018 pelo álbum 'DAMN.' (2017), tornando-se o primeiro artista de hip-hop a receber o prêmio."
+    },
+    {
+      "id": "cultura-pop-6-7",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual diretor japonês criou filmes como 'Nausicaä do Vale do Vento', 'Meu Vizinho Totoro' e 'A Viagem de Chihiro', fundando o Studio Ghibli?",
+      "options": [
+        "Isao Takahata",
+        "Mamoru Oshii",
+        "Hayao Miyazaki",
+        "Satoshi Kon"
+      ],
+      "correctAnswer": "Hayao Miyazaki",
+      "explanation": "Hayao Miyazaki cofundou o Studio Ghibli em 1985; 'A Viagem de Chihiro' (2001) ganhou o Oscar de Melhor Animação em 2003 e a Palma de Ouro em Berlim."
+    },
+    {
+      "id": "cultura-pop-6-8",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual cantor brasileiro, conhecido como 'Rei do Baile', ficou famoso pelo samba-rock e pelo rebolado inconfundível nos anos 1970-80?",
+      "options": [
+        "Tim Maia",
+        "Jorge Ben Jor",
+        "Gilberto Gil",
+        "Djavan"
+      ],
+      "correctAnswer": "Tim Maia",
+      "explanation": "Tim Maia (1942-1998) introduziu o soul e o funk no Brasil, tornando-se um dos maiores ícones da MPB com hits como 'Azul da Cor do Mar' e 'Coroné Antonio Bento'."
+    },
+    {
+      "id": "cultura-pop-6-9",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual plataforma de streaming lançada em 2007 revolucionou o consumo de séries e filmes e produziu a primeira série original premiada com Emmy, 'House of Cards'?",
+      "options": [
+        "Amazon Prime Video",
+        "HBO Max",
+        "Netflix",
+        "Hulu"
+      ],
+      "correctAnswer": "Netflix",
+      "explanation": "A Netflix iniciou o streaming em 2007 e lançou 'House of Cards' em 2013, tornando-se a primeira plataforma de streaming a ganhar Emmy Awards por conteúdo original."
+    },
+    {
+      "id": "cultura-pop-6-10",
+      "category": "cultura-pop",
+      "difficulty": 6,
+      "question": "Qual grupo de K-pop sul-coreano se tornou o primeiro a alcançar o primeiro lugar na Billboard Hot 100 com a música 'Dynamite' (2020)?",
+      "options": [
+        "EXO",
+        "BLACKPINK",
+        "BTS",
+        "TWICE"
+      ],
+      "correctAnswer": "BTS",
+      "explanation": "BTS (Bangtan Sonyeondan) alcançou o topo da Billboard Hot 100 com 'Dynamite' em agosto de 2020, tornando-se o primeiro ato coreano a conquistar o número 1 na parada."
+    }
+  ]
+}

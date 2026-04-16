@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "jogos-10-1",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o termo técnico para o padrão de design de jogos onde recompensas são distribuídas em intervalos variáveis imprevisíveis, criando compulsão similar ao jogo de azar?",
+      "options": [
+        "Core gameplay loop",
+        "Variable ratio reinforcement schedule",
+        "Gacha mechanics",
+        "FOMO design"
+      ],
+      "correctAnswer": "Variable ratio reinforcement schedule",
+      "explanation": "Derivado do condicionamento operante de B.F. Skinner, o Variable Ratio Reinforcement é o mecanismo psicológico por trás de loot boxes, sistemas gacha e slot machines."
+    }
+  ]
+}

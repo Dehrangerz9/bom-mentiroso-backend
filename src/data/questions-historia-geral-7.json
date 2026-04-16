@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "historia-geral-7-1",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Qual foi o principal motivo econômico que levou as potências europeias a disputarem a África na 'Corrida para a África' do século XIX?",
+      "options": [
+        "Busca por especiarias",
+        "Acesso a matérias-primas e mercados consumidores",
+        "Controle das rotas marítimas para a Ásia",
+        "Expansão do comércio de escravos"
+      ],
+      "correctAnswer": "Acesso a matérias-primas e mercados consumidores",
+      "explanation": "A Revolução Industrial criou enorme demanda por matérias-primas e mercados para produtos manufaturados, impulsionando a colonização africana."
+    }
+  ]
+}

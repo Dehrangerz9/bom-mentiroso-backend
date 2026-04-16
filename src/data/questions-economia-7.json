@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "economia-7-1",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Qual é o nome do paradoxo econômico em que um aumento de preço de um bem inferior leva a um aumento de sua demanda, contrariando a lei básica da demanda?",
+      "options": [
+        "Paradoxo de Giffen",
+        "Paradoxo de Veblen",
+        "Paradoxo de Leontief",
+        "Paradoxo de Jevons"
+      ],
+      "correctAnswer": "Paradoxo de Giffen",
+      "explanation": "Os bens Giffen são bens inferiores tão essenciais que, ao subirem de preço, consomem renda que seria gasta em bens superiores, aumentando sua própria demanda."
+    }
+  ]
+}

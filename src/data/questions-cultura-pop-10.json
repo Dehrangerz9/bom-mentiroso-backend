@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-10-1",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual cineasta francês cunhou o termo 'politique des auteurs' nos Cahiers du Cinéma nos anos 1950, base da teoria que elevou o diretor a artista principal de um filme?",
+      "options": [
+        "Jean-Luc Godard",
+        "François Truffaut",
+        "André Bazin",
+        "Claude Chabrol"
+      ],
+      "correctAnswer": "François Truffaut",
+      "explanation": "Truffaut publicou em 1954 o artigo 'Une certaine tendance du cinéma français', lançando a politique des auteurs que moldou a crítica cinematográfica mundial."
+    },
+    {
+      "id": "cultura-pop-10-2",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual filósofo francês cunhou o conceito de 'simulacro' em 'Simulacros e Simulação' (1981), argumentando que as imagens midiáticas substituíram a realidade?",
+      "options": [
+        "Michel Foucault",
+        "Jacques Derrida",
+        "Jean Baudrillard",
+        "Guy Debord"
+      ],
+      "correctAnswer": "Jean Baudrillard",
+      "explanation": "Baudrillard argumentou que na pós-modernidade os signos rompem com o real e passam a referir apenas a si mesmos; a ideia influenciou 'Matrix' (os Wachowski reconheceram a referência)."
+    },
+    {
+      "id": "cultura-pop-10-3",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual é o nome do fenômeno estudado por Henry Jenkins em 'Textual Poachers' (1992) em que fãs ressignificam e transformam textos midiáticos em novas obras?",
+      "options": [
+        "Transmídia",
+        "Fan fiction",
+        "Cultura participativa",
+        "Bricolagem"
+      ],
+      "correctAnswer": "Cultura participativa",
+      "explanation": "Jenkins cunhou 'cultura participativa' para descrever como fãs não são receptores passivos; 'Textual Poachers' analisou comunidades de fãs de Star Trek e suas produções criativas."
+    },
+    {
+      "id": "cultura-pop-10-4",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual compositor alemão, trabalhando com Brian Eno em Berlim nos anos 1970, criou a 'Trilogia de Berlim' de álbuns ('Low', 'Heroes', 'Lodger') que influenciou o rock eletrônico?",
+      "options": [
+        "Kraftwerk",
+        "David Bowie",
+        "Tangerine Dream",
+        "Can"
+      ],
+      "correctAnswer": "David Bowie",
+      "explanation": "A Trilogia de Berlim de Bowie foi produzida com Brian Eno entre 1977-1979; experimentos com sintetizadores e Krautrock alemão influenciaram bandas como Joy Division, U2 e Arcade Fire."
+    },
+    {
+      "id": "cultura-pop-10-5",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual crítico literário americano propôs o conceito de 'morte do autor' de forma independente do ensaio homônimo de Barthes, em 'The Intentional Fallacy' (1946)?",
+      "options": [
+        "Cleanth Brooks",
+        "F.R. Leavis",
+        "W.K. Wimsatt e Monroe Beardsley",
+        "I.A. Richards"
+      ],
+      "correctAnswer": "W.K. Wimsatt e Monroe Beardsley",
+      "explanation": "Wimsatt e Beardsley argumentaram em 'The Intentional Fallacy' que a intenção do autor é irrelevante para a interpretação; Barthes chegaria a conclusão semelhante em 1967 com 'A Morte do Autor'."
+    },
+    {
+      "id": "cultura-pop-10-6",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual artista e teórico americano escreveu 'The Work of Art in the Age of Mechanical Reproduction' antes de Walter Benjamin e abordou a fotografia como nova forma de arte?",
+      "options": [
+        "Clement Greenberg",
+        "Harold Rosenberg",
+        "Susan Sontag",
+        "Allan Sekula"
+      ],
+      "correctAnswer": "Susan Sontag",
+      "explanation": "Susan Sontag escreveu 'On Photography' (1977) e 'Regarding the Pain of Others' (2003), explorando como imagens fotográficas moldam a percepção da realidade e da violência."
+    },
+    {
+      "id": "cultura-pop-10-7",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual filósofo italiano propôs o conceito de 'indústria cultural' junto com Adorno em 'Dialética do Esclarecimento' (1944), criticando a mercantilização da cultura?",
+      "options": [
+        "Antonio Gramsci",
+        "Walter Benjamin",
+        "Max Horkheimer",
+        "Herbert Marcuse"
+      ],
+      "correctAnswer": "Max Horkheimer",
+      "explanation": "Adorno e Horkheimer cunharam 'indústria cultural' em 'Dialética do Esclarecimento' para descrever como o capitalismo transforma cultura em mercadoria, padronizando gostos e reprimindo pensamento crítico."
+    },
+    {
+      "id": "cultura-pop-10-8",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual artista de vanguarda japonesa, radicada em Nova York, organizou em 1960 as primeiras 'instruction pieces' (peças de instrução) que anteciparam o Fluxus?",
+      "options": [
+        "Yoko Ono",
+        "Yayoi Kusama",
+        "On Kawara",
+        "Shigeko Kubota"
+      ],
+      "correctAnswer": "Yoko Ono",
+      "explanation": "Yoko Ono criou 'instruction pieces' como 'Grapefruit' (1964), livro de instruções conceituais; sua influência no Fluxus e na arte conceitual é frequentemente eclipsada pela associação com John Lennon."
+    },
+    {
+      "id": "cultura-pop-10-9",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual teórico cultural jamaicano-britânico propôs o conceito de 'codificação/decodificação' para analisar como a TV transmite e o público interpreta mensagens de formas diferentes?",
+      "options": [
+        "Paul Gilroy",
+        "Stuart Hall",
+        "Dick Hebdige",
+        "Kobena Mercer"
+      ],
+      "correctAnswer": "Stuart Hall",
+      "explanation": "Stuart Hall publicou 'Encoding/Decoding' em 1980; propôs que receptores podem decodificar mensagens de forma dominante, negociada ou oposicional, revolucionando os Estudos Culturais."
+    },
+    {
+      "id": "cultura-pop-10-10",
+      "category": "cultura-pop",
+      "difficulty": 10,
+      "question": "Qual artista multimídia americano cunhou o termo 'intermedia' em 1966 para descrever obras que existem entre categorias artísticas estabelecidas?",
+      "options": [
+        "Nam June Paik",
+        "George Maciunas",
+        "Dick Higgins",
+        "Alison Knowles"
+      ],
+      "correctAnswer": "Dick Higgins",
+      "explanation": "Dick Higgins publicou 'Intermedia' em 1966 para descrever formas artísticas híbridas entre pintura, música, poesia e performance; foi fundador da Something Else Press e figura central do Fluxus."
+    }
+  ]
+}

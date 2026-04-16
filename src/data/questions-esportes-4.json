@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "esportes-4-1",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Qual é o torneio de tênis mais antigo ainda em disputa?",
+      "options": [
+        "Roland Garros",
+        "US Open",
+        "Australian Open",
+        "Wimbledon"
+      ],
+      "correctAnswer": "Wimbledon",
+      "explanation": "Wimbledon é realizado desde 1877 no All England Club, em Londres, sendo o torneio de tênis mais tradicional."
+    },
+    {
+      "id": "esportes-4-2",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Qual nadador americano detém o recorde de mais medalhas olímpicas da história com 28 medalhas?",
+      "options": [
+        "Ian Thorpe",
+        "Mark Spitz",
+        "Michael Phelps",
+        "Ryan Lochte"
+      ],
+      "correctAnswer": "Michael Phelps",
+      "explanation": "Michael Phelps conquistou 28 medalhas olímpicas (23 ouros) em quatro Olimpíadas (2000-2016), sendo o maior medalhista olímpico de todos os tempos."
+    },
+    {
+      "id": "esportes-4-3",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Qual é o esporte praticado no 'Tour de France'?",
+      "options": [
+        "Triatlo",
+        "Corrida de motos",
+        "Ciclismo",
+        "Atletismo"
+      ],
+      "correctAnswer": "Ciclismo",
+      "explanation": "O Tour de France é a maior corrida ciclística do mundo, disputada anualmente na França desde 1903, com etapas que incluem as montanhas dos Alpes e Pirineus."
+    },
+    {
+      "id": "esportes-4-4",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Qual time de futebol brasileiro possui o maior número de títulos do Campeonato Brasileiro?",
+      "options": [
+        "São Paulo",
+        "Santos",
+        "Flamengo",
+        "Palmeiras"
+      ],
+      "correctAnswer": "Palmeiras",
+      "explanation": "O Palmeiras é o clube com mais títulos do Campeonato Brasileiro, com 12 conquistas. Outros campeões recordistas incluem Santos e São Paulo com 8 títulos cada."
+    },
+    {
+      "id": "esportes-4-5",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Em que ano o Brasil conquistou seu primeiro título da Copa do Mundo de Futebol?",
+      "options": [
+        "1950",
+        "1954",
+        "1958",
+        "1962"
+      ],
+      "correctAnswer": "1958",
+      "explanation": "O Brasil conquistou seu primeiro título mundial em 1958, na Suécia, com Pelé aos 17 anos. Seguiram-se 1962, 1970, 1994 e 2002, completando o pentacampeonato."
+    },
+    {
+      "id": "esportes-4-6",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Qual é o nome do atleta jamaicano recordista mundial dos 100m rasos?",
+      "options": [
+        "Asafa Powell",
+        "Yohan Blake",
+        "Usain Bolt",
+        "Justin Gatlin"
+      ],
+      "correctAnswer": "Usain Bolt",
+      "explanation": "Usain Bolt detém o recorde mundial dos 100m rasos com 9,58 segundos (2009) e dos 200m com 19,19 segundos. É o único atleta tricampeão olímpico em ambas as provas."
+    },
+    {
+      "id": "esportes-4-7",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Qual é o esporte praticado na NBA (National Basketball Association)?",
+      "options": [
+        "Futebol americano",
+        "Beisebol",
+        "Basquete",
+        "Hóquei no gelo"
+      ],
+      "correctAnswer": "Basquete",
+      "explanation": "A NBA é a principal liga de basquete do mundo, fundada em 1946 nos EUA. Tem 30 times divididos em Conferência Leste e Conferência Oeste."
+    },
+    {
+      "id": "esportes-4-8",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Qual ginasta brasileira se tornou multicampeã mundial na ginástica rítmica?",
+      "options": [
+        "Laís Souza",
+        "Ingrid Oliveira",
+        "Jade Barbosa",
+        "Natalia Gaudio"
+      ],
+      "correctAnswer": "Natalia Gaudio",
+      "explanation": "Natalia Gaudio foi a maior ginasta rítmica individual do Brasil, conquistando medalhas em Mundiais e Jogos Pan-americanos, se tornando referência nacional na modalidade."
+    },
+    {
+      "id": "esportes-4-9",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Qual tenista suíço ganhou 20 títulos de Grand Slam antes de sua aposentadoria?",
+      "options": [
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic",
+        "Andy Murray"
+      ],
+      "correctAnswer": "Roger Federer",
+      "explanation": "Roger Federer ganhou 20 títulos de Grand Slam e é considerado um dos maiores tenistas da história, aposentando-se em 2022 após lesão. Nadal (22) e Djokovic (24) o superaram."
+    },
+    {
+      "id": "esportes-4-10",
+      "category": "esportes",
+      "difficulty": 4,
+      "question": "Qual é o campeonato de futebol mais antigo do mundo, disputado na Inglaterra?",
+      "options": [
+        "Premier League",
+        "FA Cup",
+        "Champions League",
+        "Copa do Mundo"
+      ],
+      "correctAnswer": "FA Cup",
+      "explanation": "A FA Cup (Football Association Challenge Cup) foi fundada em 1871, tornando-se a mais antiga competição de futebol do mundo, disputada por clubes ingleses de todas as divisões."
+    }
+  ]
+}

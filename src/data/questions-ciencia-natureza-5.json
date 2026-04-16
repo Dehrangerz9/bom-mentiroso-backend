@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ciencia-natureza-5-1",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "Qual é o símbolo químico do ouro?",
+      "options": [
+        "Go",
+        "Or",
+        "Au",
+        "Ag"
+      ],
+      "correctAnswer": "Au",
+      "explanation": "Au vem do latim 'aurum'. O ouro tem número atômico 79 na tabela periódica."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-9-1",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual é o nome do método de pintura de Caravaggio que usa forte contraste entre luz e sombra para modelar as figuras?",
+      "options": [
+        "Sfumato",
+        "Chiaroscuro (tenebrismo)",
+        "Pointillisme",
+        "Grisaille"
+      ],
+      "correctAnswer": "Chiaroscuro (tenebrismo)",
+      "explanation": "Caravaggio desenvolveu o tenebrismo, versão extrema do chiaroscuro, com luz intensa emergindo de fundo escuro, influenciando toda a pintura barroca."
+    },
+    {
+      "id": "artes-9-2",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual termo cunhado pelo crítico Clement Greenberg nos anos 1960 descreve pinturas abstratas que exploram propriedades físicas da cor sem ilusão de profundidade?",
+      "options": [
+        "Hard Edge Painting",
+        "Color Field Painting",
+        "Lyrical Abstraction",
+        "Post-Painterly Abstraction"
+      ],
+      "correctAnswer": "Color Field Painting",
+      "explanation": "O Color Field Painting, com artistas como Mark Rothko e Barnett Newman, explorava grandes campos de cor para provocar experiências emocionais e espirituais no espectador."
+    },
+    {
+      "id": "artes-9-3",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual artista sul-africana criou a série 'Warhols' (2008), transformando produtos de limpeza em embalagens douradas para criticar o consumismo e o colonialismo?",
+      "options": [
+        "Zanele Muholi",
+        "Marlene Dumas",
+        "Candice Breitz",
+        "Nandipha Mntambo"
+      ],
+      "correctAnswer": "Candice Breitz",
+      "explanation": "Candice Breitz é conhecida por obras que questionam representação, identidade e poder; a série 'Warhols' critica como produtos ocidentais dominam mercados africanos."
+    },
+    {
+      "id": "artes-9-4",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual pintor do Quattrocento italiano criou 'O Nascimento de Vênus' usando a técnica têmpera sobre tela com referências a textos neo-platônicos?",
+      "options": [
+        "Piero della Francesca",
+        "Andrea Mantegna",
+        "Sandro Botticelli",
+        "Filippo Lippi"
+      ],
+      "correctAnswer": "Sandro Botticelli",
+      "explanation": "'O Nascimento de Vênus' (c. 1485) foi encomendado pelos Médici; Botticelli baseou-se em poemas de Poliziano e conceitos neo-platônicos sobre a beleza divina."
+    },
+    {
+      "id": "artes-9-5",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual arquiteto deconstructivista projetou o Museu Guggenheim de Bilbao (1997), com formas curvilíneas revestidas de titânio?",
+      "options": [
+        "Zaha Hadid",
+        "Peter Eisenman",
+        "Daniel Libeskind",
+        "Frank Gehry"
+      ],
+      "correctAnswer": "Frank Gehry",
+      "explanation": "Frank Gehry projetou o Guggenheim Bilbao usando software aeroespacial CATIA; as formas orgânicas revestidas de titânio revitalizaram economicamente a cidade basca."
+    },
+    {
+      "id": "artes-9-6",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual artista da Arte Povera italiana usou sacos de juta, terra e chumbo para criar instalações que questionavam materiais e instituições artísticas?",
+      "options": [
+        "Lucio Fontana",
+        "Piero Manzoni",
+        "Giuseppe Penone",
+        "Jannis Kounellis"
+      ],
+      "correctAnswer": "Jannis Kounellis",
+      "explanation": "Jannis Kounellis (1936-2017) foi figura central da Arte Povera; em 1969 instalou cavalos vivos em uma galeria de Roma, desafiando as fronteiras entre arte e vida."
+    },
+    {
+      "id": "artes-9-7",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual é o nome da técnica de pintura em que pigmentos secos são emulsionados com gema de ovo, produzindo cores luminosas e secagem rápida?",
+      "options": [
+        "Têmpera",
+        "Gouache",
+        "Aquarela",
+        "Encáustica"
+      ],
+      "correctAnswer": "Têmpera",
+      "explanation": "A têmpera à base de ovo foi a principal técnica de pintura na Europa medieval e renascentista antes do óleo; Botticelli e Fra Angelico a usavam com maestria."
+    },
+    {
+      "id": "artes-9-8",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual artista norte-americano criou o movimento Land Art com a obra 'Spiral Jetty' (1970), um cais em espiral de rocha no Grande Lago Salgado?",
+      "options": [
+        "Walter De Maria",
+        "Michael Heizer",
+        "Robert Smithson",
+        "James Turrell"
+      ],
+      "correctAnswer": "Robert Smithson",
+      "explanation": "'Spiral Jetty' de Robert Smithson é uma intervenção de 457 metros em forma de espiral no Great Salt Lake, Utah; é a obra mais icônica da Land Art."
+    },
+    {
+      "id": "artes-9-9",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual filósofo e crítico de arte alemão escreveu 'A Obra de Arte na Era da Reprodutibilidade Técnica' (1935), analisando a perda da 'aura' das obras reproduzidas?",
+      "options": [
+        "Theodor Adorno",
+        "Max Horkheimer",
+        "Herbert Marcuse",
+        "Walter Benjamin"
+      ],
+      "correctAnswer": "Walter Benjamin",
+      "explanation": "Walter Benjamin argumentou que a reprodução técnica (fotografia, cinema) destrói a 'aura' da obra original — sua unicidade e presença — transformando a relação com a arte."
+    },
+    {
+      "id": "artes-9-10",
+      "category": "artes",
+      "difficulty": 9,
+      "question": "Qual artista brasileiro criou a instalação 'Inserções em Circuitos Ideológicos' (1970), imprimindo mensagens políticas em cédulas e garrafas em circulação?",
+      "options": [
+        "Hélio Oiticica",
+        "Artur Barrio",
+        "Cildo Meireles",
+        "Antonio Manuel"
+      ],
+      "correctAnswer": "Cildo Meireles",
+      "explanation": "Cildo Meireles inseriu frases críticas à ditadura em cédulas e garrafas Coca-Cola que voltavam ao circuito comercial, transformando objetos cotidianos em veículos de resistência política."
+    }
+  ]
+}

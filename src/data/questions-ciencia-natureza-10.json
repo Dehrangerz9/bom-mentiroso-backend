@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ciencia-natureza-10-1",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "Qual é o nome do princípio quântico que afirma ser impossível conhecer simultaneamente e com precisão arbitrária a posição e o momento de uma partícula?",
+      "options": [
+        "Princípio de Pauli",
+        "Princípio de Mach",
+        "Princípio da Incerteza de Heisenberg",
+        "Princípio da Complementaridade de Bohr"
+      ],
+      "correctAnswer": "Princípio da Incerteza de Heisenberg",
+      "explanation": "Formulado por Werner Heisenberg em 1927, o princípio estabelece que Δx·Δp ≥ ℏ/2, limitando fundamentalmente o conhecimento simultâneo de posição e momento."
+    }
+  ]
+}

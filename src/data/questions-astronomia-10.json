@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "astronomia-10-1",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "Qual é o nome do limite teórico ao redor de um buraco negro além do qual nenhuma informação ou matéria pode escapar?",
+      "options": [
+        "Esfera de Schwarzschild",
+        "Horizonte de eventos",
+        "Ergosfera",
+        "Singularidade gravitacional"
+      ],
+      "correctAnswer": "Horizonte de eventos",
+      "explanation": "O horizonte de eventos é a fronteira causal de um buraco negro. A partir dele, a velocidade de escape supera a da luz. A 'Esfera de Schwarzschild' é o mesmo conceito, mas 'horizonte de eventos' é o termo mais preciso e abrangente."
+    }
+  ]
+}

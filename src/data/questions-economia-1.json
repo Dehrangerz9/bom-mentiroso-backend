@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "economia-1-1",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "O que significa a sigla PIB?",
+      "options": [
+        "Produto Interno Bruto",
+        "Plano Industrial Brasileiro",
+        "Produção Interna de Bens",
+        "Programa de Integração Brasileira"
+      ],
+      "correctAnswer": "Produto Interno Bruto",
+      "explanation": "O PIB é a soma de todos os bens e serviços finais produzidos em um país em determinado período."
+    },
+    {
+      "id": "economia-1-2",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "O que significa a sigla PIB?",
+      "options": [
+        "Produto Interno Bruto",
+        "Plano Industrial Brasileiro",
+        "Produção Interna de Bens",
+        "Programa de Integração Brasileira"
+      ],
+      "correctAnswer": "Produto Interno Bruto",
+      "explanation": "PIB é a soma de todos os bens e serviços finais produzidos num país em determinado período, medida principal do tamanho de uma economia."
+    },
+    {
+      "id": "economia-1-3",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "Qual é a moeda oficial do Brasil?",
+      "options": [
+        "Cruzeiro",
+        "Dólar",
+        "Real",
+        "Escudo"
+      ],
+      "correctAnswer": "Real",
+      "explanation": "O Real é a moeda brasileira desde 1994, quando o Plano Real substituiu o Cruzeiro Real para combater a hiperinflação."
+    },
+    {
+      "id": "economia-1-4",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "O que é inflação?",
+      "options": [
+        "Queda generalizada dos preços",
+        "Aumento do desemprego",
+        "Aumento generalizado dos preços",
+        "Valorização da moeda"
+      ],
+      "correctAnswer": "Aumento generalizado dos preços",
+      "explanation": "Inflação é o aumento generalizado e sustentado dos preços de bens e serviços, que reduz o poder de compra da moeda."
+    },
+    {
+      "id": "economia-1-5",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "Qual é a moeda utilizada na maioria dos países da União Europeia?",
+      "options": [
+        "Franco",
+        "Marco",
+        "Libra",
+        "Euro"
+      ],
+      "correctAnswer": "Euro",
+      "explanation": "O euro é a moeda oficial de 20 dos 27 países da União Europeia, introduzido em 1999 e em circulação física desde 2002."
+    },
+    {
+      "id": "economia-1-6",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "O que significa exportar?",
+      "options": [
+        "Comprar produtos de outros países",
+        "Vender produtos para outros países",
+        "Produzir mais do que se consome",
+        "Importar matérias-primas"
+      ],
+      "correctAnswer": "Vender produtos para outros países",
+      "explanation": "Exportar significa vender bens ou serviços produzidos no país para compradores em outros países."
+    },
+    {
+      "id": "economia-1-7",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "O que é desemprego?",
+      "options": [
+        "Trabalho informal",
+        "Redução de salários",
+        "Situação em que pessoas aptas não encontram trabalho",
+        "Aumento da produtividade"
+      ],
+      "correctAnswer": "Situação em que pessoas aptas não encontram trabalho",
+      "explanation": "Desemprego é a condição de pessoas em idade ativa, disponíveis e aptas para trabalhar, que não encontram ocupação remunerada."
+    },
+    {
+      "id": "economia-1-8",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "Qual é a função principal de um banco central?",
+      "options": [
+        "Conceder crédito a empresas privadas",
+        "Controlar a política monetária do país",
+        "Arrecadar impostos",
+        "Gerenciar a dívida de pessoas físicas"
+      ],
+      "correctAnswer": "Controlar a política monetária do país",
+      "explanation": "O banco central é a autoridade monetária responsável por emitir moeda, controlar a inflação e regular o sistema financeiro."
+    },
+    {
+      "id": "economia-1-9",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "O que é recessão econômica?",
+      "options": [
+        "Período de crescimento acelerado",
+        "Aumento contínuo da inflação",
+        "Queda do PIB por dois trimestres consecutivos",
+        "Valorização cambial"
+      ],
+      "correctAnswer": "Queda do PIB por dois trimestres consecutivos",
+      "explanation": "Recessão é tecnicamente definida como a queda do PIB por dois trimestres consecutivos, indicando contração econômica."
+    },
+    {
+      "id": "economia-1-10",
+      "category": "economia",
+      "difficulty": 1,
+      "question": "Qual economista escocês é considerado o pai da economia moderna?",
+      "options": [
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Adam Smith",
+        "David Ricardo"
+      ],
+      "correctAnswer": "Adam Smith",
+      "explanation": "Adam Smith publicou 'A Riqueza das Nações' em 1776, lançando as bases da economia liberal e o conceito de 'mão invisível do mercado'."
+    }
+  ]
+}

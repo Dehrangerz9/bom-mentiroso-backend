@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "literatura-9-1",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Qual é o nome do narrador-protagonista de 'Em Busca do Tempo Perdido', de Marcel Proust?",
+      "options": [
+        "Charles Swann",
+        "Marcel",
+        "Robert de Saint-Loup",
+        "Baron de Charlus"
+      ],
+      "correctAnswer": "Marcel",
+      "explanation": "O narrador semi-autobiográfico é chamado apenas de 'Marcel' na obra; Proust nunca o nomeia explicitamente até perto do fim."
+    }
+  ]
+}

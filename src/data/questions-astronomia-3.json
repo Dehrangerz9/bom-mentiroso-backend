@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "astronomia-3-1",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "O que é um ano-luz?",
+      "options": [
+        "A duração de um ano em outro planeta",
+        "A distância percorrida pela luz em um ano",
+        "A medida de brilho de uma estrela",
+        "A velocidade média de uma estrela"
+      ],
+      "correctAnswer": "A distância percorrida pela luz em um ano",
+      "explanation": "Um ano-luz equivale a aproximadamente 9,46 × 10¹² km — a distância que a luz percorre em um ano no vácuo."
+    },
+    {
+      "id": "astronomia-3-2",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "Qual é o planeta mais próximo do Sol?",
+      "options": [
+        "Vênus",
+        "Marte",
+        "Terra",
+        "Mercúrio"
+      ],
+      "correctAnswer": "Mercúrio",
+      "explanation": "Mercúrio é o planeta mais próximo do Sol, a cerca de 57,9 milhões de km. Apesar disso, Vênus é o planeta mais quente devido ao seu efeito estufa intenso."
+    },
+    {
+      "id": "astronomia-3-3",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "O que é um ano-luz?",
+      "options": [
+        "O tempo que a Terra leva para orbitar o Sol",
+        "A distância que a luz percorre em um ano",
+        "A luminosidade de uma estrela por ano",
+        "A distância da Terra ao Sol"
+      ],
+      "correctAnswer": "A distância que a luz percorre em um ano",
+      "explanation": "Um ano-luz é a distância percorrida pela luz em um ano no vácuo: aproximadamente 9,46 trilhões de quilômetros. É usada para medir distâncias astronômicas."
+    },
+    {
+      "id": "astronomia-3-4",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "Qual é o nome da galáxia em que vivemos?",
+      "options": [
+        "Andrômeda",
+        "Whirlpool",
+        "Via Láctea",
+        "Triângulo"
+      ],
+      "correctAnswer": "Via Láctea",
+      "explanation": "Nossa galáxia, a Via Láctea, é uma galáxia espiral barrada com cerca de 100-400 bilhões de estrelas. O Sol fica a aproximadamente 26.000 anos-luz do centro."
+    },
+    {
+      "id": "astronomia-3-5",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "Qual planeta é conhecido pelos seus anéis mais visíveis e espetaculares?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Netuno",
+        "Saturno"
+      ],
+      "correctAnswer": "Saturno",
+      "explanation": "Saturno possui o sistema de anéis mais elaborado do Sistema Solar, composto principalmente de gelo e rochas. Tem 83 luas confirmadas, incluindo Titã."
+    },
+    {
+      "id": "astronomia-3-6",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "O que é uma supernova?",
+      "options": [
+        "Uma nova estrela que surge no universo",
+        "A explosão catastrófica de uma estrela no fim de sua vida",
+        "Uma estrela de nêutrons girando rapidamente",
+        "Uma nebulosa em formação"
+      ],
+      "correctAnswer": "A explosão catastrófica de uma estrela no fim de sua vida",
+      "explanation": "Uma supernova é a explosão de uma estrela massiva que esgotou seu combustível nuclear, liberando mais energia em segundos que o Sol em bilhões de anos."
+    },
+    {
+      "id": "astronomia-3-7",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "Qual missão espacial levou o primeiro ser humano à Lua?",
+      "options": [
+        "Apollo 10",
+        "Apollo 11",
+        "Gemini 12",
+        "Apollo 13"
+      ],
+      "correctAnswer": "Apollo 11",
+      "explanation": "A Apollo 11 pousou na Lua em 20 de julho de 1969. Neil Armstrong foi o primeiro humano a pisar no solo lunar, seguido por Buzz Aldrin, enquanto Collins orbitava."
+    },
+    {
+      "id": "astronomia-3-8",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "Qual é o nome do buraco negro supermassivo no centro da Via Láctea?",
+      "options": [
+        "Cygnus X-1",
+        "M87*",
+        "Sagitário A*",
+        "NGC 1277"
+      ],
+      "correctAnswer": "Sagitário A*",
+      "explanation": "Sagitário A* (Sgr A*) é o buraco negro supermassivo no centro da Via Láctea, com massa equivalente a 4 milhões de sóis. Sua primeira imagem foi capturada em 2022."
+    },
+    {
+      "id": "astronomia-3-9",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "Quantos planetas compõem nosso Sistema Solar atualmente, segundo a IAU?",
+      "options": [
+        "8",
+        "9",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "8",
+      "explanation": "Desde 2006, quando Plutão foi reclassificado como planeta anão pela União Astronômica Internacional (IAU), o Sistema Solar tem 8 planetas oficiais."
+    },
+    {
+      "id": "astronomia-3-10",
+      "category": "astronomia",
+      "difficulty": 3,
+      "question": "Qual é o nome da zona ao redor de uma estrela onde condições permitem existência de água líquida?",
+      "options": [
+        "Zona de exclusão cósmica",
+        "Zona habitável",
+        "Cinto de asteroides",
+        "Zona de Goldilocks"
+      ],
+      "correctAnswer": "Zona habitável",
+      "explanation": "A zona habitável (também chamada de Zona de Goldilocks) é a região ao redor de uma estrela onde a temperatura permite água líquida na superfície de um planeta rochoso."
+    }
+  ]
+}

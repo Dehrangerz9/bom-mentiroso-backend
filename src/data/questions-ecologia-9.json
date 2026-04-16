@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-9-1",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "O que é 'biodiversidade funcional' e como ela difere da biodiversidade taxonômica?",
+      "options": [
+        "Biodiversidade funcional conta espécies úteis para humanos; taxonômica conta todas as espécies",
+        "Biodiversidade funcional mede a variedade de funções ecológicas desempenhadas por organismos; taxonômica mede o número e variedade de espécies",
+        "Biodiversidade funcional refere-se a genes; taxonômica refere-se a ecossistemas",
+        "São sinônimos usados em contextos diferentes"
+      ],
+      "correctAnswer": "Biodiversidade funcional mede a variedade de funções ecológicas desempenhadas por organismos; taxonômica mede o número e variedade de espécies",
+      "explanation": "Biodiversidade funcional foca em traits (características) e papéis ecológicos. Dois ecossistemas podem ter igual riqueza taxonômica mas diferente resiliência dependendo de sua diversidade funcional."
+    }
+  ]
+}

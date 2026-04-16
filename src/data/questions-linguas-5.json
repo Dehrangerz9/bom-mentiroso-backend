@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "linguas-5-1",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "Qual é o alfabeto mais utilizado no mundo em número de línguas que o adotam?",
+      "options": [
+        "Cirílico",
+        "Árabe",
+        "Latino",
+        "Devanágari"
+      ],
+      "correctAnswer": "Latino",
+      "explanation": "O alfabeto latino é usado por mais línguas do que qualquer outro, graças à expansão colonial europeia e ao inglês como língua global."
+    }
+  ]
+}

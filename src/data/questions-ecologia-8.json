@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-8-1",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "O que é o 'Limite Planetário' de nitrogênio, e por que está sendo ultrapassado?",
+      "options": [
+        "A quantidade máxima de nitrogênio na atmosfera, reduzida pela emissão de NOₓ",
+        "A quantidade segura de nitrogênio reativo introduzido nos ecossistemas pela atividade humana, amplamente excedida pela agricultura com fertilizantes sintéticos",
+        "O nível de óxido nitroso aceitável para não comprometer a camada de ozônio",
+        "A taxa de perda de nitrogênio dos oceanos por acidificação"
+      ],
+      "correctAnswer": "A quantidade segura de nitrogênio reativo introduzido nos ecossistemas pela atividade humana, amplamente excedida pela agricultura com fertilizantes sintéticos",
+      "explanation": "Rockström et al. (2009) identificaram 9 limites planetários; o ciclo de nitrogênio é um dos mais violados, causando eutrofização de rios, lagos e zonas costeiras."
+    }
+  ]
+}

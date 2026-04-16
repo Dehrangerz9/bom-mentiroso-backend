@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-8-1",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual artista modernista brasileira pintou 'Abaporu' em 1928, obra que inspirou o Manifesto Antropófago de Oswald de Andrade?",
+      "options": [
+        "Anita Malfatti",
+        "Tarsila do Amaral",
+        "Maria Martins",
+        "Lygia Clark"
+      ],
+      "correctAnswer": "Tarsila do Amaral",
+      "explanation": "'Abaporu' (do tupi: 'homem que come gente') foi pintado por Tarsila como presente de aniversário para Oswald de Andrade e deu origem ao movimento Antropofágico."
+    },
+    {
+      "id": "artes-8-2",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual pintor holandês do século XVII utilizava a técnica de 'camera obscura' para obter perspectivas precisas, como em 'A Rendeira' e 'A Astrônoma'?",
+      "options": [
+        "Rembrandt van Rijn",
+        "Frans Hals",
+        "Johannes Vermeer",
+        "Jacob van Ruisdael"
+      ],
+      "correctAnswer": "Johannes Vermeer",
+      "explanation": "Há evidências de que Vermeer usava camera obscura para projetar cenas; suas obras como 'Moça com Brinco de Pérola' têm precisão óptica e luminosidade únicas."
+    },
+    {
+      "id": "artes-8-3",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual artista da Arte Conceitual enviou um telegrama a uma galeria em 1961 dizendo 'Este telegrama constitui uma obra de arte'?",
+      "options": [
+        "Sol LeWitt",
+        "Lawrence Weiner",
+        "Robert Barry",
+        "La Monte Young"
+      ],
+      "correctAnswer": "Robert Barry",
+      "explanation": "Robert Barry foi pioneiro na Arte Conceitual ao desafiar a materialidade da obra de arte; o telegrama questionava o que pode ser definido como arte sem forma física."
+    },
+    {
+      "id": "artes-8-4",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual é o nome do processo usado na gravura japonesa ukiyo-e em que cada cor é impressa separadamente com blocos de madeira diferentes?",
+      "options": [
+        "Moku hanga",
+        "Sumi-e",
+        "Kiri-e",
+        "Chigiri-e"
+      ],
+      "correctAnswer": "Moku hanga",
+      "explanation": "Moku hanga é a técnica de xilogravura japonesa que usa blocos de madeira separados para cada cor; artistas como Hokusai e Hiroshige a dominaram no período Edo."
+    },
+    {
+      "id": "artes-8-5",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual artista do Dadaísmo criou 'Fountain' (1917), um mictório de porcelana submetido a exposição como obra de arte sob pseudônimo?",
+      "options": [
+        "Max Ernst",
+        "Francis Picabia",
+        "Marcel Duchamp",
+        "Man Ray"
+      ],
+      "correctAnswer": "Marcel Duchamp",
+      "explanation": "'Fountain' de Duchamp introduziu o conceito de 'readymade': objetos do cotidiano retirados de contexto e apresentados como arte, questionando a própria definição de arte."
+    },
+    {
+      "id": "artes-8-6",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual pintor alemão do Renascimento Norte é conhecido pelas gravuras e xilogravuras do 'Apocalipse' e pelo autorretrato de 1500?",
+      "options": [
+        "Hans Holbein",
+        "Lucas Cranach",
+        "Albrecht Dürer",
+        "Matthias Grünewald"
+      ],
+      "correctAnswer": "Albrecht Dürer",
+      "explanation": "Albrecht Dürer (1471-1528) foi o primeiro artista a criar autorretratos sistemáticos; seu autorretrato de 1500, em postura cristológica, e suas gravuras 'Apocalipse' são marcos da arte alemã."
+    },
+    {
+      "id": "artes-8-7",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual movimento artístico russo dos anos 1920 defendia a arte a serviço da revolução socialista, usando formas geométricas e tipografia funcional?",
+      "options": [
+        "Suprematismo",
+        "Construtivismo",
+        "Raionismo",
+        "Produtivismo"
+      ],
+      "correctAnswer": "Construtivismo",
+      "explanation": "O Construtivismo russo (c. 1915-1932) rejeitava a arte pura em favor de obras aplicadas à indústria, propaganda e design; Rodchenko e El Lissitzky foram figuras centrais."
+    },
+    {
+      "id": "artes-8-8",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual escultura da Grécia Antiga, descoberta em Milos em 1820, é celebrada pela ausência dos braços e pela beleza ideal do corpo feminino?",
+      "options": [
+        "Vitória de Samotrácia",
+        "Discóbolo",
+        "Vênus de Milo",
+        "Laocoonte e seus Filhos"
+      ],
+      "correctAnswer": "Vênus de Milo",
+      "explanation": "A 'Vênus de Milo' (c. 130-100 a.C.) está no Louvre; seus braços foram perdidos antes da descoberta e várias teorias tentam reconstituir sua postura original."
+    },
+    {
+      "id": "artes-8-9",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual artista italiano do Renascimento criou o afresco 'A Escola de Atenas', reunindo filósofos gregos na Stanza della Segnatura do Vaticano?",
+      "options": [
+        "Michelangelo",
+        "Leonardo da Vinci",
+        "Rafael Sanzio",
+        "Fra Angelico"
+      ],
+      "correctAnswer": "Rafael Sanzio",
+      "explanation": "'A Escola de Atenas' (1509-1511) de Rafael reúne Platão, Aristóteles e outros filósofos em uma arquitetura clássica; Platão tem o rosto de Leonardo da Vinci."
+    },
+    {
+      "id": "artes-8-10",
+      "category": "artes",
+      "difficulty": 8,
+      "question": "Qual artista norte-americano criou instalações de neon colorido que exploram a percepção do espaço, como os 'Monuments to V. Tatlin'?",
+      "options": [
+        "Bruce Nauman",
+        "Donald Judd",
+        "Dan Flavin",
+        "Carl Andre"
+      ],
+      "correctAnswer": "Dan Flavin",
+      "explanation": "Dan Flavin (1933-1996) usou tubos de neon comerciais para criar instalações site-specific; os 'Monuments to V. Tatlin' (a partir de 1964) homenageiam o artista construtivista russo."
+    }
+  ]
+}

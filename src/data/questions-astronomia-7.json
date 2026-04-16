@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "astronomia-7-1",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "Qual é o nome da teoria que descreve a expansão acelerada do universo, atribuída a uma energia desconhecida que permeia o espaço?",
+      "options": [
+        "Matéria escura",
+        "Energia escura",
+        "Constante cosmológica inflacionária",
+        "Radiação de fundo"
+      ],
+      "correctAnswer": "Energia escura",
+      "explanation": "A energia escura corresponde a cerca de 68% do conteúdo energético do universo e é responsável pela expansão acelerada observada desde 1998."
+    }
+  ]
+}

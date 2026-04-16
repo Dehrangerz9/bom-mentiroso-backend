@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "geografia-6-1",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Qual é o estreito que separa a Europa da África?",
+      "options": [
+        "Bósforo",
+        "Messina",
+        "Gibraltar",
+        "Ormuz"
+      ],
+      "correctAnswer": "Gibraltar",
+      "explanation": "O Estreito de Gibraltar separa a Espanha (Europa) de Marrocos (África) com apenas 14 km em seu ponto mais estreito."
+    }
+  ]
+}

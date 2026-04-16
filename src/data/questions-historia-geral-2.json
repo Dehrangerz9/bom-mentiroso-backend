@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "historia-geral-2-1",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Qual civilização construiu Machu Picchu?",
+      "options": [
+        "Maia",
+        "Asteca",
+        "Inca",
+        "Olmeca"
+      ],
+      "correctAnswer": "Inca",
+      "explanation": "Machu Picchu foi construída pelos Incas por volta de 1450, no Peru, e redescoberta pelo ocidente em 1911."
+    },
+    {
+      "id": "historia-geral-2-2",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Em qual ano o Brasil proclamou sua independência de Portugal?",
+      "options": [
+        "1808",
+        "1815",
+        "1822",
+        "1831"
+      ],
+      "correctAnswer": "1822",
+      "explanation": "Dom Pedro I proclamou a independência do Brasil em 7 de setembro de 1822, às margens do riacho Ipiranga, em São Paulo."
+    },
+    {
+      "id": "historia-geral-2-3",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Qual explorador português chegou à Índia contornando o Cabo da Boa Esperança em 1498?",
+      "options": [
+        "Pedro Álvares Cabral",
+        "Fernão de Magalhães",
+        "Bartolomeu Dias",
+        "Vasco da Gama"
+      ],
+      "correctAnswer": "Vasco da Gama",
+      "explanation": "Vasco da Gama liderou a primeira expedição europeia a chegar à Índia por mar, abrindo a rota do comércio de especiarias."
+    },
+    {
+      "id": "historia-geral-2-4",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Em qual ano o Brasil aboliu a escravidão?",
+      "options": [
+        "1871",
+        "1880",
+        "1888",
+        "1891"
+      ],
+      "correctAnswer": "1888",
+      "explanation": "A Lei Áurea, assinada pela Princesa Isabel em 13 de maio de 1888, aboliu a escravidão no Brasil, o último país das Américas a fazê-lo."
+    },
+    {
+      "id": "historia-geral-2-5",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Qual evento catastrófico de 1929 desencadeou a Grande Depressão mundial?",
+      "options": [
+        "Quebra do banco Morgan",
+        "Crack da Bolsa de Nova York",
+        "Falência do Deutsche Bank",
+        "Crise do Canal de Suez"
+      ],
+      "correctAnswer": "Crack da Bolsa de Nova York",
+      "explanation": "O Crash de 1929 (Quinta-Feira Negra, 24 de outubro) causou o colapso da bolsa americana e deflagrou a pior recessão econômica do século XX."
+    },
+    {
+      "id": "historia-geral-2-6",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Em qual país surgiu a Reforma Protestante no século XVI, liderada por Martinho Lutero?",
+      "options": [
+        "França",
+        "Inglaterra",
+        "Suíça",
+        "Alemanha"
+      ],
+      "correctAnswer": "Alemanha",
+      "explanation": "Martinho Lutero afixou suas 95 teses em Wittenberg, Alemanha, em 1517, dando início à Reforma Protestante."
+    },
+    {
+      "id": "historia-geral-2-7",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Qual general aliado comandou as forças do Dia D no desembarque na Normandia em 1944?",
+      "options": [
+        "Bernard Montgomery",
+        "George Patton",
+        "Douglas MacArthur",
+        "Dwight D. Eisenhower"
+      ],
+      "correctAnswer": "Dwight D. Eisenhower",
+      "explanation": "Eisenhower foi o Comandante Supremo das Forças Aliadas na Europa durante a Segunda Guerra Mundial, comandando a Operação Overlord."
+    },
+    {
+      "id": "historia-geral-2-8",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Qual foi a primeira nação da América Latina a conquistar independência?",
+      "options": [
+        "México",
+        "Venezuela",
+        "Haiti",
+        "Argentina"
+      ],
+      "correctAnswer": "Haiti",
+      "explanation": "O Haiti declarou independência em 1804, tornando-se a primeira república negra e a primeira nação latino-americana independente."
+    },
+    {
+      "id": "historia-geral-2-9",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Qual foi o período histórico europeu (séculos XIV-XVII) marcado pelo renascimento das artes, ciências e filosofia greco-romana?",
+      "options": [
+        "Iluminismo",
+        "Barroco",
+        "Renascimento",
+        "Romanticismo"
+      ],
+      "correctAnswer": "Renascimento",
+      "explanation": "O Renascimento foi um movimento cultural iniciado na Itália que retomou valores clássicos greco-romanos e transformou a arte, a ciência e o pensamento europeu."
+    },
+    {
+      "id": "historia-geral-2-10",
+      "category": "historia-geral",
+      "difficulty": 2,
+      "question": "Qual civilização pré-colombiana tinha sua capital em Tenochtitlán, no atual México?",
+      "options": [
+        "Inca",
+        "Maia",
+        "Olmeca",
+        "Asteca"
+      ],
+      "correctAnswer": "Asteca",
+      "explanation": "Tenochtitlán, fundada pelos astecas por volta de 1325, era uma das maiores cidades do mundo na época da conquista espanhola."
+    }
+  ]
+}

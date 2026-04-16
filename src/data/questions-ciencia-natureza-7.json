@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ciencia-natureza-7-1",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "Qual lei da termodinâmica afirma que a entropia de um sistema isolado nunca diminui?",
+      "options": [
+        "1ª Lei",
+        "2ª Lei",
+        "3ª Lei",
+        "Lei Zero"
+      ],
+      "correctAnswer": "2ª Lei",
+      "explanation": "A 2ª Lei da Termodinâmica estabelece que processos naturais tendem ao aumento da desordem (entropia)."
+    }
+  ]
+}

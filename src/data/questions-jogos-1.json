@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "jogos-1-1",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Qual empresa criou o personagem Mario?",
+      "options": [
+        "Sega",
+        "Capcom",
+        "Nintendo",
+        "Konami"
+      ],
+      "correctAnswer": "Nintendo",
+      "explanation": "Mario foi criado por Shigeru Miyamoto e apareceu pela primeira vez em Donkey Kong (1981) como 'Jumpman'."
+    },
+    {
+      "id": "jogos-1-2",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Qual é o nome do herói principal da série 'The Legend of Zelda'?",
+      "options": [
+        "Zelda",
+        "Ganon",
+        "Link",
+        "Navi"
+      ],
+      "correctAnswer": "Link",
+      "explanation": "Link é o protagonista jogável da série The Legend of Zelda da Nintendo, frequentemente confundido com a princesa Zelda."
+    },
+    {
+      "id": "jogos-1-3",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Quantas peças tem um jogo de xadrez completo?",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "correctAnswer": "32",
+      "explanation": "Um jogo de xadrez tem 32 peças no total: 16 brancas e 16 pretas, distribuídas entre peões, torres, cavalos, bispos, rainhas e reis."
+    },
+    {
+      "id": "jogos-1-4",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Qual é a mascote oficial da SEGA?",
+      "options": [
+        "Crash Bandicoot",
+        "Banjo",
+        "Sonic",
+        "Knuckles"
+      ],
+      "correctAnswer": "Sonic",
+      "explanation": "Sonic, o Ouriço, é a mascote da SEGA desde 1991, criado para competir com o Mario da Nintendo."
+    },
+    {
+      "id": "jogos-1-5",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Qual jogo russo de blocos caindo se tornou fenômeno mundial nos anos 1980?",
+      "options": [
+        "Pac-Man",
+        "Snake",
+        "Tetris",
+        "Pong"
+      ],
+      "correctAnswer": "Tetris",
+      "explanation": "Tetris foi criado pelo programador soviético Alexei Pajitnov em 1984 e tornou-se um dos jogos mais vendidos de todos os tempos."
+    },
+    {
+      "id": "jogos-1-6",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Qual console portátil da Nintendo foi lançado em 1989?",
+      "options": [
+        "Game Gear",
+        "Lynx",
+        "Game Boy",
+        "Neo Geo Pocket"
+      ],
+      "correctAnswer": "Game Boy",
+      "explanation": "O Game Boy foi lançado pela Nintendo em 1989 e vendeu mais de 118 milhões de unidades, tornando-se um ícone dos jogos portáteis."
+    },
+    {
+      "id": "jogos-1-7",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Qual jogo de tabuleiro usa letras para montar palavras e acumular pontos?",
+      "options": [
+        "Monopoly",
+        "Banco Imobiliário",
+        "Xadrez",
+        "Scrabble"
+      ],
+      "correctAnswer": "Scrabble",
+      "explanation": "Scrabble é um jogo de palavras cruzadas onde jogadores usam peças com letras para formar palavras no tabuleiro e somar pontos."
+    },
+    {
+      "id": "jogos-1-8",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Em qual jogo de tabuleiro os jogadores compram propriedades e cobram aluguel dos adversários?",
+      "options": [
+        "Xadrez",
+        "Damas",
+        "War",
+        "Monopoly"
+      ],
+      "correctAnswer": "Monopoly",
+      "explanation": "Monopoly é um dos jogos de tabuleiro mais vendidos do mundo, onde o objetivo é acumular propriedades e falir os outros jogadores."
+    },
+    {
+      "id": "jogos-1-9",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Quantos jogadores participam de uma partida padrão de xadrez?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2",
+      "explanation": "O xadrez é um jogo disputado entre dois jogadores, um com as peças brancas e outro com as pretas."
+    },
+    {
+      "id": "jogos-1-10",
+      "category": "jogos",
+      "difficulty": 1,
+      "question": "Qual console da Sony revolucionou os jogos 3D ao ser lançado em 1994?",
+      "options": [
+        "Sega Saturn",
+        "Nintendo 64",
+        "PlayStation",
+        "Atari Jaguar"
+      ],
+      "correctAnswer": "PlayStation",
+      "explanation": "O PlayStation da Sony foi lançado em 1994 no Japão e popularizou o uso de CD-ROM e gráficos 3D nos videogames."
+    }
+  ]
+}

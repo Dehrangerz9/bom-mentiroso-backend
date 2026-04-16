@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-2-1",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "Qual especiaria é mais cara por peso do que o ouro?",
+      "options": [
+        "Baunilha",
+        "Cardamomo",
+        "Açafrão",
+        "Trufa"
+      ],
+      "correctAnswer": "Açafrão",
+      "explanation": "O açafrão é extraído manualmente dos estigmas da flor Crocus sativus, exigindo cerca de 150.000 flores por quilo."
+    },
+    {
+      "id": "gastronomia-2-2",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "Qual é o nome do molho japonês fermentado feito de soja, muito usado em sushis e grelhados?",
+      "options": [
+        "Missô",
+        "Teriyaki",
+        "Shoyu",
+        "Ponzu"
+      ],
+      "correctAnswer": "Shoyu",
+      "explanation": "Shoyu é o nome japonês para o molho de soja, produzido pela fermentação de grãos de soja com trigo, água e sal."
+    },
+    {
+      "id": "gastronomia-2-3",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "De qual país é originário o prato 'Paella'?",
+      "options": [
+        "Portugal",
+        "Itália",
+        "Grécia",
+        "Espanha"
+      ],
+      "correctAnswer": "Espanha",
+      "explanation": "A paella é originária da região de Valência, na Espanha, e é preparada com arroz de grão curto, açafrão, legumes e frutos do mar ou carnes."
+    },
+    {
+      "id": "gastronomia-2-4",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "Qual é a bebida nacional do Brasil, destilada da cana-de-açúcar?",
+      "options": [
+        "Rum",
+        "Tequila",
+        "Pisco",
+        "Cachaça"
+      ],
+      "correctAnswer": "Cachaça",
+      "explanation": "A cachaça é uma aguardente tipicamente brasileira feita do caldo de cana fermentado e destilado, base da caipirinha."
+    },
+    {
+      "id": "gastronomia-2-5",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "O que é o 'roux' na culinária francesa?",
+      "options": [
+        "Um caldo de carne concentrado",
+        "Uma mistura de farinha e manteiga cozidos para engrossar molhos",
+        "Um método de cozimento a vapor",
+        "Um corte de carne bovino"
+      ],
+      "correctAnswer": "Uma mistura de farinha e manteiga cozidos para engrossar molhos",
+      "explanation": "O roux é base de molhos clássicos franceses como béchamel, velouté e espagnole, e consiste em farinha e manteiga cozidos em partes iguais."
+    },
+    {
+      "id": "gastronomia-2-6",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "Qual é o nome da técnica culinária de cortar alimentos em palitos finos e uniformes?",
+      "options": [
+        "Brunoise",
+        "Chiffonade",
+        "Julienne",
+        "Mirepoix"
+      ],
+      "correctAnswer": "Julienne",
+      "explanation": "Julienne é um corte culinário em tiras finas de 3mm x 3mm x 5-6cm, muito usado em cenouras, abobrinha e outros legumes."
+    },
+    {
+      "id": "gastronomia-2-7",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "Qual cidade japonesa tem o maior número de restaurantes estrelados pelo Guia Michelin no mundo?",
+      "options": [
+        "Paris",
+        "Nova York",
+        "Londres",
+        "Tóquio"
+      ],
+      "correctAnswer": "Tóquio",
+      "explanation": "Tóquio é a cidade com mais estrelas Michelin do mundo, com centenas de restaurantes reconhecidos pela excelência gastronômica."
+    },
+    {
+      "id": "gastronomia-2-8",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "Qual é o principal ingrediente do tradicional molho italiano 'pesto genovese'?",
+      "options": [
+        "Tomate seco",
+        "Manjericão fresco",
+        "Azeitona preta",
+        "Alcaparra"
+      ],
+      "correctAnswer": "Manjericão fresco",
+      "explanation": "O pesto genovese é feito de manjericão fresco, azeite de oliva, pinoli, alho e queijo parmesão ou pecorino, originário de Gênova, Itália."
+    },
+    {
+      "id": "gastronomia-2-9",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "Qual é o nome do processo de cozinhar a carne lentamente em sua própria gordura, técnica francesa de preservação?",
+      "options": [
+        "Sous vide",
+        "Brasear",
+        "Escaldar",
+        "Confit"
+      ],
+      "correctAnswer": "Confit",
+      "explanation": "O confit é uma técnica francesa em que carnes como pato ou ganso são cozidas lentamente na própria gordura e conservadas nela, preservando o sabor."
+    },
+    {
+      "id": "gastronomia-2-10",
+      "category": "gastronomia",
+      "difficulty": 2,
+      "question": "De qual país é originário o kimchi, prato fermentado à base de repolho com pimenta?",
+      "options": [
+        "Japão",
+        "China",
+        "Tailândia",
+        "Coreia"
+      ],
+      "correctAnswer": "Coreia",
+      "explanation": "O kimchi é o prato nacional da Coreia, feito de repolho napa fermentado com pimenta, alho, gengibre e outros temperos."
+    }
+  ]
+}

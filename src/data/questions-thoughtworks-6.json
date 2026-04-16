@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "thoughtworks-6-1",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "Qual livro clássico de Martin Fowler, Thoughtworker, define padrões de arquitetura empresarial?",
+      "options": [
+        "Clean Code",
+        "Patterns of Enterprise Application Architecture",
+        "The Pragmatic Programmer",
+        "Domain-Driven Design"
+      ],
+      "correctAnswer": "Patterns of Enterprise Application Architecture",
+      "explanation": "Martin Fowler publicou 'Patterns of Enterprise Application Architecture' em 2002, tornando-se referência na área."
+    }
+  ]
+}

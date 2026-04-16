@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "ciencia-natureza-3-1",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Quantos pares de cromossomos tem uma célula humana saudável?",
+      "options": [
+        "21",
+        "23",
+        "24",
+        "46"
+      ],
+      "correctAnswer": "23",
+      "explanation": "Células humanas possuem 46 cromossomos organizados em 23 pares (22 autossomos + 1 par sexual)."
+    },
+    {
+      "id": "ciencia-natureza-3-2",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Qual é o processo pelo qual as plantas produzem seu próprio alimento usando luz solar?",
+      "options": [
+        "Respiração celular",
+        "Fotossíntese",
+        "Fermentação",
+        "Quimiossíntese"
+      ],
+      "correctAnswer": "Fotossíntese",
+      "explanation": "Na fotossíntese, plantas, algas e cianobactérias convertem CO₂ e água em glicose e oxigênio usando energia luminosa, na equação: 6CO₂ + 6H₂O + luz → C₆H₁₂O₆ + 6O₂."
+    },
+    {
+      "id": "ciencia-natureza-3-3",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Qual é o nome do cientista que formulou a teoria da evolução por seleção natural?",
+      "options": [
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Charles Darwin",
+        "Alfred Wallace"
+      ],
+      "correctAnswer": "Charles Darwin",
+      "explanation": "Charles Darwin publicou 'A Origem das Espécies' em 1859, propondo que a evolução ocorre por seleção natural: organismos mais adaptados sobrevivem e se reproduzem mais."
+    },
+    {
+      "id": "ciencia-natureza-3-4",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Qual partícula subatômica possui carga negativa?",
+      "options": [
+        "Próton",
+        "Nêutron",
+        "Elétron",
+        "Fóton"
+      ],
+      "correctAnswer": "Elétron",
+      "explanation": "O elétron possui carga elétrica negativa (-1e) e orbita o núcleo atômico. O próton tem carga positiva e o nêutron é eletricamente neutro."
+    },
+    {
+      "id": "ciencia-natureza-3-5",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Qual é o símbolo químico do ouro na tabela periódica?",
+      "options": [
+        "Go",
+        "Or",
+        "Au",
+        "Ag"
+      ],
+      "correctAnswer": "Au",
+      "explanation": "O símbolo Au vem do latim 'aurum' (ouro). O ouro é o elemento 79 da tabela periódica, metal precioso conhecido desde a antiguidade."
+    },
+    {
+      "id": "ciencia-natureza-3-6",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Quantos ossos tem o corpo humano adulto?",
+      "options": [
+        "206",
+        "212",
+        "198",
+        "220"
+      ],
+      "correctAnswer": "206",
+      "explanation": "O corpo humano adulto possui 206 ossos. Bebês nascem com cerca de 270-300 ossos, que vão se fundindo com o crescimento."
+    },
+    {
+      "id": "ciencia-natureza-3-7",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Qual é a velocidade da luz no vácuo, aproximadamente?",
+      "options": [
+        "300 mil km/s",
+        "150 mil km/s",
+        "450 mil km/s",
+        "600 mil km/s"
+      ],
+      "correctAnswer": "300 mil km/s",
+      "explanation": "A velocidade da luz no vácuo é de 299.792.458 m/s, aproximadamente 300.000 km/s. É a velocidade máxima no universo segundo a relatividade especial de Einstein."
+    },
+    {
+      "id": "ciencia-natureza-3-8",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Qual é o nome do processo de divisão celular que produz células sexuais (gametas)?",
+      "options": [
+        "Mitose",
+        "Meiose",
+        "Fissão binária",
+        "Brotamento"
+      ],
+      "correctAnswer": "Meiose",
+      "explanation": "A meiose produz gametas (espermatozoides e óvulos) com metade do número de cromossomos, essencial para a reprodução sexuada e variabilidade genética."
+    },
+    {
+      "id": "ciencia-natureza-3-9",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Qual órgão do corpo humano produz a insulina?",
+      "options": [
+        "Fígado",
+        "Rim",
+        "Pâncreas",
+        "Baço"
+      ],
+      "correctAnswer": "Pâncreas",
+      "explanation": "O pâncreas produz insulina nas células beta das ilhotas de Langerhans. A insulina regula os níveis de glicose no sangue; sua deficiência causa diabetes."
+    },
+    {
+      "id": "ciencia-natureza-3-10",
+      "category": "ciencia-natureza",
+      "difficulty": 3,
+      "question": "Qual lei da física estabelece que 'para toda ação há uma reação igual e contrária'?",
+      "options": [
+        "Primeira Lei de Newton",
+        "Segunda Lei de Newton",
+        "Terceira Lei de Newton",
+        "Lei de Hooke"
+      ],
+      "correctAnswer": "Terceira Lei de Newton",
+      "explanation": "A Terceira Lei de Newton (ação e reação) afirma que forças ocorrem em pares: quando A exerce força sobre B, B exerce força igual, oposta e simultânea sobre A."
+    }
+  ]
+}

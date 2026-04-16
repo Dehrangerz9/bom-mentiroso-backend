@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "geografia-2-1",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Qual é o maior deserto frio do mundo?",
+      "options": [
+        "Gobi",
+        "Atacama",
+        "Antártica",
+        "Patagônia"
+      ],
+      "correctAnswer": "Antártica",
+      "explanation": "A Antártica é o maior deserto do mundo (14 milhões de km²) e também o mais frio e seco."
+    },
+    {
+      "id": "geografia-2-2",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Qual é a capital do Japão?",
+      "options": [
+        "Osaka",
+        "Quioto",
+        "Hiroshima",
+        "Tóquio"
+      ],
+      "correctAnswer": "Tóquio",
+      "explanation": "Tóquio é a capital do Japão e a maior área metropolitana do mundo, com cerca de 37 milhões de habitantes."
+    },
+    {
+      "id": "geografia-2-3",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Qual é o maior rio da América do Sul em volume de água?",
+      "options": [
+        "Orinoco",
+        "Paraná",
+        "São Francisco",
+        "Amazonas"
+      ],
+      "correctAnswer": "Amazonas",
+      "explanation": "O Amazonas é o rio com maior volume de água do mundo, responsável por cerca de 20% da descarga fluvial de todos os rios do planeta."
+    },
+    {
+      "id": "geografia-2-4",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Qual é a capital da Alemanha?",
+      "options": [
+        "Munique",
+        "Frankfurt",
+        "Hamburgo",
+        "Berlim"
+      ],
+      "correctAnswer": "Berlim",
+      "explanation": "Berlim é a capital e maior cidade da Alemanha, voltando a ser a capital unificada após a reunificação alemã em 1990."
+    },
+    {
+      "id": "geografia-2-5",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Qual é o país mais populoso do mundo?",
+      "options": [
+        "Estados Unidos",
+        "China",
+        "Índia",
+        "Indonésia"
+      ],
+      "correctAnswer": "Índia",
+      "explanation": "A Índia ultrapassou a China em 2023, tornando-se o país mais populoso do mundo com mais de 1,4 bilhão de habitantes."
+    },
+    {
+      "id": "geografia-2-6",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Qual é o nome do canal artificial que liga o Oceano Atlântico ao Oceano Pacífico?",
+      "options": [
+        "Canal de Suez",
+        "Canal do Panamá",
+        "Canal da Mancha",
+        "Canal de Corinto"
+      ],
+      "correctAnswer": "Canal do Panamá",
+      "explanation": "O Canal do Panamá foi inaugurado em 1914 e permite que navios evitem a circunavegação da América do Sul."
+    },
+    {
+      "id": "geografia-2-7",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Qual é a capital do México?",
+      "options": [
+        "Guadalajara",
+        "Monterrey",
+        "Cancún",
+        "Cidade do México"
+      ],
+      "correctAnswer": "Cidade do México",
+      "explanation": "A Cidade do México é a capital federal e maior cidade do país, com cerca de 21 milhões de pessoas na região metropolitana."
+    },
+    {
+      "id": "geografia-2-8",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Qual é a maior ilha do mundo?",
+      "options": [
+        "Bornéu",
+        "Madagascar",
+        "Nova Guiné",
+        "Groenlândia"
+      ],
+      "correctAnswer": "Groenlândia",
+      "explanation": "A Groenlândia tem 2,17 milhões de km², sendo a maior ilha do mundo; tecnicamente é um território autônomo da Dinamarca."
+    },
+    {
+      "id": "geografia-2-9",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Qual mar banha as costas de países como Espanha, França, Itália, Grécia e Egito?",
+      "options": [
+        "Mar do Norte",
+        "Mar Báltico",
+        "Mar Cáspio",
+        "Mar Mediterrâneo"
+      ],
+      "correctAnswer": "Mar Mediterrâneo",
+      "explanation": "O Mar Mediterrâneo é um mar interior que banha 21 países e foi o centro da civilização ocidental por milênios."
+    },
+    {
+      "id": "geografia-2-10",
+      "category": "geografia",
+      "difficulty": 2,
+      "question": "Em qual continente fica o deserto do Saara?",
+      "options": [
+        "Ásia",
+        "Oceania",
+        "América do Sul",
+        "África"
+      ],
+      "correctAnswer": "África",
+      "explanation": "O Saara, maior deserto quente do mundo com cerca de 9 milhões de km², está localizado no norte da África."
+    }
+  ]
+}

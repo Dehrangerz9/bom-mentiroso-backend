@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-4-1",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "O movimento artístico 'Impressionismo' surgiu em qual país?",
+      "options": [
+        "Alemanha",
+        "Inglaterra",
+        "Itália",
+        "França"
+      ],
+      "correctAnswer": "França",
+      "explanation": "O Impressionismo nasceu na França nos anos 1860-70, com artistas como Monet, Degas, Renoir e Pissarro."
+    },
+    {
+      "id": "artes-4-2",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "Qual movimento artístico surgido na França no final do século XIX privilegiava a representação da luz e da cor sobre detalhes precisos?",
+      "options": [
+        "Cubismo",
+        "Realismo",
+        "Impressionismo",
+        "Expressionismo"
+      ],
+      "correctAnswer": "Impressionismo",
+      "explanation": "O Impressionismo (c. 1860-1890) foi liderado por Monet, Renoir e Degas. O nome vem do quadro 'Impressão, Sol Nascente' de Monet, criticado por um jornalista em 1874."
+    },
+    {
+      "id": "artes-4-3",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "Qual obra de Michelangelo decora o teto da Capela Sistina?",
+      "options": [
+        "A Escola de Atenas",
+        "O Juízo Final no teto",
+        "A Criação de Adão e outras cenas do Gênesis",
+        "A Transfiguração"
+      ],
+      "correctAnswer": "A Criação de Adão e outras cenas do Gênesis",
+      "explanation": "Michelangelo pintou o teto da Capela Sistina entre 1508 e 1512 com cenas do Gênesis. A Criação de Adão é a cena central mais famosa, com as mãos de Deus e Adão quase se tocando."
+    },
+    {
+      "id": "artes-4-4",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "Qual é o nome da famosa ópera de Mozart que narra a história de Don Giovanni?",
+      "options": [
+        "A Flauta Mágica",
+        "As Bodas de Fígaro",
+        "Don Giovanni",
+        "Così fan tutte"
+      ],
+      "correctAnswer": "Don Giovanni",
+      "explanation": "Don Giovanni (1787) de Mozart é considerada uma das melhores óperas já compostas. Narra o libertino Don Juan (Don Giovanni) e sua punição divina ao final."
+    },
+    {
+      "id": "artes-4-5",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "Qual artista brasileiro criou o painel 'Guerra e Paz' exposto na sede da ONU em Nova York?",
+      "options": [
+        "Cândido Portinari",
+        "Tarsila do Amaral",
+        "Di Cavalcanti",
+        "Victor Meirelles"
+      ],
+      "correctAnswer": "Cândido Portinari",
+      "explanation": "Cândido Portinari pintou os painéis 'Guerra e Paz' (1952-1956), doados ao Brasil à ONU. Portinari é o maior pintor brasileiro do século XX, famoso também pelo 'Café' e 'Tiradentes'."
+    },
+    {
+      "id": "artes-4-6",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "Qual movimento das artes visuais do século XX representava formas geométricas a partir de múltiplos ângulos simultaneamente?",
+      "options": [
+        "Dadaísmo",
+        "Cubismo",
+        "Futurismo",
+        "Construtivismo"
+      ],
+      "correctAnswer": "Cubismo",
+      "explanation": "O Cubismo foi desenvolvido por Pablo Picasso e Georges Braque a partir de 1907. Desconstruía formas em planos geométricos, mostrando múltiplas perspectivas ao mesmo tempo."
+    },
+    {
+      "id": "artes-4-7",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "Qual balé de Tchaikovsky é ambientado no Natal e apresenta o personagem O Quebra-Nozes?",
+      "options": [
+        "O Lago dos Cisnes",
+        "A Bela Adormecida",
+        "O Quebra-Nozes",
+        "Romeu e Julieta"
+      ],
+      "correctAnswer": "O Quebra-Nozes",
+      "explanation": "O Quebra-Nozes (1892) de Tchaikovsky é o balé mais encenado do mundo, especialmente no Natal. A Valsa das Flores e a Dança da Fada do Açúcar são suas músicas mais reconhecidas."
+    },
+    {
+      "id": "artes-4-8",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "Qual foi o movimento artístico brasileiro dos anos 1950-60 que explorou formas geométricas e interação visual?",
+      "options": [
+        "Modernismo",
+        "Concretismo e Neoconcretismo",
+        "Tropicalismo",
+        "Arte Naif"
+      ],
+      "correctAnswer": "Concretismo e Neoconcretismo",
+      "explanation": "O Concretismo brasileiro (Grupo Ruptura, São Paulo) e Neoconcretismo (Grupo Frente, Rio) exploraram formas geométricas e interação com o espectador. Lygia Clark e Hélio Oiticica são ícones neoconcretos."
+    },
+    {
+      "id": "artes-4-9",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "Qual é o nome da técnica de impressão artística que usa a superfície de uma pedra ou placa tratada com gordura e água?",
+      "options": [
+        "Serigrafia",
+        "Litografia",
+        "Gravura em metal",
+        "Xilogravura"
+      ],
+      "correctAnswer": "Litografia",
+      "explanation": "A litografia, inventada por Alois Senefelder em 1796, baseia-se na repulsão entre água e gordura. Permitiu reprodução de arte em grande escala e influenciou cartazes e ilustrações do século XIX."
+    },
+    {
+      "id": "artes-4-10",
+      "category": "artes",
+      "difficulty": 4,
+      "question": "Qual compositor alemão compôs a 9ª Sinfonia já completamente surdo?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Franz Schubert"
+      ],
+      "correctAnswer": "Ludwig van Beethoven",
+      "explanation": "Beethoven compôs sua 9ª Sinfonia (incluindo o 'Hino à Alegria') entre 1822 e 1824, quando estava completamente surdo. É considerada uma das maiores obras da música clássica."
+    }
+  ]
+}

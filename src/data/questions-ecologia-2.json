@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-2-1",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "Qual país possui a maior área de floresta tropical do mundo?",
+      "options": [
+        "Congo",
+        "Indonésia",
+        "Colômbia",
+        "Brasil"
+      ],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil abriga cerca de 60% da Floresta Amazônica, a maior floresta tropical do planeta."
+    },
+    {
+      "id": "ecologia-2-2",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "Qual é o nome do processo de transformação de resíduos orgânicos em adubo natural?",
+      "options": [
+        "Biogás",
+        "Biorremediação",
+        "Compostagem",
+        "Lixiviação"
+      ],
+      "correctAnswer": "Compostagem",
+      "explanation": "A compostagem é o processo biológico de decomposição de matéria orgânica (restos de alimentos, folhas) em húmus, usado como fertilizante natural."
+    },
+    {
+      "id": "ecologia-2-3",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "Qual é a principal substância química responsável pela destruição da camada de ozônio?",
+      "options": [
+        "Dióxido de carbono",
+        "Metano",
+        "CFCs (clorofluorcarbonos)",
+        "Óxido nitroso"
+      ],
+      "correctAnswer": "CFCs (clorofluorcarbonos)",
+      "explanation": "Os CFCs, usados em aerossóis e refrigerantes, liberam cloro na estratosfera que destrói moléculas de ozônio. O Protocolo de Montreal (1987) proibiu seu uso."
+    },
+    {
+      "id": "ecologia-2-4",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "O que é energia eólica?",
+      "options": [
+        "Energia produzida pela queima de biomassa vegetal",
+        "Energia gerada pelo movimento das marés",
+        "Energia gerada pelo vento por meio de turbinas",
+        "Energia obtida do calor interno da Terra"
+      ],
+      "correctAnswer": "Energia gerada pelo vento por meio de turbinas",
+      "explanation": "Energia eólica converte a energia cinética do vento em eletricidade através de turbinas (aerogeradores), sendo uma das fontes renováveis de maior crescimento."
+    },
+    {
+      "id": "ecologia-2-5",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "Qual é o nome do bioma brasileiro caracterizado por vegetação de savana com árvores de casca grossa e raízes profundas?",
+      "options": [
+        "Caatinga",
+        "Pantanal",
+        "Pampas",
+        "Cerrado"
+      ],
+      "correctAnswer": "Cerrado",
+      "explanation": "O Cerrado é o segundo maior bioma do Brasil e a savana tropical mais rica em biodiversidade do mundo, cobrindo cerca de 22% do território nacional."
+    },
+    {
+      "id": "ecologia-2-6",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "O que é a cadeia alimentar?",
+      "options": [
+        "A rota de distribuição de alimentos em supermercados",
+        "Um sistema de cultivo orgânico em cadeia",
+        "A sequência de organismos em que cada um serve de alimento para o próximo",
+        "O ciclo de produção agrícola sustentável"
+      ],
+      "correctAnswer": "A sequência de organismos em que cada um serve de alimento para o próximo",
+      "explanation": "A cadeia alimentar representa o fluxo de energia entre produtores (plantas), consumidores (animais herbívoros e carnívoros) e decompositores."
+    },
+    {
+      "id": "ecologia-2-7",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "Qual é o nome do fenômeno de temperaturas mais altas nas cidades em comparação com as áreas rurais ao redor?",
+      "options": [
+        "Inversão térmica",
+        "Aquecimento global",
+        "Ilha de calor urbana",
+        "Efeito albedo"
+      ],
+      "correctAnswer": "Ilha de calor urbana",
+      "explanation": "As ilhas de calor urbanas ocorrem porque concreto, asfalto e edificações absorvem mais calor solar do que vegetação, elevando a temperatura média das cidades."
+    },
+    {
+      "id": "ecologia-2-8",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "O que é o efeito estufa?",
+      "options": [
+        "A destruição da camada de ozônio por poluentes",
+        "A retenção do calor solar pela atmosfera terrestre por gases específicos",
+        "O aquecimento de oceanos pelo Sol",
+        "A reflexão da luz solar pelas nuvens"
+      ],
+      "correctAnswer": "A retenção do calor solar pela atmosfera terrestre por gases específicos",
+      "explanation": "O efeito estufa natural mantém a Terra aquecida (~15°C médios); o problema é o efeito estufa intensificado pela emissão humana de CO₂ e metano."
+    },
+    {
+      "id": "ecologia-2-9",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "Qual é o nome do processo pelo qual uma espécie invasora causa danos irreversíveis à biodiversidade local?",
+      "options": [
+        "Especiação",
+        "Nicho ecológico",
+        "Invasão biológica",
+        "Deriva genética"
+      ],
+      "correctAnswer": "Invasão biológica",
+      "explanation": "Invasão biológica ocorre quando uma espécie introduzida em novo ambiente se reproduz sem controle, competindo com espécies nativas e alterando o ecossistema."
+    },
+    {
+      "id": "ecologia-2-10",
+      "category": "ecologia",
+      "difficulty": 2,
+      "question": "Qual é o nome do tratado internacional de 1987 que proibiu os CFCs para proteger a camada de ozônio?",
+      "options": [
+        "Acordo de Paris",
+        "Agenda 21",
+        "Protocolo de Quioto",
+        "Protocolo de Montreal"
+      ],
+      "correctAnswer": "Protocolo de Montreal",
+      "explanation": "O Protocolo de Montreal é considerado o acordo ambiental de maior sucesso da história: a camada de ozônio está se recuperando desde então."
+    }
+  ]
+}

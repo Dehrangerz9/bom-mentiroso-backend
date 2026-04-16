@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-7-1",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "Qual é o conceito de 'serviços ecossistêmicos'?",
+      "options": [
+        "Empresas ambientais que vendem serviços de plantio de árvores",
+        "Os benefícios que os ecossistemas naturais fornecem às populações humanas, como polinização, purificação da água e regulação do clima",
+        "Sistemas de monitoramento ambiental mantidos por governos",
+        "Tecnologias de captura de carbono desenvolvidas por ONGs"
+      ],
+      "correctAnswer": "Os benefícios que os ecossistemas naturais fornecem às populações humanas, como polinização, purificação da água e regulação do clima",
+      "explanation": "O conceito, formalizado pela Avaliação Ecossistêmica do Milênio (2005), inclui serviços de provisão, regulação, cultural e suporte que a natureza oferece gratuitamente."
+    }
+  ]
+}

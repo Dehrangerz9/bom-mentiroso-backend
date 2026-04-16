@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "esportes-3-1",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Qual atleta detém o recorde de mais medalhas olímpicas da história?",
+      "options": [
+        "Usain Bolt",
+        "Carl Lewis",
+        "Larissa Latynina",
+        "Michael Phelps"
+      ],
+      "correctAnswer": "Michael Phelps",
+      "explanation": "Michael Phelps conquistou 28 medalhas olímpicas (23 de ouro) ao longo de quatro Olimpíadas."
+    },
+    {
+      "id": "esportes-3-2",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Quantos jogadores compõem um time de futebol em campo?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": "11",
+      "explanation": "Cada time de futebol joga com 11 jogadores em campo, incluindo o goleiro. As regras permitem até 3 substituições por partida (5 em alguns campeonatos)."
+    },
+    {
+      "id": "esportes-3-3",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Qual é o país de origem do judô?",
+      "options": [
+        "China",
+        "Coreia do Sul",
+        "Japão",
+        "Tailândia"
+      ],
+      "correctAnswer": "Japão",
+      "explanation": "O judô foi criado pelo japonês Jigoro Kano em 1882 a partir do Jujutsu. É esporte olímpico desde 1964 e praticado por mais de 40 milhões de pessoas no mundo."
+    },
+    {
+      "id": "esportes-3-4",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Em qual esporte é usada uma 'shuttlecock' (peteca)?",
+      "options": [
+        "Squash",
+        "Badminton",
+        "Tênis de mesa",
+        "Padel"
+      ],
+      "correctAnswer": "Badminton",
+      "explanation": "O badminton usa a peteca (shuttlecock), feita de penas ou plástico, que pode atingir velocidades acima de 400 km/h em saques profissionais."
+    },
+    {
+      "id": "esportes-3-5",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Qual atleta brasileiro é considerado o maior jogador de vôlei de todos os tempos?",
+      "options": [
+        "Giba",
+        "Murilo Endres",
+        "Bernardo Rezende",
+        "Serginho"
+      ],
+      "correctAnswer": "Giba",
+      "explanation": "Gilberto Amauri de Godoy Filho, o Giba, foi tricampeão mundial com o Brasil e eleito três vezes o melhor jogador do mundo pela FIVB."
+    },
+    {
+      "id": "esportes-3-6",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Qual é a duração regulamentar de uma partida de futebol?",
+      "options": [
+        "80 minutos",
+        "90 minutos",
+        "100 minutos",
+        "120 minutos"
+      ],
+      "correctAnswer": "90 minutos",
+      "explanation": "Uma partida de futebol dura 90 minutos, divididos em dois tempos de 45 minutos, com acréscimos de tempo pelo árbitro para compensar paradas."
+    },
+    {
+      "id": "esportes-3-7",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Qual país ganhou mais medalhas de ouro nos Jogos Olímpicos de verão da história?",
+      "options": [
+        "China",
+        "União Soviética",
+        "Grã-Bretanha",
+        "Estados Unidos"
+      ],
+      "correctAnswer": "Estados Unidos",
+      "explanation": "Os EUA lideram o quadro histórico de medalhas de ouro olímpicas com mais de 1.000 ouros acumulados em todos os Jogos de Verão desde 1896."
+    },
+    {
+      "id": "esportes-3-8",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Em que ano o Brasil sediou a Copa do Mundo de Futebol mais recentemente?",
+      "options": [
+        "2006",
+        "2010",
+        "2014",
+        "2018"
+      ],
+      "correctAnswer": "2014",
+      "explanation": "O Brasil sediou a Copa do Mundo de 2014, sendo famosa pelo 7 a 1 sofrido pela seleção brasileira contra a Alemanha na semifinal, em Belo Horizonte."
+    },
+    {
+      "id": "esportes-3-9",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Qual é o esporte mais praticado no Brasil, segundo pesquisas de popularidade?",
+      "options": [
+        "Vôlei",
+        "Futebol",
+        "Basquete",
+        "Natação"
+      ],
+      "correctAnswer": "Futebol",
+      "explanation": "O futebol é o esporte mais popular do Brasil em termos de prática e audiência, com o país sendo pentacampeão mundial e berço de inúmeros craques."
+    },
+    {
+      "id": "esportes-3-10",
+      "category": "esportes",
+      "difficulty": 3,
+      "question": "Quantos sets são disputados em um jogo de tênis em Grand Slams masculinos?",
+      "options": [
+        "3 sets",
+        "5 sets",
+        "4 sets",
+        "2 sets"
+      ],
+      "correctAnswer": "5 sets",
+      "explanation": "Nos Grand Slams masculinos (Australian Open, Roland Garros, Wimbledon, US Open), as partidas são disputadas em melhor de 5 sets. O feminino é melhor de 3."
+    }
+  ]
+}

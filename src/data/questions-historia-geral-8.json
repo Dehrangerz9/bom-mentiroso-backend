@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "historia-geral-8-1",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Em qual ano ocorreu a Revolução Russa de outubro que levou os bolcheviques ao poder?",
+      "options": [
+        "1905",
+        "1914",
+        "1917",
+        "1921"
+      ],
+      "correctAnswer": "1917",
+      "explanation": "A Revolução de Outubro de 1917 (novembro no calendário gregoriano) derrubou o Governo Provisório e instalou o poder soviético."
+    }
+  ]
+}

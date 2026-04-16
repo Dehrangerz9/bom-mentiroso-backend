@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "esportes-2-1",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Em qual cidade foram realizados os primeiros Jogos Olímpicos modernos?",
+      "options": [
+        "Paris",
+        "Londres",
+        "Roma",
+        "Atenas"
+      ],
+      "correctAnswer": "Atenas",
+      "explanation": "Os primeiros Jogos Olímpicos modernos foram realizados em Atenas, Grécia, em 1896."
+    },
+    {
+      "id": "esportes-2-2",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Qual é o nome do troféu entregue ao campeão da Copa do Mundo de Futebol Masculino?",
+      "options": [
+        "Taça Jules Rimet",
+        "Troféu FIFA",
+        "Taça do Mundo",
+        "Taça FIFA"
+      ],
+      "correctAnswer": "Taça FIFA",
+      "explanation": "A Taça FIFA (nome oficial desde 1974) é o troféu da Copa do Mundo; a original Taça Jules Rimet foi aposentada após o tricampeonato brasileiro em 1970."
+    },
+    {
+      "id": "esportes-2-3",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Quantos jogadores compõem um time de vôlei em quadra?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "6",
+      "explanation": "Cada equipe de vôlei joga com 6 jogadores em quadra, e a rotação entre eles é obrigatória a cada ponto conquistado no saque."
+    },
+    {
+      "id": "esportes-2-4",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Em qual cidade foram realizados os Jogos Olímpicos de Verão de 1992?",
+      "options": [
+        "Seul",
+        "Los Angeles",
+        "Barcelona",
+        "Sydney"
+      ],
+      "correctAnswer": "Barcelona",
+      "explanation": "Barcelona, Espanha, sediou os Jogos Olímpicos de Verão de 1992, marcados pela abertura de competições a atletas profissionais no basquete ('Dream Team')."
+    },
+    {
+      "id": "esportes-2-5",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Qual é o nome do maior estádio de futebol do Brasil?",
+      "options": [
+        "Arena Corinthians",
+        "Mineirão",
+        "Morumbi",
+        "Maracanã"
+      ],
+      "correctAnswer": "Maracanã",
+      "explanation": "O Maracanã, no Rio de Janeiro, é o maior estádio do Brasil e um dos mais famosos do mundo, com capacidade atual de cerca de 78.000 espectadores."
+    },
+    {
+      "id": "esportes-2-6",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Qual esporte olímpico combina esqui cross-country e tiro ao alvo?",
+      "options": [
+        "Esqui alpino",
+        "Biatlo",
+        "Nordique combinado",
+        "Esqui de velocidade"
+      ],
+      "correctAnswer": "Biatlo",
+      "explanation": "O biatlo combina corrida de esqui cross-country com paradas para tiro ao alvo com rifle, sendo uma das provas mais populares dos Jogos de Inverno."
+    },
+    {
+      "id": "esportes-2-7",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Em qual esporte o serviço direto que não é tocado pelo adversário é chamado de 'ace'?",
+      "options": [
+        "Badminton",
+        "Squash",
+        "Tênis de mesa",
+        "Tênis"
+      ],
+      "correctAnswer": "Tênis",
+      "explanation": "No tênis, um 'ace' é um saque que toca dentro do quadrado de serviço sem ser tocado pelo oponente, resultando em ponto direto."
+    },
+    {
+      "id": "esportes-2-8",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Qual país é considerado o inventor do esporte do rugby?",
+      "options": [
+        "Irlanda",
+        "Austrália",
+        "Nova Zelândia",
+        "Inglaterra"
+      ],
+      "correctAnswer": "Inglaterra",
+      "explanation": "O rugby teria nascido em 1823 na cidade de Rugby, Inglaterra, quando William Webb Ellis pegou a bola com as mãos durante uma partida de futebol."
+    },
+    {
+      "id": "esportes-2-9",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Qual é a pontuação máxima possível em um jogo de boliche?",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
+      "correctAnswer": "300",
+      "explanation": "A pontuação máxima de 300 no boliche é alcançada com 12 strikes consecutivos (acertar todos os pinos em um único lançamento)."
+    },
+    {
+      "id": "esportes-2-10",
+      "category": "esportes",
+      "difficulty": 2,
+      "question": "Qual nadador americano é o maior medalhista olímpico de todos os tempos?",
+      "options": [
+        "Mark Spitz",
+        "Ian Thorpe",
+        "Ryan Lochte",
+        "Michael Phelps"
+      ],
+      "correctAnswer": "Michael Phelps",
+      "explanation": "Michael Phelps conquistou 28 medalhas olímpicas (23 de ouro) em quatro Olimpíadas (2000-2016), tornando-se o maior medalhista olímpico da história."
+    }
+  ]
+}

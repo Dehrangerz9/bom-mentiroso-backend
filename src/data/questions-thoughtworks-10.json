@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "thoughtworks-10-1",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "No contexto de arquitetura evolutiva defendida pela Thoughtworks, o que é um 'fitness function'?",
+      "options": [
+        "Uma métrica de desempenho de banco de dados",
+        "Um mecanismo automatizado que avalia se a arquitetura mantém suas características desejadas",
+        "Um algoritmo genético para otimização de código",
+        "Um indicador de saúde de microsserviços"
+      ],
+      "correctAnswer": "Um mecanismo automatizado que avalia se a arquitetura mantém suas características desejadas",
+      "explanation": "Definido no livro 'Building Evolutionary Architectures' de Neal Ford, Rebecca Parsons e Patrick Kua (Thoughtworkers), fitness functions guiam a evolução arquitetural."
+    }
+  ]
+}

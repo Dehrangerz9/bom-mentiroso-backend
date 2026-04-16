@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "jogos-7-1",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual foi o primeiro jogo a usar o sistema de 'bullet time' (tempo lento) como mecânica principal de ação?",
+      "options": [
+        "F.E.A.R.",
+        "The Matrix: Path of Neo",
+        "Max Payne",
+        "Stranglehold"
+      ],
+      "correctAnswer": "Max Payne",
+      "explanation": "Max Payne (2001) popularizou o 'bullet time' em jogos, inspirado no filme Matrix (1999), tornando-o mecânica central de ação."
+    }
+  ]
+}

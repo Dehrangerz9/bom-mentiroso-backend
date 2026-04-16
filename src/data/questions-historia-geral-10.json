@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "historia-geral-10-1",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual foi o nome do plano alemão de 1905, elaborado pelo Marechal Alfred von Schlieffen, que previa derrotar a França rapidamente antes de virar-se contra a Rússia em uma guerra de dois fronts?",
+      "options": [
+        "Plano Barbarossa",
+        "Plano Schlieffen",
+        "Plano Hindenburg",
+        "Plano Blau"
+      ],
+      "correctAnswer": "Plano Schlieffen",
+      "explanation": "O Plano Schlieffen previa invadir a França via Bélgica em 6 semanas. Sua falha em 1914 condenou a Alemanha à guerra de trincheiras na WWI."
+    }
+  ]
+}

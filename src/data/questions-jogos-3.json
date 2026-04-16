@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "jogos-3-1",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Em qual país nasceu o jogo de tabuleiro Xadrez?",
+      "options": [
+        "China",
+        "Pérsia",
+        "Índia",
+        "Egito"
+      ],
+      "correctAnswer": "Índia",
+      "explanation": "O xadrez originou-se na Índia por volta do séc. VI, como o jogo Chaturanga, antes de se espalhar para a Pérsia e Europa."
+    },
+    {
+      "id": "jogos-3-2",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Em xadrez, qual peça pode se mover em qualquer direção, qualquer número de casas?",
+      "options": [
+        "Torre",
+        "Rei",
+        "Bispo",
+        "Rainha"
+      ],
+      "correctAnswer": "Rainha",
+      "explanation": "A Rainha é a peça mais poderosa do xadrez, podendo se mover qualquer número de casas em linha reta ou diagonal, combinando os movimentos da Torre e do Bispo."
+    },
+    {
+      "id": "jogos-3-3",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Qual jogo de cartas japonês usa baralho de 100 poemas clássicos?",
+      "options": [
+        "Hanafuda",
+        "Karuta",
+        "Go-Fish",
+        "Shogi"
+      ],
+      "correctAnswer": "Karuta",
+      "explanation": "O karuta é um jogo de cartas japonês baseado nos Cem Poetas (Hyakunin Isshu). Jogadores competem para pegar as cartas com o verso completo quando a abertura é lida."
+    },
+    {
+      "id": "jogos-3-4",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Em Pokémon, qual é o tipo do Pokémon lendário Mewtwo?",
+      "options": [
+        "Psíquico",
+        "Sombrio",
+        "Normal",
+        "Dragão"
+      ],
+      "correctAnswer": "Psíquico",
+      "explanation": "Mewtwo é um Pokémon lendário do tipo Psíquico, criado por engenharia genética a partir do DNA de Mew. É considerado um dos mais poderosos da franquia."
+    },
+    {
+      "id": "jogos-3-5",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Qual empresa criou o console Nintendo Switch?",
+      "options": [
+        "Sony",
+        "Microsoft",
+        "Sega",
+        "Nintendo"
+      ],
+      "correctAnswer": "Nintendo",
+      "explanation": "O Nintendo Switch foi lançado pela Nintendo em março de 2017, sendo um console híbrido que pode ser usado como portátil ou conectado à TV."
+    },
+    {
+      "id": "jogos-3-6",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Em qual jogo de tabuleiro os jogadores tentam descobrir o assassino, o local e a arma do crime?",
+      "options": [
+        "Banco Imobiliário",
+        "Detetive (Clue)",
+        "War",
+        "Xadrez"
+      ],
+      "correctAnswer": "Detetive (Clue)",
+      "explanation": "Detetive (Clue nos EUA) é um jogo de mistério em que os jogadores fazem sugestões e deduções para identificar o assassino, o cômodo e a arma do crime."
+    },
+    {
+      "id": "jogos-3-7",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Qual jogo de luta famoso apresenta personagens como Ryu, Ken e Chun-Li?",
+      "options": [
+        "Mortal Kombat",
+        "Tekken",
+        "Street Fighter",
+        "King of Fighters"
+      ],
+      "correctAnswer": "Street Fighter",
+      "explanation": "Street Fighter, da Capcom, é um dos jogos de luta mais influentes da história. Ryu e Ken são os personagens originais desde Street Fighter I (1987)."
+    },
+    {
+      "id": "jogos-3-8",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Qual é o objetivo principal no jogo de tabuleiro 'Go'?",
+      "options": [
+        "Capturar o rei do oponente",
+        "Controlar mais território que o adversário com pedras",
+        "Remover todas as peças do oponente",
+        "Chegar primeiro ao centro do tabuleiro"
+      ],
+      "correctAnswer": "Controlar mais território que o adversário com pedras",
+      "explanation": "Go é um jogo de estratégia milenar originário da China. Os jogadores alternam colocando pedras pretas e brancas para cercar e controlar território no tabuleiro."
+    },
+    {
+      "id": "jogos-3-9",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Qual jogo online de batalha royale foi lançado em 2017 e se tornou fenômeno global?",
+      "options": [
+        "PUBG",
+        "Apex Legends",
+        "Call of Duty: Warzone",
+        "Fortnite"
+      ],
+      "correctAnswer": "Fortnite",
+      "explanation": "Fortnite Battle Royale, da Epic Games, foi lançado em setembro de 2017 e rapidamente se tornou fenômeno com mais de 350 milhões de contas registradas."
+    },
+    {
+      "id": "jogos-3-10",
+      "category": "jogos",
+      "difficulty": 3,
+      "question": "Em qual jogo eletrônico os jogadores constroem e gerenciam uma cidade?",
+      "options": [
+        "The Sims",
+        "SimCity",
+        "Cities: Skylines",
+        "Civilization"
+      ],
+      "correctAnswer": "SimCity",
+      "explanation": "SimCity, criado por Will Wright e lançado em 1989, popularizou o gênero de simulação de cidades, influenciando gerações de jogos como Cities: Skylines."
+    }
+  ]
+}

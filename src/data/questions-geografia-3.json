@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "geografia-3-1",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Qual é o rio mais longo do mundo?",
+      "options": [
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi",
+        "Nilo"
+      ],
+      "correctAnswer": "Nilo",
+      "explanation": "O Nilo tem aproximadamente 6.650 km de extensão, sendo o mais longo, embora o Amazonas tenha maior volume d'água."
+    },
+    {
+      "id": "geografia-3-2",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Qual é o maior país da América do Sul em extensão territorial?",
+      "options": [
+        "Argentina",
+        "Peru",
+        "Brasil",
+        "Colômbia"
+      ],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil ocupa 8,5 milhões de km², sendo o maior país da América do Sul e o 5º maior do mundo, representando quase metade do território sul-americano."
+    },
+    {
+      "id": "geografia-3-3",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Qual é a capital da Austrália?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Canberra"
+      ],
+      "correctAnswer": "Canberra",
+      "explanation": "Canberra é a capital da Austrália desde 1927. Foi construída especialmente como capital após disputa entre Sydney e Melbourne, ficando entre as duas cidades."
+    },
+    {
+      "id": "geografia-3-4",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Qual cordilheira forma a fronteira natural entre Europa e Ásia na Rússia?",
+      "options": [
+        "Alpes",
+        "Cárpatos",
+        "Urais",
+        "Caucaso"
+      ],
+      "correctAnswer": "Urais",
+      "explanation": "A Cordilheira dos Urais, com cerca de 2.500 km de extensão, é considerada o limite geográfico entre os continentes europeu e asiático."
+    },
+    {
+      "id": "geografia-3-5",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Qual é o país mais populoso do mundo?",
+      "options": [
+        "Índia",
+        "China",
+        "Estados Unidos",
+        "Indonésia"
+      ],
+      "correctAnswer": "Índia",
+      "explanation": "A Índia ultrapassou a China em 2023, tornando-se o país mais populoso com mais de 1,4 bilhão de habitantes, segundo dados da ONU."
+    },
+    {
+      "id": "geografia-3-6",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Qual é o rio mais longo do mundo?",
+      "options": [
+        "Rio Amazonas",
+        "Rio Nilo",
+        "Rio Yangtzé",
+        "Rio Mississipi"
+      ],
+      "correctAnswer": "Rio Nilo",
+      "explanation": "O Nilo, com aproximadamente 6.650 km, é geralmente considerado o rio mais longo do mundo, embora haja debate científico com o Amazonas em certas medições."
+    },
+    {
+      "id": "geografia-3-7",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Em qual continente está localizado o deserto do Saara?",
+      "options": [
+        "Ásia",
+        "América do Sul",
+        "África",
+        "Oriente Médio"
+      ],
+      "correctAnswer": "África",
+      "explanation": "O Saara é o maior deserto quente do mundo com cerca de 9 milhões de km², cobrindo grande parte do norte da África."
+    },
+    {
+      "id": "geografia-3-8",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Qual país possui o maior número de fusos horários do mundo?",
+      "options": [
+        "Rússia",
+        "Estados Unidos",
+        "China",
+        "Canadá"
+      ],
+      "correctAnswer": "Rússia",
+      "explanation": "A Rússia abrange 11 fusos horários oficiais, a maior quantidade de qualquer país, devido à sua enorme extensão de leste a oeste."
+    },
+    {
+      "id": "geografia-3-9",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Qual é o menor país do mundo em área territorial?",
+      "options": [
+        "Mônaco",
+        "Liechtenstein",
+        "San Marino",
+        "Vaticano"
+      ],
+      "correctAnswer": "Vaticano",
+      "explanation": "O Vaticano, com apenas 0,44 km², é o menor Estado soberano do mundo, localizado dentro de Roma, Itália."
+    },
+    {
+      "id": "geografia-3-10",
+      "category": "geografia",
+      "difficulty": 3,
+      "question": "Qual estreito conecta o Mar Mediterrâneo ao Oceano Atlântico?",
+      "options": [
+        "Estreito de Bósforo",
+        "Estreito de Gibraltar",
+        "Estreito de Ormuz",
+        "Canal de Suez"
+      ],
+      "correctAnswer": "Estreito de Gibraltar",
+      "explanation": "O Estreito de Gibraltar, com cerca de 14 km de largura, separa a Espanha de Marrocos e conecta o Mar Mediterrâneo ao Oceano Atlântico."
+    }
+  ]
+}

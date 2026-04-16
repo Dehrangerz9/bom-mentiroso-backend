@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "literatura-1-1",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Quem escreveu 'Dom Casmurro'?",
+      "options": [
+        "José de Alencar",
+        "Machado de Assis",
+        "Lima Barreto",
+        "Aluísio Azevedo"
+      ],
+      "correctAnswer": "Machado de Assis",
+      "explanation": "'Dom Casmurro' (1899) é o romance mais célebre de Machado de Assis, com o famoso dilema sobre a fidelidade de Capitu."
+    },
+    {
+      "id": "literatura-1-2",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Quem escreveu 'O Pequeno Príncipe'?",
+      "options": [
+        "Jules Verne",
+        "Victor Hugo",
+        "Antoine de Saint-Exupéry",
+        "Marcel Proust"
+      ],
+      "correctAnswer": "Antoine de Saint-Exupéry",
+      "explanation": "'O Pequeno Príncipe' foi publicado em 1943 pelo aviador e escritor francês Antoine de Saint-Exupéry."
+    },
+    {
+      "id": "literatura-1-3",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Em qual país nasceu William Shakespeare?",
+      "options": [
+        "Irlanda",
+        "França",
+        "Escócia",
+        "Inglaterra"
+      ],
+      "correctAnswer": "Inglaterra",
+      "explanation": "Shakespeare nasceu em Stratford-upon-Avon, Inglaterra, em 1564, e é considerado o maior escritor da língua inglesa."
+    },
+    {
+      "id": "literatura-1-4",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Qual escritora criou os personagens Elizabeth Bennet e Mr. Darcy?",
+      "options": [
+        "Charlotte Brontë",
+        "Virginia Woolf",
+        "George Eliot",
+        "Jane Austen"
+      ],
+      "correctAnswer": "Jane Austen",
+      "explanation": "Jane Austen criou Elizabeth Bennet e Mr. Darcy em 'Orgulho e Preconceito', publicado em 1813."
+    },
+    {
+      "id": "literatura-1-5",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Qual é o nome do protagonista de 'Dom Quixote', de Cervantes?",
+      "options": [
+        "Sancho Pança",
+        "Dom Quixote",
+        "Dulcineia",
+        "Rocinante"
+      ],
+      "correctAnswer": "Dom Quixote",
+      "explanation": "Dom Quixote é o cavaleiro andante protagonista do romance de Miguel de Cervantes, publicado em 1605."
+    },
+    {
+      "id": "literatura-1-6",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Qual é o gênero literário de 'Orgulho e Preconceito', 'Dom Casmurro' e 'Cem Anos de Solidão'?",
+      "options": [
+        "Poesia",
+        "Conto",
+        "Romance",
+        "Crônica"
+      ],
+      "correctAnswer": "Romance",
+      "explanation": "Romance é o gênero literário em prosa de maior extensão, com narrativa de personagens e enredos complexos."
+    },
+    {
+      "id": "literatura-1-7",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Quem escreveu 'A Metamorfose', obra em que o personagem acorda transformado em inseto?",
+      "options": [
+        "Thomas Mann",
+        "Hermann Hesse",
+        "Franz Kafka",
+        "Stefan Zweig"
+      ],
+      "correctAnswer": "Franz Kafka",
+      "explanation": "'A Metamorfose' (1915) de Franz Kafka narra a transformação de Gregor Samsa em um inseto gigante, tornando-se ícone da literatura do absurdo."
+    },
+    {
+      "id": "literatura-1-8",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Qual autor russo escreveu 'Guerra e Paz'?",
+      "options": [
+        "Dostoiévski",
+        "Tchekhov",
+        "Turguêniev",
+        "León Tolstói"
+      ],
+      "correctAnswer": "León Tolstói",
+      "explanation": "'Guerra e Paz' (1869) de León Tolstói é considerado um dos maiores romances da literatura mundial."
+    },
+    {
+      "id": "literatura-1-9",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Qual personagem de ficção criado por Arthur Conan Doyle resolve crimes com dedução lógica?",
+      "options": [
+        "Hercule Poirot",
+        "Phillip Marlowe",
+        "Sam Spade",
+        "Sherlock Holmes"
+      ],
+      "correctAnswer": "Sherlock Holmes",
+      "explanation": "Sherlock Holmes é o detetive fictício mais famoso da literatura, criado por Conan Doyle em 1887."
+    },
+    {
+      "id": "literatura-1-10",
+      "category": "literatura",
+      "difficulty": 1,
+      "question": "Em qual obra brasileira o narrador Brás Cubas conta sua vida após a morte?",
+      "options": [
+        "O Cortiço",
+        "Iracema",
+        "Memórias Póstumas de Brás Cubas",
+        "Quincas Borba"
+      ],
+      "correctAnswer": "Memórias Póstumas de Brás Cubas",
+      "explanation": "'Memórias Póstumas de Brás Cubas' (1881) de Machado de Assis é considerada a obra inaugural do Realismo brasileiro."
+    }
+  ]
+}

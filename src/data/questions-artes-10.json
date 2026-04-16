@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-10-1",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Na teoria das cores de Josef Albers, descrita em 'A Interação da Cor' (1963), qual é o fenômeno que faz com que a mesma cor pareça diferente dependendo do contexto cromático ao redor?",
+      "options": [
+        "Ilusão de Müller-Lyer",
+        "Simultaneous color contrast",
+        "Isocromia",
+        "Aberração cromática"
+      ],
+      "correctAnswer": "Simultaneous color contrast",
+      "explanation": "Albers demonstrou que cores são perceptivamente relativas: o mesmo matiz parece mais claro ou mais escuro, quente ou frio, conforme as cores que o cercam — fenômeno chamado de contraste simultâneo."
+    },
+    {
+      "id": "artes-10-2",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Qual historiador da arte suíço cunhou o conceito de 'Kunstwollen' (vontade artística) para explicar que cada época tem uma intenção formal própria, independente da habilidade técnica?",
+      "options": [
+        "Erwin Panofsky",
+        "Heinrich Wölfflin",
+        "Alois Riegl",
+        "Aby Warburg"
+      ],
+      "correctAnswer": "Alois Riegl",
+      "explanation": "Alois Riegl (1858-1905) propôs o Kunstwollen em obras como 'Stilfragen' e 'Spätrömische Kunstindustrie', argumentando que a arte de períodos 'decadentes' reflete intenções formais próprias, não incapacidade."
+    },
+    {
+      "id": "artes-10-3",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Qual artista fluxus lituano-americano criou 'Fluxus Event Scores', partituras de ações simples e absurdas a serem executadas como performance?",
+      "options": [
+        "Nam June Paik",
+        "George Maciunas",
+        "George Brecht",
+        "Dick Higgins"
+      ],
+      "correctAnswer": "George Brecht",
+      "explanation": "George Brecht (1926-2008) criou 'event scores' — cartões com instruções mínimas como 'Dois sons' — que qualquer pessoa podia executar, dissolvendoa distinção entre arte e cotidiano."
+    },
+    {
+      "id": "artes-10-4",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Qual é o nome do procedimento técnico barroco em que o pintor preparava a tela com uma camada de tom médio escuro (imprimatura), iluminando apenas as áreas claras com tinta opaca?",
+      "options": [
+        "Velatura",
+        "Pentimento",
+        "Abbozzo",
+        "Prima alla prima"
+      ],
+      "correctAnswer": "Velatura",
+      "explanation": "A velatura (ou glazing) é a aplicação de camadas transparentes de tinta a óleo sobre bases mais secas, modificando cor e luminosidade; Rembrandt e Vermeer a usavam para criar profundidade cromática."
+    },
+    {
+      "id": "artes-10-5",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Qual teórica da arte feminista cunhou o conceito de 'male gaze' em seu ensaio 'Visual Pleasure and Narrative Cinema' (1975)?",
+      "options": [
+        "Griselda Pollock",
+        "Rosalind Krauss",
+        "Lucy Lippard",
+        "Laura Mulvey"
+      ],
+      "correctAnswer": "Laura Mulvey",
+      "explanation": "Laura Mulvey publicou 'Visual Pleasure and Narrative Cinema' na Screen em 1975, aplicando psicanálise lacaniana ao cinema para analisar como o olhar masculino estrutura a representação feminina."
+    },
+    {
+      "id": "artes-10-6",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Qual foi o nome do movimento artístico japonês dos anos 1950-70 que usava o corpo como pincel, criando obras por meio de ações físicas radicais como jogar tinta com o corpo?",
+      "options": [
+        "Mono-ha",
+        "Jikken Kobo",
+        "Gutai",
+        "Fluxus Japan"
+      ],
+      "correctAnswer": "Gutai",
+      "explanation": "O Gutai Bijutsu Kyokai (Associação de Arte Concreta), fundado por Jiro Yoshihara em 1954, realizava performances onde artistas como Shozo Shimamoto perfuravam telas e Kazuo Shiraga pintava com os pés."
+    },
+    {
+      "id": "artes-10-7",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Qual crítica e historiadora de arte brasileira escreveu 'Arte Brasileira Hoje' (1973) e foi fundamental para a teorização da Arte Conceitual no Brasil?",
+      "options": [
+        "Aracy Amaral",
+        "Ferreira Gullar",
+        "Frederico Morais",
+        "Sônia Salzstein"
+      ],
+      "correctAnswer": "Aracy Amaral",
+      "explanation": "Aracy Amaral é autora de obras fundamentais sobre modernismo e arte brasileira; foi diretora do Museu de Arte Contemporânea da USP e referência na historiografia da arte no Brasil."
+    },
+    {
+      "id": "artes-10-8",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Qual artista alemão criou instalações de feltro e gordura animal, afirmando que 'todo ser humano é um artista' e fundando o conceito de 'escultura social'?",
+      "options": [
+        "Anselm Kiefer",
+        "Georg Baselitz",
+        "Joseph Beuys",
+        "Sigmar Polke"
+      ],
+      "correctAnswer": "Joseph Beuys",
+      "explanation": "Joseph Beuys (1921-1986) usou feltro e gordura em referência a sua sobrevivência na Segunda Guerra; cunhou 'escultura social' para descrever a transformação da sociedade como ato artístico."
+    },
+    {
+      "id": "artes-10-9",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Qual é o nome da técnica fotográfica do século XIX em que a imagem é formada em uma placa de vidro coberta de colódio úmido sensibilizado com sais de prata?",
+      "options": [
+        "Daguerreótipo",
+        "Calótipo",
+        "Ambrótipo",
+        "Colódio úmido (wet plate)"
+      ],
+      "correctAnswer": "Colódio úmido (wet plate)",
+      "explanation": "O processo de colódio úmido, desenvolvido por Frederick Scott Archer em 1851, substituiu o daguerreótipo por ser mais rápido e permitir cópias múltiplas; dominou a fotografia até os anos 1880."
+    },
+    {
+      "id": "artes-10-10",
+      "category": "artes",
+      "difficulty": 10,
+      "question": "Qual filósofo grego, em sua 'Poética', descreveu a arte como 'mimese' e distinguiu a tragédia da comédia pela qualidade moral das ações imitadas?",
+      "options": [
+        "Platão",
+        "Aristóteles",
+        "Plotino",
+        "Longino"
+      ],
+      "correctAnswer": "Aristóteles",
+      "explanation": "Na 'Poética', Aristóteles define a tragédia como imitação de ações nobres que produz katharsis; sua distinção entre mimese e idealização influenciou toda a teoria estética ocidental."
+    }
+  ]
+}

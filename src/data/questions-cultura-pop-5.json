@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-5-1",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual banda britânica lançou o álbum 'The Dark Side of the Moon' em 1973?",
+      "options": [
+        "Led Zeppelin",
+        "The Rolling Stones",
+        "Pink Floyd",
+        "The Who"
+      ],
+      "correctAnswer": "Pink Floyd",
+      "explanation": "O álbum ficou 741 semanas na Billboard 200, um recorde absoluto na história da música."
+    },
+    {
+      "id": "cultura-pop-5-2",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual série de TV americana retrata um professor de química que se torna fabricante e traficante de metanfetamina?",
+      "options": [
+        "Dexter",
+        "Breaking Bad",
+        "Ozark",
+        "Narcos"
+      ],
+      "correctAnswer": "Breaking Bad",
+      "explanation": "'Breaking Bad' (2008-2013), criada por Vince Gilligan, acompanha Walter White (Bryan Cranston) em sua transformação de professor em temido traficante."
+    },
+    {
+      "id": "cultura-pop-5-3",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual filme animado da Pixar de 2003 tem como coadjuvante uma palhinha com amnésia que ajuda a encontrar um peixe-palhaço desaparecido?",
+      "options": [
+        "A Vida de Inseto",
+        "Monstros S.A.",
+        "Procurando Nemo",
+        "Ratatouille"
+      ],
+      "correctAnswer": "Procurando Nemo",
+      "explanation": "'Procurando Nemo' apresenta Dory, a palhinha com perda de memória de curto prazo; o filme ganhou o Oscar de Melhor Animação em 2004."
+    },
+    {
+      "id": "cultura-pop-5-4",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual cantora pop americana lançou o álbum visual 'Lemonade' em 2016, abordando infidelidade e identidade negra?",
+      "options": [
+        "Rihanna",
+        "Nicki Minaj",
+        "Beyoncé",
+        "Alicia Keys"
+      ],
+      "correctAnswer": "Beyoncé",
+      "explanation": "'Lemonade' foi lançado como álbum visual de uma hora no HBO; explora traição, raiva, cura e celebra a experiência da mulher negra no sul dos EUA."
+    },
+    {
+      "id": "cultura-pop-5-5",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual personagem de quadrinhos é o alter ego do bilionário Tony Stark, que usa uma armadura tecnológica para combater o crime?",
+      "options": [
+        "Thor",
+        "Capitão América",
+        "Homem de Ferro",
+        "Visão"
+      ],
+      "correctAnswer": "Homem de Ferro",
+      "explanation": "Tony Stark, o Homem de Ferro, foi criado pela Marvel Comics em 1963; é um dos personagens mais rentáveis do Universo Cinematográfico Marvel."
+    },
+    {
+      "id": "cultura-pop-5-6",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual game da Nintendo de 2017 revitalizou a franquia Zelda com exploração totalmente não-linear e mundo aberto?",
+      "options": [
+        "The Legend of Zelda: Ocarina of Time",
+        "The Legend of Zelda: Breath of the Wild",
+        "The Legend of Zelda: Skyward Sword",
+        "The Legend of Zelda: Majora's Mask"
+      ],
+      "correctAnswer": "The Legend of Zelda: Breath of the Wild",
+      "explanation": "'Breath of the Wild' (2017) redefiniu o gênero de mundo aberto ao permitir escalar qualquer superfície e resolver puzzles de formas criativas."
+    },
+    {
+      "id": "cultura-pop-5-7",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual filme de 2019 ganhou a Palma de Ouro em Cannes e o Oscar de Melhor Filme, sendo o primeiro não anglófono a conquistar esse prêmio?",
+      "options": [
+        "Parasita",
+        "Roma",
+        "O Irlandês",
+        "Era Uma Vez em... Hollywood"
+      ],
+      "correctAnswer": "Parasita",
+      "explanation": "'Parasita' (기생충) do diretor coreano Bong Joon-ho ganhou quatro Oscars em 2020, incluindo Melhor Filme e Melhor Diretor."
+    },
+    {
+      "id": "cultura-pop-5-8",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual músico americano é conhecido como 'The King of Pop' e lançou 'Thriller' (1982), o álbum mais vendido da história?",
+      "options": [
+        "Prince",
+        "Michael Jackson",
+        "James Brown",
+        "Elvis Presley"
+      ],
+      "correctAnswer": "Michael Jackson",
+      "explanation": "'Thriller' vendeu mais de 66 milhões de cópias; Michael Jackson revolucionou o clipe musical com o videoclipe de 14 minutos dirigido por John Landis."
+    },
+    {
+      "id": "cultura-pop-5-9",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual série de livros de J.K. Rowling acompanha um jovem bruxo em uma escola de magia chamada Hogwarts?",
+      "options": [
+        "O Senhor dos Anéis",
+        "As Crônicas de Nárnia",
+        "Harry Potter",
+        "Percy Jackson"
+      ],
+      "correctAnswer": "Harry Potter",
+      "explanation": "A saga Harry Potter (1997-2007) tem 7 livros publicados em mais de 80 idiomas; a franquia de filmes é uma das mais lucrativas da história do cinema."
+    },
+    {
+      "id": "cultura-pop-5-10",
+      "category": "cultura-pop",
+      "difficulty": 5,
+      "question": "Qual reality show de competição musical brasileiro, exibido pela Rede Globo, revelou nomes como Claudia Leitte e Junno Andrade?",
+      "options": [
+        "The Voice Brasil",
+        "Ídolos",
+        "Fama",
+        "PopStar"
+      ],
+      "correctAnswer": "Fama",
+      "explanation": "'Fama' (2002-2003) foi o primeiro grande reality de talentos da TV brasileira; entre os revelados estão Claudia Leitte e Junno Andrade."
+    }
+  ]
+}

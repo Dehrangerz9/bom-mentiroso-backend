@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "ciencia-natureza-2-1",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "Qual processo permite que as plantas transformem luz solar em energia?",
+      "options": [
+        "Respiração celular",
+        "Fermentação",
+        "Fotossíntese",
+        "Quimiossíntese"
+      ],
+      "correctAnswer": "Fotossíntese",
+      "explanation": "Na fotossíntese, plantas convertem CO₂ e água em glicose e oxigênio usando energia luminosa."
+    },
+    {
+      "id": "ciencia-natureza-2-2",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "Qual é o osso mais longo do corpo humano?",
+      "options": [
+        "Tíbia",
+        "Úmero",
+        "Rádio",
+        "Fêmur"
+      ],
+      "correctAnswer": "Fêmur",
+      "explanation": "O fêmur, localizado na coxa, é o osso mais longo e mais resistente do corpo humano, suportando até 30 vezes o peso do corpo."
+    },
+    {
+      "id": "ciencia-natureza-2-3",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "Qual é o nome do maior órgão do corpo humano?",
+      "options": [
+        "Fígado",
+        "Pulmão",
+        "Intestino",
+        "Pele"
+      ],
+      "correctAnswer": "Pele",
+      "explanation": "A pele é o maior órgão do corpo humano, cobrindo cerca de 1,7 m² e pesando entre 3 e 5 kg em um adulto médio."
+    },
+    {
+      "id": "ciencia-natureza-2-4",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "O que é o DNA?",
+      "options": [
+        "Uma proteína do sistema imunológico",
+        "A molécula que carrega as informações genéticas dos seres vivos",
+        "Um tipo de gordura essencial",
+        "Um hormônio do sistema nervoso"
+      ],
+      "correctAnswer": "A molécula que carrega as informações genéticas dos seres vivos",
+      "explanation": "O DNA (ácido desoxirribonucleico) é a molécula em forma de dupla hélice que contém as instruções genéticas para o desenvolvimento e funcionamento de todos os organismos vivos."
+    },
+    {
+      "id": "ciencia-natureza-2-5",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "Qual é o nome do processo pelo qual um sólido passa diretamente para o estado gasoso, sem passar pelo líquido?",
+      "options": [
+        "Fusão",
+        "Evaporação",
+        "Sublimação",
+        "Condensação"
+      ],
+      "correctAnswer": "Sublimação",
+      "explanation": "Sublimação é a mudança de estado direto do sólido para o gasoso. Exemplos: gelo seco (CO₂ sólido) e naftalina."
+    },
+    {
+      "id": "ciencia-natureza-2-6",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "Qual é o metal que permanece líquido à temperatura ambiente?",
+      "options": [
+        "Chumbo",
+        "Estanho",
+        "Mercúrio",
+        "Gálio"
+      ],
+      "correctAnswer": "Mercúrio",
+      "explanation": "O mercúrio é o único metal que é líquido à temperatura ambiente (25°C), com ponto de fusão de -38,8°C."
+    },
+    {
+      "id": "ciencia-natureza-2-7",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "Quantos dentes tem um adulto humano com a dentição permanente completa?",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctAnswer": "32",
+      "explanation": "A dentição permanente humana completa tem 32 dentes, incluindo 4 sisos (terceiros molares), que nem sempre erupcionam."
+    },
+    {
+      "id": "ciencia-natureza-2-8",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "Qual é o nome do ciclo natural que descreve o movimento da água entre a superfície terrestre e a atmosfera?",
+      "options": [
+        "Ciclo do carbono",
+        "Ciclo hidrológico",
+        "Ciclo do nitrogênio",
+        "Ciclo circadiano"
+      ],
+      "correctAnswer": "Ciclo hidrológico",
+      "explanation": "O ciclo hidrológico (ou ciclo da água) descreve a evaporação, condensação, precipitação e escoamento contínuos da água no planeta."
+    },
+    {
+      "id": "ciencia-natureza-2-9",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "Qual é o nome do maior bioma do Brasil, cobrindo cerca de 60% do território nacional?",
+      "options": [
+        "Cerrado",
+        "Caatinga",
+        "Mata Atlântica",
+        "Amazônia"
+      ],
+      "correctAnswer": "Amazônia",
+      "explanation": "A Amazônia cobre aproximadamente 4,2 milhões de km² do Brasil e é o maior bioma do país, abrigando a maior biodiversidade do planeta."
+    },
+    {
+      "id": "ciencia-natureza-2-10",
+      "category": "ciencia-natureza",
+      "difficulty": 2,
+      "question": "Qual planeta do Sistema Solar tem o maior número de luas confirmadas?",
+      "options": [
+        "Júpiter",
+        "Urano",
+        "Netuno",
+        "Saturno"
+      ],
+      "correctAnswer": "Saturno",
+      "explanation": "Saturno tem 146 luas confirmadas até 2023, superando Júpiter e detendo o maior número de satélites naturais do Sistema Solar."
+    }
+  ]
+}

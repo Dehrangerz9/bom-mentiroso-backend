@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-9-1",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Na gastronomia molecular, o que é a 'esferificação básica'?",
+      "options": [
+        "Criação de espumas com lecitina de soja",
+        "Técnica de gelificação com nitrogênio líquido",
+        "Técnica que usa alginato de sódio e cloreto de cálcio para criar esferas com interior líquido",
+        "Emulsificação de gorduras com goma xantana"
+      ],
+      "correctAnswer": "Técnica que usa alginato de sódio e cloreto de cálcio para criar esferas com interior líquido",
+      "explanation": "A esferificação básica (desenvolvida por Ferran Adrià) mergulha líquido com alginato em banho de cálcio, criando uma membrana gelatinosa ao redor do líquido."
+    }
+  ]
+}

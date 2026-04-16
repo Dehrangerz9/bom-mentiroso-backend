@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "thoughtworks-7-1",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "Como se chama a abordagem da Thoughtworks para construção de software centrada no domínio, defendida por Eric Evans e popularizada internamente?",
+      "options": [
+        "TDD",
+        "BDD",
+        "Domain-Driven Design",
+        "Event Storming"
+      ],
+      "correctAnswer": "Domain-Driven Design",
+      "explanation": "O DDD (Domain-Driven Design) é amplamente adotado e promovido pela Thoughtworks como forma de alinhar código ao negócio."
+    }
+  ]
+}

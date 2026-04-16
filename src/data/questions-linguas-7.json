@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "linguas-7-1",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "Qual é o nome do fenômeno linguístico em que uma palavra passa a ter um significado oposto ao original ao longo do tempo?",
+      "options": [
+        "Metáfora",
+        "Eufemismo",
+        "Enantiosemia",
+        "Polissemia"
+      ],
+      "correctAnswer": "Enantiosemia",
+      "explanation": "Enantiosemia (ou auto-antônimo) ocorre quando uma palavra adquire significados opostos. Ex: 'sanção' pode significar tanto 'punição' quanto 'aprovação'."
+    }
+  ]
+}

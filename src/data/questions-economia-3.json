@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "economia-3-1",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "Qual teoria econômica defende que o governo deve intervir na economia para estimular a demanda em períodos de recessão?",
+      "options": [
+        "Monetarismo",
+        "Liberalismo clássico",
+        "Keynesianismo",
+        "Escola Austríaca"
+      ],
+      "correctAnswer": "Keynesianismo",
+      "explanation": "John Maynard Keynes defendeu que em recessões o governo deve aumentar gastos públicos para compensar a queda na demanda privada."
+    },
+    {
+      "id": "economia-3-2",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "O que é o PIB (Produto Interno Bruto)?",
+      "options": [
+        "A reserva de ouro de um país",
+        "O valor total de bens e serviços produzidos em um país num período",
+        "O total de impostos arrecadados pelo governo",
+        "A dívida externa total de uma nação"
+      ],
+      "correctAnswer": "O valor total de bens e serviços produzidos em um país num período",
+      "explanation": "O PIB é o principal indicador econômico de um país, medindo a soma de todos os bens e serviços finais produzidos em seu território em um determinado período."
+    },
+    {
+      "id": "economia-3-3",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "Qual é o nome do fenômeno econômico de aumento generalizado e contínuo dos preços?",
+      "options": [
+        "Deflação",
+        "Recessão",
+        "Inflação",
+        "Estagflação"
+      ],
+      "correctAnswer": "Inflação",
+      "explanation": "A inflação reduz o poder de compra da moeda. É medida no Brasil pelo IPCA (Índice Nacional de Preços ao Consumidor Amplo), meta gerenciada pelo Banco Central."
+    },
+    {
+      "id": "economia-3-4",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "O que é a 'taxa Selic'?",
+      "options": [
+        "O imposto sobre serviços no Brasil",
+        "A taxa básica de juros da economia brasileira",
+        "O índice de inflação oficial do Brasil",
+        "A taxa de câmbio entre real e dólar"
+      ],
+      "correctAnswer": "A taxa básica de juros da economia brasileira",
+      "explanation": "A taxa Selic é o principal instrumento de política monetária do Banco Central do Brasil, influenciando todas as taxas de juros da economia."
+    },
+    {
+      "id": "economia-3-5",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "O que foi a Grande Depressão de 1929?",
+      "options": [
+        "Uma guerra econômica entre EUA e Europa",
+        "A maior crise econômica do século XX, iniciada com a quebra da Bolsa de Nova York",
+        "Uma recessão localizada nos EUA sem impacto global",
+        "O colapso do sistema financeiro soviético"
+      ],
+      "correctAnswer": "A maior crise econômica do século XX, iniciada com a quebra da Bolsa de Nova York",
+      "explanation": "A Grande Depressão começou com o 'crash' da Bolsa de Nova York em outubro de 1929, causando desemprego massivo e recessão global que durou até os anos 1930."
+    },
+    {
+      "id": "economia-3-6",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "O que é o 'mercado de capitais'?",
+      "options": [
+        "O câmbio de moedas estrangeiras entre países",
+        "O mercado onde são negociados capitais de médio e longo prazo, como ações e títulos",
+        "O sistema de empréstimos entre bancos centrais",
+        "O mercado de commodities agrícolas"
+      ],
+      "correctAnswer": "O mercado onde são negociados capitais de médio e longo prazo, como ações e títulos",
+      "explanation": "O mercado de capitais conecta investidores e empresas que precisam de financiamento, englobando bolsas de valores, mercado de debêntures e outros instrumentos."
+    },
+    {
+      "id": "economia-3-7",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "Qual economista é considerado o pai do capitalismo moderno e escreveu 'A Riqueza das Nações'?",
+      "options": [
+        "Karl Marx",
+        "John Maynard Keynes",
+        "Adam Smith",
+        "Milton Friedman"
+      ],
+      "correctAnswer": "Adam Smith",
+      "explanation": "'A Riqueza das Nações' (1776) de Adam Smith fundou a economia política moderna, introduzindo conceitos como divisão do trabalho e a 'mão invisível' do mercado."
+    },
+    {
+      "id": "economia-3-8",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "O que é 'dumping' no comércio internacional?",
+      "options": [
+        "Exportar produtos com preço abaixo do custo para dominar mercados estrangeiros",
+        "Importar produtos sem pagar tarifas alfandegárias",
+        "Negociar acordos bilaterais de livre comércio",
+        "Subsidiar agricultores locais contra importações"
+      ],
+      "correctAnswer": "Exportar produtos com preço abaixo do custo para dominar mercados estrangeiros",
+      "explanation": "Dumping é uma prática comercial predatória proibida pela OMC. Países lesados podem aplicar tarifas antidumping para proteger sua indústria local."
+    },
+    {
+      "id": "economia-3-9",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "O que é o 'Índice de Gini'?",
+      "options": [
+        "Medida da inflação de um país",
+        "Índice que mede a desigualdade na distribuição de renda",
+        "Taxa de crescimento econômico anual",
+        "Indicador de desenvolvimento humano"
+      ],
+      "correctAnswer": "Índice que mede a desigualdade na distribuição de renda",
+      "explanation": "O Índice de Gini vai de 0 (igualdade perfeita) a 1 (máxima desigualdade). O Brasil historicamente tem Gini acima de 0,5, indicando alta desigualdade de renda."
+    },
+    {
+      "id": "economia-3-10",
+      "category": "economia",
+      "difficulty": 3,
+      "question": "O que é 'balança comercial'?",
+      "options": [
+        "A diferença entre exportações e importações de um país",
+        "O saldo das contas bancárias de um governo",
+        "O índice de preços de commodities internacionais",
+        "O equilíbrio entre oferta e demanda no mercado interno"
+      ],
+      "correctAnswer": "A diferença entre exportações e importações de um país",
+      "explanation": "A balança comercial registra o valor das exportações menos as importações. Superávit ocorre quando se exporta mais; déficit quando se importa mais."
+    }
+  ]
+}

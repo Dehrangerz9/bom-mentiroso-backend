@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-6-1",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "Qual fenômeno climático, causado pelo aquecimento anômalo das águas do Pacífico tropical, afeta padrões climáticos globais com secas e chuvas intensas?",
+      "options": [
+        "La Niña",
+        "El Niño",
+        "PDO (Oscilação Decadal do Pacífico)",
+        "Dipolo do Oceano Índico"
+      ],
+      "correctAnswer": "El Niño",
+      "explanation": "El Niño é o aquecimento periódico do Pacífico equatorial que altera a circulação atmosférica global, causando efeitos climáticos extremos em todos os continentes."
+    }
+  ]
+}

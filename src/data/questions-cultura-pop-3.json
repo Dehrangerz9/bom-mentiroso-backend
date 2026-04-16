@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-3-1",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual filme da Marvel foi o primeiro a ultrapassar US$ 1 bilhão nas bilheterias mundiais?",
+      "options": [
+        "Homem de Ferro",
+        "Os Vingadores",
+        "Capitão América: Guerra Civil",
+        "Thor"
+      ],
+      "correctAnswer": "Os Vingadores",
+      "explanation": "'Os Vingadores' (2012) foi o primeiro filme do MCU a arrecadar mais de US$ 1 bilhão globalmente."
+    },
+    {
+      "id": "cultura-pop-3-2",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual filme de 2009 se tornou o maior bilheteria da história ao ser lançado, com seres azuis chamados Na'vi?",
+      "options": [
+        "Titanic",
+        "Avatar",
+        "Guerra nas Estrelas",
+        "O Senhor dos Anéis"
+      ],
+      "correctAnswer": "Avatar",
+      "explanation": "Avatar, de James Cameron, arrecadou cerca de US$ 2,9 bilhões em 2009, quebrando o recorde de Titanic. Foi relançado em 2022 com Avatar: O Caminho da Água."
+    },
+    {
+      "id": "cultura-pop-3-3",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual série da Netflix sobre uma cidade norueguesa mistura mitologia nórdica com drama adolescente?",
+      "options": [
+        "Dark",
+        "Ragnarok",
+        "Vikings",
+        "Norsemen"
+      ],
+      "correctAnswer": "Ragnarok",
+      "explanation": "Ragnarok é uma série norueguesa da Netflix onde um adolescente descobre ser a reencarnação de Thor e enfrenta gigantes industriais em uma cidade fictícia."
+    },
+    {
+      "id": "cultura-pop-3-4",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual artista lançou o álbum 'Bad Guy' que dominou as paradas mundiais em 2019?",
+      "options": [
+        "Ariana Grande",
+        "Billie Eilish",
+        "Dua Lipa",
+        "Olivia Rodrigo"
+      ],
+      "correctAnswer": "Billie Eilish",
+      "explanation": "'Bad Guy' de Billie Eilish foi o maior hit de 2019, tornando-a a artista mais jovem a ganhar os quatro principais Grammy em uma única noite."
+    },
+    {
+      "id": "cultura-pop-3-5",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual personagem da Marvel é conhecido como o 'Homem de Ferro' e foi interpretado por Robert Downey Jr.?",
+      "options": [
+        "Bruce Banner",
+        "Tony Stark",
+        "Steve Rogers",
+        "Peter Parker"
+      ],
+      "correctAnswer": "Tony Stark",
+      "explanation": "Tony Stark é o Homem de Ferro, gênio bilionário que cria uma armadura tecnológica. Robert Downey Jr. interpretou o personagem no MCU de 2008 a 2019."
+    },
+    {
+      "id": "cultura-pop-3-6",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual jogo eletrônico de sobrevivência e construção se tornou fenômeno global em 2011 com gráficos de blocos?",
+      "options": [
+        "Roblox",
+        "Terraria",
+        "Minecraft",
+        "Fortnite"
+      ],
+      "correctAnswer": "Minecraft",
+      "explanation": "Minecraft, criado por Markus 'Notch' Persson, é o jogo mais vendido da história com mais de 238 milhões de cópias, inspirando educação, arte e arquitetura."
+    },
+    {
+      "id": "cultura-pop-3-7",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual cantor brasileiro ficou famoso mundialmente com o estilo musical 'Baile Funk' e músicas como 'Vai Malandra'?",
+      "options": [
+        "Anitta",
+        "MC Kevinho",
+        "Ludmilla",
+        "Mc Fioti"
+      ],
+      "correctAnswer": "Anitta",
+      "explanation": "Anitta popularizou o funk brasileiro internacionalmente, se tornando a primeira artista solo brasileira a alcançar o top 10 do Spotify Global."
+    },
+    {
+      "id": "cultura-pop-3-8",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual série de fantasia da HBO foi baseada nos livros 'As Crônicas de Gelo e Fogo' de George R.R. Martin?",
+      "options": [
+        "The Witcher",
+        "Game of Thrones",
+        "The Last Kingdom",
+        "Vikings"
+      ],
+      "correctAnswer": "Game of Thrones",
+      "explanation": "Game of Thrones foi ao ar de 2011 a 2019 e se tornou a série mais assistida da HBO, com batalhas épicas e reviravoltas de enredo chocantes."
+    },
+    {
+      "id": "cultura-pop-3-9",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual fenômeno das redes sociais consiste em vídeos curtos e virais popularizados pelo TikTok?",
+      "options": [
+        "Podcast",
+        "Reels",
+        "Short-form video",
+        "Stories"
+      ],
+      "correctAnswer": "Short-form video",
+      "explanation": "O formato de vídeo curto (short-form video) revolucionou o consumo de mídia, sendo adotado pelo Instagram (Reels), YouTube (Shorts) após o sucesso do TikTok."
+    },
+    {
+      "id": "cultura-pop-3-10",
+      "category": "cultura-pop",
+      "difficulty": 3,
+      "question": "Qual filme de animação da Pixar de 2003 conta a história de um peixe-palhaço que busca seu filho desaparecido?",
+      "options": [
+        "Procurando Nemo",
+        "Shark Tale",
+        "Surf's Up",
+        "Oceano"
+      ],
+      "correctAnswer": "Procurando Nemo",
+      "explanation": "Procurando Nemo ganhou o Oscar de Melhor Animação em 2004 e gerou a sequência 'Procurando Dory' em 2016."
+    }
+  ]
+}

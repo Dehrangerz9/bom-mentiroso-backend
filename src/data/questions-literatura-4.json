@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "literatura-4-1",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Qual escritora britânica criou o personagem Elizabeth Bennet, protagonista de 'Orgulho e Preconceito'?",
+      "options": [
+        "Charlotte Brontë",
+        "George Eliot",
+        "Virginia Woolf",
+        "Jane Austen"
+      ],
+      "correctAnswer": "Jane Austen",
+      "explanation": "'Orgulho e Preconceito' foi publicado em 1813 e é considerado o romance mais popular de Jane Austen."
+    },
+    {
+      "id": "literatura-4-2",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Qual obra de Franz Kafka narra a transformação de Gregor Samsa em inseto?",
+      "options": [
+        "O Processo",
+        "O Castelo",
+        "A Metamorfose",
+        "Na Colônia Penal"
+      ],
+      "correctAnswer": "A Metamorfose",
+      "explanation": "'A Metamorfose' (1915) de Kafka começa com Gregor Samsa acordando transformado em inseto. A obra explora alienação, família e burocracia de forma absurda e perturbadora."
+    },
+    {
+      "id": "literatura-4-3",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Qual escritor inglês criou o personagem Sherlock Holmes?",
+      "options": [
+        "G.K. Chesterton",
+        "Agatha Christie",
+        "Arthur Conan Doyle",
+        "Wilkie Collins"
+      ],
+      "correctAnswer": "Arthur Conan Doyle",
+      "explanation": "Arthur Conan Doyle criou Sherlock Holmes em 1887. O detetive de 221B Baker Street e seu parceiro Dr. Watson tornaram-se os personagens fictícios mais adaptados da história."
+    },
+    {
+      "id": "literatura-4-4",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Qual é o nome do romance de George Orwell que retrata uma sociedade totalitária com 'Big Brother'?",
+      "options": [
+        "Admirável Mundo Novo",
+        "Nós",
+        "1984",
+        "Fahrenheit 451"
+      ],
+      "correctAnswer": "1984",
+      "explanation": "'1984' (1949) de George Orwell criou conceitos como 'Grande Irmão', 'Novilíngua' e 'duplipensar', tornando-se referência fundamental sobre totalitarismo e vigilância."
+    },
+    {
+      "id": "literatura-4-5",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Qual escritor brasileiro escreveu 'Grande Sertão: Veredas'?",
+      "options": [
+        "Graciliano Ramos",
+        "Jorge Amado",
+        "João Guimarães Rosa",
+        "Érico Veríssimo"
+      ],
+      "correctAnswer": "João Guimarães Rosa",
+      "explanation": "'Grande Sertão: Veredas' (1956) de Guimarães Rosa é considerado o maior romance brasileiro do século XX, narrado pelo jagunço Riobaldo numa linguagem inventiva e poética."
+    },
+    {
+      "id": "literatura-4-6",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Em qual obra Shakespeare retrata o príncipe dinamarquês que hesita em vingar a morte do pai?",
+      "options": [
+        "Macbeth",
+        "Otelo",
+        "Hamlet",
+        "Rei Lear"
+      ],
+      "correctAnswer": "Hamlet",
+      "explanation": "Hamlet (c. 1600-1601) é a peça mais longa e uma das mais citadas de Shakespeare. 'Ser ou não ser' é um dos monólogos mais famosos da literatura universal."
+    },
+    {
+      "id": "literatura-4-7",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Qual prêmio literário é considerado o mais prestigioso do mundo?",
+      "options": [
+        "Pulitzer",
+        "Booker Prize",
+        "Nobel de Literatura",
+        "Man Booker International"
+      ],
+      "correctAnswer": "Nobel de Literatura",
+      "explanation": "O Nobel de Literatura é concedido anualmente pela Academia Sueca desde 1901. Ganhadores brasileiros incluem nenhum; latinoamericanos notáveis: García Márquez, Neruda e Vargas Llosa."
+    },
+    {
+      "id": "literatura-4-8",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Qual obra de Albert Camus inicia com 'Hoje, mamãe morreu'?",
+      "options": [
+        "A Peste",
+        "O Mito de Sísifo",
+        "O Estrangeiro",
+        "A Queda"
+      ],
+      "correctAnswer": "O Estrangeiro",
+      "explanation": "'O Estrangeiro' (1942) de Albert Camus é um marco do Existencialismo e Absurdismo. Mersault, o protagonista indiferente, mata um árabe sem razão aparente e enfrenta a sociedade."
+    },
+    {
+      "id": "literatura-4-9",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Qual é o personagem principal das 'Aventuras de Huckleberry Finn' de Mark Twain?",
+      "options": [
+        "Tom Sawyer",
+        "Jim",
+        "Huckleberry Finn",
+        "Ben Rogers"
+      ],
+      "correctAnswer": "Huckleberry Finn",
+      "explanation": "Huckleberry Finn (1884) é considerado o primeiro grande romance americano. Huck, filho de um alcoólatra, foge pelo rio Mississippi com o escravo fugitivo Jim, explorando temas de liberdade e racismo."
+    },
+    {
+      "id": "literatura-4-10",
+      "category": "literatura",
+      "difficulty": 4,
+      "question": "Qual escritor colombiano ganhou o Nobel de Literatura em 1982?",
+      "options": [
+        "Mario Vargas Llosa",
+        "Jorge Luis Borges",
+        "Gabriel García Márquez",
+        "Pablo Neruda"
+      ],
+      "correctAnswer": "Gabriel García Márquez",
+      "explanation": "Gabriel García Márquez ('Gabo') ganhou o Nobel de Literatura em 1982 pela obra que inclui 'Cem Anos de Solidão' e 'O Amor nos Tempos do Cólera', ícones do realismo mágico."
+    }
+  ]
+}

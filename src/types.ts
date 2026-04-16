@@ -5,7 +5,7 @@ export interface Category {
 }
 
 export interface Question {
-  id: number;
+  id: string;
   category: string;
   question: string;
   options: string[];
@@ -49,5 +49,5 @@ export interface GameRoom {
   /** Categories already selected in this game (no repeats allowed) */
   usedCategories: string[];
   /** IDs of questions already used across all rounds, including after resets (no question repeats in a session) */
-  usedQuestionIds: number[];
+  usedQuestionIds: string[];
 }

@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "gastronomia-3-1",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "O 'Croissant' é símbolo da culinária francesa, mas em qual país foi criado?",
+      "options": [
+        "Itália",
+        "Áustria",
+        "Hungria",
+        "Suíça"
+      ],
+      "correctAnswer": "Áustria",
+      "explanation": "O Kipferl austríaco é o ancestral do croissant. Padeiros vienenses levaram a receita para Paris no séc. XIX."
+    },
+    {
+      "id": "gastronomia-3-2",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "Qual é o ingrediente principal do guacamole mexicano?",
+      "options": [
+        "Tomate",
+        "Pimentão",
+        "Abacate",
+        "Cebola"
+      ],
+      "correctAnswer": "Abacate",
+      "explanation": "O guacamole é um molho ou patê mexicano feito principalmente de abacate amassado, com limão, sal, coentro e outros temperos opcionais."
+    },
+    {
+      "id": "gastronomia-3-3",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "De qual país é originária a pizza?",
+      "options": [
+        "Estados Unidos",
+        "Grécia",
+        "Itália",
+        "Espanha"
+      ],
+      "correctAnswer": "Itália",
+      "explanation": "A pizza moderna originou-se em Nápoles, Itália, no século XVIII. A pizza Margherita foi criada em 1889 em homenagem à Rainha Margherita de Savoia."
+    },
+    {
+      "id": "gastronomia-3-4",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "Qual especiaria, mais cara que o ouro por peso, é extraída dos estigmas da flor Crocus sativus?",
+      "options": [
+        "Cardamomo",
+        "Açafrão",
+        "Baunilha",
+        "Canela"
+      ],
+      "correctAnswer": "Açafrão",
+      "explanation": "O açafrão (saffron) é a especiaria mais cara do mundo. São necessários cerca de 150 mil flores para produzir 1 kg, colhido manualmente em países como Irã e Espanha."
+    },
+    {
+      "id": "gastronomia-3-5",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "O que é o 'umami', considerado o quinto sabor básico?",
+      "options": [
+        "Sabor adocicado intenso",
+        "Sabor azedo pronunciado",
+        "Sabor salgado-gorduroso suave",
+        "Sabor saboroso-proteico do glutamato"
+      ],
+      "correctAnswer": "Sabor saboroso-proteico do glutamato",
+      "explanation": "O umami foi identificado pelo japonês Kikunae Ikeda em 1908, provocado pelo glutamato. Está presente em carnes, queijos, tomate, cogumelos e molho shoyu."
+    },
+    {
+      "id": "gastronomia-3-6",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "Qual é o prato nacional da Espanha considerado símbolo da culinária mediterrânea?",
+      "options": [
+        "Gazpacho",
+        "Tortilla espanhola",
+        "Paella",
+        "Churros"
+      ],
+      "correctAnswer": "Paella",
+      "explanation": "A paella é originária de Valência e consiste em arroz cozido com açafrão, legumes e proteínas variadas (frango, mariscos). É símbolo da cozinha espanhola."
+    },
+    {
+      "id": "gastronomia-3-7",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "Qual técnica culinária consiste em cozinhar alimentos embalados a vácuo em temperatura controlada por longo período?",
+      "options": [
+        "Confitar",
+        "Sous vide",
+        "Branquear",
+        "Defumar"
+      ],
+      "correctAnswer": "Sous vide",
+      "explanation": "Sous vide (francês: 'sob vácuo') cozinha alimentos selados a vácuo em água aquecida a temperatura precisa, preservando suculência, nutrientes e sabor."
+    },
+    {
+      "id": "gastronomia-3-8",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "Qual é o queijo italiano usado na receita clássica do Tiramisu?",
+      "options": [
+        "Mozzarella",
+        "Ricota",
+        "Mascarpone",
+        "Parmesão"
+      ],
+      "correctAnswer": "Mascarpone",
+      "explanation": "O Tiramisu clássico leva mascarpone, queijo cremoso italiano de origem lombarda com alto teor de gordura, combinado com ovos, açúcar, café e biscoito savoiardo."
+    },
+    {
+      "id": "gastronomia-3-9",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "O que é 'mise en place' na gastronomia profissional?",
+      "options": [
+        "Decoração do prato antes de servir",
+        "Preparação e organização de todos os ingredientes antes de cozinhar",
+        "Lista de compras para o restaurante",
+        "Posicionamento das mesas no salão"
+      ],
+      "correctAnswer": "Preparação e organização de todos os ingredientes antes de cozinhar",
+      "explanation": "'Mise en place' (francês: 'colocar no lugar') é a prática de preparar e organizar todos os ingredientes e utensílios antes de iniciar o cozimento, essencial em cozinhas profissionais."
+    },
+    {
+      "id": "gastronomia-3-10",
+      "category": "gastronomia",
+      "difficulty": 3,
+      "question": "Qual é o tipo de massa usada no sushi japonês?",
+      "options": [
+        "Arroz integral",
+        "Arroz arbóreo",
+        "Arroz japonês temperado com vinagre",
+        "Arroz parboilizado"
+      ],
+      "correctAnswer": "Arroz japonês temperado com vinagre",
+      "explanation": "O shari (arroz de sushi) é arroz japonês de grão curto cozido e temperado com vinagre de arroz, açúcar e sal, dando a textura pegajosa característica."
+    }
+  ]
+}

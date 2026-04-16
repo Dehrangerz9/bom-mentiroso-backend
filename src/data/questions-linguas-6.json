@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "linguas-6-1",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "Qual é o nome da língua artificial criada em 1887 por Ludwig Lazarus Zamenhof com o objetivo de ser uma língua universal de paz?",
+      "options": [
+        "Volapük",
+        "Interlingua",
+        "Esperanto",
+        "Ido"
+      ],
+      "correctAnswer": "Esperanto",
+      "explanation": "O Esperanto tem cerca de 2 milhões de falantes e é a língua construída mais bem-sucedida da história, com uma gramática regular e vocabulário baseado em línguas europeias."
+    }
+  ]
+}

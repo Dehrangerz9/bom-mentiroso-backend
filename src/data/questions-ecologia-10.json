@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-10-1",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "Qual é o mecanismo pelo qual o permafrost do Ártico em degelo pode criar um 'feedback positivo' de aquecimento global, e qual gás é o principal agente?",
+      "options": [
+        "O degelo expõe rochas escuras que absorvem mais calor, aumentando CO₂ por respiração bacteriana aeróbica",
+        "O degelo libera metano (CH₄) de matéria orgânica previamente congelada, gás com potencial de aquecimento 80× superior ao CO₂ em 20 anos",
+        "O degelo aumenta a evaporação oceânica, amplificando o efeito estufa pelo vapor d'água",
+        "O degelo reduz a cobertura de neve, diminuindo o albedo e causando absorção adicional de radiação"
+      ],
+      "correctAnswer": "O degelo libera metano (CH₄) de matéria orgânica previamente congelada, gás com potencial de aquecimento 80× superior ao CO₂ em 20 anos",
+      "explanation": "O permafrost ártico contém ~1.500 Gt de carbono. Seu degelo libera metano via decomposição anaeróbica, criando um loop de amplificação: mais calor → mais degelo → mais CH₄ → mais calor."
+    }
+  ]
+}

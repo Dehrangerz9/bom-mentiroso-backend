@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "astronomia-6-1",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "Como se chama o fenômeno em que a luz de uma galáxia distante é curvada e amplificada pela gravidade de outra galáxia no caminho?",
+      "options": [
+        "Paralaxe estelar",
+        "Lente gravitacional",
+        "Redshift gravitacional",
+        "Aberração cromática"
+      ],
+      "correctAnswer": "Lente gravitacional",
+      "explanation": "Prevista por Einstein na Relatividade Geral, a lente gravitacional foi observada pela primeira vez em 1979 e é usada para estudar matéria escura."
+    }
+  ]
+}

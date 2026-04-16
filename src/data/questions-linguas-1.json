@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "linguas-1-1",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Qual é a língua oficial do Brasil?",
+      "options": [
+        "Espanhol",
+        "Inglês",
+        "Português",
+        "Tupi"
+      ],
+      "correctAnswer": "Português",
+      "explanation": "O português é a língua oficial do Brasil, herdada da colonização portuguesa iniciada em 1500."
+    },
+    {
+      "id": "linguas-1-2",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Quantas letras tem o alfabeto português atual?",
+      "options": [
+        "23",
+        "24",
+        "25",
+        "26"
+      ],
+      "correctAnswer": "26",
+      "explanation": "Desde o Acordo Ortográfico de 2009, o alfabeto português tem 26 letras, com a reincorporação de K, W e Y."
+    },
+    {
+      "id": "linguas-1-3",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Qual é a língua mais falada na América do Sul?",
+      "options": [
+        "Espanhol",
+        "Inglês",
+        "Português",
+        "Guarani"
+      ],
+      "correctAnswer": "Português",
+      "explanation": "O português é a língua mais falada na América do Sul, com o Brasil sendo o maior país do continente."
+    },
+    {
+      "id": "linguas-1-4",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Como se diz 'obrigado' em inglês?",
+      "options": [
+        "Please",
+        "Sorry",
+        "Hello",
+        "Thank you"
+      ],
+      "correctAnswer": "Thank you",
+      "explanation": "'Thank you' é a tradução de 'obrigado' em inglês, expressão de gratidão."
+    },
+    {
+      "id": "linguas-1-5",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Qual é a língua oficial da Argentina?",
+      "options": [
+        "Inglês",
+        "Italiano",
+        "Português",
+        "Espanhol"
+      ],
+      "correctAnswer": "Espanhol",
+      "explanation": "O espanhol (ou castelhano) é a língua oficial da Argentina, falado por praticamente toda a população."
+    },
+    {
+      "id": "linguas-1-6",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Em qual idioma se diz 'Merci' para agradecer?",
+      "options": [
+        "Italiano",
+        "Espanhol",
+        "Francês",
+        "Romeno"
+      ],
+      "correctAnswer": "Francês",
+      "explanation": "'Merci' é a palavra francesa para agradecer, equivalente ao 'obrigado' português ou 'thank you' inglês."
+    },
+    {
+      "id": "linguas-1-7",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Quantas vogais tem o alfabeto latino básico?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "5",
+      "explanation": "O alfabeto latino tem 5 vogais básicas: A, E, I, O e U."
+    },
+    {
+      "id": "linguas-1-8",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Qual é a língua oficial de Portugal?",
+      "options": [
+        "Galego",
+        "Espanhol",
+        "Latim",
+        "Português"
+      ],
+      "correctAnswer": "Português",
+      "explanation": "O português é a língua oficial de Portugal desde a Idade Média e é hoje falado por cerca de 260 milhões de pessoas."
+    },
+    {
+      "id": "linguas-1-9",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Como se diz 'Olá' em espanhol?",
+      "options": [
+        "Ciao",
+        "Bonjour",
+        "Hola",
+        "Salve"
+      ],
+      "correctAnswer": "Hola",
+      "explanation": "'Hola' é a saudação informal em espanhol, equivalente ao 'Olá' em português ou 'Hello' em inglês."
+    },
+    {
+      "id": "linguas-1-10",
+      "category": "linguas",
+      "difficulty": 1,
+      "question": "Qual é a língua mais falada no mundo em total de falantes nativos e não-nativos?",
+      "options": [
+        "Mandarim",
+        "Espanhol",
+        "Inglês",
+        "Hindi"
+      ],
+      "correctAnswer": "Inglês",
+      "explanation": "O inglês é a língua mais falada no mundo em total de falantes (cerca de 1,5 bilhão), sendo a principal língua franca global."
+    }
+  ]
+}

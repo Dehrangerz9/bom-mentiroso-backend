@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-7-1",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual artista da Pop Art americana ficou famoso por reproduzir em serigrafia rostos de celebridades como Marilyn Monroe e Campbell's Soup Cans?",
+      "options": [
+        "Roy Lichtenstein",
+        "Jasper Johns",
+        "Andy Warhol",
+        "Robert Rauschenberg"
+      ],
+      "correctAnswer": "Andy Warhol",
+      "explanation": "Warhol transformou ícones do consumismo em arte, questionando os limites entre arte elevada e cultura de massa."
+    },
+    {
+      "id": "artes-7-2",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual pintor flamengo do século XV foi pioneiro no uso da tinta a óleo e criou o Retábulo de Gante com seu irmão Hubert?",
+      "options": [
+        "Rogier van der Weyden",
+        "Jan van Eyck",
+        "Hans Memling",
+        "Pieter Bruegel"
+      ],
+      "correctAnswer": "Jan van Eyck",
+      "explanation": "Jan van Eyck (c. 1390-1441) aperfeiçoou a técnica a óleo, permitindo maior luminosidade e detalhamento; o Retábulo de Gante (1432) é sua obra-prima."
+    },
+    {
+      "id": "artes-7-3",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual artista conceitual búlgaro-americano ficou famoso por empacotar monumentos e paisagens, como o Reichstag e ilhas na Flórida?",
+      "options": [
+        "Joseph Beuys",
+        "Christo",
+        "Richard Serra",
+        "Dan Flavin"
+      ],
+      "correctAnswer": "Christo",
+      "explanation": "Christo (1935-2020) e sua esposa Jeanne-Claude realizaram projetos de embalagem em escala monumental; o Reichstag embrulhado (1995) foi visto por 5 milhões de pessoas."
+    },
+    {
+      "id": "artes-7-4",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual manifesto artístico de 1909 exaltava a velocidade, as máquinas e o dinamismo da vida moderna, rejeitando o passado?",
+      "options": [
+        "Manifesto Surrealista",
+        "Manifesto Futurista",
+        "Manifesto Dadaísta",
+        "Manifesto Construtivista"
+      ],
+      "correctAnswer": "Manifesto Futurista",
+      "explanation": "O Manifesto Futurista foi publicado por Filippo Tommaso Marinetti no jornal Le Figaro em 1909, celebrando velocidade, tecnologia e ruptura com a tradição."
+    },
+    {
+      "id": "artes-7-5",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual artista mexicana é conhecida por autorretratos que exploram identidade, dor e política, e pelo quadro 'As Duas Fridas'?",
+      "options": [
+        "María Izquierdo",
+        "Remedios Varo",
+        "Frida Kahlo",
+        "Leonora Carrington"
+      ],
+      "correctAnswer": "Frida Kahlo",
+      "explanation": "Frida Kahlo (1907-1954) pintou 'As Duas Fridas' em 1939, retratando sua dualidade identitária após o divórcio de Diego Rivera; é uma das obras mais caras da arte latino-americana."
+    },
+    {
+      "id": "artes-7-6",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual escola de design alemã, fundada em 1919 por Walter Gropius, integrou artes plásticas, artesanato e tecnologia industrial?",
+      "options": [
+        "Ulm",
+        "Bauhaus",
+        "De Stijl",
+        "Vkhutemas"
+      ],
+      "correctAnswer": "Bauhaus",
+      "explanation": "A Bauhaus (1919-1933) revolucionou o design ao unir arte, artesanato e produção industrial; seus professores incluíam Klee, Kandinsky e Moholy-Nagy."
+    },
+    {
+      "id": "artes-7-7",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual pintura de Eugène Delacroix de 1830 representa uma figura alegórica feminina liderando combatentes sobre barricadas?",
+      "options": [
+        "O Massacre de Quios",
+        "A Morte de Sardanápalo",
+        "A Liberdade Guiando o Povo",
+        "Mulheres de Argel"
+      ],
+      "correctAnswer": "A Liberdade Guiando o Povo",
+      "explanation": "'A Liberdade Guiando o Povo' (1830) de Delacroix celebra a Revolução de Julho na França; a figura da Liberdade segurando a bandeira tricolor tornou-se símbolo nacional."
+    },
+    {
+      "id": "artes-7-8",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual escultor romeno, radicado em Paris, criou formas abstratas biomorph em mármore e bronze, como 'O Pássaro no Espaço'?",
+      "options": [
+        "Alberto Giacometti",
+        "Jean Arp",
+        "Constantin Brancusi",
+        "Henry Moore"
+      ],
+      "correctAnswer": "Constantin Brancusi",
+      "explanation": "Brancusi (1876-1957) reduziu formas naturais à sua essência abstrata; 'O Pássaro no Espaço' foi tema de processo judicial nos EUA em 1926 sobre o que constitui obra de arte."
+    },
+    {
+      "id": "artes-7-9",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual artista americano criou 'action paintings' jogando e gotejando tinta sobre telas no chão, fundando o Expressionismo Abstrato?",
+      "options": [
+        "Mark Rothko",
+        "Willem de Kooning",
+        "Franz Kline",
+        "Jackson Pollock"
+      ],
+      "correctAnswer": "Jackson Pollock",
+      "explanation": "Jackson Pollock (1912-1956) desenvolveu o dripping: caminhava ao redor e sobre telas no chão, pingando e jogando tinta; tornou-se símbolo do Expressionismo Abstrato americano."
+    },
+    {
+      "id": "artes-7-10",
+      "category": "artes",
+      "difficulty": 7,
+      "question": "Qual movimento artístico italiano do início do século XX propunha a destruição de museus e a glorificação da guerra, da violência e das máquinas?",
+      "options": [
+        "Arte Povera",
+        "Futurismo",
+        "Transavanguarda",
+        "Pittura Metafisica"
+      ],
+      "correctAnswer": "Futurismo",
+      "explanation": "O Futurismo italiano, liderado por Marinetti, Boccioni e outros, exaltava velocidade e modernidade; seu entusiasmo pela guerra e pelo fascismo o distingue de outros movimentos de vanguarda."
+    }
+  ]
+}

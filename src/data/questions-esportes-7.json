@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "esportes-7-1",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "Em que ano o Brasil sediou a Copa do Mundo de Futebol pela segunda vez?",
+      "options": [
+        "2006",
+        "2010",
+        "2014",
+        "2018"
+      ],
+      "correctAnswer": "2014",
+      "explanation": "O Brasil sediou pela primeira vez em 1950 e novamente em 2014, quando foi eliminado pela Alemanha por 7×1 na semifinal."
+    }
+  ]
+}

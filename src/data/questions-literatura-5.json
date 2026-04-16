@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "literatura-5-1",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Qual movimento literário brasileiro do séc. XIX usou a natureza tropical e o índio como símbolos nacionais?",
+      "options": [
+        "Romantismo",
+        "Realismo",
+        "Parnasianismo",
+        "Modernismo"
+      ],
+      "correctAnswer": "Romantismo",
+      "explanation": "O Romantismo brasileiro (1836-1881) exaltou o índio como herói nacional e a natureza tropical como identidade do país."
+    }
+  ]
+}

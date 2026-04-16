@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "linguas-4-1",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "De qual língua vem a palavra 'xampô' (shampoo) usada no português?",
+      "options": [
+        "Árabe",
+        "Malaio",
+        "Hindi",
+        "Swahili"
+      ],
+      "correctAnswer": "Hindi",
+      "explanation": "Shampoo vem do hindi 'champo' (चाँपो), que significa 'massagear'. A palavra chegou ao inglês no séc. XVIII."
+    },
+    {
+      "id": "linguas-4-2",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "O que é uma 'língua pidgin'?",
+      "options": [
+        "Uma língua criada artificialmente para comunicação universal",
+        "Uma língua simplificada que surge do contato entre falantes de idiomas diferentes",
+        "Um dialeto regional de uma língua principal",
+        "Uma língua morta preservada apenas em textos"
+      ],
+      "correctAnswer": "Uma língua simplificada que surge do contato entre falantes de idiomas diferentes",
+      "explanation": "Línguas pidgin surgem como meio de comunicação entre grupos sem língua comum. Quando se torna língua nativa de uma comunidade, evolui para 'crioulo' com gramática mais complexa."
+    },
+    {
+      "id": "linguas-4-3",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "Qual é o nome do fenômeno linguístico em que uma palavra muda de categoria gramatical sem mudança de forma?",
+      "options": [
+        "Derivação",
+        "Conversão (ou derivação zero)",
+        "Composição",
+        "Flexão"
+      ],
+      "correctAnswer": "Conversão (ou derivação zero)",
+      "explanation": "Conversão ou derivação zero ocorre quando uma palavra muda de classe sem afixação. Ex.: em inglês, 'email' (substantivo) → 'to email' (verbo). Em português é menos comum mas existe."
+    },
+    {
+      "id": "linguas-4-4",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "Quantas línguas oficiais tem a Suíça?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "4",
+      "explanation": "A Suíça tem 4 línguas nacionais e oficiais: alemão (63%), francês (23%), italiano (8%) e romanche (0,5%). É um exemplo único de plurilinguismo institucional na Europa."
+    },
+    {
+      "id": "linguas-4-5",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "O que é 'code-switching' bilíngue?",
+      "options": [
+        "A tradução simultânea em tempo real",
+        "A alternância entre duas línguas na mesma conversa ou frase",
+        "O aprendizado de código de programação em outro idioma",
+        "Mudar o registro formal/informal da mesma língua"
+      ],
+      "correctAnswer": "A alternância entre duas línguas na mesma conversa ou frase",
+      "explanation": "Code-switching é um fenômeno natural em falantes bilíngues, que alternam idiomas baseados em contexto, interlocutor, tema ou expressividade. É sinal de competência, não de confusão."
+    },
+    {
+      "id": "linguas-4-6",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "Qual é o nome do sistema de escrita usado no coreano, criado pelo rei Sejong no século XV?",
+      "options": [
+        "Hanja",
+        "Hiragana",
+        "Hangul",
+        "Bopomofo"
+      ],
+      "correctAnswer": "Hangul",
+      "explanation": "O Hangul foi criado em 1443 pelo rei Sejong para aumentar a alfabetização coreana, substituindo o complexo Hanja (caracteres chineses). É considerado um dos sistemas de escrita mais científicos."
+    },
+    {
+      "id": "linguas-4-7",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "Qual é o estudo das variações regionais de uma língua dentro de um país ou região?",
+      "options": [
+        "Sociolinguística",
+        "Dialetologia",
+        "Psicolinguística",
+        "Linguística computacional"
+      ],
+      "correctAnswer": "Dialetologia",
+      "explanation": "A dialetologia estuda as variações geográficas (dialetos) de uma língua. No Brasil, há dialetos nordestinos, sulistas e amazônicos distintos em vocabulário, fonologia e entonação."
+    },
+    {
+      "id": "linguas-4-8",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "Qual linguista suíço é considerado o fundador da linguística moderna?",
+      "options": [
+        "Noam Chomsky",
+        "Ferdinand de Saussure",
+        "Edward Sapir",
+        "Leonard Bloomfield"
+      ],
+      "correctAnswer": "Ferdinand de Saussure",
+      "explanation": "Ferdinand de Saussure (1857-1913) fundou a linguística estrutural com o 'Curso de Linguística Geral' (publicado postumamente em 1916), introduzindo conceitos como signo, significante e significado."
+    },
+    {
+      "id": "linguas-4-9",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "Qual é o nome do fenômeno em que palavras de línguas diferentes têm a mesma raiz histórica?",
+      "options": [
+        "Empréstimo linguístico",
+        "Cognatos (línguas cognatas)",
+        "Isoglossa",
+        "Polissemia"
+      ],
+      "correctAnswer": "Cognatos (línguas cognatas)",
+      "explanation": "Cognatos são palavras com mesma origem etimológica em línguas diferentes. Ex.: 'noite' (PT), 'noche' (ES), 'nuit' (FR), 'night' (EN) — todas derivam do latim/proto-indo-europeu 'nox'."
+    },
+    {
+      "id": "linguas-4-10",
+      "category": "linguas",
+      "difficulty": 4,
+      "question": "O que estuda a 'pragmática' na linguística?",
+      "options": [
+        "A estrutura interna das palavras",
+        "Como o contexto influencia a interpretação do significado na comunicação",
+        "O sistema de sons de uma língua",
+        "A ordem das palavras nas sentenças"
+      ],
+      "correctAnswer": "Como o contexto influencia a interpretação do significado na comunicação",
+      "explanation": "Pragmática estuda como o contexto, intenção e situação comunicativa influenciam o significado. A frase 'Você pode fechar a janela?' é literalmente uma pergunta, mas pragmaticamente um pedido."
+    }
+  ]
+}

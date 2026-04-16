@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "esportes-5-1",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "No basquete, quantos pontos vale uma cesta convertida de dentro da área de três pontos?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "2",
+      "explanation": "Cestas de dentro do arco de três pontos valem 2 pontos. As de além do arco valem 3, e lances livres valem 1."
+    }
+  ]
+}

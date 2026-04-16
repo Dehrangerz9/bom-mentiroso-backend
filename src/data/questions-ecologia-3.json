@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-3-1",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "Qual acordo internacional define metas para redução de emissões de gases de efeito estufa?",
+      "options": [
+        "Protocolo de Montreal",
+        "Convenção de Viena",
+        "Acordo de Paris",
+        "Agenda 21"
+      ],
+      "correctAnswer": "Acordo de Paris",
+      "explanation": "O Acordo de Paris (2015) comprometeu 196 países a limitar o aquecimento global a 1,5-2°C acima dos níveis pré-industriais."
+    },
+    {
+      "id": "ecologia-3-2",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "O que é a 'pegada de carbono'?",
+      "options": [
+        "A quantidade de CO₂ absorvida pelas florestas",
+        "O total de gases de efeito estufa emitidos por uma atividade ou pessoa",
+        "O rastro de carbono deixado pela indústria nas cidades",
+        "A emissão de carbono por veículos apenas"
+      ],
+      "correctAnswer": "O total de gases de efeito estufa emitidos por uma atividade ou pessoa",
+      "explanation": "A pegada de carbono mede o impacto climático em CO₂ equivalente. A média global é ~4 toneladas por pessoa por ano; nos EUA é ~16 toneladas."
+    },
+    {
+      "id": "ecologia-3-3",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "Qual é o nome do processo de conversão de matéria orgânica morta em húmus por microrganismos?",
+      "options": [
+        "Nitrificação",
+        "Decomposição",
+        "Fotólise",
+        "Lixiviação"
+      ],
+      "correctAnswer": "Decomposição",
+      "explanation": "A decomposição é realizada por bactérias e fungos decompositores que quebram matéria orgânica morta em nutrientes minerais, reciclando elementos no ecossistema."
+    },
+    {
+      "id": "ecologia-3-4",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "O que é a 'resiliência ecológica' de um ecossistema?",
+      "options": [
+        "A capacidade de produzir mais espécies novas",
+        "A capacidade de se recuperar após perturbações",
+        "A resistência a espécies invasoras",
+        "O número máximo de espécies suportado"
+      ],
+      "correctAnswer": "A capacidade de se recuperar após perturbações",
+      "explanation": "Resiliência ecológica é a capacidade de um ecossistema de absorver distúrbios (incêndios, secas, poluição) e retornar ao seu estado funcional original."
+    },
+    {
+      "id": "ecologia-3-5",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "Qual é o nome do ciclo biogeoquímico que transforma nitrogênio atmosférico em formas utilizáveis pelas plantas?",
+      "options": [
+        "Ciclo do carbono",
+        "Ciclo da água",
+        "Ciclo do nitrogênio",
+        "Ciclo do fósforo"
+      ],
+      "correctAnswer": "Ciclo do nitrogênio",
+      "explanation": "O ciclo do nitrogênio envolve fixação (por bactérias como Rhizobium), nitrificação, assimilação pelas plantas, desnitrificação e decomposição, sendo essencial para a vida."
+    },
+    {
+      "id": "ecologia-3-6",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "Qual é o maior bioma em extensão territorial no Brasil?",
+      "options": [
+        "Cerrado",
+        "Mata Atlântica",
+        "Amazônia",
+        "Caatinga"
+      ],
+      "correctAnswer": "Amazônia",
+      "explanation": "A Amazônia é o maior bioma brasileiro, cobrindo cerca de 49% do território nacional com cerca de 4 milhões de km², sendo também a maior floresta tropical do mundo."
+    },
+    {
+      "id": "ecologia-3-7",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "O que é 'eutrofização' de corpos d'água?",
+      "options": [
+        "A evaporação excessiva de lagos por calor",
+        "O enriquecimento excessivo de nutrientes causando proliferação de algas",
+        "A contaminação por metais pesados industriais",
+        "A acidificação da água por chuva ácida"
+      ],
+      "correctAnswer": "O enriquecimento excessivo de nutrientes causando proliferação de algas",
+      "explanation": "A eutrofização ocorre quando excesso de nitrogênio e fósforo (de fertilizantes e esgoto) causa explosão de algas, reduzindo o oxigênio e matando organismos aquáticos."
+    },
+    {
+      "id": "ecologia-3-8",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "Qual é o nome dado às espécies que existem apenas em uma região específica e não são encontradas em nenhum outro lugar?",
+      "options": [
+        "Espécies migratórias",
+        "Espécies endêmicas",
+        "Espécies cosmopolitas",
+        "Espécies relíquia"
+      ],
+      "correctAnswer": "Espécies endêmicas",
+      "explanation": "Espécies endêmicas são exclusivas de uma região geográfica específica. O Brasil tem altíssimo endemismo, especialmente na Mata Atlântica e no Cerrado."
+    },
+    {
+      "id": "ecologia-3-9",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "O que é o 'efeito de borda' em ecologia de paisagens?",
+      "options": [
+        "O impacto visual da urbanização nos limites das cidades",
+        "As mudanças ambientais que ocorrem na fronteira entre dois ecossistemas diferentes",
+        "A diminuição de espécies nas extremidades de um bioma",
+        "O fenômeno de erosão nas margens de rios"
+      ],
+      "correctAnswer": "As mudanças ambientais que ocorrem na fronteira entre dois ecossistemas diferentes",
+      "explanation": "O efeito de borda ocorre na transição entre dois habitats (ecótono). Fragmentos florestais têm mais bordas expostas a ventos, luz e espécies invasoras, reduzindo sua qualidade ecológica."
+    },
+    {
+      "id": "ecologia-3-10",
+      "category": "ecologia",
+      "difficulty": 3,
+      "question": "Qual conceito ecológico descreve o papel funcional de uma espécie dentro de seu ecossistema?",
+      "options": [
+        "Habitat",
+        "Nicho ecológico",
+        "Bioma",
+        "Ecótono"
+      ],
+      "correctAnswer": "Nicho ecológico",
+      "explanation": "O nicho ecológico descreve o papel funcional de uma espécie: o que ela come, quem a come, como se reproduz e como interage com o ambiente. Duas espécies não ocupam o mesmo nicho exatamente."
+    }
+  ]
+}

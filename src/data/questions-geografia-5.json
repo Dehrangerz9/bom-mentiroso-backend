@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "geografia-5-1",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Qual é o país com maior número de fusos horários no mundo?",
+      "options": [
+        "Rússia",
+        "Estados Unidos",
+        "China",
+        "França"
+      ],
+      "correctAnswer": "França",
+      "explanation": "Contando territórios ultramarinos, a França possui 12 fusos horários, mais do que qualquer outro país."
+    },
+    {
+      "id": "geografia-5-2",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Qual é o maior deserto quente do mundo?",
+      "options": [
+        "Deserto do Gobi",
+        "Deserto do Atacama",
+        "Deserto do Saara",
+        "Deserto Arábico"
+      ],
+      "correctAnswer": "Deserto do Saara",
+      "explanation": "O Saara, na África, cobre cerca de 9,2 milhões de km², sendo o maior deserto quente do mundo. O Antártico é o maior deserto total, mas é frio."
+    },
+    {
+      "id": "geografia-5-3",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Qual rio é considerado o mais longo do mundo?",
+      "options": [
+        "Rio Amazonas",
+        "Rio Nilo",
+        "Rio Yangtzé",
+        "Rio Mississipi"
+      ],
+      "correctAnswer": "Rio Nilo",
+      "explanation": "O Rio Nilo, com aproximadamente 6.650 km, é geralmente apontado como o mais longo do mundo, embora estudos recentes questionem se o Amazonas poderia superá-lo."
+    },
+    {
+      "id": "geografia-5-4",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Qual é o menor país do mundo, tanto em área quanto em população?",
+      "options": [
+        "Mônaco",
+        "San Marino",
+        "Liechtenstein",
+        "Vaticano"
+      ],
+      "correctAnswer": "Vaticano",
+      "explanation": "O Vaticano ocupa apenas 0,44 km² dentro de Roma e tem menos de 1.000 residentes permanentes; é o menor Estado soberano do mundo."
+    },
+    {
+      "id": "geografia-5-5",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Qual é a capital do Canadá?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa"
+      ],
+      "correctAnswer": "Ottawa",
+      "explanation": "Ottawa, na província de Ontário, é a capital federal do Canadá desde 1857; Toronto é a maior cidade, mas não é a capital."
+    },
+    {
+      "id": "geografia-5-6",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Qual continente é o mais populoso do mundo?",
+      "options": [
+        "Europa",
+        "África",
+        "Ásia",
+        "Américas"
+      ],
+      "correctAnswer": "Ásia",
+      "explanation": "A Ásia abriga mais de 4,7 bilhões de pessoas, cerca de 60% da população mundial; China e Índia juntas têm mais de 2,8 bilhões de habitantes."
+    },
+    {
+      "id": "geografia-5-7",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Qual é o maior oceano do mundo?",
+      "options": [
+        "Oceano Atlântico",
+        "Oceano Índico",
+        "Oceano Pacífico",
+        "Oceano Ártico"
+      ],
+      "correctAnswer": "Oceano Pacífico",
+      "explanation": "O Oceano Pacífico cobre cerca de 165 milhões de km², mais do que toda a massa terrestre continental combinada, sendo o maior e mais profundo oceano do mundo."
+    },
+    {
+      "id": "geografia-5-8",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Qual cadeia de montanhas forma a fronteira natural entre a Europa e a Ásia?",
+      "options": [
+        "Alpes",
+        "Cárpatos",
+        "Urais",
+        "Cáucaso"
+      ],
+      "correctAnswer": "Urais",
+      "explanation": "Os Montes Urais, com 2.500 km de extensão, são convencionalmente considerados o limite leste da Europa; o pico mais alto é o Naro com 1.895 metros."
+    },
+    {
+      "id": "geografia-5-9",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Qual é o país da América do Sul que faz fronteira com todos os outros países do continente, exceto Chile e Equador?",
+      "options": [
+        "Argentina",
+        "Brasil",
+        "Colômbia",
+        "Peru"
+      ],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil faz fronteira com 10 dos 12 países sul-americanos; apenas Chile e Equador não fazem fronteira direta com o território brasileiro."
+    },
+    {
+      "id": "geografia-5-10",
+      "category": "geografia",
+      "difficulty": 5,
+      "question": "Em qual continente está localizado o Egito?",
+      "options": [
+        "Ásia",
+        "Europa",
+        "África",
+        "Oriente Médio"
+      ],
+      "correctAnswer": "África",
+      "explanation": "O Egito está localizado no nordeste da África, embora a Península do Sinai seja geograficamente parte da Ásia; o país é transcontinental mas majoritariamente africano."
+    }
+  ]
+}

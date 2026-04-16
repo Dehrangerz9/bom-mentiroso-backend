@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "thoughtworks-1-1",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "Em qual país a Thoughtworks tem sua sede global?",
+      "options": [
+        "Reino Unido",
+        "Austrália",
+        "Estados Unidos",
+        "Índia"
+      ],
+      "correctAnswer": "Estados Unidos",
+      "explanation": "A Thoughtworks tem sede em Chicago, Illinois, EUA, desde sua fundação em 1993."
+    },
+    {
+      "id": "thoughtworks-1-2",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "Qual é o nome do fundador da Thoughtworks?",
+      "options": [
+        "Bill Gates",
+        "Roy Singham",
+        "Steve Jobs",
+        "Linus Torvalds"
+      ],
+      "correctAnswer": "Roy Singham",
+      "explanation": "Roy Singham fundou a Thoughtworks em Chicago em 1993."
+    },
+    {
+      "id": "thoughtworks-1-3",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "Em qual cidade fica a sede global da Thoughtworks?",
+      "options": [
+        "Nova York",
+        "San Francisco",
+        "Chicago",
+        "Austin"
+      ],
+      "correctAnswer": "Chicago",
+      "explanation": "A Thoughtworks tem sua sede em Chicago, Illinois, desde sua fundação."
+    },
+    {
+      "id": "thoughtworks-1-4",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "A Thoughtworks é uma empresa de qual setor?",
+      "options": [
+        "Finanças",
+        "Saúde",
+        "Tecnologia e consultoria",
+        "Varejo"
+      ],
+      "correctAnswer": "Tecnologia e consultoria",
+      "explanation": "A Thoughtworks é uma consultoria global de tecnologia especializada em desenvolvimento de software."
+    },
+    {
+      "id": "thoughtworks-1-5",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "Qual publicação semestral da Thoughtworks mapeia tendências tecnológicas?",
+      "options": [
+        "Tech Digest",
+        "Technology Radar",
+        "Innovation Map",
+        "Dev Compass"
+      ],
+      "correctAnswer": "Technology Radar",
+      "explanation": "O Technology Radar é publicado semestralmente pela Thoughtworks classificando tecnologias em quatro quadrantes."
+    },
+    {
+      "id": "thoughtworks-1-6",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "Qual prática de desenvolvimento a Thoughtworks é conhecida por adotar e promover globalmente?",
+      "options": [
+        "Waterfall",
+        "Desenvolvimento Ágil",
+        "PRINCE2",
+        "Six Sigma"
+      ],
+      "correctAnswer": "Desenvolvimento Ágil",
+      "explanation": "A Thoughtworks é pioneira e forte defensora das práticas ágeis de desenvolvimento de software."
+    },
+    {
+      "id": "thoughtworks-1-7",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "Qual Thoughtworker é mundialmente conhecido por seus livros sobre refatoração e arquitetura de software?",
+      "options": [
+        "Kent Beck",
+        "Martin Fowler",
+        "Uncle Bob",
+        "Grady Booch"
+      ],
+      "correctAnswer": "Martin Fowler",
+      "explanation": "Martin Fowler é Chief Scientist da Thoughtworks e autor de livros clássicos como 'Refactoring' e 'Patterns of Enterprise Application Architecture'."
+    },
+    {
+      "id": "thoughtworks-1-8",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "Qual ferramenta open-source de Integração Contínua foi criada pela Thoughtworks?",
+      "options": [
+        "Jenkins",
+        "Travis CI",
+        "CruiseControl",
+        "Bamboo"
+      ],
+      "correctAnswer": "CruiseControl",
+      "explanation": "CruiseControl foi uma das primeiras ferramentas de Integração Contínua, criada pela Thoughtworks antes do GoCD."
+    },
+    {
+      "id": "thoughtworks-1-9",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "A Thoughtworks tem presença em aproximadamente quantos países?",
+      "options": [
+        "5",
+        "15",
+        "50",
+        "100"
+      ],
+      "correctAnswer": "50",
+      "explanation": "A Thoughtworks opera em aproximadamente 50 países ao redor do mundo com escritórios em diversos continentes."
+    },
+    {
+      "id": "thoughtworks-1-10",
+      "category": "thoughtworks",
+      "difficulty": 1,
+      "question": "Qual é o modelo de negócio principal da Thoughtworks?",
+      "options": [
+        "Venda de produtos físicos",
+        "Prestação de serviços de consultoria em tecnologia",
+        "Criação de jogos digitais",
+        "Gestão de fundos de investimento"
+      ],
+      "correctAnswer": "Prestação de serviços de consultoria em tecnologia",
+      "explanation": "A Thoughtworks oferece consultoria tecnológica, desenvolvimento de software sob medida e transformação digital para clientes globais."
+    }
+  ]
+}

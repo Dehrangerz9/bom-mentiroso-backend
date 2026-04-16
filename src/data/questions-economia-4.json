@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "economia-4-1",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "Qual é o nome do índice que mede a desigualdade de renda de um país, variando de 0 (igualdade perfeita) a 1 (desigualdade máxima)?",
+      "options": [
+        "Índice de Desenvolvimento Humano",
+        "Coeficiente de Gini",
+        "Índice de Liberdade Econômica",
+        "Índice de Theil"
+      ],
+      "correctAnswer": "Coeficiente de Gini",
+      "explanation": "O Coeficiente de Gini foi desenvolvido pelo estatístico italiano Corrado Gini em 1912 e é o indicador de desigualdade mais utilizado no mundo."
+    },
+    {
+      "id": "economia-4-2",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "O que é 'política fiscal expansionista'?",
+      "options": [
+        "Redução de gastos públicos para controlar a dívida",
+        "Aumento de gastos públicos ou redução de impostos para estimular a economia",
+        "Elevação de juros para conter a inflação",
+        "Valorização da moeda nacional para reduzir importações"
+      ],
+      "correctAnswer": "Aumento de gastos públicos ou redução de impostos para estimular a economia",
+      "explanation": "Política fiscal expansionista, baseada no keynesianismo, usa o gasto público para estimular demanda agregada em períodos recessivos, aumentando emprego e crescimento econômico."
+    },
+    {
+      "id": "economia-4-3",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "O que são 'derivativos' no mercado financeiro?",
+      "options": [
+        "Ações de empresas derivadas de outras maiores",
+        "Instrumentos financeiros cujo valor deriva de um ativo subjacente",
+        "Lucros distribuídos aos acionistas como dividendos",
+        "Títulos públicos emitidos pelo governo federal"
+      ],
+      "correctAnswer": "Instrumentos financeiros cujo valor deriva de um ativo subjacente",
+      "explanation": "Derivativos (futuros, opções, swaps) têm valor baseado em ativos como ações, commodities ou moedas. São usados para hedge (proteção) ou especulação, e podem amplificar riscos."
+    },
+    {
+      "id": "economia-4-4",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "Qual é o conceito de 'custo de oportunidade' em economia?",
+      "options": [
+        "O custo adicional de produzir mais uma unidade de um bem",
+        "O valor da melhor alternativa sacrificada ao fazer uma escolha",
+        "Os gastos fixos de uma empresa independente da produção",
+        "O preço de mercado de um recurso escasso"
+      ],
+      "correctAnswer": "O valor da melhor alternativa sacrificada ao fazer uma escolha",
+      "explanation": "Custo de oportunidade é fundamental em economia: ao escolher A, o custo é o valor de B (a melhor alternativa não escolhida). Toda escolha tem um custo de oportunidade."
+    },
+    {
+      "id": "economia-4-5",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "O que foi o 'Consenso de Washington' dos anos 1990?",
+      "options": [
+        "Acordo comercial entre EUA e países latinos",
+        "Conjunto de medidas neoliberais recomendadas ao países em desenvolvimento",
+        "Tratado de livre comércio entre as Américas",
+        "Acordo multilateral de redução de dívidas externas"
+      ],
+      "correctAnswer": "Conjunto de medidas neoliberais recomendadas ao países em desenvolvimento",
+      "explanation": "O Consenso de Washington (1989) propôs privatizações, abertura comercial, equilíbrio fiscal e desregulamentação para países em desenvolvimento. Suas políticas geraram debates sobre crescimento e desigualdade."
+    },
+    {
+      "id": "economia-4-6",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "Qual é o nome do economista que popularizou a teoria da 'destruição criativa' no capitalismo?",
+      "options": [
+        "John Maynard Keynes",
+        "Friedrich Hayek",
+        "Joseph Schumpeter",
+        "Milton Friedman"
+      ],
+      "correctAnswer": "Joseph Schumpeter",
+      "explanation": "Joseph Schumpeter descreveu a 'destruição criativa': novos produtos e empresas destroem os velhos em ciclos contínuos, sendo o motor do capitalismo. Conceito relevante para tecnologia e inovação."
+    },
+    {
+      "id": "economia-4-7",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "O que é o 'mercado oligopolista'?",
+      "options": [
+        "Mercado com um único vendedor dominante",
+        "Mercado dominado por poucos grandes vendedores",
+        "Mercado com muitos compradores e vendedores pequenos",
+        "Mercado de produtos agrícolas sem diferenciação"
+      ],
+      "correctAnswer": "Mercado dominado por poucos grandes vendedores",
+      "explanation": "Em oligopólios, poucos grandes players dominam o mercado (ex.: processadores: Intel/AMD; aço: Arcelor/Gerdau). Há interdependência estratégica: a decisão de um afeta os outros."
+    },
+    {
+      "id": "economia-4-8",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "O que é 'quantitative easing' (afrouxamento quantitativo)?",
+      "options": [
+        "Redução de impostos para estimular consumo",
+        "Compra de ativos financeiros pelo banco central para injetar liquidez",
+        "Aumento da taxa de juros para controlar inflação",
+        "Emissão de moeda pelo tesouro nacional para pagar dívidas"
+      ],
+      "correctAnswer": "Compra de ativos financeiros pelo banco central para injetar liquidez",
+      "explanation": "QE é usado quando a taxa de juros já está próxima de zero. O banco central compra títulos no mercado secundário, aumentando a oferta monetária e estimulando crédito e investimento."
+    },
+    {
+      "id": "economia-4-9",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "O que é o 'efeito multiplicador' fiscal em macroeconomia?",
+      "options": [
+        "A amplificação de choques financeiros pelo sistema bancário",
+        "O aumento do PIB proporcionalmente maior que o gasto público inicial",
+        "O efeito de taxa de juros elevadas sobre o investimento privado",
+        "A multiplicação de impostos com o crescimento econômico"
+      ],
+      "correctAnswer": "O aumento do PIB proporcionalmente maior que o gasto público inicial",
+      "explanation": "O multiplicador keynesiano: R$1 de gasto governamental gera mais de R$1 de PIB, pois quem recebe gasta parte, gerando renda para outros. O tamanho do multiplicador depende da propensão a consumir."
+    },
+    {
+      "id": "economia-4-10",
+      "category": "economia",
+      "difficulty": 4,
+      "question": "Qual índice mede a variação de preços pagos pelos produtores, antes de chegar ao consumidor final?",
+      "options": [
+        "IPCA",
+        "IGP-M",
+        "IPC",
+        "IPP (Índice de Preços ao Produtor)"
+      ],
+      "correctAnswer": "IPP (Índice de Preços ao Produtor)",
+      "explanation": "O IPP mede os preços no 'portão da fábrica', antes da distribuição. É um indicador antecedente da inflação ao consumidor, pois aumentos no produtor tendem a se repassar aos preços finais."
+    }
+  ]
+}

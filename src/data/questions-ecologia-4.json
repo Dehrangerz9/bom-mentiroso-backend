@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "ecologia-4-1",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "O que é a 'Pegada de Carbono'?",
+      "options": [
+        "Marcas deixadas por combustíveis fósseis no solo",
+        "A medida total de gases de efeito estufa gerados por atividades humanas",
+        "O rastro de CO₂ em rochas sedimentares",
+        "A quantidade de carbono absorvida por florestas"
+      ],
+      "correctAnswer": "A medida total de gases de efeito estufa gerados por atividades humanas",
+      "explanation": "A pegada de carbono é expressa em toneladas equivalentes de CO₂ e inclui emissões diretas e indiretas de indivíduos, organizações ou produtos."
+    },
+    {
+      "id": "ecologia-4-2",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "O que é a 'biomagnificação' de substâncias tóxicas?",
+      "options": [
+        "Aumento da toxicidade de substâncias com o tempo",
+        "Concentração crescente de toxinas ao longo da cadeia alimentar",
+        "Amplificação do efeito estufa por poluentes industriais",
+        "Multiplicação de bactérias patogênicas em ambientes contaminados"
+      ],
+      "correctAnswer": "Concentração crescente de toxinas ao longo da cadeia alimentar",
+      "explanation": "Na biomagnificação, substâncias como DDT e mercúrio se concentram progressivamente nos predadores. O atum predador tem muito mais mercúrio que o plâncton na base da cadeia."
+    },
+    {
+      "id": "ecologia-4-3",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "Qual é o nome do acordo climático de 2015 que substituiu o Protocolo de Quioto?",
+      "options": [
+        "Protocolo de Montreal",
+        "Agenda 2030",
+        "Acordo de Paris",
+        "Convenção de Viena"
+      ],
+      "correctAnswer": "Acordo de Paris",
+      "explanation": "O Acordo de Paris (COP21, 2015) comprometeu 196 países a limitar o aquecimento global a 1,5-2°C acima dos níveis pré-industriais através de contribuições nacionais (NDCs)."
+    },
+    {
+      "id": "ecologia-4-4",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "O que são 'serviços ecossistêmicos'?",
+      "options": [
+        "Empresas que gerenciam parques nacionais",
+        "Benefícios que os ecossistemas naturais fornecem às sociedades humanas",
+        "Programas governamentais de proteção ambiental",
+        "Redes de monitoramento ambiental por satélite"
+      ],
+      "correctAnswer": "Benefícios que os ecossistemas naturais fornecem às sociedades humanas",
+      "explanation": "Serviços ecossistêmicos incluem provisão (alimentos, água), regulação (clima, cheias), culturais (lazer, estética) e suporte (formação de solo, ciclos nutrientes). Têm valor econômico estimado em trilhões."
+    },
+    {
+      "id": "ecologia-4-5",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "O que é o 'efeito albedo' na Terra?",
+      "options": [
+        "Absorção de calor pelo solo escuro das cidades",
+        "A reflexão da radiação solar de volta para o espaço por superfícies claras",
+        "O efeito de amplificação do calor pelas nuvens",
+        "A penetração da radiação UV pela camada de ozônio"
+      ],
+      "correctAnswer": "A reflexão da radiação solar de volta para o espaço por superfícies claras",
+      "explanation": "Albedo é a fração de luz solar refletida por uma superfície. Gelo e neve têm alto albedo (~0,8-0,9); oceanos têm baixo albedo (~0,06). O derretimento do gelo reduz o albedo, amplificando o aquecimento."
+    },
+    {
+      "id": "ecologia-4-6",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "Qual é o principal motor biológico que mantém a diversidade genética nas populações?",
+      "options": [
+        "Deriva genética apenas",
+        "Seleção natural, mutação e recombinação genética",
+        "Hibridização entre espécies diferentes",
+        "Adaptação epigenética ao ambiente"
+      ],
+      "correctAnswer": "Seleção natural, mutação e recombinação genética",
+      "explanation": "A diversidade genética é mantida por mutações (novas variantes), recombinação na meiose (novas combinações) e seleção natural (eliminação ou favorecimento de variantes). Deriva genética reduz diversidade."
+    },
+    {
+      "id": "ecologia-4-7",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "O que é 'carbono azul' no contexto de conservação costeira?",
+      "options": [
+        "CO₂ dissolvido nos oceanos profundos",
+        "Carbono armazenado em ecossistemas costeiros como manguezais e pradarias marinhas",
+        "O carbono emitido por combustíveis fósseis nas frotas marítimas",
+        "Gases de efeito estufa emitidos por recifes de coral em branqueamento"
+      ],
+      "correctAnswer": "Carbono armazenado em ecossistemas costeiros como manguezais e pradarias marinhas",
+      "explanation": "Carbono azul é o carbono capturado e armazenado por ecossistemas costeiros. Manguezais, marismas e pradarias de posidônia sequestram carbono até 5x mais eficientemente que florestas tropicais."
+    },
+    {
+      "id": "ecologia-4-8",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "O que é 'desertificação'?",
+      "options": [
+        "A criação de desertos artificiais para energia solar",
+        "A degradação de terras áridas e semiáridas em áreas semelhantes a desertos",
+        "O avanço do nível do mar sobre terras costeiras",
+        "O fenômeno de extinção de espécies em zonas áridas"
+      ],
+      "correctAnswer": "A degradação de terras áridas e semiáridas em áreas semelhantes a desertos",
+      "explanation": "Desertificação afeta 40% das terras emersas do planeta. Causas: desmatamento, superexploração agrícola e mudanças climáticas. O nordeste brasileiro é uma das áreas mais vulneráveis da América do Sul."
+    },
+    {
+      "id": "ecologia-4-9",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "O que é 'bioacumulação' de poluentes nos organismos?",
+      "options": [
+        "A capacidade dos organismos de produzir toxinas naturalmente",
+        "O acúmulo progressivo de substâncias tóxicas nos tecidos de um organismo",
+        "A decomposição de poluentes por micro-organismos no solo",
+        "A reciclagem natural de resíduos por ecossistemas aquáticos"
+      ],
+      "correctAnswer": "O acúmulo progressivo de substâncias tóxicas nos tecidos de um organismo",
+      "explanation": "Bioacumulação ocorre quando organismos absorvem toxinas mais rápido do que as eliminam. Ao longo da vida, substâncias como PCBs e pesticidas se concentram nos tecidos adiposos."
+    },
+    {
+      "id": "ecologia-4-10",
+      "category": "ecologia",
+      "difficulty": 4,
+      "question": "Qual é o nome do processo natural que recicla a água entre oceanos, atmosfera e continentes?",
+      "options": [
+        "Ciclo biogeoquímico",
+        "Ciclo hidrológico",
+        "Ciclo do carbono",
+        "Ciclo tectônico"
+      ],
+      "correctAnswer": "Ciclo hidrológico",
+      "explanation": "O ciclo hidrológico (ciclo da água) envolve evaporação, transpiração, condensação, precipitação e escoamento. É essencial para distribuição de água doce no planeta e regulação climática."
+    }
+  ]
+}

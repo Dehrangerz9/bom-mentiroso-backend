@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "astronomia-5-1",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "Qual telescópio espacial, lançado em 1990, revolucionou a astronomia com imagens do cosmos em alta resolução?",
+      "options": [
+        "Spitzer",
+        "Chandra",
+        "Hubble",
+        "Kepler"
+      ],
+      "correctAnswer": "Hubble",
+      "explanation": "O Telescópio Espacial Hubble orbita a Terra a 547 km de altitude e produziu algumas das imagens mais icônicas do universo."
+    }
+  ]
+}

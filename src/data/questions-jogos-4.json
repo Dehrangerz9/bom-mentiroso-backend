@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "jogos-4-1",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "Qual série de RPG da Square Enix é conhecida pelo personagem Cloud Strife e um planeta chamado Gaia?",
+      "options": [
+        "Dragon Quest",
+        "Kingdom Hearts",
+        "Final Fantasy VII",
+        "Chrono Trigger"
+      ],
+      "correctAnswer": "Final Fantasy VII",
+      "explanation": "Final Fantasy VII (1997) é um dos jogos mais influentes da história, com Cloud Strife combatendo a Shinra e Sephiroth."
+    },
+    {
+      "id": "jogos-4-2",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "Qual jogo de cartas colecionáveis lançado em 1993 popularizou o gênero 'trading card game'?",
+      "options": [
+        "Yu-Gi-Oh!",
+        "Pokémon TCG",
+        "Magic: The Gathering",
+        "Hearthstone"
+      ],
+      "correctAnswer": "Magic: The Gathering",
+      "explanation": "Magic: The Gathering, criado por Richard Garfield e lançado pela Wizards of the Coast em 1993, foi o primeiro TCG de sucesso e ainda conta com milhões de jogadores ativos."
+    },
+    {
+      "id": "jogos-4-3",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "Em qual jogo o jogador controla um personagem que coleta anéis e enfrenta o Doutor Eggman?",
+      "options": [
+        "Crash Bandicoot",
+        "Mega Man",
+        "Sonic the Hedgehog",
+        "Rayman"
+      ],
+      "correctAnswer": "Sonic the Hedgehog",
+      "explanation": "Sonic the Hedgehog foi criado pela Sega em 1991 como mascote para competir com o Mario da Nintendo. O ouriço azul veloz tornou-se um dos personagens mais reconhecidos dos videogames."
+    },
+    {
+      "id": "jogos-4-4",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "Quantas peças (tetrominós) diferentes existem no jogo Tetris?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "7",
+      "explanation": "O Tetris, criado por Alexey Pajitnov em 1984, usa 7 tetrominós (peças de 4 quadrados): I, O, T, S, Z, J e L. É considerado um dos mais influentes jogos da história."
+    },
+    {
+      "id": "jogos-4-5",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "Qual é o nome do jogo de tabuleiro em que jogadores compram e vendem propriedades para arruinar os adversários?",
+      "options": [
+        "War",
+        "Xadrez",
+        "Banco Imobiliário (Monopoly)",
+        "Catan"
+      ],
+      "correctAnswer": "Banco Imobiliário (Monopoly)",
+      "explanation": "Banco Imobiliário (Monopoly no exterior) foi criado em 1935 e é um dos jogos de tabuleiro mais vendidos de todos os tempos, com versões temáticas para centenas de cidades e franquias."
+    },
+    {
+      "id": "jogos-4-6",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "Qual jogo eletrônico de mundo aberto da Rockstar Games simula o crime organizado em uma cidade fictícia?",
+      "options": [
+        "Red Dead Redemption",
+        "Watch Dogs",
+        "Grand Theft Auto (GTA)",
+        "Saints Row"
+      ],
+      "correctAnswer": "Grand Theft Auto (GTA)",
+      "explanation": "A série GTA, especialmente GTA V (2013), é um dos jogos mais vendidos da história. GTA V já vendeu mais de 185 milhões de cópias com o GTA Online ainda ativo em 2024."
+    },
+    {
+      "id": "jogos-4-7",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "O que é 'roguelite' como gênero de jogo eletrônico?",
+      "options": [
+        "Jogos de RPG com narrativa linear e sem morte permanente",
+        "Jogos inspirados em Rogue com geração procedural e reinício ao morrer",
+        "Jogos de plataforma com elementos de exploração e upgrades",
+        "Estratégia em tempo real com construção de base"
+      ],
+      "correctAnswer": "Jogos inspirados em Rogue com geração procedural e reinício ao morrer",
+      "explanation": "Roguelites são inspirados no jogo Rogue (1980), com mapas gerados proceduralmente e permadeath (morte permanente). Exemplos populares: Hades, Dead Cells, The Binding of Isaac."
+    },
+    {
+      "id": "jogos-4-8",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "Qual jogo online de MOBA (Multiplayer Online Battle Arena) é o mais jogado do mundo?",
+      "options": [
+        "Dota 2",
+        "League of Legends",
+        "Smite",
+        "Heroes of the Storm"
+      ],
+      "correctAnswer": "League of Legends",
+      "explanation": "League of Legends (Riot Games, 2009) é o MOBA mais popular, com estimados 150 milhões de contas registradas. Seu campeonato mundial (Worlds) atrai dezenas de milhões de espectadores."
+    },
+    {
+      "id": "jogos-4-9",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "Em xadrez, o que é 'roque' (castling)?",
+      "options": [
+        "Capturar o rei do oponente em xeque-mate",
+        "Movimento especial em que o rei se move dois quadros e a torre pula para o outro lado",
+        "Trocar uma peça por outra de maior valor",
+        "Movimento do cavalo em L pelo tabuleiro"
+      ],
+      "correctAnswer": "Movimento especial em que o rei se move dois quadros e a torre pula para o outro lado",
+      "explanation": "O roque é o único movimento em que duas peças se movem simultaneamente. Serve para proteger o rei atrás dos peões e desenvolver a torre para o centro."
+    },
+    {
+      "id": "jogos-4-10",
+      "category": "jogos",
+      "difficulty": 4,
+      "question": "Qual jogo de RPG japonês apresenta o personagem Cloud Strife e a organização Shinra?",
+      "options": [
+        "Dragon Quest",
+        "Chrono Trigger",
+        "Final Fantasy VII",
+        "Persona 5"
+      ],
+      "correctAnswer": "Final Fantasy VII",
+      "explanation": "Final Fantasy VII (1997, Square) é considerado um dos jogos de RPG mais influentes da história, apresentando Cloud, Aerith, Sephiroth e o vilão Shinra numa narrativa de ficção científica."
+    }
+  ]
+}

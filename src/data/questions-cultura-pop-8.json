@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-8-1",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual animação japonesa de 1988, dirigida por Katsuhiro Otomo, é considerada marco do anime cyberpunk e influenciou Matrix e outros filmes?",
+      "options": [
+        "Ghost in the Shell",
+        "Akira",
+        "Neon Genesis Evangelion",
+        "Nausicaä"
+      ],
+      "correctAnswer": "Akira",
+      "explanation": "'Akira' (1988) revolucionou a animação mundial com sua produção detalhada e temas futuristas sombrios."
+    },
+    {
+      "id": "cultura-pop-8-2",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual álbum duplo dos Beatles, lançado em 1968, é conhecido como 'The White Album' por sua capa completamente branca?",
+      "options": [
+        "Revolver",
+        "Sgt. Pepper's Lonely Hearts Club Band",
+        "The Beatles",
+        "Abbey Road"
+      ],
+      "correctAnswer": "The Beatles",
+      "explanation": "O álbum branco (oficialmente 'The Beatles', 1968) tem 30 faixas que mostram os membros experimentando estilos diversos; a capa minimalista foi criada por Richard Hamilton."
+    },
+    {
+      "id": "cultura-pop-8-3",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual cineasta americano dirigiu 'Mulholland Drive' (2001), 'Blue Velvet' (1986) e 'Eraserhead' (1977), criando um estilo surrealista único?",
+      "options": [
+        "John Waters",
+        "Jim Jarmusch",
+        "David Lynch",
+        "Terrence Malick"
+      ],
+      "correctAnswer": "David Lynch",
+      "explanation": "David Lynch é conhecido por seu estilo onírico e perturbador; 'Mulholland Drive' foi eleito o melhor filme do século XXI pela BBC em uma votação com 177 críticos."
+    },
+    {
+      "id": "cultura-pop-8-4",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual artista de performance austríaca ficou famosa por rituais extremos que investigam os limites do corpo, como a série 'Aktionen' nos anos 1960-70?",
+      "options": [
+        "Yoko Ono",
+        "VALIE EXPORT",
+        "Hannah Wilke",
+        "Carolee Schneemann"
+      ],
+      "correctAnswer": "VALIE EXPORT",
+      "explanation": "VALIE EXPORT (Waltraud Lehner) criou performances radicais como 'Tapp und Tastkino' (1968), questionando o olhar masculino sobre o corpo feminino no espaço público."
+    },
+    {
+      "id": "cultura-pop-8-5",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual designer gráfico americano criou o pôster icônico 'Hope' usando a imagem de Barack Obama durante a campanha presidencial de 2008?",
+      "options": [
+        "Milton Glaser",
+        "Stefan Sagmeister",
+        "Shepard Fairey",
+        "Paul Rand"
+      ],
+      "correctAnswer": "Shepard Fairey",
+      "explanation": "Shepard Fairey criou o pôster 'Hope' baseado em uma foto da AP; a obra tornou-se símbolo da campanha de Obama e gerou controvérsia sobre direitos autorais."
+    },
+    {
+      "id": "cultura-pop-8-6",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual mangá e anime japonês de 1999, criado por Yoshihiro Togashi, retrata um garoto que descobre ser filho de um famoso caçador de animais místicos?",
+      "options": [
+        "Fullmetal Alchemist",
+        "Hunter x Hunter",
+        "Yu Yu Hakusho",
+        "Dragon Ball Z"
+      ],
+      "correctAnswer": "Hunter x Hunter",
+      "explanation": "'Hunter x Hunter' de Yoshihiro Togashi começou em 1998 na Shonen Jump; é reconhecido pela complexidade narrativa e pelo sistema de poderes 'Nen' considerado um dos mais elaborados do anime."
+    },
+    {
+      "id": "cultura-pop-8-7",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual escritora americana publicou 'Os Contos da Aia' (1985), romance distópico sobre uma teocracia patriarcal que foi adaptado em série pela Hulu?",
+      "options": [
+        "Ursula K. Le Guin",
+        "Octavia Butler",
+        "Margaret Atwood",
+        "Doris Lessing"
+      ],
+      "correctAnswer": "Margaret Atwood",
+      "explanation": "'Os Contos da Aia' de Margaret Atwood ganhou relevância renovada com a série do Hulu (2017-); a roupa vermelha das aias tornou-se símbolo de protestos pelos direitos das mulheres."
+    },
+    {
+      "id": "cultura-pop-8-8",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual artista de graffiti brasileiro, formado pelos irmãos Otávio e Gustavo Pandolfo (Os Gêmeos), são conhecidos por seus personagens amarelos gigantes e por murais em todo o mundo?",
+      "options": [
+        "Speto",
+        "Nunca",
+        "Os Gêmeos",
+        "Herbert Baglione"
+      ],
+      "correctAnswer": "Os Gêmeos",
+      "explanation": "Os Gêmeos (Otávio e Gustavo Pandolfo) nasceram em São Paulo em 1974; seus personagens de pele amarela e estética onírica aparecem em cidades como Nova York, Londres e Amsterdam."
+    },
+    {
+      "id": "cultura-pop-8-9",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual videogame de terror psicológico da Konami de 1999 para PlayStation, dirigido por Keiichiro Toyama, se passa em uma cidade nebulosa cheia de criaturas?",
+      "options": [
+        "Resident Evil",
+        "Silent Hill",
+        "Parasite Eve",
+        "Fatal Frame"
+      ],
+      "correctAnswer": "Silent Hill",
+      "explanation": "'Silent Hill' (1999) é considerado um dos maiores jogos de terror de todos os tempos; a névoa foi usada por limitações técnicas do hardware, mas tornou-se elemento narrativo icônico."
+    },
+    {
+      "id": "cultura-pop-8-10",
+      "category": "cultura-pop",
+      "difficulty": 8,
+      "question": "Qual diretora americana de cinema de horror lançou 'Get Out' (2017), alegoria sobre racismo nos EUA que ganhou o Oscar de Melhor Roteiro Original?",
+      "options": [
+        "Ari Aster",
+        "Robert Eggers",
+        "Jordan Peele",
+        "James Wan"
+      ],
+      "correctAnswer": "Jordan Peele",
+      "explanation": "Jordan Peele ganhou o Oscar de Melhor Roteiro Original por 'Get Out' (2017), primeiro negro a ganhar o prêmio nessa categoria; o filme arrecadou 255 milhões com orçamento de 4,5 milhões."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "artes-2-1",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Em qual museu de Amsterdam está exposta a maioria das obras de Vincent van Gogh?",
+      "options": [
+        "Rijksmuseum",
+        "Stedelijk Museum",
+        "Van Gogh Museum",
+        "Hermitage Amsterdam"
+      ],
+      "correctAnswer": "Van Gogh Museum",
+      "explanation": "O Van Gogh Museum, fundado em 1973, abriga a maior coleção de obras do artista, incluindo 'Os Girassóis' e 'O Quarto em Arles'."
+    },
+    {
+      "id": "artes-2-2",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Qual artista norueguês pintou 'O Grito' em 1893?",
+      "options": [
+        "Gustav Klimt",
+        "Egon Schiele",
+        "Wassily Kandinsky",
+        "Edvard Munch"
+      ],
+      "correctAnswer": "Edvard Munch",
+      "explanation": "'O Grito' (1893) de Edvard Munch é uma das pinturas mais famosas e reproduzidas do mundo, símbolo da angústia existencial moderna."
+    },
+    {
+      "id": "artes-2-3",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Qual artista mexicana ficou famosa por autorretratos e é associada ao Surrealismo e à política de esquerda?",
+      "options": [
+        "Remedios Varo",
+        "María Izquierdo",
+        "Leonora Carrington",
+        "Frida Kahlo"
+      ],
+      "correctAnswer": "Frida Kahlo",
+      "explanation": "Frida Kahlo (1907-1954) pintou mais de 50 autorretratos explorando dor, identidade e cultura mexicana, tornando-se ícone feminista global."
+    },
+    {
+      "id": "artes-2-4",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Qual é o estilo arquitetônico medieval europeu caracterizado por arcos ogivais, vitrais coloridos e torres pontiagudas?",
+      "options": [
+        "Românico",
+        "Barroco",
+        "Renascentista",
+        "Gótico"
+      ],
+      "correctAnswer": "Gótico",
+      "explanation": "O estilo gótico surgiu na França no século XII e é exemplificado pela Catedral de Notre-Dame de Paris e pela Catedral de Colônia."
+    },
+    {
+      "id": "artes-2-5",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Em qual museu espanhol está exposta a obra 'Guernica' de Pablo Picasso?",
+      "options": [
+        "Museu do Prado",
+        "Museu Thyssen",
+        "Museu Guggenheim Bilbao",
+        "Museu Reina Sofía"
+      ],
+      "correctAnswer": "Museu Reina Sofía",
+      "explanation": "'Guernica' (1937) está exposta permanentemente no Museu Nacional Centro de Arte Reina Sofía, em Madri, desde 1992."
+    },
+    {
+      "id": "artes-2-6",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Qual movimento artístico brasileiro dos anos 1920 buscou romper com o academicismo europeu e valorizar a identidade nacional?",
+      "options": [
+        "Concretismo",
+        "Tropicalismo",
+        "Modernismo",
+        "Neorrealismo"
+      ],
+      "correctAnswer": "Modernismo",
+      "explanation": "O Modernismo brasileiro foi lançado pela Semana de Arte Moderna de 1922 em São Paulo, com figuras como Tarsila do Amaral, Oswald e Mário de Andrade."
+    },
+    {
+      "id": "artes-2-7",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Qual é a técnica de pintura na qual pigmentos são aplicados diretamente sobre gesso fresco, tornando-se parte da parede?",
+      "options": [
+        "Têmpera",
+        "Gouache",
+        "Encáustica",
+        "Afresco"
+      ],
+      "correctAnswer": "Afresco",
+      "explanation": "O afresco (do italiano 'a fresco', sobre fresco) é uma técnica em que tintas à base d'água são aplicadas sobre reboco úmido, como na Capela Sistina de Michelangelo."
+    },
+    {
+      "id": "artes-2-8",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Qual artista da Pop Art americana ficou famoso por serigrafias de latas de sopa Campbell e retratos de Marilyn Monroe?",
+      "options": [
+        "Roy Lichtenstein",
+        "Jasper Johns",
+        "Robert Rauschenberg",
+        "Andy Warhol"
+      ],
+      "correctAnswer": "Andy Warhol",
+      "explanation": "Andy Warhol (1928-1987) transformou objetos do cotidiano em ícones artísticos, questionando os limites entre arte elevada e cultura de massa."
+    },
+    {
+      "id": "artes-2-9",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Qual é o nome do maior museu de arte da América Latina, localizado em São Paulo?",
+      "options": [
+        "Pinacoteca do Estado",
+        "MAM",
+        "MAC",
+        "MASP"
+      ],
+      "correctAnswer": "MASP",
+      "explanation": "O MASP (Museu de Arte de São Paulo Assis Chateaubriand) é o maior museu de arte do hemisfério sul e abriga obras de Rembrandt, Raphael e El Greco."
+    },
+    {
+      "id": "artes-2-10",
+      "category": "artes",
+      "difficulty": 2,
+      "question": "Qual compositor alemão escreveu a Quinta Sinfonia, iniciada com quatro notas icônicas (ta-ta-ta-taaa)?",
+      "options": [
+        "Johann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Franz Schubert",
+        "Ludwig van Beethoven"
+      ],
+      "correctAnswer": "Ludwig van Beethoven",
+      "explanation": "A Quinta Sinfonia de Beethoven (1808) tem um dos inícios mais reconhecíveis da história da música clássica, com seu motivo rítmico de quatro notas."
+    }
+  ]
+}

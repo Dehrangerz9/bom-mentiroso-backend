@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "historia-geral-6-1",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Qual imperatriz romana foi a mãe de Constantino I e contribuiu para a difusão do Cristianismo no império?",
+      "options": [
+        "Lívia",
+        "Agripina",
+        "Helena",
+        "Teodora"
+      ],
+      "correctAnswer": "Helena",
+      "explanation": "Santa Helena, mãe de Constantino I, empreendeu peregrinação à Terra Santa e é creditada pela descoberta de relíquias cristãs."
+    }
+  ]
+}

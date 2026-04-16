@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "geografia-4-1",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Por qual país passa o maior trecho do Rio Amazonas?",
+      "options": [
+        "Peru",
+        "Colômbia",
+        "Brasil",
+        "Venezuela"
+      ],
+      "correctAnswer": "Brasil",
+      "explanation": "Embora o Amazonas nasça nos Andes peruanos, cerca de 60% de seu curso fica em território brasileiro."
+    },
+    {
+      "id": "geografia-4-2",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Qual é a cidade mais populosa do mundo?",
+      "options": [
+        "Mumbai",
+        "Tóquio",
+        "Xangai",
+        "Cidade do México"
+      ],
+      "correctAnswer": "Tóquio",
+      "explanation": "Tóquio é a maior área metropolitana do mundo com cerca de 37 milhões de habitantes na Grande Tóquio. A cidade em si tem cerca de 14 milhões de moradores."
+    },
+    {
+      "id": "geografia-4-3",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Qual é o nome do oceano que banha a costa leste do Brasil?",
+      "options": [
+        "Oceano Pacífico",
+        "Oceano Índico",
+        "Oceano Atlântico",
+        "Mar do Caribe"
+      ],
+      "correctAnswer": "Oceano Atlântico",
+      "explanation": "O Brasil tem uma costa de aproximadamente 7.491 km banhada pelo Oceano Atlântico, do Amapá ao Rio Grande do Sul."
+    },
+    {
+      "id": "geografia-4-4",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Em qual país ficam as Cataratas do Iguaçu, uma das maiores do mundo?",
+      "options": [
+        "Apenas no Brasil",
+        "Apenas na Argentina",
+        "Na fronteira entre Brasil e Argentina",
+        "Na fronteira entre Brasil, Argentina e Paraguai"
+      ],
+      "correctAnswer": "Na fronteira entre Brasil e Argentina",
+      "explanation": "As Cataratas do Iguaçu estão na fronteira entre Brasil e Argentina, no Parque Nacional do Iguaçu. O lado argentino tem mais quedas; o lado brasileiro oferece vista panorâmica."
+    },
+    {
+      "id": "geografia-4-5",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Qual país da América do Sul não tem saída para o mar?",
+      "options": [
+        "Paraguai",
+        "Bolívia",
+        "Ambos: Paraguai e Bolívia",
+        "Equador"
+      ],
+      "correctAnswer": "Ambos: Paraguai e Bolívia",
+      "explanation": "Paraguai e Bolívia são os dois únicos países da América do Sul sem litoral. A Bolívia perdeu seu acesso ao mar para o Chile na Guerra do Pacífico (1879-1884)."
+    },
+    {
+      "id": "geografia-4-6",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Qual é o nome do maior lago da América do Sul, localizado entre Peru e Bolívia?",
+      "options": [
+        "Lago Maracaibo",
+        "Lago Titicaca",
+        "Lago Poopó",
+        "Lago Buenos Aires"
+      ],
+      "correctAnswer": "Lago Titicaca",
+      "explanation": "O Lago Titicaca é o maior lago da América do Sul (8.372 km²) e o lago navegável mais alto do mundo, a 3.812 metros de altitude, na fronteira Peru-Bolívia."
+    },
+    {
+      "id": "geografia-4-7",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Qual é a capital da Nova Zelândia?",
+      "options": [
+        "Auckland",
+        "Christchurch",
+        "Wellington",
+        "Hamilton"
+      ],
+      "correctAnswer": "Wellington",
+      "explanation": "Wellington é a capital da Nova Zelândia desde 1865. Embora Auckland seja a maior cidade, Wellington foi escolhida como capital por sua posição central no país."
+    },
+    {
+      "id": "geografia-4-8",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Qual país possui a maior extensão de costa marítima do mundo?",
+      "options": [
+        "Rússia",
+        "Noruega",
+        "Canadá",
+        "Austrália"
+      ],
+      "correctAnswer": "Canadá",
+      "explanation": "O Canadá tem a maior extensão de costa marítima do mundo, com cerca de 202.080 km incluindo ilhas continentais, bordejando três oceanos: Atlântico, Pacífico e Ártico."
+    },
+    {
+      "id": "geografia-4-9",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Em qual continente está localizada a Antártida?",
+      "options": [
+        "É um continente por si só",
+        "Oceania",
+        "América do Sul",
+        "Ártico"
+      ],
+      "correctAnswer": "É um continente por si só",
+      "explanation": "A Antártida é o 5º maior continente, com cerca de 14 milhões de km². Não tem população permanente e é governada pelo Tratado Antártico (1959) como área de pesquisa científica."
+    },
+    {
+      "id": "geografia-4-10",
+      "category": "geografia",
+      "difficulty": 4,
+      "question": "Qual é o nome do vulcão ativo mais alto do mundo, localizado nos Andes equatorianos?",
+      "options": [
+        "Aconcágua",
+        "Chimborazo",
+        "Cotopaxi",
+        "Cotacachi"
+      ],
+      "correctAnswer": "Cotopaxi",
+      "explanation": "O Cotopaxi (5.897 m) no Equador é considerado um dos vulcões ativos mais altos do mundo, com sua última grande erupção em 2015."
+    }
+  ]
+}

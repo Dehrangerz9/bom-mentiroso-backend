@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "ciencia-natureza-6-1",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "Qual é o nome do processo pelo qual uma célula engolfa partículas grandes como bactérias?",
+      "options": [
+        "Pinocitose",
+        "Exocitose",
+        "Fagocitose",
+        "Osmose"
+      ],
+      "correctAnswer": "Fagocitose",
+      "explanation": "Fagocitose é o processo pelo qual células (como macrófagos) englobam partículas sólidas. 'Pinocitose' é para líquidos."
+    }
+  ]
+}

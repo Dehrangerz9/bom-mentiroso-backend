@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "historia-geral-3-1",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Quem foi a primeira mulher a ganhar o Prêmio Nobel?",
+      "options": [
+        "Rosalind Franklin",
+        "Marie Curie",
+        "Lise Meitner",
+        "Dorothy Hodgkin"
+      ],
+      "correctAnswer": "Marie Curie",
+      "explanation": "Marie Curie ganhou o Nobel de Física em 1903 e o Nobel de Química em 1911, sendo a única pessoa a vencer em duas áreas diferentes."
+    },
+    {
+      "id": "historia-geral-3-2",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Em que ano terminou a Segunda Guerra Mundial?",
+      "options": [
+        "1943",
+        "1944",
+        "1945",
+        "1946"
+      ],
+      "correctAnswer": "1945",
+      "explanation": "A Segunda Guerra Mundial terminou em 1945: a Alemanha se rendeu em maio (V-E Day) e o Japão em setembro após as bombas atômicas em Hiroshima e Nagasaki."
+    },
+    {
+      "id": "historia-geral-3-3",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Qual civilização antiga construiu as pirâmides de Gizé?",
+      "options": [
+        "Mesopotâmia",
+        "Grécia Antiga",
+        "Egito Antigo",
+        "Império Romano"
+      ],
+      "correctAnswer": "Egito Antigo",
+      "explanation": "As pirâmides de Gizé foram construídas pelos egípcios há cerca de 4.500 anos como túmulos para os faraós Quéops, Quéfren e Miquerinos."
+    },
+    {
+      "id": "historia-geral-3-4",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Quem foi o primeiro presidente dos Estados Unidos?",
+      "options": [
+        "Thomas Jefferson",
+        "Benjamin Franklin",
+        "George Washington",
+        "John Adams"
+      ],
+      "correctAnswer": "George Washington",
+      "explanation": "George Washington foi eleito o primeiro presidente dos EUA em 1789 e governou por dois mandatos até 1797, estabelecendo muitas tradições presidenciais."
+    },
+    {
+      "id": "historia-geral-3-5",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Qual evento histórico de 1789 marcou o início da Revolução Francesa?",
+      "options": [
+        "Execução de Luís XVI",
+        "Queda da Bastilha",
+        "Declaração dos Direitos do Homem",
+        "Fuga da família real"
+      ],
+      "correctAnswer": "Queda da Bastilha",
+      "explanation": "A tomada da Bastilha em 14 de julho de 1789 simbolizou a revolta popular contra o Antigo Regime. O 14 de julho é feriado nacional na França até hoje."
+    },
+    {
+      "id": "historia-geral-3-6",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Qual imperador romano adotou o Cristianismo como religião oficial do Império?",
+      "options": [
+        "Júlio César",
+        "Augusto",
+        "Constantino",
+        "Nero"
+      ],
+      "correctAnswer": "Constantino",
+      "explanation": "Constantino, o Grande, converteu-se ao Cristianismo e emitiu o Edito de Milão (313 d.C.), tornando o Cristianismo uma religião tolerada no Império Romano."
+    },
+    {
+      "id": "historia-geral-3-7",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Em que ano o Brasil proclamou sua independência de Portugal?",
+      "options": [
+        "1808",
+        "1815",
+        "1822",
+        "1889"
+      ],
+      "correctAnswer": "1822",
+      "explanation": "Dom Pedro I proclamou a independência do Brasil em 7 de setembro de 1822, às margens do Rio Ipiranga, em São Paulo."
+    },
+    {
+      "id": "historia-geral-3-8",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Qual foi a maior pandemia da história moderna, ocorrida entre 1918 e 1919?",
+      "options": [
+        "Cólera",
+        "Gripe Espanhola",
+        "Varíola",
+        "Peste Bubônica"
+      ],
+      "correctAnswer": "Gripe Espanhola",
+      "explanation": "A Gripe Espanhola de 1918-1919 infectou cerca de 500 milhões de pessoas e matou entre 50 e 100 milhões, sendo uma das maiores catástrofes sanitárias da história."
+    },
+    {
+      "id": "historia-geral-3-9",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Qual foi o nome da operação que planejou o desembarque dos Aliados na Normandia em 1944?",
+      "options": [
+        "Operação Market Garden",
+        "Operação Barbarossa",
+        "Operação Overlord",
+        "Operação Dynamo"
+      ],
+      "correctAnswer": "Operação Overlord",
+      "explanation": "A Operação Overlord, executada em 6 de junho de 1944 (Dia D), foi o maior desembarque anfíbio da história e marcou a virada definitiva da Segunda Guerra na Europa."
+    },
+    {
+      "id": "historia-geral-3-10",
+      "category": "historia-geral",
+      "difficulty": 3,
+      "question": "Qual tratado encerrou a Primeira Guerra Mundial em 1919?",
+      "options": [
+        "Tratado de Versalhes",
+        "Tratado de Westfália",
+        "Tratado de Maastricht",
+        "Armistício de Compiègne"
+      ],
+      "correctAnswer": "Tratado de Versalhes",
+      "explanation": "O Tratado de Versalhes impôs pesadas reparações à Alemanha, criando ressentimento que contribuiu para a ascensão do nazismo e a Segunda Guerra Mundial."
+    }
+  ]
+}

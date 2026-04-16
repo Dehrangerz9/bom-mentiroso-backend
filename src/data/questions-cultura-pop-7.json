@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "cultura-pop-7-1",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual artista visual é conhecido pela instalação 'The Physical Impossibility of Death in the Mind of Someone Living', que consiste em um tubarão-tigre dentro de um aquário de formol?",
+      "options": [
+        "Banksy",
+        "Jeff Koons",
+        "Damien Hirst",
+        "Tracey Emin"
+      ],
+      "correctAnswer": "Damien Hirst",
+      "explanation": "Damien Hirst criou essa obra em 1991, tornando-se um dos artistas vivos mais caros do mundo."
+    },
+    {
+      "id": "cultura-pop-7-2",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual álbum do Radiohead, lançado em 1997, é considerado um marco do rock alternativo por combinar eletrônica, jazz e orquestra com letras sobre alienação?",
+      "options": [
+        "OK Computer",
+        "The Bends",
+        "Kid A",
+        "Amnesiac"
+      ],
+      "correctAnswer": "OK Computer",
+      "explanation": "'OK Computer' (1997) é frequentemente eleito o melhor álbum da história por diversas publicações; temas como tecnologia, globalização e paranoia ressoam cada vez mais."
+    },
+    {
+      "id": "cultura-pop-7-3",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual escritor americano criou o personagem Jay Gatsby no romance 'O Grande Gatsby' (1925), símbolo do sonho americano e do vazio da era do jazz?",
+      "options": [
+        "Ernest Hemingway",
+        "F. Scott Fitzgerald",
+        "William Faulkner",
+        "John Dos Passos"
+      ],
+      "correctAnswer": "F. Scott Fitzgerald",
+      "explanation": "F. Scott Fitzgerald publicou 'O Grande Gatsby' em 1925; o romance foi redescoberto após a Segunda Guerra e é hoje considerado o grande romance americano."
+    },
+    {
+      "id": "cultura-pop-7-4",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual performance art de Marina Abramović em 2010 no MoMA consistiu em ela sentar em silêncio diante de visitantes por 736 horas ao longo de 3 meses?",
+      "options": [
+        "Rhythm 0",
+        "The Artist is Present",
+        "Imponderabilia",
+        "Seven Easy Pieces"
+      ],
+      "correctAnswer": "The Artist is Present",
+      "explanation": "'The Artist is Present' no MoMA (2010) reuniu 1.545 visitantes que sentaram frente a frente com Abramović; muitos choraram durante o encontro silencioso."
+    },
+    {
+      "id": "cultura-pop-7-5",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual rapper nova-iorquino, cofundador do Wu-Tang Clan, é considerado um dos mais influentes do hip-hop underground com o álbum 'Liquid Swords' (1995)?",
+      "options": [
+        "Raekwon",
+        "Method Man",
+        "GZA",
+        "RZA"
+      ],
+      "correctAnswer": "GZA",
+      "explanation": "GZA (Gary Grice) lançou 'Liquid Swords' em 1995; o álbum é celebrado pelas letras densas e poéticas e pelo uso de samples do cinema de kung fu."
+    },
+    {
+      "id": "cultura-pop-7-6",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual diretora americana criou 'Lost in Translation' (2003) e 'The Virgin Suicides' (1999), ganhando o Oscar de Melhor Roteiro Original em 2004?",
+      "options": [
+        "Kathryn Bigelow",
+        "Greta Gerwig",
+        "Sofia Coppola",
+        "Lynne Ramsay"
+      ],
+      "correctAnswer": "Sofia Coppola",
+      "explanation": "Sofia Coppola ganhou o Oscar de Melhor Roteiro Original por 'Lost in Translation'; filha de Francis Ford Coppola, ela é conhecida pelo estilo melancólico e visual contemplativo."
+    },
+    {
+      "id": "cultura-pop-7-7",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual músico jamaicano popularizou o reggae mundialmente nos anos 1970 com álbuns como 'Catch a Fire' e 'Exodus', e a filosofia rastafári?",
+      "options": [
+        "Peter Tosh",
+        "Jimmy Cliff",
+        "Burning Spear",
+        "Bob Marley"
+      ],
+      "correctAnswer": "Bob Marley",
+      "explanation": "Bob Marley (1945-1981) tornou o reggae global; 'Exodus' foi eleito pela revista Time o 'Álbum do Século XX'; 'No Woman, No Cry' e 'One Love' são hinos universais."
+    },
+    {
+      "id": "cultura-pop-7-8",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual artista brasileiro de hip-hop, fundador do grupo Racionais MC's, é considerado o mais importante do rap nacional com o álbum 'Sobrevivendo no Inferno' (1997)?",
+      "options": [
+        "Emicida",
+        "Criolo",
+        "Mano Brown",
+        "Projota"
+      ],
+      "correctAnswer": "Mano Brown",
+      "explanation": "Mano Brown (Pedro Paulo Soares Pereira) liderou os Racionais MC's; 'Sobrevivendo no Inferno' (1997) vendeu mais de 1,5 milhão de cópias de forma independente."
+    },
+    {
+      "id": "cultura-pop-7-9",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual série de televisão americana dos anos 1990, criada por David Lynch e Mark Frost, misturava mistério policial com surreal e ficou famosa pela frase 'Who killed Laura Palmer?'?",
+      "options": [
+        "The X-Files",
+        "Northern Exposure",
+        "Twin Peaks",
+        "Picket Fences"
+      ],
+      "correctAnswer": "Twin Peaks",
+      "explanation": "'Twin Peaks' (1990-1991) de David Lynch redefiniu o drama televisivo americano; seu estilo onírico e não-linear antecipou o 'cinema de qualidade' que dominaria a TV nos anos 2000."
+    },
+    {
+      "id": "cultura-pop-7-10",
+      "category": "cultura-pop",
+      "difficulty": 7,
+      "question": "Qual artista britânica de street art criou murais pela cidade de Bristol e ficou conhecida pela crítica política usando humor e stencil?",
+      "options": [
+        "Shepard Fairey",
+        "JR",
+        "Banksy",
+        "Os Gemeos"
+      ],
+      "correctAnswer": "Banksy",
+      "explanation": "Banksy é um artista anônimo de Bristol cuja identidade permanece desconhecida; obras como 'Girl with Balloon' e 'Flower Thrower' tornaram-se ícones da arte contemporânea."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "questions": [
+    {
+      "id": "thoughtworks-8-1",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "Qual conceito de arquitetura de microsserviços foi popularizado por um artigo de Martin Fowler e James Lewis na Thoughtworks?",
+      "options": [
+        "Serverless",
+        "Microservices",
+        "Service Mesh",
+        "Event-Driven Architecture"
+      ],
+      "correctAnswer": "Microservices",
+      "explanation": "O artigo 'Microservices' de Fowler e Lewis (2014) definiu e popularizou o termo e a abordagem arquitetural."
+    }
+  ]
+}

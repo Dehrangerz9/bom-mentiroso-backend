@@ -1,0 +1,144 @@
+{
+  "questions": [
+    {
+      "id": "ciencia-natureza-1-1",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "Qual é o elemento mais abundante no universo?",
+      "options": [
+        "Oxigênio",
+        "Hélio",
+        "Carbono",
+        "Hidrogênio"
+      ],
+      "correctAnswer": "Hidrogênio",
+      "explanation": "O hidrogênio representa cerca de 75% da massa bariônica do universo."
+    },
+    {
+      "id": "ciencia-natureza-1-2",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "Qual é o maior animal do mundo?",
+      "options": [
+        "Elefante africano",
+        "Tubarão-baleia",
+        "Baleia-azul",
+        "Girafa"
+      ],
+      "correctAnswer": "Baleia-azul",
+      "explanation": "A baleia-azul pode atingir até 30 metros de comprimento e 180 toneladas, sendo o maior animal que já existiu na Terra."
+    },
+    {
+      "id": "ciencia-natureza-1-3",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "Qual órgão do corpo humano é responsável por bombear o sangue?",
+      "options": [
+        "Pulmão",
+        "Rim",
+        "Fígado",
+        "Coração"
+      ],
+      "correctAnswer": "Coração",
+      "explanation": "O coração é o músculo responsável por circular o sangue por todo o corpo, batendo cerca de 100.000 vezes por dia."
+    },
+    {
+      "id": "ciencia-natureza-1-4",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "O que é H₂O?",
+      "options": [
+        "Sal",
+        "Açúcar",
+        "Água",
+        "Álcool"
+      ],
+      "correctAnswer": "Água",
+      "explanation": "H₂O é a fórmula química da água, composta por dois átomos de hidrogênio e um de oxigênio."
+    },
+    {
+      "id": "ciencia-natureza-1-5",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "Qual é o animal terrestre mais rápido do mundo?",
+      "options": [
+        "Leão",
+        "Cavalo",
+        "Guepardo",
+        "Avestruz"
+      ],
+      "correctAnswer": "Guepardo",
+      "explanation": "O guepardo pode atingir até 120 km/h em corridas curtas, sendo o animal terrestre mais rápido do planeta."
+    },
+    {
+      "id": "ciencia-natureza-1-6",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "Quantos ossos tem o corpo humano adulto?",
+      "options": [
+        "186",
+        "196",
+        "206",
+        "216"
+      ],
+      "correctAnswer": "206",
+      "explanation": "O esqueleto humano adulto é composto por 206 ossos; bebês nascem com cerca de 270 ossos, que se fundem com o crescimento."
+    },
+    {
+      "id": "ciencia-natureza-1-7",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "Qual força mantém os planetas em órbita ao redor do Sol?",
+      "options": [
+        "Força magnética",
+        "Força elétrica",
+        "Gravidade",
+        "Força nuclear"
+      ],
+      "correctAnswer": "Gravidade",
+      "explanation": "A gravidade é a força de atração entre corpos com massa, responsável por manter os planetas em órbita ao redor do Sol."
+    },
+    {
+      "id": "ciencia-natureza-1-8",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "Quantos lados tem um hexágono?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "6",
+      "explanation": "Um hexágono é um polígono com seis lados e seis ângulos. As colmeias das abelhas são compostas por hexágonos."
+    },
+    {
+      "id": "ciencia-natureza-1-9",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "Em qual estado físico se encontra a água ao atingir 100°C ao nível do mar?",
+      "options": [
+        "Sólido",
+        "Líquido",
+        "Gasoso",
+        "Plasma"
+      ],
+      "correctAnswer": "Gasoso",
+      "explanation": "A água entra em ebulição a 100°C ao nível do mar, passando do estado líquido para o gasoso (vapor d'água)."
+    },
+    {
+      "id": "ciencia-natureza-1-10",
+      "category": "ciencia-natureza",
+      "difficulty": 1,
+      "question": "Qual planeta vizinho da Terra tem temperatura média de 462°C por seu efeito estufa extremo?",
+      "options": [
+        "Marte",
+        "Mercúrio",
+        "Vênus",
+        "Júpiter"
+      ],
+      "correctAnswer": "Vênus",
+      "explanation": "Vênus é o planeta mais quente do Sistema Solar por seu efeito estufa extremo, apesar de não ser o mais próximo do Sol."
+    }
+  ]
+}
