@@ -7,12 +7,138 @@
       "question": "Qual acordo secreto de 1916, entre Reino Unido e França, dividiu o Oriente Médio em zonas de influência após a queda do Império Otomano?",
       "options": [
         "Declaração Balfour",
-        "Acordo Sykes-Picot",
         "Tratado de Sèvres",
-        "Pacto de San Remo"
+        "Pacto de San Remo",
+        "Acordo Sykes-Picot"
       ],
       "correctAnswer": "Acordo Sykes-Picot",
-      "explanation": "O Acordo Sykes-Picot definiu fronteiras artificiais no Oriente Médio que ainda hoje são fonte de conflitos regionais."
+      "explanation": "O Acordo Sykes-Picot (1916) definiu fronteiras artificiais no Oriente Médio que ainda hoje são fonte de conflitos regionais, ignorando divisões étnicas e tribais. Criou os protótipos do que viriam a ser Síria, Líbano, Iraque e Palestina."
+    },
+    {
+      "id": "historia-geral-9-2",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual foi o nome da política de Hitler de unificação de todos os povos de língua alemã num único Reich, que justificou a anexação da Áustria em 1938?",
+      "options": [
+        "Lebensraum",
+        "Völkisch",
+        "Anschluss",
+        "Drang nach Osten"
+      ],
+      "correctAnswer": "Anschluss",
+      "explanation": "O Anschluss ('conexão/união') foi a incorporação da Áustria à Alemanha nazista em março de 1938. Apesar de ser proibido pelo Tratado de Versalhes, encontrou pouca resistência internacional. Representou o primeiro passo territorial da expansão hitleriana."
+    },
+    {
+      "id": "historia-geral-9-3",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual foi a principal consequência geopolítica da Crise dos Mísseis de Cuba em 1962?",
+      "options": [
+        "Invasão americana de Cuba",
+        "Retirada soviética de Cuba",
+        "Criação da OTAN",
+        "Linha direta EUA-URSS"
+      ],
+      "correctAnswer": "Linha direta EUA-URSS",
+      "explanation": "A Crise dos Mísseis (1962), que quase resultou em guerra nuclear, levou à criação do 'telefone vermelho' (linha direta Washington-Moscou) em 1963, para comunicação direta entre líderes em situações de crise. A URSS retirou os mísseis, mas os EUA retiraram os seus da Turquia secretamente."
+    },
+    {
+      "id": "historia-geral-9-4",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual foi o nome do tratado de 1648 que encerrou a Guerra dos Trinta Anos e estabeleceu o princípio de soberania nacional moderna?",
+      "options": [
+        "Tratado de Vestfália",
+        "Tratado de Utrecht",
+        "Paz de Augsburgo",
+        "Tratado de Münster"
+      ],
+      "correctAnswer": "Tratado de Vestfália",
+      "explanation": "O Tratado de Vestfália (1648) encerrou a Guerra dos Trinta Anos e a Guerra dos Oitenta Anos. Estabeleceu o princípio de soberania estatal e não-interferência em assuntos internos — bases do sistema internacional moderno. É considerado o nascimento da ordem westfaliana."
+    },
+    {
+      "id": "historia-geral-9-5",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual foi o nome da conferência de 1945 em que Churchill, Roosevelt e Stalin definiram a ordem mundial do pós-guerra?",
+      "options": [
+        "Conferência de Teerã",
+        "Conferência de Potsdam",
+        "Conferência de Casablanca",
+        "Conferência de Yalta"
+      ],
+      "correctAnswer": "Conferência de Yalta",
+      "explanation": "A Conferência de Yalta (fevereiro de 1945) reuniu Churchill, Roosevelt e Stalin para planejar a reorganização da Europa pós-guerra, incluindo zonas de ocupação na Alemanha e as primeiras eleições no Leste Europeu. Roosevelt morreu dois meses depois."
+    },
+    {
+      "id": "historia-geral-9-6",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual imperador mongol criou o maior império contíguo da história no século XIII?",
+      "options": [
+        "Tamerlão",
+        "Kublai Khan",
+        "Ögedei Khan",
+        "Genghis Khan"
+      ],
+      "correctAnswer": "Genghis Khan",
+      "explanation": "Temüjin (Genghis Khan) unificou as tribos mongóis em 1206 e conquistou territórios do Pacífico ao Danúbio. Sob seu domínio e de seus sucessores, o Império Mongol chegou a 24 milhões de km². Estima-se que suas guerras mataram 40 milhões de pessoas."
+    },
+    {
+      "id": "historia-geral-9-7",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual foi o nome do processo histórico pelo qual as nações africanas e asiáticas recuperaram sua independência após a Segunda Guerra Mundial?",
+      "options": [
+        "Pan-africanismo",
+        "Movimento Não Alinhado",
+        "Descolonização",
+        "Terceiro-mundismo"
+      ],
+      "correctAnswer": "Descolonização",
+      "explanation": "A descolonização (1945-1975) resultou na independência de dezenas de países da Ásia e África. Acelerada pela exaustão europeia após a WWII, pelos movimentos nacionalistas locais e pela pressão das superpotências (EUA e URSS) contra o colonialismo europeu."
+    },
+    {
+      "id": "historia-geral-9-8",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual foi a principal inovação militar da Primeira Guerra Mundial que tornou os campos de batalha letais em escala industrial?",
+      "options": [
+        "Cavalaria pesada",
+        "Canhões de longo alcance",
+        "Combate aéreo",
+        "Guerra de trincheiras"
+      ],
+      "correctAnswer": "Guerra de trincheiras",
+      "explanation": "A guerra de trincheiras na Frente Ocidental criou um impasse de quatro anos (1914-1918). Armas defensivas como metralhadoras, arame farpado e artilharia tornavam ataques frontais massacres. A Batalha do Somme (1916) matou 57.000 britânicos no primeiro dia."
+    },
+    {
+      "id": "historia-geral-9-9",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual foi o nome do projeto secreto americano que desenvolveu a bomba atômica durante a Segunda Guerra Mundial?",
+      "options": [
+        "Projeto Apollo",
+        "Projeto Overlord",
+        "Projeto Enigma",
+        "Projeto Manhattan"
+      ],
+      "correctAnswer": "Projeto Manhattan",
+      "explanation": "O Projeto Manhattan (1942-1946), liderado pelo General Groves e pelo físico J. Robert Oppenheimer, reuniu mais de 130.000 pessoas e custou 2 bilhões de dólares. O primeiro teste nuclear (Trinity) ocorreu em julho de 1945 no Novo México."
+    },
+    {
+      "id": "historia-geral-9-10",
+      "category": "historia-geral",
+      "difficulty": 9,
+      "question": "Qual filósofo e economista alemão do século XIX escreveu O Capital e o Manifesto Comunista, moldando os movimentos operários mundiais?",
+      "options": [
+        "Friedrich Engels",
+        "Max Weber",
+        "Friedrich Hegel",
+        "Karl Marx"
+      ],
+      "correctAnswer": "Karl Marx",
+      "explanation": "Karl Marx (1818-1883), em parceria com Friedrich Engels, desenvolveu o materialismo histórico e a crítica ao capitalismo. 'O Capital' (1867) e o 'Manifesto Comunista' (1848) inspiraram revoluções do século XX, incluindo a Revolução Russa de 1917."
     }
   ]
 }

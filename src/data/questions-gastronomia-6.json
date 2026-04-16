@@ -4,15 +4,141 @@
       "id": "gastronomia-6-1",
       "category": "gastronomia",
       "difficulty": 6,
-      "question": "Qual fermento natural, composto de farinha e água fermentada, é base de pães como o sourdough?",
+      "question": "Qual fermento natural composto de farinha e água fermentada com leveduras selvagens é a base do pão sourdough?",
       "options": [
         "Levedura seca",
         "Poolish",
-        "Levain (massa madre)",
-        "Biga"
+        "Biga",
+        "Levain"
       ],
-      "correctAnswer": "Levain (massa madre)",
-      "explanation": "O levain, ou massa madre, é uma cultura de fermentação natural com leveduras selvagens e bactérias lácticas, que confere sabor complexo ao pão."
+      "correctAnswer": "Levain",
+      "explanation": "O levain (ou massa madre) é uma cultura de fermentação natural com leveduras selvagens e bactérias lácticas, conferindo sabor complexo, acidez equilibrada e maior durabilidade ao pão."
+    },
+    {
+      "id": "gastronomia-6-2",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "Como se chama a técnica de dourar o alimento e depois cozinhá-lo em pouco líquido com a panela tampada em fogo baixo?",
+      "options": [
+        "Saltear",
+        "Grelhar",
+        "Brasear",
+        "Fritar"
+      ],
+      "correctAnswer": "Brasear",
+      "explanation": "Brasear consiste em dourar o alimento primeiro (reação de Maillard) e depois cozinhá-lo em pouco líquido com a panela tampada em fogo baixo. Ideal para cortes de carne mais duros."
+    },
+    {
+      "id": "gastronomia-6-3",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "Qual queijo italiano de leite de búfala com DOP é produzido principalmente na Campânia?",
+      "options": [
+        "Burrata",
+        "Stracciatella",
+        "Fior di latte",
+        "Mozzarella di bufala"
+      ],
+      "correctAnswer": "Mozzarella di bufala",
+      "explanation": "A Mozzarella di Bufala Campana DOP é produzida exclusivamente com leite de búfala em regiões específicas do sul da Itália. Tem textura elástica, sabor levemente ácido e maior teor de gordura que a fior di latte."
+    },
+    {
+      "id": "gastronomia-6-4",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "O que diferencia chocolate amargo, ao leite e branco quanto à composição principal?",
+      "options": [
+        "Manteiga de cacau",
+        "Processo de torrefação",
+        "Origem do cacau",
+        "Massa de cacau"
+      ],
+      "correctAnswer": "Massa de cacau",
+      "explanation": "Chocolate amargo tem alto teor de massa de cacau (50-99%). Ao leite tem leite em pó e menos cacau. Branco não tem massa de cacau — apenas manteiga de cacau, açúcar e leite."
+    },
+    {
+      "id": "gastronomia-6-5",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "Qual é o corte de carne bovina mais icônico do churrasco brasileiro, retirado da parte traseira superior do boi com capa de gordura?",
+      "options": [
+        "Fraldinha",
+        "Maminha",
+        "Alcatra",
+        "Picanha"
+      ],
+      "correctAnswer": "Picanha",
+      "explanation": "A picanha é retirada da parte traseira superior do boi (músculo bíceps femoral) com capa de gordura característica. É o corte mais icônico do churrasco brasileiro e ganhou reconhecimento internacional."
+    },
+    {
+      "id": "gastronomia-6-6",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "Qual é o quinto sabor básico do paladar humano, além de doce, salgado, azedo e amargo?",
+      "options": [
+        "Gorduroso",
+        "Metálico",
+        "Picante",
+        "Umami"
+      ],
+      "correctAnswer": "Umami",
+      "explanation": "Umami (em japonês: 'delicioso') foi descrito pelo cientista Kikunae Ikeda em 1908 ao isolar o glutamato do kombu. É o sabor de alimentos ricos em glutamato, como cogumelos, parmesão e tomates maduros."
+    },
+    {
+      "id": "gastronomia-6-7",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "Qual prato espanhol de arroz com açafrão e frutos do mar é originário de Valência?",
+      "options": [
+        "Risoto",
+        "Fideuà",
+        "Arroz caldoso",
+        "Paella"
+      ],
+      "correctAnswer": "Paella",
+      "explanation": "A paella valenciana é o prato original, feita com frango, coelho e feijão. O segredo é o socarrat — a crosta crocante de arroz no fundo da paellera. Versões de frutos do mar são variações populares."
+    },
+    {
+      "id": "gastronomia-6-8",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "Como se chama a técnica italiana de finalizar a massa dentro do molho com água do cozimento para criar emulsão cremosa?",
+      "options": [
+        "Gratinar",
+        "Saltear",
+        "Reduzir",
+        "Mantecare"
+      ],
+      "correctAnswer": "Mantecare",
+      "explanation": "Mantecare é a técnica de finalizar massa (ou risoto) dentro do molho com água do cozimento rica em amido, criando uma emulsão cremosa e uniforme que faz o molho aderir perfeitamente à massa."
+    },
+    {
+      "id": "gastronomia-6-9",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "Qual destilado mexicano com Denominação de Origem é produzido exclusivamente com agave azul Weber na região de Jalisco?",
+      "options": [
+        "Mezcal",
+        "Pulque",
+        "Sotol",
+        "Tequila"
+      ],
+      "correctAnswer": "Tequila",
+      "explanation": "A tequila tem Denominação de Origem Controlada e só pode ser produzida com agave azul em cinco estados mexicanos, sendo Jalisco o principal. O mezcal é feito de outros tipos de agave e assado em fornos de terra."
+    },
+    {
+      "id": "gastronomia-6-10",
+      "category": "gastronomia",
+      "difficulty": 6,
+      "question": "Qual movimento culinário francês dos anos 1960-70, liderado por Bocuse, valorizou leveza e apresentação artística contra a haute cuisine clássica?",
+      "options": [
+        "Cuisine bourgeoise",
+        "Cuisine du terroir",
+        "Cuisine de marché",
+        "Nouvelle cuisine"
+      ],
+      "correctAnswer": "Nouvelle cuisine",
+      "explanation": "A nouvelle cuisine reduziu molhos pesados baseados em roux, valorizou ingredientes frescos sazonais e elevou a apresentação estética dos pratos. Foi liderada por chefs como Paul Bocuse e os irmãos Troisgros."
     }
   ]
 }

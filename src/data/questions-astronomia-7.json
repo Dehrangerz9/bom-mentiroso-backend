@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Energia escura",
       "explanation": "A energia escura corresponde a cerca de 68% do conteúdo energético do universo e é responsável pela expansão acelerada observada desde 1998."
+    },
+    {
+      "id": "astronomia-7-2",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "O que é a 'Radiação de Hawking'?",
+      "options": [
+        "Radiação emitida por pulsares em alta rotação",
+        "Emissão térmica teórica de buracos negros devido a efeitos quânticos no horizonte de eventos",
+        "Ondas de rádio detectadas de quasares distantes",
+        "Radiação gama liberada na colisão de estrelas de nêutrons"
+      ],
+      "correctAnswer": "Emissão térmica teórica de buracos negros devido a efeitos quânticos no horizonte de eventos",
+      "explanation": "Proposta por Stephen Hawking em 1974, essa radiação surge de flutuações quânticas no horizonte de eventos. Implica que buracos negros perdem massa lentamente e eventualmente evaporam — ainda não observada experimentalmente."
+    },
+    {
+      "id": "astronomia-7-3",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "Qual é o nome do limite de massa para anãs brancas acima do qual elas não podem existir em equilíbrio estável?",
+      "options": [
+        "Limite de Schwarzschild",
+        "Limite de Tolman-Oppenheimer-Volkoff",
+        "Limite de Chandrasekhar",
+        "Limite de Eddington"
+      ],
+      "correctAnswer": "Limite de Chandrasekhar",
+      "explanation": "Calculado por Subrahmanyan Chandrasekhar em 1930, o limite é ~1,4 massas solares. Acima disso, a pressão de degenerescência dos elétrons não sustenta a estrela, levando a uma supernova Tipo Ia ou colapso em estrela de nêutrons."
+    },
+    {
+      "id": "astronomia-7-4",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "O que são ondas gravitacionais?",
+      "options": [
+        "Flutuações no campo gravitacional causadas pela rotação da Terra",
+        "Perturbações na curvatura do espaço-tempo geradas por massas aceleradas",
+        "Ondas eletromagnéticas amplificadas pela gravidade de buracos negros",
+        "Oscilações de matéria escura detectadas por interferômetros"
+      ],
+      "correctAnswer": "Perturbações na curvatura do espaço-tempo geradas por massas aceleradas",
+      "explanation": "Previstas por Einstein em 1916, as ondas gravitacionais foram detectadas pela primeira vez pelo LIGO em 2015 (anunciado em 2016), originadas da fusão de dois buracos negros a 1,3 bilhão de anos-luz."
+    },
+    {
+      "id": "astronomia-7-5",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "Qual é a diferença entre paralaxe estelar e movimento próprio de uma estrela?",
+      "options": [
+        "Paralaxe é o movimento real da estrela; movimento próprio é o aparente devido à órbita da Terra",
+        "Paralaxe é o deslocamento aparente devido à órbita da Terra; movimento próprio é o deslocamento real da estrela no espaço",
+        "São termos sinônimos usados em diferentes contextos históricos",
+        "Paralaxe mede velocidade radial; movimento próprio mede a luminosidade"
+      ],
+      "correctAnswer": "Paralaxe é o deslocamento aparente devido à órbita da Terra; movimento próprio é o deslocamento real da estrela no espaço",
+      "explanation": "A paralaxe explora a mudança de perspectiva ao longo do ano para medir distâncias estelares. O movimento próprio é o deslocamento angular real da estrela no céu devido ao seu movimento pelo espaço."
+    },
+    {
+      "id": "astronomia-7-6",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "Em qual tipo de objeto astronômico é possível encontrar a densidade de matéria mais alta, além dos buracos negros?",
+      "options": [
+        "Anã branca",
+        "Estrela de nêutrons",
+        "Gigante vermelha",
+        "Aglomerado globular"
+      ],
+      "correctAnswer": "Estrela de nêutrons",
+      "explanation": "Estrelas de nêutrons têm densidades de ~10¹⁷ kg/m³ — uma colher de chá de seu material pesaria ~1 bilhão de toneladas. São o objeto mais denso observável além de buracos negros (cuja singularidade é de densidade infinita)."
+    },
+    {
+      "id": "astronomia-7-7",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "O que é o 'problema do horizonte' que motivou a teoria da inflação cósmica?",
+      "options": [
+        "A dificuldade de observar galáxias além do horizonte de Hubble",
+        "A homogeneidade inexplicável da CMB em regiões que nunca tiveram contato causal",
+        "A impossibilidade de medir distâncias precisas além de 1 bilhão de anos-luz",
+        "A ausência de polos magnéticos isolados (monopolos) no universo observável"
+      ],
+      "correctAnswer": "A homogeneidade inexplicável da CMB em regiões que nunca tiveram contato causal",
+      "explanation": "A CMB é uniforme com precisão de 1 em 100.000 em todas as direções, mas regiões opostas do céu nunca tiveram tempo de trocar energia. A inflação resolve isso: o universo primitivo era minúsculo, homogêneo e se expandiu rapidamente."
+    },
+    {
+      "id": "astronomia-7-8",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "Qual é o nome do fenômeno em que dois buracos negros em órbita mútua emitem ondas gravitacionais e se aproximam progressivamente?",
+      "options": [
+        "Prececessão orbital relativística",
+        "Inspiral gravitacional",
+        "Efeito Lense-Thirring",
+        "Deriva geodésica"
+      ],
+      "correctAnswer": "Inspiral gravitacional",
+      "explanation": "No inspiral gravitacional, a emissão de ondas gravitacionais remove energia e momento angular do sistema binário, fazendo os objetos se aproximar em espiral até finalmente se fundir — evento que o LIGO detectou pela primeira vez em 2015."
+    },
+    {
+      "id": "astronomia-7-9",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "Qual instrumento foi usado para detectar as primeiras ondas gravitacionais em 2015?",
+      "options": [
+        "Telescópio Espacial Hubble",
+        "Observatório LIGO",
+        "Radiotelescópio VLA",
+        "Observatório de Raios-X Chandra"
+      ],
+      "correctAnswer": "Observatório LIGO",
+      "explanation": "O LIGO (Laser Interferometer Gravitational-Wave Observatory) possui dois detectores nos EUA com braços de 4 km. Usa interferometria laser para detectar variações de comprimento menores que um milésimo do diâmetro de um próton."
+    },
+    {
+      "id": "astronomia-7-10",
+      "category": "astronomia",
+      "difficulty": 7,
+      "question": "O que é a 'sequência principal' no diagrama de Hertzsprung-Russell?",
+      "options": [
+        "A sequência cronológica das fases de vida de uma estrela massiva",
+        "A faixa diagonal onde a maioria das estrelas em fusão de hidrogênio se encontra",
+        "A lista ordenada de estrelas por distância ao Sol",
+        "A sequência de elementos gerados na nucleossíntese estelar"
+      ],
+      "correctAnswer": "A faixa diagonal onde a maioria das estrelas em fusão de hidrogênio se encontra",
+      "explanation": "A sequência principal é a região do diagrama H-R onde ~90% das estrelas observadas se encontram, incluindo o Sol. Estrelas nessa fase estão em equilíbrio hidrostático, fundindo hidrogênio em hélio no núcleo."
     }
   ]
 }

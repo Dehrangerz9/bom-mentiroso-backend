@@ -4,91 +4,91 @@
       "id": "economia-6-1",
       "category": "economia",
       "difficulty": 6,
-      "question": "Qual economista austríaco descreveu o processo de 'destruição criativa' como motor do capitalismo?",
-      "options": ["Friedrich Hayek", "Ludwig von Mises", "Joseph Schumpeter", "Karl Polanyi"],
-      "correctAnswer": "Joseph Schumpeter",
-      "explanation": "Em 'Capitalismo, Socialismo e Democracia' (1942), Schumpeter descreveu a destruição criativa como a essência do capitalismo: inovação que destrói o antigo para criar o novo."
+      "question": "Quem descreveu o processo de 'destruição criativa' como motor do capitalismo?",
+      "options": ["Schumpeter", "Keynes", "Hayek", "Marx"],
+      "correctAnswer": "Schumpeter",
+      "explanation": "Joseph Schumpeter descreveu a destruição criativa em 'Capitalismo, Socialismo e Democracia' (1942): inovação que destrói o antigo para criar o novo, essência do capitalismo."
     },
     {
       "id": "economia-6-2",
       "category": "economia",
       "difficulty": 6,
-      "question": "Como se chama a sensibilidade da quantidade demandada de um bem em relação à variação do seu preço?",
-      "options": ["Custo marginal", "Elasticidade-preço", "Efeito Giffen", "Demanda derivada"],
-      "correctAnswer": "Elasticidade-preço",
-      "explanation": "A elasticidade-preço da demanda mede o percentual de variação na quantidade demandada para cada 1% de variação no preço do bem."
+      "question": "Qual índice mede a desigualdade de renda de uma população?",
+      "options": ["Índice de Gini", "IDH", "PIB per capita", "Curva de Laffer"],
+      "correctAnswer": "Índice de Gini",
+      "explanation": "O Índice de Gini varia de 0 (igualdade perfeita) a 1 (desigualdade máxima). Foi desenvolvido pelo estatístico italiano Corrado Gini em 1912."
     },
     {
       "id": "economia-6-3",
       "category": "economia",
       "difficulty": 6,
-      "question": "Como se chama o custo adicional de produzir uma unidade a mais de um bem ou serviço?",
-      "options": ["Custo fixo", "Custo total", "Custo marginal", "Custo de oportunidade"],
-      "correctAnswer": "Custo marginal",
-      "explanation": "O custo marginal é fundamental para decisões de produção: empresas maximizam lucro produzindo até que o custo marginal iguale a receita marginal."
+      "question": "O que é o spread bancário?",
+      "options": ["Diferença de juros", "Taxa de câmbio", "Margem de lucro", "Custo operacional"],
+      "correctAnswer": "Diferença de juros",
+      "explanation": "O spread bancário é a diferença entre a taxa de juros cobrada nos empréstimos e a taxa paga nas captações, representando a margem bruta das instituições financeiras."
     },
     {
       "id": "economia-6-4",
       "category": "economia",
       "difficulty": 6,
-      "question": "Qual teoria defende que a oferta cria sua própria demanda, sem necessidade de intervenção estatal?",
-      "options": ["Keynesianismo", "Lei de Say", "Monetarismo", "Marxismo"],
-      "correctAnswer": "Lei de Say",
-      "explanation": "A Lei de Say (Jean-Baptiste Say, 1803) afirma que 'a oferta cria sua própria demanda'; toda produção gera renda suficiente para comprar o que foi produzido."
+      "question": "A balança comercial mede o quê?",
+      "options": ["Saldo do comércio", "Reservas cambiais", "Dívida pública", "Fluxo de capitais"],
+      "correctAnswer": "Saldo do comércio",
+      "explanation": "A balança comercial registra a diferença entre exportações e importações de um país. Quando as exportações superam as importações, há superávit comercial."
     },
     {
       "id": "economia-6-5",
       "category": "economia",
       "difficulty": 6,
-      "question": "Qual é o nome do modelo gráfico que mostra combinações possíveis de dois bens que maximizam o bem-estar de um consumidor com renda fixa?",
-      "options": ["Curva de Laffer", "Curva de Phillips", "Curva de indiferença", "Fronteira de Pareto"],
-      "correctAnswer": "Curva de indiferença",
-      "explanation": "A curva de indiferença representa combinações de dois bens que proporcionam a mesma utilidade ao consumidor; a otimização ocorre no ponto de tangência com a restrição orçamentária."
+      "question": "O que significa hedge em finanças?",
+      "options": ["Proteção contra risco", "Especulação financeira", "Arbitragem cambial", "Alavancagem financeira"],
+      "correctAnswer": "Proteção contra risco",
+      "explanation": "Hedge é uma estratégia de proteção para reduzir o risco de movimentos adversos nos preços de ativos, utilizando instrumentos financeiros como derivativos."
     },
     {
       "id": "economia-6-6",
       "category": "economia",
       "difficulty": 6,
-      "question": "Qual é o nome da relação inversa entre inflação e desemprego identificada por A.W. Phillips?",
-      "options": ["Curva de Laffer", "Curva de Phillips", "Curva de Lorenz", "Curva IS-LM"],
-      "correctAnswer": "Curva de Phillips",
-      "explanation": "A Curva de Phillips (1958) identificou empiricamente que inflação mais alta está associada a menor desemprego no curto prazo; no longo prazo essa relação se desfaz."
+      "question": "Quem escreveu a 'Teoria Geral do Emprego, Juro e Moeda'?",
+      "options": ["John M. Keynes", "Adam Smith", "Milton Friedman", "Karl Marx"],
+      "correctAnswer": "John M. Keynes",
+      "explanation": "John Maynard Keynes publicou a Teoria Geral em 1936, revolucionando a macroeconomia ao defender intervenção estatal para combater recessões e o desemprego."
     },
     {
       "id": "economia-6-7",
       "category": "economia",
       "difficulty": 6,
-      "question": "Qual é o nome do fenômeno em que um aumento de impostos gera menos receita porque desestimula a atividade econômica?",
-      "options": ["Efeito Pigou", "Efeito Laffer", "Efeito crowding-out", "Efeito riqueza"],
-      "correctAnswer": "Efeito Laffer",
-      "explanation": "A Curva de Laffer mostra que existe uma alíquota ótima de imposto; acima dela, a arrecadação cai porque a atividade econômica se reduz drasticamente."
+      "question": "O que é dumping no comércio internacional?",
+      "options": ["Venda predatória", "Preço subsidiado", "Exportação ilegal", "Importação restrita"],
+      "correctAnswer": "Venda predatória",
+      "explanation": "Dumping é a prática de vender produtos no exterior abaixo do custo de produção ou do preço praticado no mercado interno, visando eliminar concorrentes."
     },
     {
       "id": "economia-6-8",
       "category": "economia",
       "difficulty": 6,
-      "question": "Como se chama a situação em que gastos públicos excessivos elevam juros e reduzem o investimento privado?",
-      "options": ["Efeito multiplicador", "Crowding-out", "Armadilha de liquidez", "Risco moral"],
-      "correctAnswer": "Crowding-out",
-      "explanation": "O crowding-out (efeito de deslocamento) ocorre quando o governo toma crédito no mercado, elevando os juros e reduzindo o investimento privado."
+      "question": "O efeito 'crowding out' ocorre quando o governo faz o quê?",
+      "options": ["Desloca investimento", "Aumenta impostos", "Eleva inflação", "Reduz exportações"],
+      "correctAnswer": "Desloca investimento",
+      "explanation": "Crowding out ocorre quando o endividamento público eleva as taxas de juros, deslocando o investimento privado da economia."
     },
     {
       "id": "economia-6-9",
       "category": "economia",
       "difficulty": 6,
-      "question": "Qual é o nome do índice que mede o grau de concentração de renda em uma população, indo de 0 a 1?",
-      "options": ["Índice de Theil", "Coeficiente de Gini", "Índice HDI", "Índice de Palma"],
-      "correctAnswer": "Coeficiente de Gini",
-      "explanation": "O Coeficiente de Gini (Corrado Gini, 1912) mede a desigualdade de renda: 0 é igualdade perfeita e 1 é concentração máxima."
+      "question": "O que é risco moral (moral hazard)?",
+      "options": ["Comportamento descuidado", "Informação assimétrica", "Falha de mercado", "Risco sistemático"],
+      "correctAnswer": "Comportamento descuidado",
+      "explanation": "Risco moral ocorre quando um agente protegido das consequências de suas ações assume comportamentos mais arriscados do que assumiria se arcasse com os custos."
     },
     {
       "id": "economia-6-10",
       "category": "economia",
       "difficulty": 6,
-      "question": "Como se chama a teoria que atribui ao crescimento da oferta monetária a principal causa da inflação?",
-      "options": ["Keynesianismo", "Monetarismo", "Marxismo", "Institucionalismo"],
-      "correctAnswer": "Monetarismo",
-      "explanation": "O monetarismo, popularizado por Milton Friedman, defende que 'inflação é sempre e em todo lugar um fenômeno monetário'; controlar a oferta de moeda é a chave para a estabilidade de preços."
+      "question": "O que é o PIB per capita?",
+      "options": ["PIB por habitante", "PIB industrial", "PIB em dólar", "PIB crescimento"],
+      "correctAnswer": "PIB por habitante",
+      "explanation": "O PIB per capita é o PIB total dividido pelo número de habitantes, utilizado como proxy do padrão de vida médio da população de um país."
     }
   ]
 }

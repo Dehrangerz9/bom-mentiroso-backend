@@ -5,14 +5,90 @@
       "category": "esportes",
       "difficulty": 10,
       "question": "No judô, qual é o nome do princípio filosófico central desenvolvido por Jigoro Kano que significa 'melhor uso da energia' e norteia toda a prática da modalidade?",
-      "options": [
-        "Mushin",
-        "Seiryoku Zenyo",
-        "Zanshin",
-        "Kuzushi"
-      ],
+      "options": ["Mushin", "Seiryoku Zenyo", "Zanshin", "Kuzushi"],
       "correctAnswer": "Seiryoku Zenyo",
       "explanation": "'Seiryoku Zenyo' (精力善用) é um dos dois princípios fundamentais do judô criado por Kano, significando uso máximo e eficiente de energia física e mental."
+    },
+    {
+      "id": "esportes-10-2",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "No críquete, o que significa 'Duckworth-Lewis-Stern method'?",
+      "options": ["Método de pontuação", "Cálculo de alvo por chuva", "Regra de eliminação", "Sistema de ranking"],
+      "correctAnswer": "Cálculo de alvo por chuva",
+      "explanation": "O método Duckworth-Lewis-Stern é um sistema matemático para recalcular o alvo de uma equipe quando a chuva interrompe partidas de cricket com overs limitados."
+    },
+    {
+      "id": "esportes-10-3",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "Qual é o nome do movimento proibido no boxe chamado de 'golpe de coelho'?",
+      "options": ["Uppercut na nuca", "Soco na nuca", "Golpe nos rins", "Jab duplo"],
+      "correctAnswer": "Soco na nuca",
+      "explanation": "O 'rabbit punch' (golpe de coelho) é o soco desferido na nuca do oponente, extremamente perigoso e proibido em todas as modalidades de boxe."
+    },
+    {
+      "id": "esportes-10-4",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "No automobilismo, o que é 'undercut' em estratégia de box?",
+      "options": ["Ultrapassagem pela curva", "Parada mais cedo que rival", "Freio tardio", "Draft em reta"],
+      "correctAnswer": "Parada mais cedo que rival",
+      "explanation": "Undercut é quando um carro faz sua parada de box antes do rival, usando pneus frescos para criar uma volta mais rápida e sair à frente."
+    },
+    {
+      "id": "esportes-10-5",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "Qual é o recorde olímpico de salto em altura masculino?",
+      "options": ["2,35 m", "2,38 m", "2,39 m", "2,45 m"],
+      "correctAnswer": "2,39 m",
+      "explanation": "Charles Austin (EUA) saltou 2,39 m nos Jogos de Atlanta 1996, estabelecendo o recorde olímpico de salto em altura masculino."
+    },
+    {
+      "id": "esportes-10-6",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "No squash, qual é o nome da zona morta abaixo da linha de serviço?",
+      "options": ["Nick", "Tin", "Service box", "Half court"],
+      "correctAnswer": "Tin",
+      "explanation": "O 'tin' é a faixa metálica na base da parede frontal do squash; acertar abaixo dela resulta em perda do ponto."
+    },
+    {
+      "id": "esportes-10-7",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "No xadrez, quantos movimentos pode durar a partida mais longa teoricamente possível (regra dos 50 movimentos)?",
+      "options": ["5.898", "8.848", "11.798", "17.697"],
+      "correctAnswer": "11.798",
+      "explanation": "Matematicamente, aplicando a regra dos 50 movimentos e capturando peças estrategicamente, uma partida pode durar até 11.798 movimentos."
+    },
+    {
+      "id": "esportes-10-8",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "Qual técnica de natação usa a fórmula de onda ondulatória do corpo inteiro chamada 'dolphin kick'?",
+      "options": ["Crawl", "Costas", "Borboleta", "Peito"],
+      "correctAnswer": "Borboleta",
+      "explanation": "O nado borboleta usa o 'dolphin kick', onde o nadador ondula o corpo como um golfinho para propulsão eficiente."
+    },
+    {
+      "id": "esportes-10-9",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "No atletismo de pista, o que é 'staggering' nas provas de 200m e 400m?",
+      "options": ["Queda proposital", "Escalonamento de largada", "Treino de força", "Protocolo antidoping"],
+      "correctAnswer": "Escalonamento de largada",
+      "explanation": "Staggering é o escalonamento das largadas em raias externas para compensar a distância extra percorrida nas curvas da pista oval."
+    },
+    {
+      "id": "esportes-10-10",
+      "category": "esportes",
+      "difficulty": 10,
+      "question": "Na vela olímpica, o que é 'layline'?",
+      "options": ["Linha de chegada", "Ângulo ideal de bolina", "Tipo de nó", "Regra de cruzamento"],
+      "correctAnswer": "Ângulo ideal de bolina",
+      "explanation": "A layline é a linha imaginária que define o ângulo de navegação ideal para alcançar a boia em bolina sem fazer manobras adicionais."
     }
   ]
 }

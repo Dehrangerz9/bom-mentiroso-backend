@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Relatividade linguística (Sapir-Whorf)",
       "explanation": "A hipótese Sapir-Whorf (ou relatividade linguística) propõe que a língua molda o pensamento. A versão forte (determinismo) é rejeitada, mas a fraca tem suporte empírico."
+    },
+    {
+      "id": "linguas-8-2",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "O que é glotocronologia?",
+      "options": [
+        "O estudo da velocidade da fala",
+        "A técnica para estimar quando duas línguas se separaram de um ancestral comum com base em vocabulário básico",
+        "O estudo dos empréstimos linguísticos ao longo do tempo",
+        "A análise da evolução dos sistemas de escrita"
+      ],
+      "correctAnswer": "A técnica para estimar quando duas línguas se separaram de um ancestral comum com base em vocabulário básico",
+      "explanation": "A glotocronologia usa a taxa de substituição de vocabulário básico para calcular o tempo de divergência entre línguas. É controversa, mas foi pioneira na linguística histórica quantitativa."
+    },
+    {
+      "id": "linguas-8-3",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "Qual é o nome do princípio que afirma que o sinal linguístico é arbitrário, ou seja, não há relação natural entre som e significado?",
+      "options": [
+        "Principio da iconicidade",
+        "Arbitrariedade do signo linguístico",
+        "Princípio de composicionalidade",
+        "Lei de Zipf"
+      ],
+      "correctAnswer": "Arbitrariedade do signo linguístico",
+      "explanation": "Ferdinand de Saussure propôs que a relação entre significante (forma sonora) e significado é arbitrária e convencional. Por isso, 'cachorro' e 'dog' referem ao mesmo animal."
+    },
+    {
+      "id": "linguas-8-4",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "O que é uma língua aglutinante?",
+      "options": [
+        "Uma língua que combina radicais de diferentes origens",
+        "Uma língua em que morfemas distintos se unem sem fusão, cada um expressando uma categoria gramatical",
+        "Uma língua em que a gramática se expressa pela ordem das palavras",
+        "Uma língua em que todas as palavras são monossílabas"
+      ],
+      "correctAnswer": "Uma língua em que morfemas distintos se unem sem fusão, cada um expressando uma categoria gramatical",
+      "explanation": "Línguas aglutinantes, como o turco, o finlandês e o suaíli, formam palavras juntando morfemas com funções claras e separáveis. Ex: turco 'evlerimdeki' = 'aquele que está em minhas casas'."
+    },
+    {
+      "id": "linguas-8-5",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "O que é a 'Lei de Grimm' na linguística histórica?",
+      "options": [
+        "A lei que regula a ordem de palavras nas línguas germânicas",
+        "O conjunto de mudanças sistemáticas de consoantes que distinguem as línguas germânicas das outras indo-europeias",
+        "A regra que governa os padrões de acento nas línguas germânicas",
+        "A lei que descreve a evolução das vogais do proto-germânico"
+      ],
+      "correctAnswer": "O conjunto de mudanças sistemáticas de consoantes que distingue as línguas germânicas das outras indo-europeias",
+      "explanation": "A Lei de Grimm (ou mutação consonantal germânica) descreve como consoantes oclusivas do proto-indo-europeu mudaram regularmente nas línguas germânicas, formulada por Jacob Grimm no séc. XIX."
+    },
+    {
+      "id": "linguas-8-6",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "Qual é o nome do campo que estuda como o contexto social influencia o uso e a variação linguística?",
+      "options": [
+        "Psicolinguística",
+        "Neurolinguística",
+        "Sociolinguística",
+        "Linguística computacional"
+      ],
+      "correctAnswer": "Sociolinguística",
+      "explanation": "A sociolinguística analisa a relação entre língua e sociedade, incluindo variação dialetal, estigma linguístico, planejamento linguístico e como fatores como classe, gênero e etnia afetam o uso da língua."
+    },
+    {
+      "id": "linguas-8-7",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "O que é um fonema?",
+      "options": [
+        "Qualquer som produzido pelo aparelho fonador humano",
+        "A unidade mínima de som capaz de distinguir significados em uma língua",
+        "A representação escrita de um som",
+        "Um som que ocorre no início das palavras"
+      ],
+      "correctAnswer": "A unidade mínima de som capaz de distinguir significados em uma língua",
+      "explanation": "Fonema é a unidade fonológica mínima distintiva. Em português, /p/ e /b/ são fonemas diferentes porque distinguem 'pato' de 'bato'. Diferentes realizações de um fonema são chamadas alofones."
+    },
+    {
+      "id": "linguas-8-8",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "Qual é o nome do processo de mudança linguística em que palavras curtas e frequentes perdem sons ao longo do tempo?",
+      "options": [
+        "Epêntese",
+        "Prótese",
+        "Apócope",
+        "Redução fonética"
+      ],
+      "correctAnswer": "Apócope",
+      "explanation": "Apócope é a perda de sons no final de uma palavra. Ex: o latim 'tempus' tornou-se 'tempo' em português. A redução fonética é um processo mais geral que inclui a apócope."
+    },
+    {
+      "id": "linguas-8-9",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "Qual é a diferença entre línguas sintéticas e analíticas?",
+      "options": [
+        "Línguas sintéticas usam escrita; analíticas são apenas faladas",
+        "Línguas sintéticas expressam relações gramaticais por inflexão; analíticas usam palavras separadas e ordem",
+        "Línguas sintéticas têm vocabulário derivado; analíticas têm vocabulário primitivo",
+        "Línguas sintéticas são antigas; analíticas são modernas"
+      ],
+      "correctAnswer": "Línguas sintéticas expressam relações gramaticais por inflexão; analíticas usam palavras separadas e ordem",
+      "explanation": "Línguas sintéticas (latim, russo) marcam relações gramaticais com terminações. Analíticas (inglês, mandarim) dependem de ordem e palavras auxiliares. O português é intermediário."
+    },
+    {
+      "id": "linguas-8-10",
+      "category": "linguas",
+      "difficulty": 8,
+      "question": "Qual é o nome do conceito que descreve a habilidade de usar a linguagem de forma apropriada em diferentes contextos sociais?",
+      "options": [
+        "Competência linguística",
+        "Fluência verbal",
+        "Competência comunicativa",
+        "Proficiência lexical"
+      ],
+      "correctAnswer": "Competência comunicativa",
+      "explanation": "Competência comunicativa, conceito de Dell Hymes, abrange não só o conhecimento das regras gramaticais, mas também o saber quando, como e com quem usar a língua de forma socialmente adequada."
     }
   ]
 }

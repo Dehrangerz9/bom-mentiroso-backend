@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Alomorfia",
       "explanation": "Alomorfia é a variação fonológica de um morfema (alomorfes). Em inglês: 'cats' /s/, 'dogs' /z/, 'horses' /ɪz/ são alomorfes do morfema plural."
+    },
+    {
+      "id": "linguas-10-2",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "O que postula o 'minimalismo' na teoria linguística de Chomsky desenvolvido nos anos 1990?",
+      "options": [
+        "Que as línguas devem ser descritas com o menor número possível de regras",
+        "Que a faculdade da linguagem é um sistema biologicamente ótimo com apenas duas operações centrais: Merge e Move",
+        "Que o léxico mental é organizado por frequência de uso",
+        "Que a gramática universal é desnecessária para explicar a aquisição linguística"
+      ],
+      "correctAnswer": "Que a faculdade da linguagem é um sistema biologicamente ótimo com apenas duas operações centrais: Merge e Move",
+      "explanation": "O Programa Minimalista de Chomsky propõe que a linguagem é uma solução ótima para conectar som e significado, com operações computacionais mínimas como Merge (fusão de itens) sendo a operação central."
+    },
+    {
+      "id": "linguas-10-3",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "O que é 'iconicidade diagramática' na linguística cognitiva?",
+      "options": [
+        "O uso de desenhos em sistemas de escrita",
+        "A correspondência entre a estrutura da forma linguística e a estrutura do conceito que ela representa",
+        "A tendência de palavras com sons similares terem significados similares",
+        "O uso de gestos para complementar a fala"
+      ],
+      "correctAnswer": "A correspondência entre a estrutura da forma linguística e a estrutura do conceito que ela representa",
+      "explanation": "Iconicidade diagramática (Haiman, Givón) é quando a organização da forma reflete a organização do conteúdo. Ex: eventos mais distantes tendem a ter mais material linguístico entre eles nas línguas do mundo."
+    },
+    {
+      "id": "linguas-10-4",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "O que é 'incorporação nominal' em tipologia linguística?",
+      "options": [
+        "A criação de substantivos a partir de verbos",
+        "O processo em que um nome se funde com o verbo formando um composto verbal que funciona como predicado",
+        "A absorção de palavras estrangeiras no léxico de uma língua",
+        "A tendência de nomes próprios tornarem-se nomes comuns"
+      ],
+      "correctAnswer": "O processo em que um nome se funde com o verbo formando um composto verbal que funciona como predicado",
+      "explanation": "Incorporação nominal ocorre em línguas como o mohawk e o chukchi, onde o objeto direto pode ser incorporado ao verbo: em vez de 'eu caço ursos', a língua expressa algo como 'eu urso-caço'."
+    },
+    {
+      "id": "linguas-10-5",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "Qual é a diferença entre 'evidencialidade' gramatical e lexical?",
+      "options": [
+        "A gramatical usa advérbios; a lexical usa morfemas",
+        "A gramatical marca obrigatoriamente a fonte da informação por morfemas; a lexical faz isso com palavras opcionais",
+        "A gramatical é mais frequente nas línguas do mundo; a lexical é rara",
+        "Não há diferença; são termos intercambiáveis"
+      ],
+      "correctAnswer": "A gramatical marca obrigatoriamente a fonte da informação por morfemas; a lexical faz isso com palavras opcionais",
+      "explanation": "Evidencialidade gramatical obriga o falante a marcar se a informação é de visão direta, inferência, relato, etc. (como no quechua e turco). A lexical usa palavras como 'dizem que' ou 'aparentemente' opcionalmente."
+    },
+    {
+      "id": "linguas-10-6",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "O que é 'split ergativity' (ergatividade cindida)?",
+      "options": [
+        "Uma língua que usa dois sistemas de caso distintos, com ergatividade em alguns contextos e nominatividade em outros",
+        "A divisão de uma língua ergativa em dois dialetos com sistemas diferentes",
+        "O uso alternado de ergativo e nominativo pelo mesmo falante",
+        "Um sistema de caso em que sujeito e objeto recebem a mesma marcação"
+      ],
+      "correctAnswer": "Uma língua que usa dois sistemas de caso distintos, com ergatividade em alguns contextos e nominatividade em outros",
+      "explanation": "Muitas línguas são ergativamente cindidas: o hindi-urdu, por exemplo, é nominativo-acusativo no presente e ergativo-absolutivo no passado. O condicionamento pode ser temporal, aspectual ou por pessoa."
+    },
+    {
+      "id": "linguas-10-7",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "O que propõe a 'Teoria da Otimidade' (Optimality Theory) na fonologia?",
+      "options": [
+        "Que a pronúncia ótima é a mais econômica em termos de movimentos articulatórios",
+        "Que as formas fonológicas emergem da avaliação de candidatos por hierarquias de restrições violáveis",
+        "Que cada língua tem uma fonologia ótima para o canal acústico humano",
+        "Que falantes escolhem conscientemente as formas fonéticas mais eficientes"
+      ],
+      "correctAnswer": "Que as formas fonológicas emergem da avaliação de candidatos por hierarquias de restrições violáveis",
+      "explanation": "A Teoria da Otimidade (Prince e Smolensky, 1993) propõe que a gramática fonológica consiste em restrições universais violáveis organizadas hierarquicamente. O candidato que viola as restrições menos importantes vence."
+    },
+    {
+      "id": "linguas-10-8",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "O que é 'logophoricidade' nas línguas africanas?",
+      "options": [
+        "A capacidade de uma língua de nomear conceitos abstratos",
+        "O uso de pronomes especiais para se referir ao sujeito de um verbo de discurso ou pensamento em orações reportadas",
+        "A distinção entre fala ritual e cotidiana",
+        "O fenômeno de uma língua emprestar sua estrutura de outra"
+      ],
+      "correctAnswer": "O uso de pronomes especiais para se referir ao sujeito de um verbo de discurso ou pensamento em orações reportadas",
+      "explanation": "Pronomes logofóricos, comuns em línguas como o ewe e o igbo, marcam que o referente é a mesma pessoa cujos pensamentos ou palavras estão sendo reportados, resolvendo ambiguidades de referência no discurso indireto."
+    },
+    {
+      "id": "linguas-10-9",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "Qual é a distinção entre 'langue' e 'parole' proposta por Saussure?",
+      "options": [
+        "'Langue' é a língua escrita; 'parole' é a língua falada",
+        "'Langue' é o sistema abstrato e social da língua; 'parole' é a realização concreta e individual",
+        "'Langue' se refere a línguas antigas; 'parole' a línguas modernas",
+        "'Langue' é o vocabulário; 'parole' é a gramática"
+      ],
+      "correctAnswer": "'Langue' é o sistema abstrato e social da língua; 'parole' é a realização concreta e individual",
+      "explanation": "Saussure distinguiu 'langue' (o sistema linguístico compartilhado pela comunidade, objeto de estudo da linguística) de 'parole' (os atos individuais de fala). Chomsky reformulou isso como competência vs. desempenho."
+    },
+    {
+      "id": "linguas-10-10",
+      "category": "linguas",
+      "difficulty": 10,
+      "question": "O que é 'polifonia' no sentido bakhtiniano aplicado à linguística?",
+      "options": [
+        "O uso de múltiplos tons numa língua tonal",
+        "A presença simultânea de múltiplas vozes e perspectivas num mesmo enunciado",
+        "A variação de registro numa mesma conversa",
+        "O emprego de citações diretas no discurso"
+      ],
+      "correctAnswer": "A presença simultânea de múltiplas vozes e perspectivas num mesmo enunciado",
+      "explanation": "Bakhtin propôs que todo enunciado é dialógico e polifônico: carrega vozes anteriores, posicionamentos ideológicos e antecipações de respostas. A linguística da enunciação e a análise do discurso se apoiam fortemente nessa noção."
     }
   ]
 }

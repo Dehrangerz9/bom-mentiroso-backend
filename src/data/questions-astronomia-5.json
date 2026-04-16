@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Hubble",
       "explanation": "O Telescópio Espacial Hubble orbita a Terra a 547 km de altitude e produziu algumas das imagens mais icônicas do universo."
+    },
+    {
+      "id": "astronomia-5-2",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "O que é uma estrela de nêutrons?",
+      "options": [
+        "Uma estrela em formação dentro de uma nebulosa",
+        "O núcleo colapsado de uma estrela massiva após uma supernova",
+        "Uma estrela anã com baixa luminosidade",
+        "Uma estrela binária que orbita um buraco negro"
+      ],
+      "correctAnswer": "O núcleo colapsado de uma estrela massiva após uma supernova",
+      "explanation": "Estrelas de nêutrons são os remanescentes ultra-densos de supernovas. Cabem numa cidade, mas têm mais massa que o Sol. Sua densidade é tão alta que prótons e elétrons se fundem em nêutrons."
+    },
+    {
+      "id": "astronomia-5-3",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "Qual é o nome da nuvem esférica de cometas que envolve o Sistema Solar em sua periferia mais distante?",
+      "options": [
+        "Cinto de Kuiper",
+        "Nuvem de Oort",
+        "Nuvem de Magalhães",
+        "Disco de dispersão"
+      ],
+      "correctAnswer": "Nuvem de Oort",
+      "explanation": "A Nuvem de Oort é uma região esférica que se estende até quase um ano-luz do Sol. É considerada a origem de muitos cometas de longo período que visitam o Sistema Solar interno."
+    },
+    {
+      "id": "astronomia-5-4",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "O que é a magnitude aparente de uma estrela?",
+      "options": [
+        "O tamanho físico real da estrela",
+        "A medida do brilho da estrela como observado da Terra",
+        "A temperatura na superfície da estrela",
+        "A distância da estrela ao centro da galáxia"
+      ],
+      "correctAnswer": "A medida do brilho da estrela como observado da Terra",
+      "explanation": "Magnitude aparente é como percebemos o brilho de um astro do nosso ponto de vista. Quanto menor o número (inclusive negativo), mais brilhante. O Sol tem magnitude −26,7; Sírius, −1,46."
+    },
+    {
+      "id": "astronomia-5-5",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "Qual é o processo pelo qual estrelas como o Sol geram energia?",
+      "options": [
+        "Fissão nuclear",
+        "Fusão nuclear",
+        "Combustão química",
+        "Colapso gravitacional contínuo"
+      ],
+      "correctAnswer": "Fusão nuclear",
+      "explanation": "No núcleo solar, hidrogênio é fundido em hélio a temperaturas de ~15 milhões de graus Celsius, liberando energia segundo E=mc². Esse processo manterá o Sol ativo por mais ~5 bilhões de anos."
+    },
+    {
+      "id": "astronomia-5-6",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "O que é o 'redshift' (desvio para o vermelho) observado na luz de galáxias distantes?",
+      "options": [
+        "A coloração avermelhada causada por poeira interestelar",
+        "O alongamento do comprimento de onda da luz devido ao afastamento da fonte",
+        "A absorção de luz azul pela atmosfera galáctica",
+        "A emissão de raios infravermelhos por estrelas frias"
+      ],
+      "correctAnswer": "O alongamento do comprimento de onda da luz devido ao afastamento da fonte",
+      "explanation": "O redshift cosmológico ocorre porque o espaço em si se expande, esticando o comprimento de onda da luz em trânsito. É a principal evidência de que o universo está em expansão (Lei de Hubble)."
+    },
+    {
+      "id": "astronomia-5-7",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "Qual é a principal diferença entre um planeta e um planeta anão, segundo a IAU?",
+      "options": [
+        "O tamanho: planetas têm diâmetro acima de 2.000 km",
+        "Planetas orbitam estrelas; planetas anões, buracos negros",
+        "Planetas limparam a vizinhança orbital; planetas anões não",
+        "Planetas têm atmosfera; planetas anões são corpos rochosos nus"
+      ],
+      "correctAnswer": "Planetas limparam a vizinhança orbital; planetas anões não",
+      "explanation": "Em 2006, a IAU definiu três critérios para planetas: orbitar o Sol, ter forma hidrostática (esferoidal) e ter 'limpado' a vizinhança orbital. Plutão falhou no terceiro critério."
+    },
+    {
+      "id": "astronomia-5-8",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "Qual planeta do Sistema Solar tem um dia mais longo que seu ano?",
+      "options": [
+        "Mercúrio",
+        "Vênus",
+        "Marte",
+        "Urano"
+      ],
+      "correctAnswer": "Vênus",
+      "explanation": "Vênus leva 243 dias terrestres para completar uma rotação, mas apenas 225 dias para orbitar o Sol. Além disso, sua rotação é retrógrada: o Sol nasce no oeste e se põe no leste."
+    },
+    {
+      "id": "astronomia-5-9",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "O que são pulsares?",
+      "options": [
+        "Estrelas variáveis que pulsam periodicamente em tamanho",
+        "Estrelas de nêutrons com rotação rápida que emitem feixes regulares de radiação",
+        "Quasares pulsantes no núcleo de galáxias ativas",
+        "Buracos negros que emitem jatos de matéria periodicamente"
+      ],
+      "correctAnswer": "Estrelas de nêutrons com rotação rápida que emitem feixes regulares de radiação",
+      "explanation": "Pulsares são estrelas de nêutrons altamente magnetizadas que giram rapidamente e emitem feixes de ondas de rádio. Esses feixes, quando apontam para a Terra, são detectados como pulsos regulares."
+    },
+    {
+      "id": "astronomia-5-10",
+      "category": "astronomia",
+      "difficulty": 5,
+      "question": "Qual missão da NASA, lançada em 2021, substituiu o Hubble como principal telescópio espacial de última geração?",
+      "options": [
+        "Telescópio Espacial Spitzer",
+        "Telescópio Espacial James Webb",
+        "Telescópio Espacial Nancy Grace Roman",
+        "Observatório de Raios-X Chandra"
+      ],
+      "correctAnswer": "Telescópio Espacial James Webb",
+      "explanation": "O JWST foi lançado em dezembro de 2021 e entrou em operação em 2022. Opera principalmente no infravermelho, permitindo observar as primeiras galáxias do universo e atmosferas de exoplanetas."
     }
   ]
 }

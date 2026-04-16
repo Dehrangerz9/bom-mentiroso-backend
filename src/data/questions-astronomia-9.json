@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Radiação remanescente do Big Bang, detectada como ruído de micro-ondas em todas as direções",
       "explanation": "Descoberta acidentalmente por Penzias e Wilson em 1965, a CMB é considerada a maior evidência observacional do Big Bang."
+    },
+    {
+      "id": "astronomia-9-2",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "O que é o 'problema de planitude' que a inflação cósmica resolve?",
+      "options": [
+        "O universo parece bidimensional em escalas cosmológicas",
+        "A curvatura espacial do universo observável é estranhamente próxima de zero, exigindo condições iniciais extremamente ajustadas",
+        "As galáxias se distribuem em filamentos planos em vez de volume tridimensional",
+        "A CMB tem temperatura uniforme demais para ser explicada pela expansão padrão"
+      ],
+      "correctAnswer": "A curvatura espacial do universo observável é estranhamente próxima de zero, exigindo condições iniciais extremamente ajustadas",
+      "explanation": "A densidade do universo é imensamente próxima da densidade crítica (geometria plana). Sem inflação, a densidade inicial precisaria ser ajustada com precisão de 1 parte em 10⁶⁰. A inflação explica isso naturalmente."
+    },
+    {
+      "id": "astronomia-9-3",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "Qual é o significado do parâmetro 'z' (redshift) na cosmologia observacional?",
+      "options": [
+        "A distância em megaparsecs de um objeto ao observador",
+        "O deslocamento fracionário do comprimento de onda, que equivale ao fator pelo qual o universo se expandiu desde a emissão da luz",
+        "A velocidade em km/s com que uma galáxia se afasta",
+        "A massa em unidades solares de um quasar"
+      ],
+      "correctAnswer": "O deslocamento fracionário do comprimento de onda, que equivale ao fator pelo qual o universo se expandiu desde a emissão da luz",
+      "explanation": "z = (λ_obs - λ_em)/λ_em. Um objeto em z=1 emitiu luz quando o universo tinha metade do tamanho atual. O quasar mais distante conhecido tem z~7,6, quando o universo tinha apenas ~3% da idade atual."
+    },
+    {
+      "id": "astronomia-9-4",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "O que é a 'ergosfera' de um buraco negro em rotação (Kerr)?",
+      "options": [
+        "A região onde a singularidade do buraco negro se encontra",
+        "A região entre o horizonte de eventos e o raio de Schwarzschild",
+        "A região fora do horizonte de eventos onde o espaço-tempo é arrastado tão fortemente que nada pode ficar estacionário",
+        "A região de radiação intensa gerada por acreção de matéria"
+      ],
+      "correctAnswer": "A região fora do horizonte de eventos onde o espaço-tempo é arrastado tão fortemente que nada pode ficar estacionário",
+      "explanation": "Na ergosfera, o arrastar de quadros (frame-dragging) é tão intenso que toda matéria é obrigada a co-rotacionar com o buraco negro. O processo de Penrose permite extrair energia rotacional da ergosfera sem cruzar o horizonte."
+    },
+    {
+      "id": "astronomia-9-5",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "Qual é a diferença entre supernovas do Tipo Ia e do Tipo II em termos de origem e importância cosmológica?",
+      "options": [
+        "Tipo Ia vêm de estrelas isoladas; Tipo II de sistemas binários",
+        "Tipo Ia (anã branca que ultrapassa o limite de Chandrasekhar) têm luminosidade padronizável; Tipo II (colapso de gigante massiva) não têm",
+        "Tipo Ia ocorrem em galáxias jovens; Tipo II em galáxias elípticas velhas",
+        "Tipo Ia produzem buracos negros; Tipo II produzem estrelas de nêutrons"
+      ],
+      "correctAnswer": "Tipo Ia (anã branca que ultrapassa o limite de Chandrasekhar) têm luminosidade padronizável; Tipo II (colapso de gigante massiva) não têm",
+      "explanation": "Supernovas Tipo Ia são 'velas padrão': sua luminosidade máxima é previsível, permitindo medir distâncias cosmológicas. Foi usando Tipo Ia que Perlmutter, Schmidt e Riess descobriram a expansão acelerada em 1998 (Nobel 2011)."
+    },
+    {
+      "id": "astronomia-9-6",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "O que é a 'Tensão de Hubble'?",
+      "options": [
+        "A dificuldade técnica de medir distâncias com o Telescópio Hubble",
+        "A discrepância estatisticamente significativa entre os valores de H₀ medidos pela CMB e por distâncias locais",
+        "A tensão gravitacional que mantém a estrutura em grande escala do universo",
+        "O conflito entre a Lei de Hubble e a teoria da Relatividade Especial"
+      ],
+      "correctAnswer": "A discrepância estatisticamente significativa entre os valores de H₀ medidos pela CMB e por distâncias locais",
+      "explanation": "Medições da CMB (Planck) dão H₀ ~67 km/s/Mpc; métodos locais (Cefeidas, supernovas) dão ~73. A discordância é de ~5σ e pode indicar física nova além do modelo cosmológico padrão (ΛCDM)."
+    },
+    {
+      "id": "astronomia-9-7",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "Em que consiste o 'Mecanismo de Penrose' para extração de energia de buracos negros em rotação?",
+      "options": [
+        "Evaporação gradual do buraco negro via radiação de Hawking",
+        "Extração de energia rotacional usando partículas que se dividem na ergosfera, com uma parte escapando com mais energia do que entrou",
+        "Extração de energia do disco de acreção via campo magnético",
+        "Colisão de matéria com antimatéria na singularidade do buraco negro"
+      ],
+      "correctAnswer": "Extração de energia rotacional usando partículas que se dividem na ergosfera, com uma parte escapando com mais energia do que entrou",
+      "explanation": "No processo de Penrose, uma partícula entra na ergosfera, se divide: uma parte cai no buraco negro com energia negativa (reduzindo seu momento angular), e a outra escapa com mais energia que a original. Limita-se a extrair até ~29% da massa de repouso do buraco negro."
+    },
+    {
+      "id": "astronomia-9-8",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "O que são 'estrelas de população III'?",
+      "options": [
+        "Estrelas da terceira geração com alta metalicidade, como o Sol",
+        "Estrelas hipotéticas da primeira geração do universo, compostas quase exclusivamente de hidrogênio e hélio primordiais",
+        "Estrelas anãs vermelhas de massa muito baixa encontradas no halo galáctico",
+        "Estrelas de nêutrons que evoluíram de estrelas de população II"
+      ],
+      "correctAnswer": "Estrelas hipotéticas da primeira geração do universo, compostas quase exclusivamente de hidrogênio e hélio primordiais",
+      "explanation": "Estrelas Pop III teriam se formado ~100-200 milhões de anos após o Big Bang, a partir de gás primordial sem metais. Deveriam ser extremamente massivas (~100-1000 M☉) e de vida curta, forjando os primeiros metais do universo. Nunca foram observadas diretamente."
+    },
+    {
+      "id": "astronomia-9-9",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "Qual é a diferença fundamental entre o universo observável e o universo total?",
+      "options": [
+        "O universo observável inclui matéria escura; o total, apenas bariônica",
+        "O universo observável é limitado pela distância que a luz percorreu desde o Big Bang; o universo total pode ser muito maior ou infinito",
+        "São termos sinônimos usados em contextos diferentes",
+        "O universo total inclui universos paralelos do multiverso"
+      ],
+      "correctAnswer": "O universo observável é limitado pela distância que a luz percorreu desde o Big Bang; o universo total pode ser muito maior ou infinito",
+      "explanation": "O universo observável tem raio de ~46 bilhões de anos-luz (horizonte de partícula). A expansão cósmica implica que haverá regiões que nunca poderemos observar. O universo total é, por definição, não observável além desse limite."
+    },
+    {
+      "id": "astronomia-9-10",
+      "category": "astronomia",
+      "difficulty": 9,
+      "question": "O que prediz a teoria da nucleossíntese do Big Bang (BBN) sobre os primeiros minutos do universo?",
+      "options": [
+        "Formação dos primeiros átomos de hidrogênio neutro ~380.000 anos após o Big Bang",
+        "Síntese de hidrogênio, hélio-4, deutério, hélio-3 e lítio nos primeiros ~20 minutos",
+        "Formação dos primeiros quarks e hádrons nos primeiros microssegundos",
+        "Criação de carbono e oxigênio nos primeiros segundos do universo"
+      ],
+      "correctAnswer": "Síntese de hidrogênio, hélio-4, deutério, hélio-3 e lítio nos primeiros ~20 minutos",
+      "explanation": "A BBN prevê que entre ~1 e ~20 minutos após o Big Bang, prótons e nêutrons se fundiram formando deutério, hélio-3, hélio-4 e lítio-7. A proporção H:He ~3:1 em massa é confirmada observacionalmente e é uma das maiores evidências do Big Bang."
     }
   ]
 }

@@ -4,91 +4,91 @@
       "id": "economia-9-1",
       "category": "economia",
       "difficulty": 9,
-      "question": "Qual é o nome do fenômeno em que mercados com informação assimétrica expulsam produtos de alta qualidade, pois compradores pagam preço médio?",
-      "options": ["Risco moral", "Seleção adversa", "Tragédia dos comuns", "Falha de coordenação"],
+      "question": "Qual fenômeno descreve mercados dominados por baixa qualidade devido à assimetria de informação?",
+      "options": ["Seleção adversa", "Risco moral", "Tragédia dos comuns", "Externalidade negativa"],
       "correctAnswer": "Seleção adversa",
-      "explanation": "Descrito por George Akerlof em 'The Market for Lemons' (1970): compradores não distinguem qualidade, pagam preço médio, vendedores de alta qualidade saem do mercado, deteriorando-o."
+      "explanation": "Descrito por George Akerlof em 'The Market for Lemons' (1970): compradores não distinguem qualidade, pagam preço médio, vendedores de alta qualidade saem, deteriorando o mercado."
     },
     {
       "id": "economia-9-2",
       "category": "economia",
       "difficulty": 9,
-      "question": "Qual é o nome do dilema clássico da teoria dos jogos em que dois jogadores racionais, ao agirem por interesse próprio, chegam a um resultado pior para ambos?",
-      "options": ["Jogo do Galinha", "Dilema do Prisioneiro", "Equilíbrio de Stackelberg", "Jogo do ultimato"],
-      "correctAnswer": "Dilema do Prisioneiro",
-      "explanation": "No Dilema do Prisioneiro, dois agentes racionais traem um ao outro mesmo que a cooperação levasse a um resultado melhor para ambos; ilustra por que cooperação é difícil sem comunicação."
+      "question": "Quem escreveu o artigo 'The Market for Lemons' sobre assimetria de informação?",
+      "options": ["George Akerlof", "Joseph Stiglitz", "Michael Spence", "Kenneth Arrow"],
+      "correctAnswer": "George Akerlof",
+      "explanation": "George Akerlof publicou 'The Market for Lemons' em 1970, fundando o campo da economia da informação assimétrica. Akerlof, Stiglitz e Spence dividiram o Nobel de Economia em 2001."
     },
     {
       "id": "economia-9-3",
       "category": "economia",
       "difficulty": 9,
-      "question": "Como se chama a teoria que explica ciclos econômicos por choques reais de produtividade, sem recorrer a falhas monetárias?",
-      "options": ["Teoria Keynesiana", "Teoria dos ciclos reais", "Teoria monetarista", "Teoria pós-keynesiana"],
-      "correctAnswer": "Teoria dos ciclos reais",
-      "explanation": "A Teoria dos Ciclos Reais de Negócios (RBC, Kydland e Prescott, 1982) atribui flutuações econômicas a choques de produtividade reais; agentes respondem racionalmente maximizando utilidade intertemporal."
+      "question": "O que estuda a teoria dos jogos?",
+      "options": ["Decisões estratégicas interdependentes", "Equilíbrio de Nash", "Dilema do prisioneiro", "Estratégia dominante"],
+      "correctAnswer": "Decisões estratégicas interdependentes",
+      "explanation": "A teoria dos jogos analisa como agentes racionais tomam decisões estratégicas quando o resultado de cada um depende das escolhas dos outros, com aplicações em economia, política e biologia."
     },
     {
       "id": "economia-9-4",
       "category": "economia",
       "difficulty": 9,
-      "question": "Qual é o nome do problema em teoria dos jogos em que há múltiplos equilíbrios de Nash e agentes precisam coordenar para atingir o melhor?",
-      "options": ["Falha de coordenação", "Dilema do Prisioneiro", "Tragédia dos comuns", "Seleção adversa"],
-      "correctAnswer": "Falha de coordenação",
-      "explanation": "Falhas de coordenação ocorrem quando há equilíbrios de Nash múltiplos e agentes ficam presos no pior por ausência de mecanismo de coordenação; explicam armadilhas de pobreza e subdesenvolvimento."
+      "question": "A hipótese de Prebisch-Singer afirma a deterioração de quê?",
+      "options": ["Deterioração dos termos", "Vantagens comparativas", "Comércio e desenvolvimento", "Exportações primárias"],
+      "correctAnswer": "Deterioração dos termos",
+      "explanation": "A hipótese de Prebisch-Singer postula que os termos de troca de países exportadores de commodities se deterioram em relação aos industrializados no longo prazo, perpetuando subdesenvolvimento."
     },
     {
       "id": "economia-9-5",
       "category": "economia",
       "difficulty": 9,
-      "question": "Como se chama o paradoxo em que uma política de câmbio fixo de um país cria um dilema para a moeda de reserva global?",
-      "options": ["Paradoxo de Leontief", "Paradoxo de Triffin", "Paradoxo de Gibson", "Paradoxo de Feldstein-Horioka"],
-      "correctAnswer": "Paradoxo de Triffin",
-      "explanation": "O Dilema de Triffin (1960) afirma que o país emissor da moeda de reserva mundial precisa ter déficits externos para fornecer liquidez global, mas isso mina a confiança na sua moeda."
+      "question": "O modelo Diamond-Dybvig explica corridas bancárias como resultado de quê?",
+      "options": ["Equilíbrios múltiplos", "Pânico bancário", "Risco sistêmico", "Reserva fracionária"],
+      "correctAnswer": "Equilíbrios múltiplos",
+      "explanation": "Diamond e Dybvig (1983) mostraram que bancos podem ter dois equilíbrios: o bom (sem corrida) e o mau (corrida bancária), com a corrida sendo uma profecia autorrealizável."
     },
     {
       "id": "economia-9-6",
       "category": "economia",
       "difficulty": 9,
-      "question": "Qual é o nome do teorema que, sob certas condições, garante que um equilíbrio competitivo é eficiente no sentido de Pareto?",
-      "options": ["Teorema de Coase", "Teorema de Arrow-Debreu", "Primeiro teorema do bem-estar", "Teorema de Walras"],
-      "correctAnswer": "Primeiro teorema do bem-estar",
-      "explanation": "O Primeiro Teorema Fundamental do Bem-Estar afirma que, em mercados completos e competitivos, qualquer equilíbrio geral de Arrow-Debreu é Pareto-eficiente."
+      "question": "Quem é considerado o principal desenvolvedor da teoria do capital humano?",
+      "options": ["Gary Becker", "Robert Solow", "Theodore Schultz", "Jacob Mincer"],
+      "correctAnswer": "Gary Becker",
+      "explanation": "Gary Becker sistematizou a teoria do capital humano nos anos 1960, tratando educação e treinamento como investimentos que aumentam a produtividade e os rendimentos futuros."
     },
     {
       "id": "economia-9-7",
       "category": "economia",
       "difficulty": 9,
-      "question": "Como se chama a abordagem econômica que incorpora insights da psicologia para explicar desvios da racionalidade plena dos agentes?",
-      "options": ["Economia comportamental", "Economia institucional", "Economia experimental", "Economia evolucionária"],
-      "correctAnswer": "Economia comportamental",
-      "explanation": "A economia comportamental (Kahneman, Thaler) integra psicologia e economia para explicar heurísticas e vieses como aversão à perda, ancoragem e desconto hiperbólico."
+      "question": "O que a Curva de Laffer relaciona?",
+      "options": ["Impostos e receita", "Impostos e PIB", "Taxa ótima", "Evasão fiscal"],
+      "correctAnswer": "Impostos e receita",
+      "explanation": "A Curva de Laffer mostra que a receita tributária sobe até um ponto máximo conforme as alíquotas aumentam, mas depois cai pois alíquotas muito altas desincentivam a atividade econômica."
     },
     {
       "id": "economia-9-8",
       "category": "economia",
       "difficulty": 9,
-      "question": "Qual é o nome da teoria que descreve como países mais produtivos têm níveis de preços mais altos, explicando desvios da paridade do poder de compra?",
-      "options": ["Efeito Balassa-Samuelson", "Efeito Fisher", "Efeito Mundell", "Lei do preço único"],
-      "correctAnswer": "Efeito Balassa-Samuelson",
-      "explanation": "O efeito Balassa-Samuelson (1964) explica por que países ricos têm preços mais altos: maior produtividade no setor comercializável eleva salários em toda a economia, incluindo o setor não-comercializável."
+      "question": "A teoria de Mundell sobre áreas monetárias ótimas aborda o que?",
+      "options": ["Zonas monetárias comuns", "União monetária", "Câmbio flutuante", "Paridade cambial"],
+      "correctAnswer": "Zonas monetárias comuns",
+      "explanation": "Robert Mundell (1961) definiu as condições para que países se beneficiem de uma moeda comum: mobilidade de trabalho, flexibilidade de preços, integração fiscal e similitude de choques econômicos."
     },
     {
       "id": "economia-9-9",
       "category": "economia",
       "difficulty": 9,
-      "question": "Como se chama o mecanismo pelo qual um banco central sinaliza intenções futuras de política monetária para influenciar expectativas dos agentes?",
-      "options": ["Afrouxamento quantitativo", "Forward guidance", "Open market", "Operação twist"],
-      "correctAnswer": "Forward guidance",
-      "explanation": "O forward guidance é uma ferramenta de comunicação em que o banco central comunica sua trajetória pretendida de juros, influenciando expectativas e decisões de consumo e investimento."
+      "question": "O que afirma a equivalência ricardiana de Barro?",
+      "options": ["Déficit é irrelevante", "Dívida cria riqueza", "Poupança privada sobe", "Gasto público eficaz"],
+      "correctAnswer": "Déficit é irrelevante",
+      "explanation": "A equivalência ricardiana (Barro, 1974) sustenta que agentes racionais aumentam poupança para pagar impostos futuros quando o governo se endivida, tornando déficits fiscais neutros."
     },
     {
       "id": "economia-9-10",
       "category": "economia",
       "difficulty": 9,
-      "question": "Qual é o nome do fenômeno em que a acumulação ilimitada de dívida pública pode tornar a política fiscal insustentável, levando à dominância fiscal?",
-      "options": ["Crowding-out", "Dominância fiscal", "Armadilha de liquidez", "Desequilíbrio de Ponzi"],
-      "correctAnswer": "Dominância fiscal",
-      "explanation": "Dominância fiscal ocorre quando a política monetária é subordinada à necessidade de financiar o déficit público, perdendo eficácia no controle da inflação."
+      "question": "O que afirma a teoria austríaca do ciclo econômico?",
+      "options": ["Crédito distorce estrutura", "Poupança gera ciclos", "Choques monetários", "Inflação causa recessão"],
+      "correctAnswer": "Crédito distorce estrutura",
+      "explanation": "A teoria austríaca (Mises-Hayek) afirma que expansão artificial de crédito distorce a estrutura de produção, causando investimentos insustentáveis (malinvestments) que culminam em recessão."
     }
   ]
 }

@@ -4,15 +4,141 @@
       "id": "ecologia-10-1",
       "category": "ecologia",
       "difficulty": 10,
-      "question": "Qual é o mecanismo pelo qual o permafrost do Ártico em degelo pode criar um 'feedback positivo' de aquecimento global, e qual gás é o principal agente?",
+      "question": "Qual é o mecanismo pelo qual o permafrost do Ártico em degelo cria um 'feedback positivo' de aquecimento global?",
       "options": [
-        "O degelo expõe rochas escuras que absorvem mais calor, aumentando CO₂ por respiração bacteriana aeróbica",
-        "O degelo libera metano (CH₄) de matéria orgânica previamente congelada, gás com potencial de aquecimento 80× superior ao CO₂ em 20 anos",
-        "O degelo aumenta a evaporação oceânica, amplificando o efeito estufa pelo vapor d'água",
-        "O degelo reduz a cobertura de neve, diminuindo o albedo e causando absorção adicional de radiação"
+        "Emissão de CO₂ aeróbico",
+        "Redução do albedo",
+        "Liberação de metano",
+        "Aumento da evaporação"
       ],
-      "correctAnswer": "O degelo libera metano (CH₄) de matéria orgânica previamente congelada, gás com potencial de aquecimento 80× superior ao CO₂ em 20 anos",
-      "explanation": "O permafrost ártico contém ~1.500 Gt de carbono. Seu degelo libera metano via decomposição anaeróbica, criando um loop de amplificação: mais calor → mais degelo → mais CH₄ → mais calor."
+      "correctAnswer": "Liberação de metano",
+      "explanation": "O permafrost contém ~1.500 Gt de carbono. Seu degelo libera metano (CH₄) via decomposição anaeróbica — gás 80x mais potente que CO₂ em 20 anos. Cria um loop: mais calor → mais degelo → mais CH₄ → mais calor."
+    },
+    {
+      "id": "ecologia-10-2",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "O que é a 'hipótese da biodiversidade-estabilidade' e qual é a principal evidência experimental que a sustenta?",
+      "options": [
+        "Alta riqueza causa instabilidade",
+        "Diversidade aumenta resiliência",
+        "Estabilidade reduz diversidade",
+        "Monoculturas são mais estáveis"
+      ],
+      "correctAnswer": "Diversidade aumenta resiliência",
+      "explanation": "A hipótese propõe que ecossistemas mais diversos são mais produtivos e estáveis ao longo do tempo. O experimento de longa duração Cedar Creek (Tilman et al.) mostrou que parcelas com mais espécies mantiveram produtividade mais consistente sob variações climáticas."
+    },
+    {
+      "id": "ecologia-10-3",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "O que é a 'economia dos ecossistemas e da biodiversidade' (TEEB) e qual é sua principal contribuição metodológica?",
+      "options": [
+        "Mercado de créditos verdes",
+        "Valoração monetária da natureza",
+        "Seguro contra catástrofes naturais",
+        "Tributação do desmatamento"
+      ],
+      "correctAnswer": "Valoração monetária da natureza",
+      "explanation": "O TEEB (The Economics of Ecosystems and Biodiversity, 2007-2010) desenvolveu metodologias para valorar economicamente serviços ecossistêmicos, tornando o custo da destruição ambiental visível nas decisões políticas e empresariais."
+    },
+    {
+      "id": "ecologia-10-4",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "Qual é o conceito de 'geoengenharia solar' e por que é controverso do ponto de vista ecológico?",
+      "options": [
+        "Captura direta de CO₂",
+        "Reflectância solar artificial",
+        "Fertilização oceânica com ferro",
+        "Reflorestamento em larga escala"
+      ],
+      "correctAnswer": "Reflectância solar artificial",
+      "explanation": "A geoengenharia solar propõe injetar aerossóis sulfatados na estratosfera para refletir radiação solar. É controversa porque pode alterar padrões de monção, interromper precipitação tropical e mascarar o aquecimento sem reduzir CO₂ ou acidificação oceânica."
+    },
+    {
+      "id": "ecologia-10-5",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "O que é a 'teoria da perturbação de nicho' (niche disruption) no contexto de invasões biológicas?",
+      "options": [
+        "Ocupação de nichos vagos",
+        "Destruição de nichos nativos",
+        "Criação de novos nichos",
+        "Expansão de nicho fundamental"
+      ],
+      "correctAnswer": "Destruição de nichos nativos",
+      "explanation": "Invasores bem-sucedidos frequentemente não apenas ocupam nichos vagos, mas destroem ativamente os nichos de espécies nativas através de competição assimétrica, predação, transmissão de patógenos ou alteração de processos ecossistêmicos."
+    },
+    {
+      "id": "ecologia-10-6",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "Qual é a diferença entre o 'Protocolo de Nagoya' e a Convenção sobre Diversidade Biológica (CDB)?",
+      "options": [
+        "São tratados independentes",
+        "Nagoya implementa repartição de benefícios da CDB",
+        "CDB é regional; Nagoya é global",
+        "Nagoya substituiu a CDB em 2010"
+      ],
+      "correctAnswer": "Nagoya implementa repartição de benefícios da CDB",
+      "explanation": "A CDB (1992) estabelece três objetivos: conservação, uso sustentável e repartição justa de benefícios. O Protocolo de Nagoya (2010) operacionaliza o terceiro objetivo, criando regras para acesso a recursos genéticos e repartição de benefícios com países de origem."
+    },
+    {
+      "id": "ecologia-10-7",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "O que é a 'síndrome de déficit de natureza' descrita por Richard Louv, e qual sua relação com a ecologia urbana?",
+      "options": [
+        "Extinção de espécies urbanas",
+        "Falta de corredores ecológicos",
+        "Distanciamento humano da natureza",
+        "Poluição sonora em cidades"
+      ],
+      "correctAnswer": "Distanciamento humano da natureza",
+      "explanation": "O 'nature-deficit disorder' (Louv, 2005) descreve os efeitos psicológicos do afastamento da natureza, especialmente em crianças urbanas. Motivou o movimento de biofilia urbana e a criação de espaços verdes como infraestrutura de saúde pública."
+    },
+    {
+      "id": "ecologia-10-8",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "O que é a 'fronteira planetária de uso do solo' e qual é seu indicador-chave segundo Rockström et al.?",
+      "options": [
+        "Área urbanizada global",
+        "Floresta convertida em agricultura",
+        "Área de floresta original remanescente",
+        "Extensão de zonas costeiras degradadas"
+      ],
+      "correctAnswer": "Área de floresta original remanescente",
+      "explanation": "O limite planetário de uso do solo mede a proporção de floresta original remanescente por bioma. A fronteira segura é manter ≥75% das florestas originais. Globalmente, já foram convertidos ~40% das terras para agricultura, ultrapassando o limite em biomas temperados."
+    },
+    {
+      "id": "ecologia-10-9",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "O que é 'compensação de biodiversidade' (biodiversity offset) e qual é sua crítica ecológica fundamental?",
+      "options": [
+        "Reflorestamento compulsório",
+        "Pagamento por dano equivalente",
+        "Troca de habitat destruído por protegido",
+        "Crédito de carbono florestal"
+      ],
+      "correctAnswer": "Troca de habitat destruído por protegido",
+      "explanation": "Offsets permitem destruir habitat em um local compensando com proteção equivalente em outro. A crítica é que habitats não são fungíveis: espécies endêmicas, processos ecológicos e relações co-evoluídas locais não podem ser 'compensados' em outro lugar."
+    },
+    {
+      "id": "ecologia-10-10",
+      "category": "ecologia",
+      "difficulty": 10,
+      "question": "Qual é o conceito de 'Antropoceno' como proposta de nova época geológica e qual é o principal marcador estratigráfico proposto?",
+      "options": [
+        "Extinção do Pleistoceno",
+        "Plutônio de testes nucleares",
+        "Camada de CO₂ no gelo",
+        "Fósseis de plástico"
+      ],
+      "correctAnswer": "Plutônio de testes nucleares",
+      "explanation": "O Antropoceno propõe que humanos tornaram-se força geológica dominante. O Grupo de Trabalho do Antropoceno propôs como marcador o pico de plutônio radioativo de 1952-1964 (testes nucleares), detectável globalmente em sedimentos e gelos."
     }
   ]
 }

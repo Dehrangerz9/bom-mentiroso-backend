@@ -5,14 +5,90 @@
       "category": "jogos",
       "difficulty": 8,
       "question": "Qual designer japonês criou os jogos Dark Souls e é conhecido por criar universos de lore denso comunicado principalmente pelo ambiente e descrições de itens?",
-      "options": [
-        "Shigeru Miyamoto",
-        "Hideo Kojima",
-        "Hidetaka Miyazaki",
-        "Yoko Taro"
-      ],
+      "options": ["Shigeru Miyamoto", "Hideo Kojima", "Hidetaka Miyazaki", "Yoko Taro"],
       "correctAnswer": "Hidetaka Miyazaki",
       "explanation": "Miyazaki (FromSoftware) é criador de Demon's Souls, Dark Souls, Bloodborne, Sekiro e Elden Ring, revolucionando o design de jogos de ação RPG."
+    },
+    {
+      "id": "jogos-8-2",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual jogo indie de 2015 desenvolvido por Toby Fox subverte as expectativas do gênero RPG ao punir o jogador por matar inimigos?",
+      "options": ["Omori", "Deltarune", "OneShot", "Undertale"],
+      "correctAnswer": "Undertale",
+      "explanation": "Undertale, criado por Toby Fox em 2015, é um RPG onde o jogador pode completar o jogo sem matar ninguém. O jogo usa meta-narrativa e quarta parede para comentar sobre convenções do gênero, tornando-se um fenômeno cultural indie."
+    },
+    {
+      "id": "jogos-8-3",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual é o nome do mecanismo de jogo que descreve o loop central de ação-recompensa que mantém o jogador engajado repetidamente?",
+      "options": ["Skinner Box", "Core gameplay loop", "Feedback loop", "Progression system"],
+      "correctAnswer": "Core gameplay loop",
+      "explanation": "O core gameplay loop é o ciclo fundamental de ações que o jogador repete em um jogo. Por exemplo, em um RPG: explorar, lutar, ganhar experiência, subir de nível e explorar novamente. Um loop bem projetado é o que torna um jogo viciante e satisfatório."
+    },
+    {
+      "id": "jogos-8-4",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual empresa desenvolveu o motor gráfico Unreal Engine, amplamente utilizado por desenvolvedores de jogos em todo o mundo?",
+      "options": ["Unity Technologies", "Crytek", "Epic Games", "id Software"],
+      "correctAnswer": "Epic Games",
+      "explanation": "O Unreal Engine foi criado pela Epic Games e lançado em 1998. É um dos motores de jogo mais utilizados da indústria, usado em títulos como Fortnite, Gears of War e Borderlands. A versão 5, lançada em 2022, trouxe avanços significativos em renderização com as tecnologias Nanite e Lumen."
+    },
+    {
+      "id": "jogos-8-5",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual é o nome do jogo da Naughty Dog que introduziu o personagem Nathan Drake em uma aventura de arqueologia de ação?",
+      "options": ["Tomb Raider", "Indiana Jones", "Uncharted: Drake's Fortune", "Prince of Persia"],
+      "correctAnswer": "Uncharted: Drake's Fortune",
+      "explanation": "Uncharted: Drake's Fortune foi lançado em 2007 para PlayStation 3 e apresentou Nathan Drake, descendente do explorador Francis Drake. O jogo foi aclamado por sua narrativa cinematográfica e deu início a uma das franquias mais queridas da Sony."
+    },
+    {
+      "id": "jogos-8-6",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual jogo de estratégia em tempo real da Westwood Studios, lançado em 1992, definiu o gênero RTS moderno?",
+      "options": ["Dune II", "WarCraft", "Command & Conquer", "StarCraft"],
+      "correctAnswer": "Dune II",
+      "explanation": "Dune II: The Building of a Dynasty, lançado pela Westwood Studios em 1992, é amplamente considerado o pai dos jogos de estratégia em tempo real. Introduziu mecânicas fundamentais do gênero como coleta de recursos, construção de base e unidades com funções distintas."
+    },
+    {
+      "id": "jogos-8-7",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual é o nome do subgênero de ação-aventura inspirado nos jogos Metroid e Castlevania, caracterizado por exploração não linear com habilidades progressivas?",
+      "options": ["Soulslike", "Roguelite", "Metroidvania", "Boomer Shooter"],
+      "correctAnswer": "Metroidvania",
+      "explanation": "Metroidvania é um subgênero que combina elementos dos jogos Metroid (Nintendo) e Castlevania: Symphony of the Night (Konami). Caracteriza-se por exploração não linear de um mapa interconectado, onde novas habilidades desbloqueiam acesso a áreas anteriormente inacessíveis. Exemplos modernos: Hollow Knight, Ori e Dead Cells."
+    },
+    {
+      "id": "jogos-8-8",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual jogo de tabuleiro digital da Blizzard, lançado em 2014, é baseado no universo de Warcraft?",
+      "options": ["Gwent", "Legends of Runeterra", "Hearthstone", "Magic: The Gathering Arena"],
+      "correctAnswer": "Hearthstone",
+      "explanation": "Hearthstone: Heroes of Warcraft foi lançado pela Blizzard em 2014 e popularizou os jogos de cartas colecionáveis digitais. Com mais de 100 milhões de jogadores registrados, o jogo usa personagens e mecânicas do universo Warcraft."
+    },
+    {
+      "id": "jogos-8-9",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual é o nome da técnica de design que coloca o jogador em situações onde percebe que poderia ter agido de outra forma, criando arrependimento e engajamento emocional?",
+      "options": ["Ludonarrativa", "Foreshadowing mecânico", "Agência do jogador", "Dissonância ludonarrativa"],
+      "correctAnswer": "Dissonância ludonarrativa",
+      "explanation": "A dissonância ludonarrativa ocorre quando a narrativa e a mecânica de um jogo contradizem uma à outra. O termo foi popularizado pelo crítico Clint Hocking ao analisar BioShock (2007), onde o jogo prega liberdade de escolha enquanto força o jogador a seguir ordens."
+    },
+    {
+      "id": "jogos-8-10",
+      "category": "jogos",
+      "difficulty": 8,
+      "question": "Qual jogo de simulação de gerenciamento de parque temático, lançado em 1999, permite construir e administrar atrações com física realista?",
+      "options": ["Theme Hospital", "SimPark", "Planet Coaster", "RollerCoaster Tycoon"],
+      "correctAnswer": "RollerCoaster Tycoon",
+      "explanation": "RollerCoaster Tycoon, desenvolvido quase inteiramente por Chris Sawyer e lançado em 1999, é um jogo de simulação de parques temáticos. O jogo foi notável pelo fato de Sawyer ter programado praticamente tudo em linguagem Assembly, uma façanha técnica raramente vista."
     }
   ]
 }

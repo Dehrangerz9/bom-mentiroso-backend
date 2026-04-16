@@ -4,15 +4,91 @@
       "id": "jogos-7-1",
       "category": "jogos",
       "difficulty": 7,
-      "question": "Qual foi o primeiro jogo a usar o sistema de 'bullet time' (tempo lento) como mecânica principal de ação?",
-      "options": [
-        "F.E.A.R.",
-        "The Matrix: Path of Neo",
-        "Max Payne",
-        "Stranglehold"
-      ],
+      "question": "Qual foi o primeiro jogo a usar o sistema de 'bullet time' como mecânica principal de ação?",
+      "options": ["F.E.A.R.", "The Matrix: Path of Neo", "Max Payne", "Stranglehold"],
       "correctAnswer": "Max Payne",
       "explanation": "Max Payne (2001) popularizou o 'bullet time' em jogos, inspirado no filme Matrix (1999), tornando-o mecânica central de ação."
+    },
+    {
+      "id": "jogos-7-2",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual jogo da Valve popularizou o modelo de distribuição digital de jogos para PC?",
+      "options": ["Battle.net", "Origin", "Steam", "GOG"],
+      "correctAnswer": "Steam",
+      "explanation": "A Steam, lançada pela Valve em 2003, revolucionou a distribuição de jogos para PC. Hoje conta com mais de 50.000 títulos e aproximadamente 132 milhões de usuários ativos mensais."
+    },
+    {
+      "id": "jogos-7-3",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual jogo indie de 2014 apresenta cinco animatrônicos assustadores e um segurança noturno que precisa sobreviver monitorando câmeras?",
+      "options": ["Poppy Playtime", "Bendy and the Ink Machine", "Five Nights at Freddy's", "Slender: The Eight Pages"],
+      "correctAnswer": "Five Nights at Freddy's",
+      "explanation": "Five Nights at Freddy's (FNAF), criado por Scott Cawthon em 2014, é um jogo de terror em que o jogador monitora câmeras em uma pizzaria para sobreviver a animatrônicos que se movem à noite. A franquia cresceu para mais de 30 jogos e gerou um filme."
+    },
+    {
+      "id": "jogos-7-4",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual jogo de 2001 da Rockstar Games ambientado em Vice City foi inspirado na Miami dos anos 80?",
+      "options": ["GTA III", "GTA: San Andreas", "GTA: Vice City", "Bully"],
+      "correctAnswer": "GTA: Vice City",
+      "explanation": "Grand Theft Auto: Vice City, lançado em 2002, é ambientado em Vice City, uma versão fictícia de Miami nos anos 80. Com trilha sonora icônica da época e protagonizado por Tommy Vercetti, tornou-se um dos jogos mais amados da franquia."
+    },
+    {
+      "id": "jogos-7-5",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual é o nome do gênero de jogo onde o jogador monta um deck de cartas e enfrenta oponentes em batalhas estratégicas?",
+      "options": ["MOBA", "TCG (Trading Card Game)", "Tower Defense", "Auto Battler"],
+      "correctAnswer": "TCG (Trading Card Game)",
+      "explanation": "Os TCGs digitais (Trading Card Games) são jogos de estratégia baseados em construção de decks de cartas. Exemplos populares incluem Hearthstone, Magic: The Gathering Arena e Legends of Runeterra."
+    },
+    {
+      "id": "jogos-7-6",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual jogo de plataforma da Nintendo, lançado em 1997 para N64, introduziu Mario no mundo 3D?",
+      "options": ["Super Mario World", "Super Mario 64", "Super Mario Sunshine", "Super Mario Odyssey"],
+      "correctAnswer": "Super Mario 64",
+      "explanation": "Super Mario 64, lançado em 1996 com o Nintendo 64, foi revolucionário ao levar Mario para o mundo tridimensional. O jogo definiu o padrão para jogos de plataforma 3D e é considerado um dos mais influentes da história."
+    },
+    {
+      "id": "jogos-7-7",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual é o nome do torneio mundial anual de Dota 2, com o maior prêmio da história dos eSports?",
+      "options": ["League World Championship", "ESL One", "The International", "Majors"],
+      "correctAnswer": "The International",
+      "explanation": "The International é o campeonato mundial anual de Dota 2, organizado pela Valve. O prize pool é financiado pela comunidade através de um passe de batalha, tendo chegado a mais de 40 milhões de dólares, o maior da história dos eSports."
+    },
+    {
+      "id": "jogos-7-8",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual jogo de exploração espacial da Hello Games, lançado em 2016, permite explorar quintilhões de planetas gerados proceduralmente?",
+      "options": ["Elite Dangerous", "Outer Wilds", "Starfield", "No Man's Sky"],
+      "correctAnswer": "No Man's Sky",
+      "explanation": "No Man's Sky, lançado pela Hello Games em 2016, usa geração procedural para criar mais de 18 quintilhões de planetas exploráveis. Apesar de um lançamento conturbado, o jogo foi completamente renovado com atualizações gratuitas e se tornou um exemplo de recuperação na indústria."
+    },
+    {
+      "id": "jogos-7-9",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual franquia de jogos de corrida da Polyphony Digital é exclusiva da Sony e é conhecida pelo realismo extremo?",
+      "options": ["Forza Motorsport", "Need for Speed", "Gran Turismo", "Project Cars"],
+      "correctAnswer": "Gran Turismo",
+      "explanation": "Gran Turismo, criada por Kazunori Yamauchi e desenvolvida pela Polyphony Digital, é uma franquia exclusiva PlayStation lançada em 1997. É conhecida pelo realismo na simulação de carros e pistas licenciadas, sendo um dos jogos mais vendidos do PlayStation."
+    },
+    {
+      "id": "jogos-7-10",
+      "category": "jogos",
+      "difficulty": 7,
+      "question": "Qual jogo de terror psicológico da Konami, desenvolvido por Hideo Kojima, foi divulgado apenas como demo chamada 'P.T.'?",
+      "options": ["Silent Hill 2", "Silent Hills", "Silent Hill: Downpour", "Silent Hill: Homecoming"],
+      "correctAnswer": "Silent Hills",
+      "explanation": "Silent Hills foi um jogo cancelado da Konami que seria dirigido por Hideo Kojima e Guillermo del Toro com Norman Reedus como protagonista. A demo jogável 'P.T.' foi lançada em 2014 e criou enorme expectativa, mas o projeto foi cancelado em 2015 após a saída de Kojima da Konami."
     }
   ]
 }

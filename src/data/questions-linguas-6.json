@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Esperanto",
       "explanation": "O Esperanto tem cerca de 2 milhões de falantes e é a língua construída mais bem-sucedida da história, com uma gramática regular e vocabulário baseado em línguas europeias."
+    },
+    {
+      "id": "linguas-6-2",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "O que é uma língua franca?",
+      "options": [
+        "Uma língua falada apenas na França",
+        "Uma língua usada como meio de comunicação entre povos de línguas maternas diferentes",
+        "Uma língua extinta preservada em documentos históricos",
+        "Uma língua criada artificialmente para fins literários"
+      ],
+      "correctAnswer": "Uma língua usada como meio de comunicação entre povos de línguas maternas diferentes",
+      "explanation": "Língua franca é qualquer idioma usado para comunicação entre grupos que não compartilham a mesma língua nativa. Hoje, o inglês exerce esse papel globalmente."
+    },
+    {
+      "id": "linguas-6-3",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "Qual é o nome do sistema de escrita japonês derivado de caracteres chineses simplificados, usado para palavras estrangeiras?",
+      "options": [
+        "Hiragana",
+        "Kanji",
+        "Katakana",
+        "Romaji"
+      ],
+      "correctAnswer": "Katakana",
+      "explanation": "O katakana é um dos três sistemas de escrita japoneses, usado principalmente para transcrever palavras de origem estrangeira, como 'terebi' (televisão) e 'konpyuutaa' (computador)."
+    },
+    {
+      "id": "linguas-6-4",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "O que é um pidgin?",
+      "options": [
+        "Uma língua com gramática completamente irregular",
+        "Uma língua simplificada que surge do contato entre grupos que não compartilham idioma",
+        "Um dialeto regional com vocabulário próprio",
+        "Uma língua morta preservada em textos religiosos"
+      ],
+      "correctAnswer": "Uma língua simplificada que surge do contato entre grupos que não compartilham idioma",
+      "explanation": "Um pidgin é uma língua de contato com gramática e vocabulário simplificados. Quando uma geração passa a crescer falando um pidgin como língua materna, ele se torna um crioulo."
+    },
+    {
+      "id": "linguas-6-5",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "Qual língua semítica é considerada sagrada no Islã e é falada como língua oficial em mais de 20 países?",
+      "options": [
+        "Hebraico",
+        "Aramaico",
+        "Árabe",
+        "Amárico"
+      ],
+      "correctAnswer": "Árabe",
+      "explanation": "O árabe é a língua do Alcorão e língua oficial de 22 países. É falado por mais de 300 milhões de pessoas e tem diversas variedades dialetais regionais."
+    },
+    {
+      "id": "linguas-6-6",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "Como se chama a mudança gradual de uma língua ao longo do tempo por influência de outra?",
+      "options": [
+        "Empréstimo linguístico",
+        "Deriva linguística",
+        "Pidginização",
+        "Glotocronologia"
+      ],
+      "correctAnswer": "Empréstimo linguístico",
+      "explanation": "Empréstimo linguístico ocorre quando uma língua adota palavras, sons ou estruturas de outra. O português tomou muitos empréstimos do árabe, inglês, tupi e outras línguas."
+    },
+    {
+      "id": "linguas-6-7",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "Qual é o nome do estudo das relações de significado entre palavras, como sinonímia e antonímia?",
+      "options": [
+        "Fonologia",
+        "Morfologia",
+        "Semântica",
+        "Sintaxe"
+      ],
+      "correctAnswer": "Semântica",
+      "explanation": "A semântica é o ramo da linguística que estuda o significado das palavras e sentenças, incluindo relações como sinonímia, antonímia, hiponímia e polissemia."
+    },
+    {
+      "id": "linguas-6-8",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "Qual língua europeia é conhecida por ser um isolado linguístico, sem parentesco comprovado com nenhuma outra língua?",
+      "options": [
+        "Finlandês",
+        "Húngaro",
+        "Basco",
+        "Maltês"
+      ],
+      "correctAnswer": "Basco",
+      "explanation": "O basco (euskera), falado nos Pireneus entre Espanha e França, é um isolado linguístico: não tem parentesco comprovado com nenhuma outra língua do mundo."
+    },
+    {
+      "id": "linguas-6-9",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "O que estuda a pragmática linguística?",
+      "options": [
+        "Os sons de uma língua",
+        "A formação de palavras",
+        "O uso da linguagem em contexto",
+        "A estrutura das frases"
+      ],
+      "correctAnswer": "O uso da linguagem em contexto",
+      "explanation": "A pragmática estuda como o contexto influencia a interpretação da linguagem, incluindo implicaturas, atos de fala e a diferença entre o que se diz e o que se quer dizer."
+    },
+    {
+      "id": "linguas-6-10",
+      "category": "linguas",
+      "difficulty": 6,
+      "question": "Qual é o nome do fenômeno em que uma criança aprende dois idiomas simultaneamente desde o nascimento?",
+      "options": [
+        "Poliglotismo",
+        "Bilinguismo simultâneo",
+        "Aquisição sequencial",
+        "Diglossia"
+      ],
+      "correctAnswer": "Bilinguismo simultâneo",
+      "explanation": "Bilinguismo simultâneo ocorre quando a criança é exposta a duas línguas desde o nascimento. Difere do bilinguismo sequencial, em que a segunda língua é aprendida após a primeira já estar estabelecida."
     }
   ]
 }

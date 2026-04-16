@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Latino",
       "explanation": "O alfabeto latino é usado por mais línguas do que qualquer outro, graças à expansão colonial europeia e ao inglês como língua global."
+    },
+    {
+      "id": "linguas-5-2",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "Qual é a língua mais falada do mundo em número de falantes nativos?",
+      "options": [
+        "Inglês",
+        "Espanhol",
+        "Mandarim",
+        "Hindi"
+      ],
+      "correctAnswer": "Mandarim",
+      "explanation": "O mandarim (chinês padrão) tem cerca de 900 milhões de falantes nativos, sendo a língua com maior número de falantes nativos do mundo."
+    },
+    {
+      "id": "linguas-5-3",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "Quantas línguas oficiais a ONU (Organização das Nações Unidas) reconhece?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "6",
+      "explanation": "A ONU tem seis línguas oficiais: árabe, chinês, espanhol, francês, inglês e russo."
+    },
+    {
+      "id": "linguas-5-4",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "O português pertence a qual família linguística?",
+      "options": [
+        "Germânica",
+        "Eslava",
+        "Românica",
+        "Semítica"
+      ],
+      "correctAnswer": "Românica",
+      "explanation": "O português é uma língua românica, derivada do latim vulgar, assim como o espanhol, o francês, o italiano e o romeno."
+    },
+    {
+      "id": "linguas-5-5",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "Qual continente tem o maior número de línguas diferentes faladas?",
+      "options": [
+        "Ásia",
+        "América",
+        "Europa",
+        "África"
+      ],
+      "correctAnswer": "África",
+      "explanation": "A África abriga mais de 2.000 línguas distintas, representando aproximadamente um terço de todas as línguas do mundo."
+    },
+    {
+      "id": "linguas-5-6",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "Como se chama o estudo científico da linguagem humana?",
+      "options": [
+        "Filologia",
+        "Linguística",
+        "Semiótica",
+        "Retórica"
+      ],
+      "correctAnswer": "Linguística",
+      "explanation": "A linguística é a ciência que estuda a linguagem humana em todos os seus aspectos: sons, palavras, estruturas gramaticais, significados e uso social."
+    },
+    {
+      "id": "linguas-5-7",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "Qual das línguas a seguir é considerada uma língua tonal?",
+      "options": [
+        "Árabe",
+        "Japonês",
+        "Mandarim",
+        "Russo"
+      ],
+      "correctAnswer": "Mandarim",
+      "explanation": "O mandarim é uma língua tonal com quatro tons distintos. O significado de uma sílaba muda completamente dependendo do tom utilizado."
+    },
+    {
+      "id": "linguas-5-8",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "Qual é o documento escrito mais antigo conhecido pela humanidade?",
+      "options": [
+        "A Bíblia hebraica",
+        "As tábuas de argila sumérias",
+        "Os papiros egípcios",
+        "O Código de Hamurabi"
+      ],
+      "correctAnswer": "As tábuas de argila sumérias",
+      "explanation": "As tábuas de argila sumérias, com escrita cuneiforme, datam de cerca de 3.400 a.C. e são os registros escritos mais antigos conhecidos."
+    },
+    {
+      "id": "linguas-5-9",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "Qual língua tem o maior número de palavras em seu dicionário oficial?",
+      "options": [
+        "Português",
+        "Espanhol",
+        "Inglês",
+        "Francês"
+      ],
+      "correctAnswer": "Inglês",
+      "explanation": "O inglês possui entre 600.000 e 1 milhão de palavras, dependendo do critério de contagem, sendo considerado o dicionário mais extenso entre as línguas vivas."
+    },
+    {
+      "id": "linguas-5-10",
+      "category": "linguas",
+      "difficulty": 5,
+      "question": "Como se chama a variação de uma língua falada em uma região geográfica específica?",
+      "options": [
+        "Socioleto",
+        "Dialeto",
+        "Idioleto",
+        "Pidgin"
+      ],
+      "correctAnswer": "Dialeto",
+      "explanation": "Dialeto é a variedade de uma língua associada a uma região geográfica. Já socioleto está ligado a grupos sociais e idioleto ao falar individual de uma pessoa."
     }
   ]
 }

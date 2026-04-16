@@ -4,15 +4,141 @@
       "id": "gastronomia-9-1",
       "category": "gastronomia",
       "difficulty": 9,
-      "question": "Na gastronomia molecular, o que é a 'esferificação básica'?",
+      "question": "Na gastronomia molecular, qual técnica usa alginato de sódio e cloreto de cálcio para criar esferas com membrana gelatinosa e interior líquido?",
       "options": [
-        "Criação de espumas com lecitina de soja",
-        "Técnica de gelificação com nitrogênio líquido",
-        "Técnica que usa alginato de sódio e cloreto de cálcio para criar esferas com interior líquido",
-        "Emulsificação de gorduras com goma xantana"
+        "Espumas com lecitina",
+        "Gelificação com agar",
+        "Emulsificação com xantana",
+        "Esferificação básica"
       ],
-      "correctAnswer": "Técnica que usa alginato de sódio e cloreto de cálcio para criar esferas com interior líquido",
-      "explanation": "A esferificação básica (desenvolvida por Ferran Adrià) mergulha líquido com alginato em banho de cálcio, criando uma membrana gelatinosa ao redor do líquido."
+      "correctAnswer": "Esferificação básica",
+      "explanation": "A esferificação básica (desenvolvida por Ferran Adrià) mergulha líquido com alginato em banho de cloreto de cálcio, formando membrana gelatinosa. A esferificação reversa usa cálcio no líquido e alginato no banho, criando esferas sem gelificação interna."
+    },
+    {
+      "id": "gastronomia-9-2",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Como se chama o processo de emulsionar gordura infundida com aromas em bebidas alcoólicas pelo congelamento e separação das fases?",
+      "options": [
+        "Rotaevaporação",
+        "Destilação a vácuo",
+        "Fat washing",
+        "Centrifugação lipídica"
+      ],
+      "correctAnswer": "Fat washing",
+      "explanation": "No fat washing, gordura aromatizada (ex.: manteiga de amendoim, bacon) é misturada ao destilado, depois congelada para solidificar a gordura e separá-la do líquido infundido. Técnica amplamente usada em coquetelaria de alto nível."
+    },
+    {
+      "id": "gastronomia-9-3",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Qual é a principal diferença entre foie gras de pato e foie gras de ganso na gastronomia francesa?",
+      "options": [
+        "Método de engorda",
+        "Região de produção",
+        "Textura e intensidade",
+        "Legalidade de produção"
+      ],
+      "correctAnswer": "Textura e intensidade",
+      "explanation": "O foie gras de ganso (oie) tem sabor mais delicado, textura mais sedosa e preço mais elevado. O de pato (canard) é mais intenso, com notas ferrosas e é o mais consumido atualmente. Ambos são produzidos pelo gavage (alimentação forçada)."
+    },
+    {
+      "id": "gastronomia-9-4",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Qual é o nome do processo de destilação a pressão reduzida que extrai aromas voláteis de alimentos sem calor excessivo?",
+      "options": [
+        "Cromatografia gasosa",
+        "Liofilização",
+        "Rotaevaporação",
+        "Extração supercrítica"
+      ],
+      "correctAnswer": "Rotaevaporação",
+      "explanation": "O rotaevaporador (rotovap) reduz a pressão, abaixando o ponto de ebulição dos solventes. Permite extrair aromas de flores, frutas e ervas a 30-40°C, preservando compostos voláteis sensíveis ao calor. Usada em alta gastronomia e coquetelaria."
+    },
+    {
+      "id": "gastronomia-9-5",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Qual é o nome do corte de carne bovina americano retirado entre a 6ª e 12ª costela, famoso por sua marmoreação intensa?",
+      "options": [
+        "New York strip",
+        "T-bone",
+        "Tomahawk",
+        "Ribeye"
+      ],
+      "correctAnswer": "Ribeye",
+      "explanation": "O ribeye (ou entrecôte) é retirado do contrafilé com costela, entre a 6ª e 12ª costela. Sua marmoreação (gordura intramuscular) se funde durante o cozimento, conferindo suculência e sabor intensos. O tomahawk é um ribeye com costela longa."
+    },
+    {
+      "id": "gastronomia-9-6",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Como se chama a técnica de cozinha nórdica de fermentar peixe por semanas em salmoura até atingir textura e aroma muito intensos?",
+      "options": [
+        "Gravlax",
+        "Lutefisk",
+        "Rakfisk",
+        "Surströmming"
+      ],
+      "correctAnswer": "Surströmming",
+      "explanation": "O surströmming é arenque do Báltico fermentado por meses em salmoura levemente salgada. O processo de fermentação bacteriana produz ácidos e compostos sulfurados, resultando no aroma considerado um dos mais intensos de qualquer alimento no mundo."
+    },
+    {
+      "id": "gastronomia-9-7",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Qual é o nome da classificação oficial de carnes bovinas japonesas baseada em marmoreação, cor e textura, que distingue o wagyu A5?",
+      "options": [
+        "BMS Score",
+        "JMGA Grade",
+        "Wagyu Index",
+        "Kobe Certification"
+      ],
+      "correctAnswer": "BMS Score",
+      "explanation": "O BMS (Beef Marbling Standard) é a escala de 1 a 12 usada pela JMGA para classificar a marmoreação do wagyu japonês. O grau A5 com BMS 10-12 é o nível máximo, com gordura intramuscular extremamente densa e textura quase gordurosa."
+    },
+    {
+      "id": "gastronomia-9-8",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Qual é a diferença fundamental entre a fermentação láctica e a fermentação alcoólica em alimentos?",
+      "options": [
+        "Temperatura de processo",
+        "Microrganismo responsável",
+        "Produto final diferente",
+        "Substrato utilizado"
+      ],
+      "correctAnswer": "Produto final diferente",
+      "explanation": "Na fermentação láctica (bactérias como Lactobacillus), o piruvato converte-se em ácido lático — base do iogurte, kimchi e queijo. Na alcoólica (leveduras como Saccharomyces), converte-se em etanol e CO₂ — base de vinhos, cervejas e pães."
+    },
+    {
+      "id": "gastronomia-9-9",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Qual é o nome do método de cozimento indireto em forno de barro hermético, tradicional no México, usado para o barbacoa?",
+      "options": [
+        "Pibil",
+        "Horno de tierra",
+        "Comal",
+        "Cajita china"
+      ],
+      "correctAnswer": "Horno de tierra",
+      "explanation": "O horno de tierra é um forno escavado no solo com brasas e pedras quentes, onde a carne é cozida selada por horas. O barbacoa de borrego (cordeiro) e o cochinita pibil yucateco usam variações desse método de calor indireto."
+    },
+    {
+      "id": "gastronomia-9-10",
+      "category": "gastronomia",
+      "difficulty": 9,
+      "question": "Como se chama o processo de criar emulsões estáveis usando proteínas do leite como emulsificantes, como na manteiga clarificada (ghee)?",
+      "options": [
+        "Saponificação",
+        "Lecitinização",
+        "Clarificação da manteiga",
+        "Transesterificação"
+      ],
+      "correctAnswer": "Clarificação da manteiga",
+      "explanation": "A clarificação remove água e sólidos do leite (proteínas e lactose) da manteiga por aquecimento e decantação, resultando em gordura pura. O ghee indiano é levado além — os sólidos do leite são caramelizados antes da remoção, adicionando sabor de nozes."
     }
   ]
 }

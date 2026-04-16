@@ -7,12 +7,138 @@
       "question": "Qual processo de cocção consiste em cozinhar alimentos a vácuo em temperatura precisa e controlada por longo período?",
       "options": [
         "Confitar",
-        "Sous vide",
         "Brasear",
+        "Sous vide",
         "Escaldar"
       ],
       "correctAnswer": "Sous vide",
-      "explanation": "Sous vide (em francês: 'sob vácuo') é uma técnica em que o alimento é selado e cozido em banho-maria com temperatura exata."
+      "explanation": "Sous vide (em francês: 'sob vácuo') é uma técnica em que o alimento é selado e cozido em banho-maria com temperatura exata, preservando sucos e texturas."
+    },
+    {
+      "id": "gastronomia-5-2",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Qual é o nome do molho francês clássico feito com manteiga emulsionada em redução de vinho branco, vinagre e echalotes?",
+      "options": [
+        "Hollandaise",
+        "Velouté",
+        "Béchamel",
+        "Beurre blanc"
+      ],
+      "correctAnswer": "Beurre blanc",
+      "explanation": "O beurre blanc é um molho emulsionado frio feito montando manteiga fria em pedaços numa redução ácida. É a base de muitos pratos de peixe da cozinha francesa clássica."
+    },
+    {
+      "id": "gastronomia-5-3",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Como se chama a técnica de grelhar carne em temperatura altíssima para criar uma crosta dourada antes de terminar o cozimento?",
+      "options": [
+        "Brasear",
+        "Pochê",
+        "Refogar",
+        "Selar"
+      ],
+      "correctAnswer": "Selar",
+      "explanation": "Selar a carne em temperatura muito alta (acima de 180°C) cria a crosta pelo efeito Maillard, desenvolvendo sabor e cor. O benefício é puramente de sabor e textura."
+    },
+    {
+      "id": "gastronomia-5-4",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Qual é o nome do corte francês de vegetais em cubos uniformes de aproximadamente 5mm de lado?",
+      "options": [
+        "Chiffonade",
+        "Julienne",
+        "Macedônia",
+        "Brunoise"
+      ],
+      "correctAnswer": "Brunoise",
+      "explanation": "Brunoise é o corte em cubos de 1-3mm (fine) ou 5mm (regular), obtido a partir do corte em julienne picado transversalmente. Usado em molhos, sopas e guarnições."
+    },
+    {
+      "id": "gastronomia-5-5",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Qual ingrediente japonês, produzido pela fermentação de soja com koji, é fundamental para sopas e marinadas?",
+      "options": [
+        "Shoyu",
+        "Dashi",
+        "Mirin",
+        "Missô"
+      ],
+      "correctAnswer": "Missô",
+      "explanation": "O missô é uma pasta fermentada de origem japonesa com sabor umami intenso. Existem variedades claras (shiro), médias (awase) e escuras (aka), com perfis distintos conforme o tempo de fermentação."
+    },
+    {
+      "id": "gastronomia-5-6",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Como se chama a técnica de cozinhar vegetais em água fervente e resfriá-los em gelo para preservar cor e textura?",
+      "options": [
+        "Confitar",
+        "Escalfar",
+        "Refogar",
+        "Branquear"
+      ],
+      "correctAnswer": "Branquear",
+      "explanation": "Branquear (blanching) consiste em mergulhar o alimento em água fervente salgada por poucos minutos e em seguida em água com gelo. Preserva a cor vibrante e interrompe a ação enzimática."
+    },
+    {
+      "id": "gastronomia-5-7",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Qual país de origem é reconhecido pelo prato ceviche, declarado Patrimônio Cultural da Nação?",
+      "options": [
+        "México",
+        "Chile",
+        "Equador",
+        "Peru"
+      ],
+      "correctAnswer": "Peru",
+      "explanation": "O ceviche é um prato tradicional peruano de peixe cru marinado em suco de limão, ají amarelo e cebola roxa. O Peru o reconheceu como Patrimônio Cultural da Nação em 2004."
+    },
+    {
+      "id": "gastronomia-5-8",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Como se chama o envelhecimento de carne bovina exposta ao ar controlado por semanas, que concentra sabor e amacia a textura?",
+      "options": [
+        "Maturação úmida",
+        "Cura a seco",
+        "Confitagem",
+        "Dry aging"
+      ],
+      "correctAnswer": "Dry aging",
+      "explanation": "No dry aging, a carne é mantida em câmara com temperatura, umidade e circulação de ar controlados por 21-120+ dias. A evaporação concentra o sabor e enzimas naturais amaciam as fibras."
+    },
+    {
+      "id": "gastronomia-5-9",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Qual é o nome do caldo japonês fundamental feito de alga kombu e flocos de bonito seco (katsuobushi)?",
+      "options": [
+        "Tsuyu",
+        "Ponzu",
+        "Shio",
+        "Dashi"
+      ],
+      "correctAnswer": "Dashi",
+      "explanation": "O dashi é o caldo base da culinária japonesa, rico em glutamato (kombu) e inosinato (katsuobushi), criando umami intenso. É a base do missoshiru, do ramen e de muitos molhos japoneses."
+    },
+    {
+      "id": "gastronomia-5-10",
+      "category": "gastronomia",
+      "difficulty": 5,
+      "question": "Qual é a técnica francesa que consiste em cozinhar lentamente alimentos submersos em gordura (pato ou banha) a baixa temperatura?",
+      "options": [
+        "Brasear",
+        "Escalfar",
+        "Saltear",
+        "Confitar"
+      ],
+      "correctAnswer": "Confitar",
+      "explanation": "Confitar (confit) é cozinhar lentamente em gordura a 70-90°C. O método clássico é o confit de canard (perna de pato). A gordura preserva e confere textura sedosa e sabor rico."
     }
   ]
 }

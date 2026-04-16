@@ -5,14 +5,90 @@
       "category": "jogos",
       "difficulty": 9,
       "question": "Qual é o nome do fenômeno em design de jogos descrito por Jenova Chen em sua tese de mestrado, que se refere à zona de equilíbrio entre ansiedade e tédio que mantém o jogador engajado?",
-      "options": [
-        "Core loop",
-        "Flow state",
-        "Feedback loop",
-        "Skinner Box"
-      ],
+      "options": ["Core loop", "Flow state", "Feedback loop", "Skinner Box"],
       "correctAnswer": "Flow state",
       "explanation": "Jenova Chen adaptou o conceito de 'flow' do psicólogo Mihaly Csikszentmihalyi para jogos: o estado ótimo de engajamento entre desafio e habilidade."
+    },
+    {
+      "id": "jogos-9-2",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual é o nome do conceito de design onde o jogo ensina suas mecânicas implicitamente, sem tutoriais explícitos, através do ambiente e das consequências das ações?",
+      "options": ["Onboarding progressivo", "Environmental storytelling", "Emergent gameplay", "Affordance design"],
+      "correctAnswer": "Affordance design",
+      "explanation": "Affordance design, aplicado a jogos, refere-se ao design de elementos do mundo que comunicam intuitivamente sua função ao jogador sem instrução direta. Por exemplo, um cogumelo vermelho em Super Mario Bros. comunica visualmente que é colecionável. O conceito foi originalmente proposto pelo psicólogo James J. Gibson."
+    },
+    {
+      "id": "jogos-9-3",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual designer foi responsável por criar a filosofia de 'Nintendo's Design Pillars', que prioriza a surpresa e a diversão sobre a fidelidade gráfica?",
+      "options": ["Satoru Iwata", "Gunpei Yokoi", "Shigeru Miyamoto", "Eiji Aonuma"],
+      "correctAnswer": "Shigeru Miyamoto",
+      "explanation": "Shigeru Miyamoto, criador de Mario, Zelda, Donkey Kong e Pikmin, é a mente por trás da filosofia de design da Nintendo que prioriza interatividade, surpresa e diversão acessível. Sua abordagem influenciou toda a indústria e estabeleceu o padrão para design de jogos centrado no jogador."
+    },
+    {
+      "id": "jogos-9-4",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual é o nome do fenômeno onde o jogador descobre mecânicas não intencionadas pelo desenvolvedor que geram experiências únicas?",
+      "options": ["Exploit", "Glitch hunting", "Emergent gameplay", "Speedrunning"],
+      "correctAnswer": "Emergent gameplay",
+      "explanation": "Emergent gameplay refere-se a situações de jogo não planejadas que surgem da interação entre sistemas do jogo. Por exemplo, em The Legend of Zelda: Breath of the Wild, a física e a química do jogo permitem que jogadores criem soluções criativas não previstas pelos desenvolvedores."
+    },
+    {
+      "id": "jogos-9-5",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual empresa japonesa desenvolveu o motor gráfico RE Engine, usado em Resident Evil Village, Devil May Cry 5 e Monster Hunter Rise?",
+      "options": ["Konami", "Square Enix", "Capcom", "Bandai Namco"],
+      "correctAnswer": "Capcom",
+      "explanation": "O RE Engine foi desenvolvido internamente pela Capcom e apresentado ao público com Resident Evil 7 (2017). O motor foi projetado para suportar realidade virtual e renderização fotorrealista, tornando-se a base de todos os grandes jogos da Capcom desde então."
+    },
+    {
+      "id": "jogos-9-6",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual é o nome do conceito de narrativa interativa onde as escolhas do jogador moldam permanentemente o estado do mundo do jogo?",
+      "options": ["Narrativa ramificada", "Cutscene interativa", "Narrativa procedural", "Consequência narrativa"],
+      "correctAnswer": "Narrativa ramificada",
+      "explanation": "A narrativa ramificada é uma estrutura narrativa onde as decisões do jogador levam a diferentes caminhos e desfechos na história. Jogos como Detroit: Become Human, The Walking Dead (Telltale) e Disco Elysium são exemplos de narrativas ramificadas com alto grau de agência do jogador."
+    },
+    {
+      "id": "jogos-9-7",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual é o nome do processo técnico onde múltiplos frames são renderizados e combinados para reduzir o aliasing visual em bordas de polígonos?",
+      "options": ["Ray tracing", "Anti-aliasing", "Ambient occlusion", "Tessellation"],
+      "correctAnswer": "Anti-aliasing",
+      "explanation": "Anti-aliasing é uma técnica de processamento gráfico que suaviza os degraus visíveis nas bordas de objetos 3D (serrilhado). As principais técnicas incluem MSAA, FXAA, TAA e DLSS (Deep Learning Super Sampling da NVIDIA), cada uma com diferentes compromissos entre qualidade e desempenho."
+    },
+    {
+      "id": "jogos-9-8",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual jogo independente de 2018 da Supergiant Games é um roguelike baseado na mitologia grega onde o jogador faz o papel do filho de Hades tentando escapar do submundo?",
+      "options": ["Pyre", "Transistor", "Bastion", "Hades"],
+      "correctAnswer": "Hades",
+      "explanation": "Hades, desenvolvido pela Supergiant Games e lançado em 2020 após Early Access em 2018, é um roguelike de ação onde Zagreus, filho de Hades, tenta escapar do submundo. O jogo inovou ao integrar a narrativa diretamente ao loop de roguelike, com a história progredindo a cada tentativa de fuga."
+    },
+    {
+      "id": "jogos-9-9",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual é o nome do sistema de inteligência artificial em jogos que controla o comportamento de grupos de inimigos de forma coordenada, simulando táticas militares?",
+      "options": ["Pathfinding A*", "Behavior Tree", "Squad AI", "Finite State Machine"],
+      "correctAnswer": "Behavior Tree",
+      "explanation": "Behavior Trees são estruturas de dados hierárquicas usadas para modelar comportamentos complexos de NPCs em jogos. Substituíram as máquinas de estado finito por serem mais flexíveis e escaláveis, e são amplamente utilizadas em jogos como Halo, Gears of War e The Last of Us para controlar o comportamento coordenado de inimigos."
+    },
+    {
+      "id": "jogos-9-10",
+      "category": "jogos",
+      "difficulty": 9,
+      "question": "Qual é o nome da prática de speedrunning onde o jogador completa um jogo do início ao fim sem morrer nenhuma vez?",
+      "options": ["Any%", "No major glitches", "No hit run", "Deathless run"],
+      "correctAnswer": "Deathless run",
+      "explanation": "Uma deathless run (ou no-death run) é uma categoria de speedrunning onde o jogador deve completar um jogo sem morrer nenhuma vez. É especialmente desafiadora em jogos como Dark Souls e Hollow Knight, onde a dificuldade é intensa. A categoria 'no hit' é ainda mais restrita, proibindo qualquer dano recebido."
     }
   ]
 }

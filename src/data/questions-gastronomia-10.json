@@ -4,15 +4,141 @@
       "id": "gastronomia-10-1",
       "category": "gastronomia",
       "difficulty": 10,
-      "question": "Qual é o nome do método de fermentação dupla japonês que produz o molho de soja tradicional, envolvendo o fungo Aspergillus oryzae, fermento e bactérias lácticas durante meses?",
+      "question": "Qual é o método japonês de fermentação dupla com Aspergillus oryzae que é a base do shoyu, missô e sake?",
       "options": [
         "Tsukemono",
-        "Koji fermentation",
         "Natto fermentation",
-        "Shio-koji process"
+        "Shio-koji process",
+        "Koji fermentation"
       ],
       "correctAnswer": "Koji fermentation",
-      "explanation": "A fermentação com koji (Aspergillus oryzae) é a base do shoyu, missô, sake e mirin. O fungo produz enzimas que decompõem proteínas e amidos."
+      "explanation": "A fermentação com koji (Aspergillus oryzae) produz enzimas proteases e amilases que decompõem proteínas em aminoácidos e amidos em açúcares. É a base do shoyu, missô, sake, mirin e amazake — pilares da culinária japonesa."
+    },
+    {
+      "id": "gastronomia-10-2",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Qual é o nome do processo de cozimento de carne em vácuo com aumento progressivo de temperatura, que resulta em pasteurização sem desnaturação excessiva?",
+      "options": [
+        "Brasagem a vácuo",
+        "Delta-T cooking",
+        "Low temperature cooking",
+        "Sous vide pasteurização"
+      ],
+      "correctAnswer": "Delta-T cooking",
+      "explanation": "No delta-T cooking, o forno aumenta sua temperatura gradualmente junto com a temperatura interna da carne, mantendo diferença constante. Resulta em cozimento uniforme do centro à superfície, sem gradiente de temperatura — ideal para assados grandes."
+    },
+    {
+      "id": "gastronomia-10-3",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Como se chama o processo de acidificação do vinho onde bactérias convertem ácido málico (agressivo) em ácido láctico (suave)?",
+      "options": [
+        "Fermentação alcoólica",
+        "Fermentação acética",
+        "Fermentação maloláctica",
+        "Refermentação na garrafa"
+      ],
+      "correctAnswer": "Fermentação maloláctica",
+      "explanation": "A fermentação maloláctica (FML) é realizada por bactérias lácticas (como Oenococcus oeni) após a fermentação alcoólica. Reduz a acidez total do vinho e adiciona notas cremosas de manteiga (diacetil), sendo comum em Chardonnays de barrica."
+    },
+    {
+      "id": "gastronomia-10-4",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Qual é o nome da técnica de alta cozinha nórdica de fermentar alimentos em ambiente controlado de salicórnia e musgo para criar terroir comestível?",
+      "options": [
+        "Lacto-fermentação",
+        "Koji aging",
+        "Garum moderno",
+        "Terroir fermentation"
+      ],
+      "correctAnswer": "Garum moderno",
+      "explanation": "Inspirado no garum romano (molho de peixe fermentado), René Redzepi do Noma popularizou o garum moderno: fermentação de proteínas animais com koji em temperatura controlada por semanas, resultando em condimento umami extremamente concentrado."
+    },
+    {
+      "id": "gastronomia-10-5",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Qual processo químico de rancificação de gorduras, acelerado por luz e calor, degrada ácidos graxos insaturados e produz aldeídos e cetonas de sabor desagradável?",
+      "options": [
+        "Hidrólise enzimática",
+        "Saponificação",
+        "Oxidação lipídica",
+        "Lipolise microbiana"
+      ],
+      "correctAnswer": "Oxidação lipídica",
+      "explanation": "A oxidação lipídica (auto-oxidação) ocorre em cadeia: radicais livres atacam ácidos graxos insaturados, formando peróxidos que se degradam em aldeídos, cetonas e ácidos de baixo peso molecular responsáveis pelo sabor e odor de ranço."
+    },
+    {
+      "id": "gastronomia-10-6",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Qual é o nome do método de maturação de queijos onde são inoculados com Penicillium roqueforti por agulhas para criar as veias azuis?",
+      "options": [
+        "Affinage traditionnel",
+        "Cave ripening",
+        "Needling",
+        "Croûtage"
+      ],
+      "correctAnswer": "Needling",
+      "explanation": "Needling é o processo de perfurar o queijo com agulhas longas para criar canais de ar que permitem ao Penicillium roqueforti crescer no interior, formando as características veias azul-esverdeadas. O ar é essencial para o fungo aeróbico se desenvolver."
+    },
+    {
+      "id": "gastronomia-10-7",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Qual é o nome da reação de Maillard invertida que ocorre em alimentos ricos em amido expostos a altas temperaturas, formando acrilamida?",
+      "options": [
+        "Pirólise do amido",
+        "Caramelização degradativa",
+        "Dextrinização",
+        "Formação de acrilamida"
+      ],
+      "correctAnswer": "Formação de acrilamida",
+      "explanation": "A acrilamida se forma pela reação entre asparagina (aminoácido) e açúcares redutores em alimentos ricos em amido acima de 120°C (batatas fritas, biscoitos, pão tostado). É considerada potencialmente carcinogênica e regulamentada em alimentos processados."
+    },
+    {
+      "id": "gastronomia-10-8",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Como se chama a técnica de alta gastronomia de criar géis termorreversíveis que solidificam a frio e fundem com o calor do corpo, usada com metilcelulose?",
+      "options": [
+        "Gelificação reversa",
+        "Agar quente-frio",
+        "Fluid gel",
+        "Gelificação inversa"
+      ],
+      "correctAnswer": "Gelificação reversa",
+      "explanation": "A metilcelulose tem comportamento oposto aos géis convencionais: fica líquida na geladeira e sólida em temperatura ambiente ou acima. Permite criar sorvetes quentes, molhos que solidificam ao servir e outras criações que subvertem expectativas sensoriais."
+    },
+    {
+      "id": "gastronomia-10-9",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Qual é o nome do processo de liofilização aplicado a alimentos para remoção de umidade por sublimação, preservando estrutura e nutrientes?",
+      "options": [
+        "Spray drying",
+        "Desidratação osmótica",
+        "Freeze drying",
+        "Atomização"
+      ],
+      "correctAnswer": "Freeze drying",
+      "explanation": "No freeze drying (liofilização), o alimento é congelado a -40°C e submetido a vácuo. A água sublima (passa de sólido a vapor), preservando estrutura celular, cor, nutrientes e aroma com muito mais fidelidade que a secagem convencional."
+    },
+    {
+      "id": "gastronomia-10-10",
+      "category": "gastronomia",
+      "difficulty": 10,
+      "question": "Como se chama o fenômeno sensorial em que a expectativa visual e contextual altera a percepção real do sabor de um alimento?",
+      "options": [
+        "Efeito halo",
+        "Sinestesia gustativa",
+        "Expectation bias",
+        "Crossmodal perception"
+      ],
+      "correctAnswer": "Crossmodal perception",
+      "explanation": "A percepção crossmodal (multissensorial) mostra que cor, som, temperatura e contexto alteram o sabor percebido. Ex.: vinho branco tingido de vermelho é descrito com notas frutadas vermelhas; música aguda intensifica doçura. Base da experiência gastronômica imersiva de chefs como Heston Blumenthal."
     }
   ]
 }

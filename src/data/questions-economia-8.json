@@ -4,91 +4,91 @@
       "id": "economia-8-1",
       "category": "economia",
       "difficulty": 8,
-      "question": "O trilema de Mundell-Fleming afirma que um país não pode ter simultaneamente câmbio fixo, livre mobilidade de capitais e o quê?",
-      "options": ["Déficit fiscal zero", "Pleno emprego", "Política monetária autônoma", "Inflação controlada"],
-      "correctAnswer": "Política monetária autônoma",
-      "explanation": "O trilema impossível diz que de três objetivos — câmbio fixo, mobilidade de capital e autonomia monetária — apenas dois podem coexistir simultaneamente."
+      "question": "No Trilema de Mundell-Fleming, quais três elementos são incompatíveis simultaneamente?",
+      "options": ["Câmbio, capital, moeda", "Câmbio, fiscal, moeda", "Inflação, juros, câmbio", "Comércio, capital, fiscal"],
+      "correctAnswer": "Câmbio, capital, moeda",
+      "explanation": "O Trilema impossível afirma que câmbio fixo, livre mobilidade de capitais e política monetária autônoma não podem coexistir: um país precisa abrir mão de um deles."
     },
     {
       "id": "economia-8-2",
       "category": "economia",
       "difficulty": 8,
-      "question": "Qual é o nome da hipótese que afirma que os preços dos ativos refletem toda informação disponível, impossibilitando ganhos consistentes acima do mercado?",
-      "options": ["Hipótese de Keynes", "Hipótese dos mercados eficientes", "Teoria do passeio aleatório", "Hipótese de Minsky"],
-      "correctAnswer": "Hipótese dos mercados eficientes",
-      "explanation": "A Hipótese dos Mercados Eficientes (Eugene Fama, 1970) afirma que os preços incorporam toda informação disponível, tornando impossível 'bater o mercado' de forma consistente."
+      "question": "O que é a armadilha da liquidez keynesiana?",
+      "options": ["Juros zero ineficazes", "Deflação persistente", "Recessão prolongada", "Câmbio fixo"],
+      "correctAnswer": "Juros zero ineficazes",
+      "explanation": "A armadilha da liquidez ocorre quando os juros próximos de zero tornam a política monetária ineficaz, pois as pessoas preferem reter moeda a aplicar em títulos."
     },
     {
       "id": "economia-8-3",
       "category": "economia",
       "difficulty": 8,
-      "question": "Como se chama a teoria que sugere que crises financeiras emergem de períodos de estabilidade que encorajam especulação excessiva?",
-      "options": ["Teoria de Fisher", "Hipótese de Minsky", "Teoria dos ciclos reais", "Modelo de Diamond-Dybvig"],
-      "correctAnswer": "Hipótese de Minsky",
-      "explanation": "Hyman Minsky propôs que a estabilidade gera instabilidade: agentes assumem riscos crescentes em períodos de bonança, criando fragilidade financeira que culmina em crise (momento Minsky)."
+      "question": "Quem desenvolveu a teoria das expectativas racionais?",
+      "options": ["Robert Lucas", "Milton Friedman", "Edmund Phelps", "Robert Solow"],
+      "correctAnswer": "Robert Lucas",
+      "explanation": "Robert Lucas desenvolveu as expectativas racionais nos anos 1970, argumentando que agentes usam toda informação disponível para prever variáveis econômicas, neutralizando políticas sistemáticas."
     },
     {
       "id": "economia-8-4",
       "category": "economia",
       "difficulty": 8,
-      "question": "Qual é o nome do teorema que afirma que, na ausência de custos de transação, a alocação de direitos de propriedade é eficiente independente de quem os detém?",
-      "options": ["Teorema de Arrow", "Teorema de Coase", "Teorema de Modigliani-Miller", "Teorema de Pigou"],
-      "correctAnswer": "Teorema de Coase",
-      "explanation": "O Teorema de Coase (Ronald Coase, 1960) afirma que, sem custos de transação, negociações privadas resolvem externalidades eficientemente, independentemente da alocação inicial de direitos."
+      "question": "No modelo de crescimento de Solow, o que determina o crescimento de longo prazo?",
+      "options": ["Capital e tecnologia", "Trabalho e capital", "Poupança e consumo", "Exportação e importação"],
+      "correctAnswer": "Capital e tecnologia",
+      "explanation": "No modelo de Solow (1956), o crescimento de longo prazo é determinado pelo progresso tecnológico exógeno, enquanto capital e trabalho explicam o crescimento de curto/médio prazo."
     },
     {
       "id": "economia-8-5",
       "category": "economia",
       "difficulty": 8,
-      "question": "Qual é o nome do paradoxo em que os EUA, sendo capital-intensivos, exportavam bens trabalho-intensivos, contrariando o teorema de Heckscher-Ohlin?",
-      "options": ["Paradoxo de Giffen", "Paradoxo de Leontief", "Paradoxo de Veblen", "Paradoxo de Triffin"],
-      "correctAnswer": "Paradoxo de Leontief",
-      "explanation": "Wassily Leontief (1953) verificou empiricamente que os EUA, abundantes em capital, exportavam bens intensivos em trabalho, contradizendo o modelo H-O de dotação de fatores."
+      "question": "Os Ciclos Reais de Negócios (RBC) atribuem as flutuações econômicas a quê?",
+      "options": ["Choques tecnológicos", "Choques de demanda", "Política monetária", "Ciclos keynesianos"],
+      "correctAnswer": "Choques tecnológicos",
+      "explanation": "A teoria dos RBC, de Kydland e Prescott (1982), sustenta que os ciclos econômicos são respostas ótimas dos agentes a choques tecnológicos reais, sem papel relevante para política monetária."
     },
     {
       "id": "economia-8-6",
       "category": "economia",
       "difficulty": 8,
-      "question": "Como se chama o modelo de precificação de ativos que relaciona retorno esperado com o risco sistemático (beta) do ativo?",
-      "options": ["Modelo de Black-Scholes", "CAPM", "Modelo APT", "Modelo de Sharpe"],
-      "correctAnswer": "CAPM",
-      "explanation": "O Capital Asset Pricing Model (CAPM) de Sharpe-Lintner afirma que o retorno esperado de um ativo é igual à taxa livre de risco mais um prêmio pelo risco sistemático (beta)."
+      "question": "Quem criou o modelo de precificação de opções financeiras?",
+      "options": ["Black e Scholes", "Merton e Black", "Fisher e Black", "Scholes e Merton"],
+      "correctAnswer": "Black e Scholes",
+      "explanation": "Fischer Black e Myron Scholes publicaram o modelo Black-Scholes em 1973, revolucionando a precificação de derivativos. Robert Merton expandiu o modelo e partilhou o Nobel com Scholes em 1997."
     },
     {
       "id": "economia-8-7",
       "category": "economia",
       "difficulty": 8,
-      "question": "Qual é o nome do fenômeno em que países ricos em recursos naturais tendem a ter crescimento econômico mais lento?",
-      "options": ["Maldição dos recursos", "Doença holandesa", "Armadilha da pobreza", "Paradoxo de Prebisch"],
-      "correctAnswer": "Maldição dos recursos",
-      "explanation": "A 'maldição dos recursos' (resource curse) descreve como abundância de recursos naturais pode levar a instituições fracas, conflito e crescimento abaixo do esperado."
+      "question": "O que descreve o efeito Fisher?",
+      "options": ["Juros e inflação", "Câmbio e juros", "Poupança e juros", "Moeda e preços"],
+      "correctAnswer": "Juros e inflação",
+      "explanation": "O efeito Fisher postula que a taxa de juros nominal se ajusta um para um com a inflação esperada, de modo que a taxa de juros real permanece constante no longo prazo."
     },
     {
       "id": "economia-8-8",
       "category": "economia",
       "difficulty": 8,
-      "question": "Como se chama a hipótese de que consumidores baseiam seu consumo em uma renda média esperada ao longo da vida, não apenas na renda atual?",
-      "options": ["Teoria da renda absoluta", "Hipótese da renda permanente", "Teoria do ciclo de vida", "Hipótese da poupança precaucional"],
-      "correctAnswer": "Hipótese da renda permanente",
-      "explanation": "Milton Friedman (1957) propôs que o consumo depende da renda permanente (média esperada de longo prazo), não da renda transitória. Isso explica por que cortes de impostos temporários têm pouco efeito no consumo."
+      "question": "O que afirma o Teorema de Modigliani-Miller?",
+      "options": ["Estrutura de capital", "Dividendos e valor", "Risco e retorno", "Custo do capital"],
+      "correctAnswer": "Estrutura de capital",
+      "explanation": "O Teorema de Modigliani-Miller (1958) afirma que, em mercados perfeitos sem impostos, a estrutura de capital (proporção entre dívida e capital próprio) não afeta o valor da empresa."
     },
     {
       "id": "economia-8-9",
       "category": "economia",
       "difficulty": 8,
-      "question": "Qual é o nome da teoria que afirma que estrutura de capital (dívida vs. capital próprio) não afeta o valor da firma em mercados perfeitos?",
-      "options": ["Teoria da pecking order", "Teorema de Modigliani-Miller", "Teoria do trade-off", "Teoria da agência"],
-      "correctAnswer": "Teorema de Modigliani-Miller",
-      "explanation": "Modigliani e Miller (1958) demonstraram que, sem impostos e custos de falência, o valor da firma independe de como ela se financia; a estrutura de capital é irrelevante."
+      "question": "O Paradoxo de Leontief observou que os EUA exportavam bens com qual característica?",
+      "options": ["Intensivos em trabalho", "Intensivos em capital", "Alta tecnologia", "Baixo valor agregado"],
+      "correctAnswer": "Intensivos em trabalho",
+      "explanation": "Leontief (1953) verificou que os EUA, país abundante em capital, exportavam bens relativamente intensivos em trabalho, contrariando a teoria Heckscher-Ohlin."
     },
     {
       "id": "economia-8-10",
       "category": "economia",
       "difficulty": 8,
-      "question": "Como se chama o fenômeno em que a apreciação da moeda causada por exportações de recursos naturais prejudica outros setores exportadores?",
-      "options": ["Maldição dos recursos", "Doença holandesa", "Efeito Balassa-Samuelson", "Paradoxo de Prebisch"],
-      "correctAnswer": "Doença holandesa",
-      "explanation": "A doença holandesa surgiu quando a Holanda descobriu gás natural nos anos 1960: a entrada de divisas valorizou o florim, desindustrializando o país. O mesmo ocorre em países exportadores de commodities."
+      "question": "O que afirma a hipótese de mercados eficientes (HME)?",
+      "options": ["Preços refletem informações", "Mercados são perfeitos", "Arbitragem é impossível", "Bolsas são racionais"],
+      "correctAnswer": "Preços refletem informações",
+      "explanation": "A HME de Eugene Fama (1970) postula que os preços dos ativos refletem toda informação disponível, tornando impossível obter retornos acima do mercado de forma consistente."
     }
   ]
 }

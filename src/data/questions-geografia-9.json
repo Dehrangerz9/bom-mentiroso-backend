@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Ilhas Kiribati",
       "explanation": "As Ilhas Kiribati fazem a linha de datação fazer um desvio para leste de modo que todo o arquipélago fique no mesmo dia calendário."
+    },
+    {
+      "id": "geografia-9-2",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "Qual é o nome do processo pelo qual uma placa tectônica mergulha sob outra no manto terrestre?",
+      "options": [
+        "Rifteamento",
+        "Obducção",
+        "Subducção",
+        "Transcorrência"
+      ],
+      "correctAnswer": "Subducção",
+      "explanation": "A subducção ocorre quando uma placa tectônica densa (geralmente oceânica) mergulha sob outra placa menos densa. Esse processo é responsável pela formação de fossos oceânicos, cadeias de vulcões e terremotos profundos."
+    },
+    {
+      "id": "geografia-9-3",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "Qual é o nome do fenômeno pelo qual a Terra gira levemente sobre seu eixo em ciclos de aproximadamente 26.000 anos?",
+      "options": [
+        "Nutação",
+        "Precessão dos equinócios",
+        "Obliquidade da eclíptica",
+        "Excentricidade orbital"
+      ],
+      "correctAnswer": "Precessão dos equinócios",
+      "explanation": "A precessão dos equinócios é o movimento lento e cônico do eixo de rotação da Terra, completando um ciclo em cerca de 25.772 anos. Esse fenômeno afeta a posição das estrelas no céu ao longo dos milênios e está ligado aos ciclos de Milankovitch que influenciam o clima terrestre."
+    },
+    {
+      "id": "geografia-9-4",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "Qual é o nome da região geomorfológica brasileira que corresponde ao escudo cristalino mais antigo da América do Sul?",
+      "options": [
+        "Planalto Sedimentar Paraná",
+        "Planalto Atlântico",
+        "Escudo das Guianas",
+        "Cráton Amazônico"
+      ],
+      "correctAnswer": "Cráton Amazônico",
+      "explanation": "O Cráton Amazônico é uma das unidades geológicas mais antigas e estáveis da América do Sul, formado há mais de 1,8 bilhão de anos. Constitui o embasamento cristalino sobre o qual se formou a bacia sedimentar amazônica."
+    },
+    {
+      "id": "geografia-9-5",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "Qual é o termo geográfico para a zona de transição entre dois biomas ou ecossistemas distintos?",
+      "options": [
+        "Ecótono",
+        "Enclaves",
+        "Biócoro",
+        "Fitofisionomia"
+      ],
+      "correctAnswer": "Ecótono",
+      "explanation": "O ecótono é a zona de transição entre dois ecossistemas ou biomas adjacentes, onde há influência de ambos os ambientes. Essa região tende a apresentar maior biodiversidade do que as áreas centrais de cada bioma isolado."
+    },
+    {
+      "id": "geografia-9-6",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "Qual é o nome do corredor de baixa pressão atmosférica que se forma sobre o Brasil Central no verão austral, transportando umidade da Amazônia para o Sudeste?",
+      "options": [
+        "Frente Polar Atlântica",
+        "Zona de Convergência Intertropical",
+        "Zona de Convergência do Atlântico Sul",
+        "Alta Subtropical do Atlântico Sul"
+      ],
+      "correctAnswer": "Zona de Convergência do Atlântico Sul",
+      "explanation": "A Zona de Convergência do Atlântico Sul (ZCAS) é uma banda de nebulosidade e precipitação que se forma durante o verão austral, estendendo-se do Brasil Central ao Oceano Atlântico. É responsável por grande parte das chuvas de verão no Sudeste brasileiro."
+    },
+    {
+      "id": "geografia-9-7",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "Qual é o nome da teoria que explica a formação das ilhas vulcânicas oceânicas por meio de um ponto quente fixo no manto terrestre?",
+      "options": [
+        "Teoria das Placas Tectônicas",
+        "Teoria do Rifteamento",
+        "Teoria dos Pontos Quentes (Hot Spots)",
+        "Teoria da Subducção Intraplaca"
+      ],
+      "correctAnswer": "Teoria dos Pontos Quentes (Hot Spots)",
+      "explanation": "A teoria dos pontos quentes, associada ao geofísico J. Tuzo Wilson, explica como cadeias de ilhas vulcânicas, como o Havaí, são formadas quando uma placa tectônica se move sobre um ponto quente fixo no manto. As ilhas mais antigas ficam progressivamente mais distantes do ponto ativo."
+    },
+    {
+      "id": "geografia-9-8",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "Qual é o nome do fenômeno costeiro que ocorre quando a diferença de temperatura entre o continente e o oceano provoca ventos locais cíclicos diurnos?",
+      "options": [
+        "Alísios",
+        "Brisa marítima e terrestre",
+        "Monções costeiras",
+        "Vento catabático"
+      ],
+      "correctAnswer": "Brisa marítima e terrestre",
+      "explanation": "A brisa marítima ocorre durante o dia, quando o continente aquece mais rapidamente que o oceano, fazendo o ar quente subir sobre a terra e o ar frio do mar entrar para substituí-lo. À noite, o processo se inverte com a brisa terrestre, pois o continente esfria mais rápido que o mar."
+    },
+    {
+      "id": "geografia-9-9",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "Qual é o nome do tipo de clima caracterizado por verões quentes e secos e invernos amenos e chuvosos, típico das regiões em torno do Mar Mediterrâneo?",
+      "options": [
+        "Clima Oceânico",
+        "Clima Semiárido",
+        "Clima Mediterrâneo",
+        "Clima Continental"
+      ],
+      "correctAnswer": "Clima Mediterrâneo",
+      "explanation": "O clima mediterrâneo é caracterizado por verões quentes e secos e invernos amenos e úmidos. Ocorre em faixas entre 30° e 45° de latitude, em ambos os hemisférios, como na bacia do Mediterrâneo, Califórnia, Chile central, sudoeste australiano e Cabo Ocidental sul-africano."
+    },
+    {
+      "id": "geografia-9-10",
+      "category": "geografia",
+      "difficulty": 9,
+      "question": "Qual é o nome do processo de formação de solos em regiões tropicais úmidas, onde a intensa lixiviação remove nutrientes solúveis, deixando óxidos de ferro e alumínio?",
+      "options": [
+        "Podzolização",
+        "Salinização",
+        "Laterização",
+        "Gleização"
+      ],
+      "correctAnswer": "Laterização",
+      "explanation": "A laterização é o processo de formação de solos lateríticos (latossolos) em regiões tropicais com alta temperatura e precipitação. A intensa lixiviação remove sílica e nutrientes, concentrando óxidos de ferro e alumínio que dão a coloração vermelha ou amarela característica desses solos."
     }
   ]
 }

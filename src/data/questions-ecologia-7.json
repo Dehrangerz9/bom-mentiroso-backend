@@ -4,15 +4,141 @@
       "id": "ecologia-7-1",
       "category": "ecologia",
       "difficulty": 7,
-      "question": "Qual é o conceito de 'serviços ecossistêmicos'?",
+      "question": "Qual é o conceito de 'serviços ecossistêmicos' formalizado pela Avaliação Ecossistêmica do Milênio (2005)?",
       "options": [
-        "Empresas ambientais que vendem serviços de plantio de árvores",
-        "Os benefícios que os ecossistemas naturais fornecem às populações humanas, como polinização, purificação da água e regulação do clima",
-        "Sistemas de monitoramento ambiental mantidos por governos",
-        "Tecnologias de captura de carbono desenvolvidas por ONGs"
+        "Empresas ambientais",
+        "Tecnologias de captura",
+        "Monitoramento governamental",
+        "Benefícios da natureza"
       ],
-      "correctAnswer": "Os benefícios que os ecossistemas naturais fornecem às populações humanas, como polinização, purificação da água e regulação do clima",
-      "explanation": "O conceito, formalizado pela Avaliação Ecossistêmica do Milênio (2005), inclui serviços de provisão, regulação, cultural e suporte que a natureza oferece gratuitamente."
+      "correctAnswer": "Benefícios da natureza",
+      "explanation": "Serviços ecossistêmicos são os benefícios que os ecossistemas naturais fornecem gratuitamente às populações humanas: polinização, purificação da água, regulação do clima, controle de erosão, entre outros."
+    },
+    {
+      "id": "ecologia-7-2",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "Como se chama o processo de desertificação acelerada de solos pela perda de vegetação, compactação e salinização excessiva?",
+      "options": [
+        "Laterização",
+        "Gleização",
+        "Degradação edáfica",
+        "Podzolização"
+      ],
+      "correctAnswer": "Degradação edáfica",
+      "explanation": "A degradação edáfica (do solo) é causada por erosão, compactação, salinização e perda de matéria orgânica. Afeta 33% dos solos agrícolas globais e ameaça a segurança alimentar mundial."
+    },
+    {
+      "id": "ecologia-7-3",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "O que é a 'hipótese de Gaia', proposta por James Lovelock?",
+      "options": [
+        "Evolução paralela",
+        "Autoregulação planetária",
+        "Extinção em massa",
+        "Deriva continental"
+      ],
+      "correctAnswer": "Autoregulação planetária",
+      "explanation": "A hipótese de Gaia propõe que a Terra e seus seres vivos formam um sistema autorregulado que mantém condições favoráveis à vida. Embora controversa, influenciou a ciência do sistema Terra e a ecologia global."
+    },
+    {
+      "id": "ecologia-7-4",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "Qual é a diferença entre extinção local (extirpação) e extinção global de uma espécie?",
+      "options": [
+        "São sinônimos científicos",
+        "Extirpação = região; extinção = planeta",
+        "Extirpação = espécie; extinção = gênero",
+        "Extinção local é mais grave"
+      ],
+      "correctAnswer": "Extirpação = região; extinção = planeta",
+      "explanation": "Extirpação (extinção local) é o desaparecimento de uma espécie de uma área geográfica específica, enquanto ainda existe em outros locais. Extinção global é o desaparecimento total da espécie do planeta."
+    },
+    {
+      "id": "ecologia-7-5",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "Como se chama a teoria que explica a riqueza de espécies em ilhas como resultado do equilíbrio entre imigração e extinção?",
+      "options": [
+        "Teoria da seleção",
+        "Biogeografia de ilhas",
+        "Teoria da deriva",
+        "Ecologia de metapopulações"
+      ],
+      "correctAnswer": "Biogeografia de ilhas",
+      "explanation": "A teoria da biogeografia de ilhas (MacArthur & Wilson, 1967) prevê que o número de espécies numa ilha depende de seu tamanho e distância do continente, balanceando imigração e extinção local."
+    },
+    {
+      "id": "ecologia-7-6",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "Qual é o nome do acordo climático internacional firmado em 2015 que substituiu o Protocolo de Quioto, com meta de limitar o aquecimento a 1,5°C?",
+      "options": [
+        "Protocolo de Montreal",
+        "Convenção de Estocolmo",
+        "Acordo de Paris",
+        "Agenda 2030"
+      ],
+      "correctAnswer": "Acordo de Paris",
+      "explanation": "O Acordo de Paris (COP21) foi adotado por 196 países e estabelece metas de redução de emissões (NDCs) para limitar o aquecimento a 1,5-2°C acima dos níveis pré-industriais até 2100."
+    },
+    {
+      "id": "ecologia-7-7",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "O que é uma espécie-chave ('keystone species') num ecossistema?",
+      "options": [
+        "Espécie mais abundante",
+        "Espécie mais antiga",
+        "Espécie de maior porte",
+        "Espécie com impacto desproporcional"
+      ],
+      "correctAnswer": "Espécie com impacto desproporcional",
+      "explanation": "Uma espécie-chave tem impacto no ecossistema muito maior do que sua biomassa sugere. Ex.: lontras marinhas controlam ouriços que, sem predadores, destruiriam florestas de algas. Sua remoção causa colapso ecológico."
+    },
+    {
+      "id": "ecologia-7-8",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "Qual é o processo que converte nitrato (NO₃⁻) de volta a nitrogênio gasoso (N₂), completando o ciclo do nitrogênio?",
+      "options": [
+        "Nitrificação",
+        "Amonificação",
+        "Desnitrificação",
+        "Fixação biológica"
+      ],
+      "correctAnswer": "Desnitrificação",
+      "explanation": "A desnitrificação é realizada por bactérias anaeróbicas (como Pseudomonas) que reduzem NO₃⁻ a N₂, devolvendo nitrogênio à atmosfera e fechando o ciclo. Ocorre principalmente em solos encharcados e sedimentos aquáticos."
+    },
+    {
+      "id": "ecologia-7-9",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "Como se chama o fenômeno em que a perda de habitat reduz populações a fragmentos isolados, aumentando o risco de extinção?",
+      "options": [
+        "Efeito de borda",
+        "Fragmentação de habitat",
+        "Erosão genética",
+        "Colapso trófico"
+      ],
+      "correctAnswer": "Fragmentação de habitat",
+      "explanation": "A fragmentação divide habitats contínuos em manchas isoladas, reduzindo o fluxo gênico, aumentando a endogamia e expondo as populações ao efeito de borda. É uma das principais causas da crise de biodiversidade atual."
+    },
+    {
+      "id": "ecologia-7-10",
+      "category": "ecologia",
+      "difficulty": 7,
+      "question": "O que é a 'zona morta' (dead zone) oceânica e qual é sua principal causa?",
+      "options": [
+        "Zona vulcânica submarina",
+        "Área hipóxica por eutrofização",
+        "Região de alta pressão abissal",
+        "Zona de ausência de luz"
+      ],
+      "correctAnswer": "Área hipóxica por eutrofização",
+      "explanation": "Zonas mortas são regiões oceânicas com oxigênio dissolvido tão baixo que inviabiliza a maioria da vida marinha. Causadas pela eutrofização (excesso de nutrientes agrícolas), existem mais de 400 no mundo, incluindo no Golfo do México."
     }
   ]
 }

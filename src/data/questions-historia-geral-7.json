@@ -4,15 +4,141 @@
       "id": "historia-geral-7-1",
       "category": "historia-geral",
       "difficulty": 7,
-      "question": "Qual foi o principal motivo econômico que levou as potências europeias a disputarem a África na 'Corrida para a África' do século XIX?",
+      "question": "Qual foi o principal motivo econômico que levou as potências europeias a disputar a África na 'Corrida para a África' do século XIX?",
       "options": [
         "Busca por especiarias",
-        "Acesso a matérias-primas e mercados consumidores",
-        "Controle das rotas marítimas para a Ásia",
-        "Expansão do comércio de escravos"
+        "Controle das rotas asiáticas",
+        "Expansão do tráfico negreiro",
+        "Matérias-primas e mercados"
       ],
-      "correctAnswer": "Acesso a matérias-primas e mercados consumidores",
-      "explanation": "A Revolução Industrial criou enorme demanda por matérias-primas e mercados para produtos manufaturados, impulsionando a colonização africana."
+      "correctAnswer": "Matérias-primas e mercados",
+      "explanation": "A Revolução Industrial criou enorme demanda por matérias-primas e mercados para produtos manufaturados, impulsionando a colonização africana. A Conferência de Berlim (1884-1885) formalizou a partilha do continente entre as potências europeias."
+    },
+    {
+      "id": "historia-geral-7-2",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Qual documento de 1215 limitou o poder do rei inglês João Sem-Terra e é considerado precursor do constitucionalismo moderno?",
+      "options": [
+        "Petition of Right",
+        "Bill of Rights",
+        "Habeas Corpus Act",
+        "Magna Carta"
+      ],
+      "correctAnswer": "Magna Carta",
+      "explanation": "A Magna Carta (1215) foi o primeiro documento a limitar o poder absoluto do rei inglês, estabelecendo que nenhum homem livre poderia ser preso sem julgamento justo. É considerada um dos fundamentos do direito constitucional e dos direitos humanos."
+    },
+    {
+      "id": "historia-geral-7-3",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Qual foi a principal causa imediata que desencadeou a Primeira Guerra Mundial em 1914?",
+      "options": [
+        "Invasão da Bélgica",
+        "Afundamento do Lusitânia",
+        "Assassinato de Franz Ferdinand",
+        "Crise marroquina"
+      ],
+      "correctAnswer": "Assassinato de Franz Ferdinand",
+      "explanation": "O assassinato do Arquiduque Franz Ferdinand, herdeiro austro-húngaro, em Sarajevo em 28 de junho de 1914, pelo sérvio Gavrilo Princip, desencadeou uma cadeia de alianças que arrastou as grandes potências para a guerra em semanas."
+    },
+    {
+      "id": "historia-geral-7-4",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Qual filósofo grego, discípulo de Platão, fundou o Liceu e foi tutor de Alexandre, o Grande?",
+      "options": [
+        "Sócrates",
+        "Epicuro",
+        "Zenão de Cítio",
+        "Aristóteles"
+      ],
+      "correctAnswer": "Aristóteles",
+      "explanation": "Aristóteles (384-322 a.C.) foi discípulo de Platão e tutor de Alexandre, o Grande. Fundou o Liceu em Atenas e sistematizou o conhecimento em lógica, biologia, física, ética, política e poética. Sua obra influenciou o pensamento ocidental por séculos."
+    },
+    {
+      "id": "historia-geral-7-5",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Qual foi o nome da política de conciliação com Hitler adotada pelo Reino Unido e França no Acordo de Munique de 1938?",
+      "options": [
+        "Containment policy",
+        "Realpolitik",
+        "Détente",
+        "Appeasement"
+      ],
+      "correctAnswer": "Appeasement",
+      "explanation": "O appeasement ('apaziguamento') foi a política de concessões territoriais a Hitler para evitar uma guerra. O Acordo de Munique (1938) entregou a região dos Sudetos à Alemanha. Retrocedeu com a invasão da Polônia em setembro de 1939."
+    },
+    {
+      "id": "historia-geral-7-6",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Qual foi o maior império da história em extensão territorial, que no seu auge cobria cerca de 24 milhões de km²?",
+      "options": [
+        "Império Romano",
+        "Império Mongol",
+        "Império Espanhol",
+        "Império Britânico"
+      ],
+      "correctAnswer": "Império Britânico",
+      "explanation": "O Império Britânico, em seu auge no início do século XX, cobria cerca de 24 milhões de km² (22% da superfície terrestre) e governava 412 milhões de pessoas (23% da população mundial). Era dito que 'o sol nunca se punha' nele."
+    },
+    {
+      "id": "historia-geral-7-7",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Qual revolução científica do século XVI desafiou o geocentrismo ao propor que a Terra orbita o Sol?",
+      "options": [
+        "Teoria de Darwin",
+        "Heliocentrismo de Copérnico",
+        "Mecânica de Newton",
+        "Física de Galileu"
+      ],
+      "correctAnswer": "Heliocentrismo de Copérnico",
+      "explanation": "Nicolau Copérnico publicou 'De Revolutionibus Orbium Coelestium' em 1543, propondo que o Sol é o centro do sistema solar. A teoria foi desenvolvida por Galileu, Kepler e Newton, revolucionando a visão de mundo medieval."
+    },
+    {
+      "id": "historia-geral-7-8",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Qual dinastia governou a China por mais de dois séculos e meio, do século XVII ao início do XX, sendo a última imperial?",
+      "options": [
+        "Dinastia Ming",
+        "Dinastia Han",
+        "Dinastia Tang",
+        "Dinastia Qing"
+      ],
+      "correctAnswer": "Dinastia Qing",
+      "explanation": "A Dinastia Qing (1644-1912) foi a última dinastia imperial chinesa, fundada pelos manchus. Sob seu domínio, a China foi forçada a abrir portos ao comércio ocidental após as Guerras do Ópio. Caiu com a Revolução Xinhai de 1911."
+    },
+    {
+      "id": "historia-geral-7-9",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Em que cidade e ano foi assinada a Declaração de Independência dos Estados Unidos?",
+      "options": [
+        "Boston, 1775",
+        "Nova York, 1776",
+        "Washington, 1778",
+        "Filadélfia, 1776"
+      ],
+      "correctAnswer": "Filadélfia, 1776",
+      "explanation": "A Declaração de Independência foi adotada pelo Congresso Continental em 4 de julho de 1776, em Filadélfia. Redigida principalmente por Thomas Jefferson, proclamou a separação das 13 colônias britânicas e os direitos inalienáveis do homem."
+    },
+    {
+      "id": "historia-geral-7-10",
+      "category": "historia-geral",
+      "difficulty": 7,
+      "question": "Qual foi o nome da operação nazista de invasão da União Soviética em junho de 1941?",
+      "options": [
+        "Operação Overlord",
+        "Operação Market Garden",
+        "Plano Barbarossa",
+        "Operação Citadela"
+      ],
+      "correctAnswer": "Plano Barbarossa",
+      "explanation": "A Operação Barbarossa iniciou-se em 22 de junho de 1941, com 3 milhões de soldados alemães invadindo a URSS. Foi a maior operação militar terrestre da história. A resistência soviética, o inverno russo e o contra-ataque de 1942-43 reverteram a ofensiva."
     }
   ]
 }

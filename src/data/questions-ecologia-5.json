@@ -6,13 +6,139 @@
       "difficulty": 5,
       "question": "O que é a Camada de Ozônio e por que é importante?",
       "options": [
-        "É a troposfera, que nos protege do vento solar",
-        "É uma região da estratosfera rica em O₃ que absorve a maior parte da radiação UV solar",
-        "É uma camada de gases poluentes que aquece o planeta",
-        "É a fronteira entre a atmosfera e o espaço"
+        "Protege do vento solar",
+        "Absorve radiação UV",
+        "Retém calor terrestre",
+        "Filtra chuva ácida"
       ],
-      "correctAnswer": "É uma região da estratosfera rica em O₃ que absorve a maior parte da radiação UV solar",
-      "explanation": "A camada de ozônio está entre 15-35 km de altitude e absorve 97-99% da radiação ultravioleta solar, protegendo a vida na Terra."
+      "correctAnswer": "Absorve radiação UV",
+      "explanation": "A camada de ozônio está entre 15-35 km de altitude na estratosfera e absorve 97-99% da radiação ultravioleta solar, protegendo a vida na Terra."
+    },
+    {
+      "id": "ecologia-5-2",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "Como se chama a relação ecológica em que dois organismos vivem juntos e ambos se beneficiam?",
+      "options": [
+        "Parasitismo",
+        "Comensalismo",
+        "Mutualismo",
+        "Predatismo"
+      ],
+      "correctAnswer": "Mutualismo",
+      "explanation": "No mutualismo, ambos os organismos obtêm vantagens da associação. Ex.: abelhas e flores, onde as abelhas obtêm néctar e as flores são polinizadas."
+    },
+    {
+      "id": "ecologia-5-3",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "Qual é o nome do processo pelo qual a matéria orgânica morta é decomposta por fungos e bactérias, devolvendo nutrientes ao solo?",
+      "options": [
+        "Fotossíntese",
+        "Decomposição",
+        "Fermentação",
+        "Sedimentação"
+      ],
+      "correctAnswer": "Decomposição",
+      "explanation": "A decomposição é realizada por decompositores (fungos e bactérias), que quebram a matéria orgânica morta em substâncias inorgânicas, reciclando nutrientes essenciais no ecossistema."
+    },
+    {
+      "id": "ecologia-5-4",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "Qual é o principal bioma brasileiro em área, correspondendo a cerca de 49% do território nacional?",
+      "options": [
+        "Cerrado",
+        "Mata Atlântica",
+        "Amazônia",
+        "Caatinga"
+      ],
+      "correctAnswer": "Amazônia",
+      "explanation": "A Amazônia cobre aproximadamente 4,1 milhões de km² no Brasil, sendo o maior bioma nacional e a maior floresta tropical do mundo."
+    },
+    {
+      "id": "ecologia-5-5",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "Como se chama o fenômeno de aumento excessivo de algas em corpos d'água causado por excesso de nutrientes?",
+      "options": [
+        "Acidificação",
+        "Eutrofização",
+        "Salinização",
+        "Turbidez"
+      ],
+      "correctAnswer": "Eutrofização",
+      "explanation": "A eutrofização ocorre quando nutrientes como fósforo e nitrogênio (de esgotos e agrotóxicos) enriquecem excessivamente a água, causando proliferação de algas e morte de peixes por falta de oxigênio."
+    },
+    {
+      "id": "ecologia-5-6",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "Qual protocolo internacional, assinado em 1987, foi o primeiro acordo global bem-sucedido para proteção da camada de ozônio?",
+      "options": [
+        "Protocolo de Quioto",
+        "Acordo de Paris",
+        "Protocolo de Montreal",
+        "Convenção de Viena"
+      ],
+      "correctAnswer": "Protocolo de Montreal",
+      "explanation": "O Protocolo de Montreal (1987) regulamentou a eliminação gradual dos CFCs e outras substâncias destruidoras do ozônio. É considerado o tratado ambiental mais bem-sucedido da história."
+    },
+    {
+      "id": "ecologia-5-7",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "Como se chama a zona de transição entre dois ecossistemas diferentes, como entre floresta e campo?",
+      "options": [
+        "Ecótono",
+        "Biótopo",
+        "Nicho ecológico",
+        "Habitate marginal"
+      ],
+      "correctAnswer": "Ecótono",
+      "explanation": "O ecótono é a zona de transição entre dois ecossistemas adjacentes, geralmente apresentando maior diversidade de espécies do que cada um dos ecossistemas vizinhos — fenômeno chamado de efeito de borda."
+    },
+    {
+      "id": "ecologia-5-8",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "O que é a pegada de carbono de uma pessoa ou organização?",
+      "options": [
+        "Área desmatada",
+        "Emissão total de CO₂",
+        "Consumo de combustível",
+        "Resíduo sólido gerado"
+      ],
+      "correctAnswer": "Emissão total de CO₂",
+      "explanation": "A pegada de carbono é a quantidade total de gases de efeito estufa emitidos direta ou indiretamente por um indivíduo, organização ou produto, expressa em toneladas equivalentes de CO₂."
+    },
+    {
+      "id": "ecologia-5-9",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "Qual é o nome da relação em que um organismo (parasita) se beneficia à custa de outro (hospedeiro), causando-lhe dano?",
+      "options": [
+        "Mutualismo",
+        "Comensalismo",
+        "Parasitismo",
+        "Protocooperação"
+      ],
+      "correctAnswer": "Parasitismo",
+      "explanation": "No parasitismo, o parasita obtém benefício (alimento, abrigo) do hospedeiro, causando-lhe prejuízo. Ex.: carrapatos em mamíferos, lombrigas em humanos, vírus em células."
+    },
+    {
+      "id": "ecologia-5-10",
+      "category": "ecologia",
+      "difficulty": 5,
+      "question": "Qual é o nome do processo natural que reabastece os aquíferos subterrâneos com água da chuva?",
+      "options": [
+        "Evapotranspiração",
+        "Escoamento superficial",
+        "Recarga hídrica",
+        "Percolação capilar"
+      ],
+      "correctAnswer": "Recarga hídrica",
+      "explanation": "A recarga hídrica é o processo pelo qual a água da chuva infiltra o solo, atravessa as camadas geológicas e reabastece os aquíferos. Zonas de recarga devem ser protegidas do desmatamento e da impermeabilização."
     }
   ]
 }

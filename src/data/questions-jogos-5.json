@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "StarCraft",
       "explanation": "StarCraft se tornou uma obsessão nacional na Coreia, com transmissões em TV aberta e jogadores profissionais tratados como estrelas."
+    },
+    {
+      "id": "jogos-5-2",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Em qual console da Sony foi lançado o jogo The Last of Us originalmente?",
+      "options": [
+        "PlayStation 2",
+        "PlayStation 3",
+        "PlayStation 4",
+        "PlayStation 5"
+      ],
+      "correctAnswer": "PlayStation 3",
+      "explanation": "The Last of Us foi lançado em junho de 2013 exclusivamente para PlayStation 3, desenvolvido pela Naughty Dog. O jogo foi aclamado pela crítica e ganhou inúmeros prêmios de jogo do ano."
+    },
+    {
+      "id": "jogos-5-3",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Qual jogo de batalha royale da Epic Games foi lançado em 2017 e se tornou um fenômeno global?",
+      "options": [
+        "PUBG",
+        "Apex Legends",
+        "Fortnite",
+        "Warzone"
+      ],
+      "correctAnswer": "Fortnite",
+      "explanation": "Fortnite Battle Royale foi lançado em setembro de 2017 e rapidamente se tornou um fenômeno cultural, com mais de 350 milhões de jogadores cadastrados e shows virtuais com artistas como Travis Scott e Ariana Grande."
+    },
+    {
+      "id": "jogos-5-4",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Qual empresa criou o console Nintendo Switch?",
+      "options": [
+        "Sony",
+        "Microsoft",
+        "Sega",
+        "Nintendo"
+      ],
+      "correctAnswer": "Nintendo",
+      "explanation": "O Nintendo Switch foi lançado pela Nintendo em março de 2017. É um console híbrido que pode ser usado tanto como portátil quanto conectado à TV, tornando-se um dos consoles mais vendidos da história."
+    },
+    {
+      "id": "jogos-5-5",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Qual jogo de luta da Capcom apresenta personagens como Ryu, Ken e Chun-Li?",
+      "options": [
+        "Mortal Kombat",
+        "Tekken",
+        "Street Fighter",
+        "King of Fighters"
+      ],
+      "correctAnswer": "Street Fighter",
+      "explanation": "Street Fighter, lançado pela Capcom em 1987, é uma das franquias de jogos de luta mais icônicas da história. Ryu, Ken e Chun-Li são alguns de seus personagens mais reconhecidos mundialmente."
+    },
+    {
+      "id": "jogos-5-6",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Qual é o nome do monstro final de The Legend of Zelda: Ocarina of Time?",
+      "options": [
+        "Majora",
+        "Vaati",
+        "Ganon",
+        "Bowser"
+      ],
+      "correctAnswer": "Ganon",
+      "explanation": "Ganon é a forma de monstro que Ganondorf assume no confronto final de Ocarina of Time. É o vilão recorrente da franquia Zelda, também conhecido como o Rei do Mal."
+    },
+    {
+      "id": "jogos-5-7",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Qual é o nome do jogo da Rockstar Games que se passa em uma cidade fictícia chamada Los Santos?",
+      "options": [
+        "Red Dead Redemption",
+        "Bully",
+        "Midnight Club",
+        "GTA V"
+      ],
+      "correctAnswer": "GTA V",
+      "explanation": "Grand Theft Auto V, lançado em 2013, se passa em Los Santos, uma cidade fictícia inspirada em Los Angeles. É um dos jogos mais vendidos da história, com mais de 185 milhões de cópias comercializadas."
+    },
+    {
+      "id": "jogos-5-8",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Qual franquia de jogos da Activision apresenta batalhas entre soldados em guerras históricas e modernas?",
+      "options": [
+        "Battlefield",
+        "Medal of Honor",
+        "Call of Duty",
+        "Halo"
+      ],
+      "correctAnswer": "Call of Duty",
+      "explanation": "Call of Duty é uma franquia de jogos de tiro em primeira pessoa da Activision, lançada em 2003. A série já vendeu mais de 400 milhões de cópias e inclui títulos ambientados na Segunda Guerra Mundial e em cenários futuristas."
+    },
+    {
+      "id": "jogos-5-9",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Em qual jogo o jogador desperta como um sobrevivente em uma ilha repleta de dinossauros e precisa sobreviver coletando recursos?",
+      "options": [
+        "Rust",
+        "The Forest",
+        "ARK: Survival Evolved",
+        "Subnautica"
+      ],
+      "correctAnswer": "ARK: Survival Evolved",
+      "explanation": "ARK: Survival Evolved, lançado em 2015 pela Studio Wildcard, é um jogo de sobrevivência onde o jogador acorda em uma ilha misteriosa habitada por dinossauros e criaturas pré-históricas, podendo inclusive domesticá-las."
+    },
+    {
+      "id": "jogos-5-10",
+      "category": "jogos",
+      "difficulty": 5,
+      "question": "Qual jogo da Blizzard coloca heróis de diferentes universos em batalhas de tiro em primeira pessoa por equipes?",
+      "options": [
+        "Team Fortress 2",
+        "Valorant",
+        "Overwatch",
+        "Paladins"
+      ],
+      "correctAnswer": "Overwatch",
+      "explanation": "Overwatch, lançado pela Blizzard em 2016, é um jogo de tiro em equipe com heróis de habilidades únicas. Tornou-se rapidamente um dos jogos mais jogados do mundo e deu origem a uma liga de eSports profissional."
     }
   ]
 }

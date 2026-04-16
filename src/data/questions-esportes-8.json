@@ -5,14 +5,90 @@
       "category": "esportes",
       "difficulty": 8,
       "question": "No críquete, qual é o nome do movimento que consiste em eliminar o rebatedor ao acertar os stumps com a bola?",
-      "options": [
-        "Catch",
-        "Bowled",
-        "Run out",
-        "LBW"
-      ],
+      "options": ["Catch", "Bowled", "Run out", "LBW"],
       "correctAnswer": "Bowled",
       "explanation": "No críquete, 'bowled' ocorre quando a bola lançada pelo bowler derruba diretamente os stumps do rebatedor."
+    },
+    {
+      "id": "esportes-8-2",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "No atletismo, o 'decatlo' é composto por quantas provas?",
+      "options": ["8", "9", "10", "12"],
+      "correctAnswer": "10",
+      "explanation": "O decatlo é composto por 10 provas de atletismo disputadas em dois dias, combinando velocidade, força e resistência."
+    },
+    {
+      "id": "esportes-8-3",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "Qual clube brasileiro mais vezes campeão da Libertadores?",
+      "options": ["São Paulo", "Santos", "Flamengo", "Independiente Medellín"],
+      "correctAnswer": "Flamengo",
+      "explanation": "O Flamengo lidera os clubes brasileiros com 3 títulos da Copa Libertadores (1981, 2019, 2022)."
+    },
+    {
+      "id": "esportes-8-4",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "No tênis de mesa, qual país domina o ranking mundial historicamente?",
+      "options": ["Japão", "Coreia do Sul", "China", "Suécia"],
+      "correctAnswer": "China",
+      "explanation": "A China domina o tênis de mesa mundial, vencendo a maioria dos títulos olímpicos e mundiais desde os anos 1960."
+    },
+    {
+      "id": "esportes-8-5",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "No futebol americano, quantos pontos vale um 'field goal'?",
+      "options": ["1", "2", "3", "6"],
+      "correctAnswer": "3",
+      "explanation": "Um field goal, quando a bola é chutada entre as traves, vale 3 pontos no futebol americano."
+    },
+    {
+      "id": "esportes-8-6",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "Qual é o nome do torneio mais prestigioso do golfe?",
+      "options": ["US Open", "The Masters", "The Open Championship", "PGA Championship"],
+      "correctAnswer": "The Masters",
+      "explanation": "The Masters, realizado em Augusta National, Georgia, é considerado o torneio de golfe mais prestigioso do mundo."
+    },
+    {
+      "id": "esportes-8-7",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "Quem ganhou o Ballon d'Or mais vezes?",
+      "options": ["Cristiano Ronaldo", "Lionel Messi", "Ronaldo Fenômeno", "Zinedine Zidane"],
+      "correctAnswer": "Lionel Messi",
+      "explanation": "Lionel Messi é o recordista com 8 Ballon d'Or conquistados ao longo de sua carreira."
+    },
+    {
+      "id": "esportes-8-8",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "Na natação, qual estilo é o mais rápido?",
+      "options": ["Costas", "Peito", "Borboleta", "Crawl"],
+      "correctAnswer": "Crawl",
+      "explanation": "O nado crawl (freestyle) é o estilo mais rápido, por isso é utilizado nas provas de nado livre."
+    },
+    {
+      "id": "esportes-8-9",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "No polo aquático, quantos jogadores de cada time estão na água?",
+      "options": ["5", "6", "7", "8"],
+      "correctAnswer": "7",
+      "explanation": "No polo aquático, cada equipe tem 7 jogadores em campo (incluindo o goleiro) durante o jogo."
+    },
+    {
+      "id": "esportes-8-10",
+      "category": "esportes",
+      "difficulty": 8,
+      "question": "Qual federação organiza as competições mundiais de esgrima?",
+      "options": ["FIE", "FINA", "ITTF", "BWF"],
+      "correctAnswer": "FIE",
+      "explanation": "A Fédération Internationale d'Escrime (FIE) é o órgão internacional que rege as competições mundiais de esgrima."
     }
   ]
 }

@@ -4,15 +4,141 @@
       "id": "historia-geral-10-1",
       "category": "historia-geral",
       "difficulty": 10,
-      "question": "Qual foi o nome do plano alemão de 1905, elaborado pelo Marechal Alfred von Schlieffen, que previa derrotar a França rapidamente antes de virar-se contra a Rússia em uma guerra de dois fronts?",
+      "question": "Qual foi o plano alemão de 1905 que previa derrotar a França rapidamente via Bélgica antes de virar-se contra a Rússia?",
       "options": [
         "Plano Barbarossa",
-        "Plano Schlieffen",
         "Plano Hindenburg",
-        "Plano Blau"
+        "Plano Blau",
+        "Plano Schlieffen"
       ],
       "correctAnswer": "Plano Schlieffen",
-      "explanation": "O Plano Schlieffen previa invadir a França via Bélgica em 6 semanas. Sua falha em 1914 condenou a Alemanha à guerra de trincheiras na WWI."
+      "explanation": "O Plano Schlieffen previa invadir a França via Bélgica em 6 semanas. Sua falha em 1914 — a resistência belga e francesa na Batalha do Marne — condenou a Alemanha à guerra de dois fronts e à prolongada guerra de trincheiras."
+    },
+    {
+      "id": "historia-geral-10-2",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual foi o nome da política nazista de expansão territorial para o leste europeu, justificada pela necessidade de 'espaço vital' para o povo alemão?",
+      "options": [
+        "Anschluss",
+        "Drang nach Osten",
+        "Völkisch",
+        "Lebensraum"
+      ],
+      "correctAnswer": "Lebensraum",
+      "explanation": "Lebensraum ('espaço vital') foi o conceito geopolítico de Friedrich Ratzel e depois de Hitler, que justificava a expansão alemã para o Leste Europeu e a Rússia. Moldou a política nazista de colonização e extermínio de povos eslavos."
+    },
+    {
+      "id": "historia-geral-10-3",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual foi o nome do processo histórico pelo qual o Japão se modernizou e industrializou rapidamente após a abertura ao Ocidente em 1868?",
+      "options": [
+        "Revolução Meiji",
+        "Reforma Taisho",
+        "Abertura Tokugawa",
+        "Modernização Shogun"
+      ],
+      "correctAnswer": "Revolução Meiji",
+      "explanation": "A Restauração Meiji (1868) aboliu o sistema feudal do shogunato Tokugawa e restaurou o poder imperial. O Japão adotou instituições ocidentais, industrializou-se rapidamente e em poucas décadas derrotou a China (1895) e a Rússia (1905)."
+    },
+    {
+      "id": "historia-geral-10-4",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual foi o nome da batalha naval de 1571 em que a Liga Santa cristã derrotou o Império Otomano, freando sua expansão no Mediterrâneo?",
+      "options": [
+        "Batalha de Lepanto",
+        "Batalha de Trafalgar",
+        "Batalha de Actium",
+        "Batalha de Salamina"
+      ],
+      "correctAnswer": "Batalha de Lepanto",
+      "explanation": "A Batalha de Lepanto (7 de outubro de 1571) foi travada entre a Liga Santa (Espanha, Veneza, Estados Papais) e o Império Otomano no golfo de Pátras. A vitória cristã deteve a expansão otomana no Mediterrâneo ocidental, embora os otomanos mantivessem o Mediterrâneo oriental."
+    },
+    {
+      "id": "historia-geral-10-5",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual foi o conceito histórico de Friedrich Ratzel e Halford Mackinder que propunha o controle do 'heartland' eurasiano como chave para o domínio mundial?",
+      "options": [
+        "Teoria do Rimland",
+        "Teoria da Dependência",
+        "Doutrina Monroe",
+        "Geopolítica do Heartland"
+      ],
+      "correctAnswer": "Geopolítica do Heartland",
+      "explanation": "Mackinder formulou em 1904 que quem controlasse o 'pivô geográfico' (heartland eurasiano — Rússia e Ásia Central) controlaria o 'mundo-ilha' (Eurásia+África) e assim o mundo. A teoria influenciou a geopolítica alemã (Haushofer) e a estratégia americana na Guerra Fria."
+    },
+    {
+      "id": "historia-geral-10-6",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual foi o nome da aliança militar secreta austro-alemã de 1879, base do sistema de alianças que desencadeou a Primeira Guerra Mundial?",
+      "options": [
+        "Tríplice Aliança",
+        "Entente Cordiale",
+        "Pacto do Aço",
+        "Aliança Dual"
+      ],
+      "correctAnswer": "Aliança Dual",
+      "explanation": "A Aliança Dual (Zweibund), firmada entre Alemanha e Áustria-Hungria em 1879 por Bismarck, comprometia ambas a se defenderem mutuamente de um ataque russo. Foi a pedra angular do sistema de alianças que se tornaria a Tríplice Aliança em 1882."
+    },
+    {
+      "id": "historia-geral-10-7",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual faraó egípcio tentou impor o monoteísmo ao Egito no século XIV a.C., substituindo os deuses tradicionais pelo culto ao Aton?",
+      "options": [
+        "Ramsés II",
+        "Tutancâmon",
+        "Amenhotep III",
+        "Aquenáton"
+      ],
+      "correctAnswer": "Aquenáton",
+      "explanation": "Aquenáton (Amenhotep IV) introduziu o culto exclusivo ao deus solar Aton por volta de 1353 a.C., fechou templos e aboliu o clero de Amun. Após sua morte, seu filho Tutancâmon restaurou os cultos tradicionais e sua memória foi apagada dos registros históricos."
+    },
+    {
+      "id": "historia-geral-10-8",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual foi o nome da política econômica que Lênin introduziu em 1921, permitindo capitalismo limitado para recuperar a economia soviética devastada pela guerra?",
+      "options": [
+        "Plano Quinquenal",
+        "Guerra Econômica",
+        "Coletivização",
+        "NEP"
+      ],
+      "correctAnswer": "NEP",
+      "explanation": "A Nova Política Econômica (NEP), introduzida por Lênin em 1921, permitiu comércio privado em pequena escala e o mercado agrícola para recuperar a economia devastada pela Primeira Guerra, Revolução e Guerra Civil. Staline a abandonou em 1928 com os Planos Quinquenais."
+    },
+    {
+      "id": "historia-geral-10-9",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual foi o nome do conflito (1618-1648) que devastou a Europa Central e redefiniu o equilíbrio religioso e político do continente?",
+      "options": [
+        "Guerra dos Cem Anos",
+        "Guerras Napoleônicas",
+        "Guerra das Rosas",
+        "Guerra dos Trinta Anos"
+      ],
+      "correctAnswer": "Guerra dos Trinta Anos",
+      "explanation": "A Guerra dos Trinta Anos (1618-1648) começou como conflito religioso entre católicos e protestantes no Sacro Império Romano Germânico, tornando-se uma guerra europeia geral. Destruiu até 1/3 da população alemã. Foi encerrada pelo Tratado de Vestfália."
+    },
+    {
+      "id": "historia-geral-10-10",
+      "category": "historia-geral",
+      "difficulty": 10,
+      "question": "Qual foi a consequência direta do assassinato de Arquiduque Franz Ferdinand para o sistema de alianças europeu em julho de 1914?",
+      "options": [
+        "Invasão imediata da Sérvia",
+        "Mobilização da Tríplice Entente",
+        "Ultimato austro-sérvio",
+        "Ativação em cascata das alianças"
+      ],
+      "correctAnswer": "Ativação em cascata das alianças",
+      "explanation": "O assassinato ativou uma reação em cadeia: Áustria ultimatou a Sérvia; a Rússia mobilizou para defender os sérvios; a Alemanha declarou guerra à Rússia e França; o Reino Unido entrou quando a Alemanha invadiu a Bélgica. Em 6 semanas, toda a Europa estava em guerra."
     }
   ]
 }

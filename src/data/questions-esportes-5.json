@@ -5,14 +5,90 @@
       "category": "esportes",
       "difficulty": 5,
       "question": "No basquete, quantos pontos vale uma cesta convertida de dentro da área de três pontos?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
+      "options": ["1", "2", "3", "4"],
       "correctAnswer": "2",
       "explanation": "Cestas de dentro do arco de três pontos valem 2 pontos. As de além do arco valem 3, e lances livres valem 1."
+    },
+    {
+      "id": "esportes-5-2",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "Quantos jogadores compõem um time de futebol em campo?",
+      "options": ["9", "10", "11", "12"],
+      "correctAnswer": "11",
+      "explanation": "Cada equipe de futebol possui 11 jogadores em campo, incluindo o goleiro."
+    },
+    {
+      "id": "esportes-5-3",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "Qual esporte é praticado em Wimbledon?",
+      "options": ["Golfe", "Cricket", "Tênis", "Rugby"],
+      "correctAnswer": "Tênis",
+      "explanation": "Wimbledon é o torneio de tênis mais antigo do mundo, realizado em Londres desde 1877."
+    },
+    {
+      "id": "esportes-5-4",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "Em qual esporte existe a posição de 'quarterback'?",
+      "options": ["Baseball", "Futebol americano", "Rugby", "Hóquei"],
+      "correctAnswer": "Futebol americano",
+      "explanation": "O quarterback é o principal jogador ofensivo no futebol americano, responsável por lançar ou entregar a bola."
+    },
+    {
+      "id": "esportes-5-5",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "Quantos sets vencer para ganhar no vôlei (melhor de 5)?",
+      "options": ["2", "3", "4", "5"],
+      "correctAnswer": "3",
+      "explanation": "No vôlei, a equipe que vencer 3 sets primeiro ganha a partida no formato melhor de 5."
+    },
+    {
+      "id": "esportes-5-6",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "Qual país é o maior vencedor de Copas do Mundo?",
+      "options": ["Alemanha", "Argentina", "Brasil", "Itália"],
+      "correctAnswer": "Brasil",
+      "explanation": "O Brasil é pentacampeão mundial, tendo conquistado as Copas de 1958, 1962, 1970, 1994 e 2002."
+    },
+    {
+      "id": "esportes-5-7",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "Qual é a distância oficial da maratona?",
+      "options": ["21 km", "42,195 km", "40 km", "50 km"],
+      "correctAnswer": "42,195 km",
+      "explanation": "A distância oficial da maratona é 42,195 km, estabelecida nos Jogos Olímpicos de 1908 em Londres."
+    },
+    {
+      "id": "esportes-5-8",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "Qual esporte usa raquete e peteca?",
+      "options": ["Squash", "Badminton", "Tênis de mesa", "Raquetebol"],
+      "correctAnswer": "Badminton",
+      "explanation": "O badminton é praticado com raquetes leves e uma peteca (volante), podendo ser disputado em simples ou duplas."
+    },
+    {
+      "id": "esportes-5-9",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "Onde foram os primeiros Jogos Olímpicos modernos?",
+      "options": ["Roma", "Atenas", "Paris", "Londres"],
+      "correctAnswer": "Atenas",
+      "explanation": "Os primeiros Jogos Olímpicos modernos foram realizados em Atenas, Grécia, em 1896."
+    },
+    {
+      "id": "esportes-5-10",
+      "category": "esportes",
+      "difficulty": 5,
+      "question": "No tênis, como se chama o empate em 40×40?",
+      "options": ["Tie-break", "Deuce", "Advantage", "Set point"],
+      "correctAnswer": "Deuce",
+      "explanation": "Deuce é quando ambos os jogadores atingem 40 pontos; um deles precisa fazer dois pontos consecutivos para vencer o game."
     }
   ]
 }

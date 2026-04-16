@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Enantiosemia",
       "explanation": "Enantiosemia (ou auto-antônimo) ocorre quando uma palavra adquire significados opostos. Ex: 'sanção' pode significar tanto 'punição' quanto 'aprovação'."
+    },
+    {
+      "id": "linguas-7-2",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "O que é uma língua ergativa?",
+      "options": [
+        "Uma língua que não distingue sujeito de objeto",
+        "Uma língua em que o sujeito de verbos intransitivos recebe o mesmo caso gramatical que o objeto de verbos transitivos",
+        "Uma língua com ordem de palavras completamente livre",
+        "Uma língua sem morfologia verbal"
+      ],
+      "correctAnswer": "Uma língua em que o sujeito de verbos intransitivos recebe o mesmo caso gramatical que o objeto de verbos transitivos",
+      "explanation": "Línguas ergativo-absolutivas, como o basco e o georgiano, marcam diferentemente o agente de ações transitivas (ergativo) do paciente e do sujeito intransitivo (absolutivo)."
+    },
+    {
+      "id": "linguas-7-3",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "Qual é o nome do processo pelo qual uma língua crioula ou pidgin é adquirida como língua materna por uma nova geração?",
+      "options": [
+        "Nativização",
+        "Crioulização",
+        "Pidginização",
+        "Glotofagia"
+      ],
+      "correctAnswer": "Crioulização",
+      "explanation": "A crioulização ocorre quando um pidgin é adquirido como língua nativa. O crioulo resultante tem gramática mais complexa e estável do que o pidgin original."
+    },
+    {
+      "id": "linguas-7-4",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "Como se chama a área da linguística que estuda a organização dos sons em padrões dentro de uma língua?",
+      "options": [
+        "Fonética",
+        "Fonologia",
+        "Morfologia",
+        "Prosódia"
+      ],
+      "correctAnswer": "Fonologia",
+      "explanation": "A fonologia estuda como os sons (fonemas) se organizam e funcionam dentro de um sistema linguístico. Diferentemente da fonética, que trata das propriedades físicas dos sons."
+    },
+    {
+      "id": "linguas-7-5",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "O que é diglossia?",
+      "options": [
+        "A capacidade de falar duas línguas com fluência",
+        "A situação em que duas variedades de uma língua coexistem com funções sociais distintas",
+        "A mistura sistemática de dois idiomas numa mesma fala",
+        "A substituição completa de uma língua por outra"
+      ],
+      "correctAnswer": "A situação em que duas variedades de uma língua coexistem com funções sociais distintas",
+      "explanation": "Na diglossia, uma variedade 'alta' (formal, escrita) e uma 'baixa' (coloquial, falada) coexistem. Exemplo: árabe clássico vs. árabe coloquial nos países árabes."
+    },
+    {
+      "id": "linguas-7-6",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "Qual é o nome do conceito de Chomsky que propõe que os seres humanos nascem com uma capacidade inata para a linguagem?",
+      "options": [
+        "Gramática Universal",
+        "Competência comunicativa",
+        "Hipótese do insumo",
+        "Aquisição natural"
+      ],
+      "correctAnswer": "Gramática Universal",
+      "explanation": "A Gramática Universal de Chomsky postula que todos os humanos nascem com um dispositivo de aquisição da linguagem e princípios gramaticais inatos que tornam possível aprender qualquer língua."
+    },
+    {
+      "id": "linguas-7-7",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "Qual é o nome do fenômeno em que o falante alterna entre duas línguas ou variedades numa mesma conversa?",
+      "options": [
+        "Interferência",
+        "Transferência",
+        "Code-switching",
+        "Interlíngua"
+      ],
+      "correctAnswer": "Code-switching",
+      "explanation": "Code-switching (alternância de código) é a prática de alternar entre duas ou mais línguas ou variedades num mesmo discurso. É um comportamento sofisticado e governado por regras gramaticais."
+    },
+    {
+      "id": "linguas-7-8",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "O que é um morfema livre?",
+      "options": [
+        "Um morfema que pode ser combinado com qualquer outro morfema",
+        "Um morfema que pode ocorrer sozinho como uma palavra independente",
+        "Um morfema sem significado gramatical definido",
+        "Um morfema que muda de forma dependendo do contexto"
+      ],
+      "correctAnswer": "Um morfema que pode ocorrer sozinho como uma palavra independente",
+      "explanation": "Morfemas livres podem existir sozinhos (ex: 'livro', 'casa'). Morfemas presos precisam estar ligados a outro morfema (ex: prefixos como 're-' e sufixos como '-ção')."
+    },
+    {
+      "id": "linguas-7-9",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "Qual é a diferença entre língua e dialeto do ponto de vista linguístico?",
+      "options": [
+        "Dialetos têm gramática inferior às línguas",
+        "Do ponto de vista estritamente linguístico, não há diferença estrutural; a distinção é sociopolítica",
+        "Uma língua tem sistema de escrita; um dialeto não",
+        "Dialetos são variações regionais sem regras gramaticais"
+      ],
+      "correctAnswer": "Do ponto de vista estritamente linguístico, não há diferença estrutural; a distinção é sociopolítica",
+      "explanation": "Max Weinreich disse: 'Uma língua é um dialeto com exército e marinha.' A distinção entre língua e dialeto é determinada por fatores políticos e sociais, não linguísticos."
+    },
+    {
+      "id": "linguas-7-10",
+      "category": "linguas",
+      "difficulty": 7,
+      "question": "Qual língua africana é conhecida por usar cliques como fonemas consonantais?",
+      "options": [
+        "Suaíli",
+        "Xhosa",
+        "Iorubá",
+        "Amárico"
+      ],
+      "correctAnswer": "Xhosa",
+      "explanation": "O xhosa, falado na África do Sul, usa sons de clique como consoantes plenas. A cantora Miriam Makeba ficou conhecida por demonstrar esses sons ao mundo ocidental."
     }
   ]
 }

@@ -4,91 +4,91 @@
       "id": "economia-10-1",
       "category": "economia",
       "difficulty": 10,
-      "question": "Em teoria dos jogos, qual é o nome do equilíbrio em que nenhum jogador tem incentivo unilateral para mudar sua estratégia dado o que os outros fazem?",
-      "options": ["Ótimo de Pareto", "Equilíbrio de Stackelberg", "Equilíbrio de Nash", "Equilíbrio de Walras"],
+      "question": "Qual equilíbrio em teoria dos jogos nenhum jogador tem incentivo unilateral para desviar?",
+      "options": ["Equilíbrio de Nash", "Ótimo de Pareto", "Equilíbrio Stackelberg", "Equilíbrio Walrasiano"],
       "correctAnswer": "Equilíbrio de Nash",
-      "explanation": "O Equilíbrio de Nash (John Nash, 1950) é o conceito central da teoria dos jogos não-cooperativos; cada jogador escolhe a melhor resposta às estratégias dos demais."
+      "explanation": "O Equilíbrio de Nash (1950) é o conceito central da teoria dos jogos não-cooperativos: cada jogador escolhe a melhor estratégia dado o que os outros estão fazendo."
     },
     {
       "id": "economia-10-2",
       "category": "economia",
       "difficulty": 10,
-      "question": "Qual é o nome do teorema que afirma que, com impostos e sem custos de falência, a estrutura de capital ótima é 100% dívida?",
-      "options": ["Teorema de Coase", "Teorema de Modigliani-Miller com impostos", "Teoria da pecking order", "Teorema de Arrow-Debreu"],
-      "correctAnswer": "Teorema de Modigliani-Miller com impostos",
-      "explanation": "Com a dedutibilidade fiscal dos juros, Modigliani-Miller implica que a firma maximiza valor usando a maior alavancagem possível; na prática, custos de falência criam uma estrutura ótima intermediária."
+      "question": "O que afirma o Teorema da Impossibilidade de Arrow?",
+      "options": ["Sem votação perfeita", "Ciclo de Condorcet", "Preferências intransitivas", "Regra da maioria"],
+      "correctAnswer": "Sem votação perfeita",
+      "explanation": "Arrow (1951) provou que nenhum sistema de votação que converta preferências individuais em coletivas pode satisfazer simultaneamente todos os critérios razoáveis de fairness."
     },
     {
       "id": "economia-10-3",
       "category": "economia",
       "difficulty": 10,
-      "question": "Como se chama o problema de inconsistência temporal em que governos anunciam uma política mas têm incentivo para abandoná-la depois de formadas as expectativas?",
-      "options": ["Risco moral", "Inconsistência dinâmica", "Dominância fiscal", "Armadilha de liquidez"],
-      "correctAnswer": "Inconsistência dinâmica",
-      "explanation": "Kydland e Prescott (Nobel 2004) mostraram que governos sem comprometimento crível anunciam baixa inflação, mas depois expandem a moeda; a solução é delegar a bancos centrais independentes."
+      "question": "Quem desenvolveu a hipótese de instabilidade financeira?",
+      "options": ["Hyman Minsky", "Charles Kindleberger", "Irving Fisher", "Ben Bernanke"],
+      "correctAnswer": "Hyman Minsky",
+      "explanation": "Hyman Minsky formulou que estabilidade gera instabilidade: períodos de prosperidade incentivam excesso de alavancagem financeira, tornando o sistema frágil e suscetível a colapsos."
     },
     {
       "id": "economia-10-4",
       "category": "economia",
       "difficulty": 10,
-      "question": "Qual é o nome da condição que iguala taxas de juros internacionais ao diferenciar câmbio esperado, na ausência de arbitragem?",
-      "options": ["Paridade do poder de compra", "Paridade descoberta de juros", "Condição de Fisher", "Lei do preço único"],
-      "correctAnswer": "Paridade descoberta de juros",
-      "explanation": "A paridade descoberta de juros (UIP) afirma que o diferencial de juros entre dois países deve igualar a variação cambial esperada; é a base da precificação de moedas em modelos de câmbio."
+      "question": "O que significa a sigla DSGE em macroeconomia?",
+      "options": ["Equilíbrio geral dinâmico", "Modelo macroeconômico", "Política monetária", "Expectativas racionais"],
+      "correctAnswer": "Equilíbrio geral dinâmico",
+      "explanation": "DSGE (Dynamic Stochastic General Equilibrium) é a classe dominante de modelos macroeconômicos modernos, combinando microfundamentos, expectativas racionais e choques estocásticos."
     },
     {
       "id": "economia-10-5",
       "category": "economia",
       "difficulty": 10,
-      "question": "Como se chama o modelo de crescimento endógeno que trata o conhecimento como bem não-rival, explicando retornos crescentes de escala?",
-      "options": ["Modelo de Solow", "Modelo de Romer", "Modelo AK", "Modelo de Lucas"],
-      "correctAnswer": "Modelo de Romer",
-      "explanation": "Paul Romer (Nobel 2018) desenvolveu o modelo de crescimento endógeno em que o conhecimento é não-rival e gera externalidades positivas, permitindo retornos crescentes e crescimento sustentado."
+      "question": "O que afirma a teoria da captura regulatória de Stigler?",
+      "options": ["Reguladores capturam regulados", "Monopólio natural", "Falha regulatória", "Concorrência perfeita"],
+      "correctAnswer": "Reguladores capturam regulados",
+      "explanation": "George Stigler (1971) argumentou que regulação beneficia frequentemente os regulados em vez do público: as indústrias 'capturam' os reguladores ao longo do tempo."
     },
     {
       "id": "economia-10-6",
       "category": "economia",
       "difficulty": 10,
-      "question": "Qual é o nome da hipótese que afirma que os déficits fiscais são neutros porque agentes racionais poupam mais hoje para pagar impostos futuros?",
-      "options": ["Hipótese de Minsky", "Equivalência Ricardiana", "Hipótese da renda permanente", "Teorema de Modigliani"],
-      "correctAnswer": "Equivalência Ricardiana",
-      "explanation": "A Equivalência Ricardiana (David Ricardo / Robert Barro) afirma que financiar gasto público por dívida ou imposto é equivalente: agentes racionais poupam hoje para pagar impostos futuros, neutralizando o estímulo."
+      "question": "O Paradoxo de Allais viola qual teoria de decisão?",
+      "options": ["Viola utilidade esperada", "Aversão ao risco", "Preferências inconsistentes", "Heurística de decisão"],
+      "correctAnswer": "Viola utilidade esperada",
+      "explanation": "Maurice Allais (1953) demonstrou experimentalmente que pessoas violam sistematicamente os axiomas da Teoria da Utilidade Esperada de Von Neumann-Morgenstern, precursando a economia comportamental."
     },
     {
       "id": "economia-10-7",
       "category": "economia",
       "difficulty": 10,
-      "question": "Como se chama o teorema que estabelece condições sob as quais a votação majoritária produz resultados cíclicos, sem vencedor estável?",
-      "options": ["Teorema de Arrow", "Paradoxo de Condorcet", "Teorema do eleitor mediano", "Teorema de Black"],
-      "correctAnswer": "Paradoxo de Condorcet",
-      "explanation": "O paradoxo de Condorcet (1785) mostra que preferências coletivas podem ser intransitivas: A bate B, B bate C, mas C bate A, impossibilitando uma escolha social consistente."
+      "question": "O que descreve a Hipótese de Mercados Adaptativos (AMH) de Andrew Lo?",
+      "options": ["Evolução dos mercados", "Eficiência variável", "Comportamento adaptativo", "Finanças comportamentais"],
+      "correctAnswer": "Evolução dos mercados",
+      "explanation": "Andrew Lo (2004) propôs a AMH como síntese evolucionária: eficiência dos mercados varia no tempo conforme agentes se adaptam ao ambiente, conciliando HME com finanças comportamentais."
     },
     {
       "id": "economia-10-8",
       "category": "economia",
       "difficulty": 10,
-      "question": "Qual é o nome do resultado de Kenneth Arrow que demonstra ser impossível agregar preferências individuais em preferências sociais satisfazendo certas condições razoáveis?",
-      "options": ["Teorema de Coase", "Teorema da impossibilidade de Arrow", "Paradoxo de Condorcet", "Teorema do bem-estar social"],
-      "correctAnswer": "Teorema da impossibilidade de Arrow",
-      "explanation": "O Teorema da Impossibilidade de Arrow (1951) prova que não existe regra de escolha social que satisfaça simultaneamente: não-ditadura, unanimidade, independência de alternativas irrelevantes e ordenação completa."
+      "question": "O que modela o framework Ramsey-Cass-Koopmans?",
+      "options": ["Crescimento ótimo intertemporal", "Utilidade descontada", "Poupança ótima", "Modelo neoclássico"],
+      "correctAnswer": "Crescimento ótimo intertemporal",
+      "explanation": "O modelo Ramsey-Cass-Koopmans é o framework padrão de crescimento ótimo, em que famílias maximizam utilidade intertemporal com desconto temporal, derivando a regra de ouro do capital."
     },
     {
       "id": "economia-10-9",
       "category": "economia",
       "difficulty": 10,
-      "question": "Como se chama o modelo que descreve a decisão ótima de investimento de uma firma comparando o custo de capital ao valor de mercado dos ativos instalados?",
-      "options": ["Modelo CAPM", "Q de Tobin", "Modelo de Modigliani-Miller", "Modelo de Black-Scholes"],
-      "correctAnswer": "Q de Tobin",
-      "explanation": "O Q de Tobin (James Tobin) é a razão entre o valor de mercado do capital e seu custo de reposição. Se Q > 1, vale investir; se Q < 1, é mais barato comprar no mercado que construir novo capital."
+      "question": "O que estabelece a teoria dos contratos incompletos de Grossman-Hart?",
+      "options": ["Propriedade e incentivos", "Integração vertical", "Contratos e poder", "Governança corporativa"],
+      "correctAnswer": "Propriedade e incentivos",
+      "explanation": "Grossman e Hart (1986) mostraram que quando contratos são incompletos, a alocação de direitos de propriedade determina os incentivos para investimento e a fronteira eficiente das empresas."
     },
     {
       "id": "economia-10-10",
       "category": "economia",
       "difficulty": 10,
-      "question": "Qual é o nome do fenômeno em que bancos centrais perdem eficácia porque agentes preferem reter liquidez a qualquer taxa de juros próxima de zero?",
-      "options": ["Dominância fiscal", "Armadilha de liquidez", "Deflação de dívida", "Ciclo de Minsky"],
-      "correctAnswer": "Armadilha de liquidez",
-      "explanation": "Na armadilha de liquidez (Keynes/Krugman), com juros nominais próximos de zero, a política monetária convencional perde eficácia: agentes preferem guardar dinheiro a investir, mesmo com crédito barato."
+      "question": "O que estabelece o Teorema de Coase sobre externalidades?",
+      "options": ["Direitos e eficiência", "Externalidades internalizadas", "Negociação privada resolve", "Falha de mercado"],
+      "correctAnswer": "Direitos e eficiência",
+      "explanation": "O Teorema de Coase (1960) afirma que quando direitos de propriedade são bem definidos e custos de transação são zero, a negociação privada leva a resultados eficientes independentemente de quem detém os direitos."
     }
   ]
 }

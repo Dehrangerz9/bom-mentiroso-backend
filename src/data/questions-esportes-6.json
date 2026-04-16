@@ -5,14 +5,90 @@
       "category": "esportes",
       "difficulty": 6,
       "question": "Qual corredor jamaicano estabeleceu o recorde mundial dos 100m rasos com 9,58 segundos nos Jogos Olímpicos de Berlim?",
-      "options": [
-        "Yohan Blake",
-        "Asafa Powell",
-        "Usain Bolt",
-        "Justin Gatlin"
-      ],
+      "options": ["Yohan Blake", "Asafa Powell", "Usain Bolt", "Justin Gatlin"],
       "correctAnswer": "Usain Bolt",
       "explanation": "Usain Bolt correu os 100m em 9,58s no Mundial de Berlim em 2009, estabelecendo o recorde mundial atual."
+    },
+    {
+      "id": "esportes-6-2",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "No futebol, quantos metros tem o raio da área do goleiro?",
+      "options": ["5,5 m", "9,15 m", "16,5 m", "11 m"],
+      "correctAnswer": "5,5 m",
+      "explanation": "A pequena área (área do goleiro) tem 5,5 metros de raio a partir da linha do gol."
+    },
+    {
+      "id": "esportes-6-3",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "Em que esporte se usa o termo 'Grand Slam'?",
+      "options": ["Baseball e tênis", "Golfe e rugby", "Críquete e polo", "Natação e ciclismo"],
+      "correctAnswer": "Baseball e tênis",
+      "explanation": "Grand Slam é usado no baseball (rebater com bases cheias) e no tênis (vencer os 4 torneios majors numa temporada)."
+    },
+    {
+      "id": "esportes-6-4",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "Qual nadador americano tem mais medalhas olímpicas de todos os tempos?",
+      "options": ["Mark Spitz", "Michael Phelps", "Ryan Lochte", "Ian Thorpe"],
+      "correctAnswer": "Michael Phelps",
+      "explanation": "Michael Phelps conquistou 28 medalhas olímpicas (23 de ouro), sendo o maior medalhista olímpico da história."
+    },
+    {
+      "id": "esportes-6-5",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "No rugby union, quantos pontos vale um try?",
+      "options": ["3", "4", "5", "6"],
+      "correctAnswer": "5",
+      "explanation": "No rugby union, pousar a bola na zona de try do adversário vale 5 pontos, mais 2 se a conversão for bem-sucedida."
+    },
+    {
+      "id": "esportes-6-6",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "Qual cidade sediou os Jogos Olímpicos de Verão de 2016?",
+      "options": ["Buenos Aires", "Santiago", "São Paulo", "Rio de Janeiro"],
+      "correctAnswer": "Rio de Janeiro",
+      "explanation": "Os Jogos Olímpicos de 2016 foram realizados no Rio de Janeiro, primeira edição na América do Sul."
+    },
+    {
+      "id": "esportes-6-7",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "No tênis, qual torneio Grand Slam é disputado em saibro?",
+      "options": ["Wimbledon", "US Open", "Roland Garros", "Australian Open"],
+      "correctAnswer": "Roland Garros",
+      "explanation": "Roland Garros, em Paris, é o único Grand Slam disputado em quadras de saibro."
+    },
+    {
+      "id": "esportes-6-8",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "No boxe, qual é a duração de um round profissional?",
+      "options": ["2 minutos", "3 minutos", "4 minutos", "5 minutos"],
+      "correctAnswer": "3 minutos",
+      "explanation": "Rounds no boxe profissional duram 3 minutos, com 1 minuto de descanso entre eles."
+    },
+    {
+      "id": "esportes-6-9",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "Qual país ganhou mais medalhas de ouro nos Jogos Olímpicos historicamente?",
+      "options": ["China", "Rússia/URSS", "Alemanha", "Estados Unidos"],
+      "correctAnswer": "Estados Unidos",
+      "explanation": "Os Estados Unidos lideram o quadro histórico de medalhas olímpicas de ouro com mais de 1000 conquistas."
+    },
+    {
+      "id": "esportes-6-10",
+      "category": "esportes",
+      "difficulty": 6,
+      "question": "Em que esporte Ayrton Senna foi tricampeão mundial?",
+      "options": ["Kart", "Fórmula 1", "Fórmula 2", "Indycar"],
+      "correctAnswer": "Fórmula 1",
+      "explanation": "Ayrton Senna conquistou três títulos mundiais de Fórmula 1, em 1988, 1990 e 1991."
     }
   ]
 }

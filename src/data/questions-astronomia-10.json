@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Horizonte de eventos",
       "explanation": "O horizonte de eventos é a fronteira causal de um buraco negro. A partir dele, a velocidade de escape supera a da luz. A 'Esfera de Schwarzschild' é o mesmo conceito, mas 'horizonte de eventos' é o termo mais preciso e abrangente."
+    },
+    {
+      "id": "astronomia-10-2",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "O que é a conjectura de 'censura cósmica' de Penrose?",
+      "options": [
+        "A hipótese de que informação destruída em buracos negros é 'censurada' da observação externa",
+        "A conjectura de que singularidades gravitacionais sempre ficam ocultas dentro de horizontes de eventos e nunca são nuas",
+        "A teoria de que universos paralelos são inacessíveis por censura quântica",
+        "A proibição de comunicação superluminal em qualquer teoria física consistente"
+      ],
+      "correctAnswer": "A conjectura de que singularidades gravitacionais sempre ficam ocultas dentro de horizontes de eventos e nunca são nuas",
+      "explanation": "Penrose propôs em 1969 que singularidades 'nuas' (sem horizonte de eventos) não existem em natureza. A conjectura ainda não foi provada ou refutada matematicamente, sendo objeto de pesquisa ativa em Relatividade Geral."
+    },
+    {
+      "id": "astronomia-10-3",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "O que é o 'Problema da Hierarquia' na física de partículas relacionado à cosmologia?",
+      "options": [
+        "A dificuldade de ordenar as galáxias por tamanho numa hierarquia consistente",
+        "A enorme discrepância entre a escala da gravidade (Planck) e a escala eletrofraca, sem explicação natural no Modelo Padrão",
+        "A impossibilidade de unificar as quatro forças fundamentais numa única teoria",
+        "A diferença de escala entre o universo observável e as partículas subatômicas"
+      ],
+      "correctAnswer": "A enorme discrepância entre a escala da gravidade (Planck) e a escala eletrofraca, sem explicação natural no Modelo Padrão",
+      "explanation": "A escala de Planck (~10¹⁹ GeV) é 16 ordens de grandeza maior que a escala eletrofraca (~246 GeV). Manter a massa do Higgs nessa escala exige ajuste fino extremo — o problema de hierarquia motiva supersimetria, dimensões extras e outros modelos."
+    },
+    {
+      "id": "astronomia-10-4",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "O que diferencia a métrica de Kerr-Newman da métrica de Schwarzschild na Relatividade Geral?",
+      "options": [
+        "Schwarzschild descreve buracos negros com massa; Kerr-Newman inclui rotação e carga elétrica",
+        "Kerr-Newman é válida apenas para buracos negros com massa abaixo do limite de Chandrasekhar",
+        "Schwarzschild descreve o espaço-tempo fora de estrelas de nêutrons; Kerr-Newman, o interior",
+        "Kerr-Newman é a versão quântica da métrica de Schwarzschild"
+      ],
+      "correctAnswer": "Schwarzschild descreve buracos negros com massa; Kerr-Newman inclui rotação e carga elétrica",
+      "explanation": "A Schwarzschild (1916) descreve BNs estáticos sem carga. Kerr (1963) adicionou rotação; Kerr-Newman (1965) adicionou carga elétrica. Pelo teorema 'no-hair', BNs são completamente caracterizados por apenas três parâmetros: massa, rotação e carga."
+    },
+    {
+      "id": "astronomia-10-5",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "Qual é o conceito de 'entropia de Bekenstein-Hawking' para buracos negros?",
+      "options": [
+        "A medida da temperatura da radiação emitida pelo horizonte de eventos",
+        "A entropia do buraco negro é proporcional à área do horizonte de eventos, não ao volume",
+        "A energia total armazenada na singularidade dividida pela temperatura Hawking",
+        "A quantidade de informação que pode ser transmitida através de um buraco de minhoca"
+      ],
+      "correctAnswer": "A entropia do buraco negro é proporcional à área do horizonte de eventos, não ao volume",
+      "explanation": "Bekenstein (1972) e Hawking (1974) mostraram que S_BH = kA/4l²_P, onde A é a área do horizonte. Isso levou ao 'princípio holográfico': toda informação de um volume 3D pode ser codificada numa superfície 2D."
+    },
+    {
+      "id": "astronomia-10-6",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "O que são 'estrelas de quarks' e por que são hipoteticamente possíveis?",
+      "options": [
+        "Estrelas formadas no Big Bang antes da hadronização da matéria",
+        "Objetos compactos onde a pressão é tão alta que os nêutrons se dissolvem em plasma de quarks desconfinados",
+        "Buracos negros primordiais formados de matéria de quarks nos primeiros microssegundos",
+        "Estrelas de nêutrons que emitem jatos de quarks em altas energias"
+      ],
+      "correctAnswer": "Objetos compactos onde a pressão é tão alta que os nêutrons se dissolvem em plasma de quarks desconfinados",
+      "explanation": "Se a densidade de uma estrela de nêutrons ultrapassar o limite de TOV sem colapsar em buraco negro, os nêutrons poderiam se dissolver em quarks livres (matéria de quarks estranha). Sua existência ainda não foi confirmada observacionalmente."
+    },
+    {
+      "id": "astronomia-10-7",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "O que é a 'conjectura de ER=EPR'?",
+      "options": [
+        "A equivalência entre relatividade especial e mecânica quântica proposta por Einstein",
+        "A sugestão de que buracos de minhoca (Einstein-Rosen) são equivalentes ao entrelaçamento quântico (Einstein-Podolsky-Rosen)",
+        "A relação entre a constante cosmológica e a densidade de energia do vácuo quântico",
+        "A proposta de que buracos negros são portais para universos paralelos"
+      ],
+      "correctAnswer": "A sugestão de que buracos de minhoca (Einstein-Rosen) são equivalentes ao entrelaçamento quântico (Einstein-Podolsky-Rosen)",
+      "explanation": "Proposta por Maldacena e Susskind em 2013, ER=EPR sugere que pares de partículas entrelaçadas são conectadas por micro buracos de minhoca. Seria uma ponte entre gravidade quântica e o paradoxo da informação de buracos negros."
+    },
+    {
+      "id": "astronomia-10-8",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "Qual é o 'Destino Final' previsto pelo modelo cosmológico padrão para o universo, dado o domínio da energia escura?",
+      "options": [
+        "Big Crunch: a expansão reverterá e o universo colapsará em si mesmo",
+        "Big Rip: a energia escura aumentará até rasgar toda a matéria e o espaço-tempo",
+        "Big Freeze: expansão eterna com morte térmica por aumento de entropia até o equilíbrio",
+        "Big Bounce: o universo colapsará e voltará a expandir num ciclo infinito"
+      ],
+      "correctAnswer": "Big Freeze: expansão eterna com morte térmica por aumento de entropia até o equilíbrio",
+      "explanation": "Com a constante cosmológica atual (w=-1), o cenário mais provável é expansão eterna. Estrelas se apagam, buracos negros evaporam via Hawking em ~10¹⁰⁰ anos, e o universo atinge máxima entropia — morte térmica. Big Rip requereria w < -1."
+    },
+    {
+      "id": "astronomia-10-9",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "O que é a correspondência AdS/CFT (Maldacena) e por que é revolucionária?",
+      "options": [
+        "A equivalência matemática entre uma teoria gravitacional em espaço Anti-de Sitter e uma teoria quântica de campos conforme na fronteira",
+        "A dualidade entre matéria e energia escura em modelos cosmológicos modificados",
+        "A relação entre espectros de emissão de quasares e parâmetros de buracos negros",
+        "A equivalência entre a constante de Hubble medida localmente e globalmente"
+      ],
+      "correctAnswer": "A equivalência matemática entre uma teoria gravitacional em espaço Anti-de Sitter e uma teoria quântica de campos conforme na fronteira",
+      "explanation": "Proposta por Juan Maldacena em 1997, a correspondência AdS/CFT é o exemplo mais estudado do princípio holográfico. Permite calcular propriedades de sistemas fortemente acoplados (plasma de quarks, supercondutores) usando gravidade — potencialmente um caminho para a gravidade quântica."
+    },
+    {
+      "id": "astronomia-10-10",
+      "category": "astronomia",
+      "difficulty": 10,
+      "question": "O que é o 'Paradoxo do Firewall' (AMPS) e como desafia nossa compreensão da física?",
+      "options": [
+        "A impossibilidade de comunicação entre universos paralelos sem destruir ambos",
+        "O conflito entre monogamia do entrelaçamento quântico, equivalência relativística e complementaridade: um observador caindo num BN ou vê uma parede de fogo ou a física colapsa",
+        "A destruição de toda informação eletrônica por pulsos eletromagnéticos de buracos negros próximos",
+        "A barreira energética que impede a formação de singularidades nuas segundo a censura cósmica"
+      ],
+      "correctAnswer": "O conflito entre monogamia do entrelaçamento quântico, equivalência relativística e complementaridade: um observador caindo num BN ou vê uma parede de fogo ou a física colapsa",
+      "explanation": "Almheiri, Marolf, Polchinski e Sully (2012) mostraram que preservar a unitariedade quântica (informação não se perde) implica que a Hawking radiation está maximamente entrelaçada com radiação anterior E com o interior do BN — violando monogamia. Uma das três premissas da física deve falhar."
     }
   ]
 }

@@ -5,14 +5,90 @@
       "category": "jogos",
       "difficulty": 6,
       "question": "Em Minecraft, qual é o nome do chefe final do jogo, encontrado na End dimension?",
-      "options": [
-        "Wither",
-        "Elder Guardian",
-        "Ender Dragon",
-        "Enderman"
-      ],
+      "options": ["Wither", "Elder Guardian", "Ender Dragon", "Enderman"],
       "correctAnswer": "Ender Dragon",
       "explanation": "O Ender Dragon é o chefe final de Minecraft, encontrado na dimensão The End, e sua derrota é considerada o encerramento da progressão principal do jogo."
+    },
+    {
+      "id": "jogos-6-2",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Qual jogo da FromSoftware, lançado em 2022, foi desenvolvido em parceria com o escritor George R. R. Martin?",
+      "options": ["Dark Souls III", "Sekiro", "Elden Ring", "Bloodborne"],
+      "correctAnswer": "Elden Ring",
+      "explanation": "Elden Ring foi lançado em fevereiro de 2022 em colaboração com George R. R. Martin. O jogo ganhou o prêmio de Jogo do Ano no The Game Awards 2022."
+    },
+    {
+      "id": "jogos-6-3",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Qual é o nome do protagonista da franquia God of War?",
+      "options": ["Dante", "Kratos", "Leonidas", "Achilles"],
+      "correctAnswer": "Kratos",
+      "explanation": "Kratos é o protagonista da franquia God of War. Originalmente um guerreiro espartano, ele mata deuses gregos e, mais tarde, aventura-se pela mitologia nórdica ao lado de seu filho Atreus."
+    },
+    {
+      "id": "jogos-6-4",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Qual é o nome do tipo de jogo onde o mapa é gerado aleatoriamente a cada partida e a morte é permanente?",
+      "options": ["Sandbox", "Metroidvania", "Roguelike", "Soulslike"],
+      "correctAnswer": "Roguelike",
+      "explanation": "Roguelikes são caracterizados por mapas gerados proceduralmente e morte permanente (permadeath). O nome vem do jogo Rogue (1980). Exemplos populares: Hades, Dead Cells e The Binding of Isaac."
+    },
+    {
+      "id": "jogos-6-5",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Qual jogo da CD Projekt Red, lançado em 2015, é considerado um dos maiores RPGs de mundo aberto da história?",
+      "options": ["Dragon Age: Inquisition", "The Witcher 3: Wild Hunt", "Skyrim", "Cyberpunk 2077"],
+      "correctAnswer": "The Witcher 3: Wild Hunt",
+      "explanation": "The Witcher 3: Wild Hunt, lançado em maio de 2015, ganhou mais de 800 prêmios incluindo numerosos Game of the Year, e possui um dos mundos abertos mais ricos e detalhados dos videogames."
+    },
+    {
+      "id": "jogos-6-6",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Qual é o nome do personagem principal da franquia Halo da Microsoft?",
+      "options": ["Noble Six", "The Arbiter", "Master Chief", "Buck"],
+      "correctAnswer": "Master Chief",
+      "explanation": "Master Chief, cujo nome completo é John-117, é o protagonista da franquia Halo. É um supersoldado Spartan-II que luta contra os Covenant e o Flood."
+    },
+    {
+      "id": "jogos-6-7",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Qual jogo de RPG tático da Square Enix apresenta batalhas em grade isométrica com personagens como Cloud e Terra?",
+      "options": ["Final Fantasy Tactics", "Tactics Ogre", "Fire Emblem", "Disgaea"],
+      "correctAnswer": "Final Fantasy Tactics",
+      "explanation": "Final Fantasy Tactics, lançado em 1997, é um RPG tático com batalhas em grade isométrica ambientado em Ivalice. É considerado um dos melhores RPGs táticos já feitos, com uma narrativa política rica e complexo sistema de classes."
+    },
+    {
+      "id": "jogos-6-8",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Qual jogo indie de 2016 da ConcernedApe coloca o jogador para administrar uma fazenda herdada do avô?",
+      "options": ["Harvest Moon", "My Time at Portia", "Stardew Valley", "Farm Together"],
+      "correctAnswer": "Stardew Valley",
+      "explanation": "Stardew Valley foi criado por um único desenvolvedor, Eric Barone (ConcernedApe), ao longo de quatro anos. Lançado em 2016, o jogo vendeu mais de 20 milhões de cópias e revitalizou o gênero de simulação de fazenda."
+    },
+    {
+      "id": "jogos-6-9",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Qual jogo de terror de sobrevivência da Capcom se passa em uma mansão infestada de zumbis e foi lançado originalmente em 1996?",
+      "options": ["Silent Hill", "Alone in the Dark", "Resident Evil", "Dino Crisis"],
+      "correctAnswer": "Resident Evil",
+      "explanation": "Resident Evil (Biohazard no Japão), lançado em 1996 pela Capcom, é o fundador do gênero survival horror moderno. A franquia já vendeu mais de 140 milhões de cópias e gerou filmes, séries e animações."
+    },
+    {
+      "id": "jogos-6-10",
+      "category": "jogos",
+      "difficulty": 6,
+      "question": "Qual jogo de plataforma da Naughty Dog, lançado em 1996 para PlayStation, apresenta um marsupial como protagonista?",
+      "options": ["Spyro the Dragon", "Banjo-Kazooie", "Crash Bandicoot", "Jak and Daxter"],
+      "correctAnswer": "Crash Bandicoot",
+      "explanation": "Crash Bandicoot foi lançado em 1996 para PlayStation pela Naughty Dog. O marsupial laranja tornou-se mascote não oficial do console e protagonizou uma das trilogias de plataforma mais amadas dos anos 90."
     }
   ]
 }

@@ -5,14 +5,90 @@
       "category": "jogos",
       "difficulty": 10,
       "question": "Qual é o termo técnico para o padrão de design de jogos onde recompensas são distribuídas em intervalos variáveis imprevisíveis, criando compulsão similar ao jogo de azar?",
-      "options": [
-        "Core gameplay loop",
-        "Variable ratio reinforcement schedule",
-        "Gacha mechanics",
-        "FOMO design"
-      ],
+      "options": ["Core gameplay loop", "Variable ratio reinforcement schedule", "Gacha mechanics", "FOMO design"],
       "correctAnswer": "Variable ratio reinforcement schedule",
       "explanation": "Derivado do condicionamento operante de B.F. Skinner, o Variable Ratio Reinforcement é o mecanismo psicológico por trás de loot boxes, sistemas gacha e slot machines."
+    },
+    {
+      "id": "jogos-10-2",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o nome da técnica de renderização em tempo real que simula o comportamento físico da luz, incluindo reflexos, sombras e iluminação global?",
+      "options": ["Rasterização", "Baked lighting", "Ray tracing", "Ambient occlusion"],
+      "correctAnswer": "Ray tracing",
+      "explanation": "Ray tracing é uma técnica de renderização que simula o comportamento físico real da luz, traçando raios de luz a partir da câmera e calculando suas interações com superfícies. Embora existisse há décadas em renders off-line, só se tornou viável em tempo real com as GPUs RTX da NVIDIA em 2018 e as consoles PS5 e Xbox Series X em 2020."
+    },
+    {
+      "id": "jogos-10-3",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o nome do conceito em teoria de jogos que descreve uma situação onde nenhum jogador pode melhorar seu resultado mudando unilateralmente sua estratégia?",
+      "options": ["Teoria da utilidade", "Dilema do prisioneiro", "Equilíbrio de Nash", "Estratégia dominante"],
+      "correctAnswer": "Equilíbrio de Nash",
+      "explanation": "O Equilíbrio de Nash, desenvolvido pelo matemático John Nash (retratado no filme 'Uma Mente Brilhante'), descreve um estado em um jogo estratégico onde nenhum participante pode se beneficiar mudando apenas sua própria estratégia. Este conceito é aplicado em design de jogos competitivos para entender e balancear meta-estratégias."
+    },
+    {
+      "id": "jogos-10-4",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o nome do fenômeno em comunidades de speedrunning onde uma rota ou estratégia completamente nova reduz drasticamente o tempo de conclusão de um jogo?",
+      "options": ["Out of bounds", "Wrong warp", "Game-breaking glitch", "Route revolution"],
+      "correctAnswer": "Wrong warp",
+      "explanation": "Wrong warp é uma categoria de glitch em que o jogo carrega o jogador para uma área incorreta ao acionar uma transição de mapa sob condições específicas. Em Super Mario Bros., wrong warps permitem ir diretamente para o mundo 4 ou mundo 8 a partir do mundo 1, sendo essencial para o record mundial de speedrun."
+    },
+    {
+      "id": "jogos-10-5",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o nome do algoritmo de busca de caminho mais utilizado em jogos para calcular a rota mais eficiente de um ponto a outro em um grafo?",
+      "options": ["Algoritmo de Dijkstra", "Busca em largura (BFS)", "Algoritmo A*", "Algoritmo de Bellman-Ford"],
+      "correctAnswer": "Algoritmo A*",
+      "explanation": "O algoritmo A* (A-star), desenvolvido por Peter Hart, Nils Nilsson e Bertram Raphael em 1968, é o algoritmo de pathfinding mais usado em jogos. Combina o custo real do caminho percorrido com uma heurística estimada da distância ao destino, sendo mais eficiente que Dijkstra por direcionar a busca na direção correta."
+    },
+    {
+      "id": "jogos-10-6",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o nome da técnica de desenvolvimento de jogos onde a lógica do jogo é separada da renderização gráfica para garantir comportamento consistente independente da taxa de quadros?",
+      "options": ["Double buffering", "Fixed timestep", "V-Sync", "Frame pacing"],
+      "correctAnswer": "Fixed timestep",
+      "explanation": "Fixed timestep é uma técnica de game loop onde a lógica do jogo é atualizada em intervalos de tempo fixos e consistentes, independente da taxa de renderização. Isso garante que física, IA e mecânicas se comportem de forma idêntica em 30fps ou 144fps, evitando bugs dependentes de framerate."
+    },
+    {
+      "id": "jogos-10-7",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o nome do padrão de design de software amplamente usado em engines de jogos, onde entidades são compostas de componentes independentes em vez de herança de classes?",
+      "options": ["Model-View-Controller", "Entity Component System", "Observer Pattern", "Singleton Pattern"],
+      "correctAnswer": "Entity Component System",
+      "explanation": "O Entity Component System (ECS) é uma arquitetura de software onde entidades são apenas IDs, componentes são dados puros sem comportamento, e sistemas processam entidades que possuem determinados componentes. Unity e Unreal Engine utilizam variações desse padrão, que é preferido por sua performance e flexibilidade em relação à herança tradicional."
+    },
+    {
+      "id": "jogos-10-8",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o nome da técnica de compressão de textura especificamente projetada para uso em hardware gráfico de jogos, que mantém a qualidade visual com baixo custo de memória em GPU?",
+      "options": ["PNG comprimido", "JPEG progressivo", "BCn (Block Compression)", "WebP"],
+      "correctAnswer": "BCn (Block Compression)",
+      "explanation": "Block Compression (BCn) é uma família de formatos de compressão de textura para GPU (BC1 a BC7, também conhecidos como DXT/S3TC). Ao contrário de PNG e JPEG que são descomprimidos na CPU, texturas BCn permanecem comprimidas na VRAM e são decomp rimidas pelo hardware da GPU em tempo real, reduzindo drasticamente o consumo de memória de vídeo."
+    },
+    {
+      "id": "jogos-10-9",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o nome do processo em que um jogo usa aprendizado de máquina para treinar agentes de IA que jogam contra si mesmos para melhorar?",
+      "options": ["Supervised learning", "Self-play reinforcement learning", "Neural pathfinding", "Procedural AI generation"],
+      "correctAnswer": "Self-play reinforcement learning",
+      "explanation": "Self-play reinforcement learning é uma técnica onde um agente de IA melhora jogando repetidamente contra versões anteriores de si mesmo. Foi usada pela DeepMind no AlphaGo e AlphaStar (que derrotou jogadores profissionais de StarCraft II) e pela OpenAI Five (Dota 2). O agente descobre estratégias sem necessidade de dados humanos."
+    },
+    {
+      "id": "jogos-10-10",
+      "category": "jogos",
+      "difficulty": 10,
+      "question": "Qual é o nome da técnica de upscaling de imagem da NVIDIA que usa inteligência artificial para gerar frames em alta resolução a partir de resolução nativa mais baixa?",
+      "options": ["FSR (AMD FidelityFX Super Resolution)", "TAA Upscaling", "DLSS (Deep Learning Super Sampling)", "XeSS (Intel Xe Super Sampling)"],
+      "correctAnswer": "DLSS (Deep Learning Super Sampling)",
+      "explanation": "DLSS, desenvolvida pela NVIDIA, usa uma rede neural treinada em supercomputadores para reconstruir imagens em alta resolução a partir de frames renderizados em resolução menor. Isso permite que jogos rodem em 1080p internamente e sejam exibidos em 4K com qualidade comparável à resolução nativa, aumentando significativamente o desempenho."
     }
   ]
 }

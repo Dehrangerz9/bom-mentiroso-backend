@@ -4,15 +4,141 @@
       "id": "ecologia-6-1",
       "category": "ecologia",
       "difficulty": 6,
-      "question": "Qual fenômeno climático, causado pelo aquecimento anômalo das águas do Pacífico tropical, afeta padrões climáticos globais com secas e chuvas intensas?",
+      "question": "Qual fenômeno climático, causado pelo aquecimento anômalo das águas do Pacífico tropical, afeta padrões climáticos globais?",
       "options": [
         "La Niña",
         "El Niño",
-        "PDO (Oscilação Decadal do Pacífico)",
-        "Dipolo do Oceano Índico"
+        "Dipolo Índico",
+        "Oscilação Ártica"
       ],
       "correctAnswer": "El Niño",
       "explanation": "El Niño é o aquecimento periódico do Pacífico equatorial que altera a circulação atmosférica global, causando efeitos climáticos extremos em todos os continentes."
+    },
+    {
+      "id": "ecologia-6-2",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "Como se chama o fenômeno pelo qual espécies introduzidas num novo ambiente dominam e prejudicam as espécies nativas?",
+      "options": [
+        "Sucessão ecológica",
+        "Deriva genética",
+        "Invasão biológica",
+        "Colonização natural"
+      ],
+      "correctAnswer": "Invasão biológica",
+      "explanation": "Invasões biológicas ocorrem quando espécies exóticas se estabelecem fora de sua área de origem, competindo com espécies nativas. São consideradas a segunda maior causa de extinção no mundo, após a perda de habitat."
+    },
+    {
+      "id": "ecologia-6-3",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "Qual é o nome do ciclo biogeoquímico que transforma o nitrogênio atmosférico em formas utilizáveis pelos seres vivos?",
+      "options": [
+        "Ciclo do carbono",
+        "Ciclo hídrico",
+        "Ciclo do fósforo",
+        "Ciclo do nitrogênio"
+      ],
+      "correctAnswer": "Ciclo do nitrogênio",
+      "explanation": "No ciclo do nitrogênio, bactérias fixadoras transformam N₂ atmosférico em amônia, que é nitrificada, absorvida por plantas e devolvida ao ar pela desnitrificação. É essencial para síntese de proteínas."
+    },
+    {
+      "id": "ecologia-6-4",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "Como se chama a capacidade máxima de indivíduos de uma espécie que um ambiente pode sustentar indefinidamente?",
+      "options": [
+        "Biomassa máxima",
+        "Densidade ótima",
+        "Capacidade suporte",
+        "Equilíbrio populacional"
+      ],
+      "correctAnswer": "Capacidade suporte",
+      "explanation": "A capacidade suporte (K) é o número máximo de indivíduos que um ambiente pode manter sem degradação, limitada por recursos como alimento, água e espaço."
+    },
+    {
+      "id": "ecologia-6-5",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "Qual bioma brasileiro é conhecido como 'berço das águas', abrigando nascentes das principais bacias hidrográficas do país?",
+      "options": [
+        "Amazônia",
+        "Pantanal",
+        "Mata Atlântica",
+        "Cerrado"
+      ],
+      "correctAnswer": "Cerrado",
+      "explanation": "O Cerrado é chamado de 'berço das águas' por abrigar as nascentes de oito das doze grandes bacias hidrográficas do Brasil. Já perdeu mais de 50% de sua vegetação original."
+    },
+    {
+      "id": "ecologia-6-6",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "Como se chama a sucessão ecológica que começa em substratos sem vida prévia, como rocha nua ou lava vulcânica?",
+      "options": [
+        "Sucessão secundária",
+        "Sucessão climácica",
+        "Sucessão primária",
+        "Sucessão regressiva"
+      ],
+      "correctAnswer": "Sucessão primária",
+      "explanation": "Na sucessão primária, organismos pioneiros (como líquens) colonizam substratos inertes, criando solo gradualmente e permitindo que comunidades cada vez mais complexas se estabeleçam."
+    },
+    {
+      "id": "ecologia-6-7",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "Qual gás de efeito estufa emitido pela pecuária bovina tem potencial de aquecimento 25 vezes maior que o CO₂?",
+      "options": [
+        "Óxido nitroso",
+        "Vapor d'água",
+        "Metano",
+        "Ozônio troposférico"
+      ],
+      "correctAnswer": "Metano",
+      "explanation": "O metano (CH₄) é liberado pela fermentação entérica do gado e decomposição em aterros e arrozais. Apesar de menor concentração que o CO₂, tem potencial de aquecimento global 25 vezes maior em 100 anos."
+    },
+    {
+      "id": "ecologia-6-8",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "Como se chama a zona oceânica onde a luz solar penetra suficientemente para permitir a fotossíntese?",
+      "options": [
+        "Zona afótica",
+        "Zona bentônica",
+        "Zona hadal",
+        "Zona fótica"
+      ],
+      "correctAnswer": "Zona fótica",
+      "explanation": "A zona fótica vai da superfície até cerca de 200 m de profundidade, onde a luz é suficiente para a fotossíntese. Abaixo dela fica a zona afótica, onde a vida depende de matéria orgânica sedimentada."
+    },
+    {
+      "id": "ecologia-6-9",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "O que é bioacumulação no contexto de poluentes químicos como DDT e mercúrio?",
+      "options": [
+        "Degradação bacteriana",
+        "Dispersão pelo vento",
+        "Neutralização química",
+        "Acúmulo em tecidos"
+      ],
+      "correctAnswer": "Acúmulo em tecidos",
+      "explanation": "Bioacumulação é o acúmulo de substâncias tóxicas nos tecidos de organismos em concentrações maiores que no ambiente. A biomagnificação amplifica esse efeito ao longo da cadeia trófica."
+    },
+    {
+      "id": "ecologia-6-10",
+      "category": "ecologia",
+      "difficulty": 6,
+      "question": "Qual é o processo pelo qual os recifes de coral ficam brancos e morrem devido ao aumento da temperatura oceânica?",
+      "options": [
+        "Calcificação excessiva",
+        "Acidificação biótica",
+        "Hipóxia bentônica",
+        "Branqueamento coralino"
+      ],
+      "correctAnswer": "Branqueamento coralino",
+      "explanation": "O branqueamento ocorre quando o aumento da temperatura expulsa as zooxantelas (algas simbióticas) dos corais, deixando-os brancos e vulneráveis. Se o estresse persistir, os corais morrem."
     }
   ]
 }

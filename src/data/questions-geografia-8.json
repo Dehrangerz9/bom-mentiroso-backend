@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Peru",
       "explanation": "O Brasil detém cerca de 60% da Amazônia; o Peru vem em segundo com aproximadamente 13%."
+    },
+    {
+      "id": "geografia-8-2",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Qual é o nome da corrente oceânica fria que corre ao longo da costa oeste da América do Sul?",
+      "options": [
+        "Corrente do Brasil",
+        "Corrente de Humboldt",
+        "Corrente do Golfo",
+        "Corrente de Benguela"
+      ],
+      "correctAnswer": "Corrente de Humboldt",
+      "explanation": "A Corrente de Humboldt, também chamada de Corrente do Peru, é uma corrente oceânica fria que flui ao longo da costa oeste da América do Sul. Ela influencia o clima da região e é uma das mais ricas em biodiversidade marinha do mundo."
+    },
+    {
+      "id": "geografia-8-3",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Qual é o nome do processo geológico que descreve o movimento das placas tectônicas ao longo do tempo geológico?",
+      "options": [
+        "Erosão continental",
+        "Vulcanismo",
+        "Deriva continental",
+        "Subsidência"
+      ],
+      "correctAnswer": "Deriva continental",
+      "explanation": "A teoria da deriva continental, proposta por Alfred Wegener em 1912, descreve como os continentes se moveram ao longo de milhões de anos a partir de um supercontinente chamado Pangeia."
+    },
+    {
+      "id": "geografia-8-4",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Qual é o nome do lago mais profundo do mundo?",
+      "options": [
+        "Lago Tanganica",
+        "Lago Baikal",
+        "Lago Superior",
+        "Lago Cáspio"
+      ],
+      "correctAnswer": "Lago Baikal",
+      "explanation": "O Lago Baikal, na Sibéria, é o lago mais profundo do mundo com 1.642 metros de profundidade máxima. Contém cerca de 20% da água doce superficial não congelada do planeta."
+    },
+    {
+      "id": "geografia-8-5",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Qual é o nome da região geográfica que inclui os países escandinavos e é conhecida pelos fiordes?",
+      "options": [
+        "Península Ibérica",
+        "Península Balcânica",
+        "Península Escandinava",
+        "Península da Jutlândia"
+      ],
+      "correctAnswer": "Península Escandinava",
+      "explanation": "A Península Escandinava abriga a Noruega e a Suécia. A Noruega é famosa pelos seus fiordes, vales profundos criados pela erosão glacial e inundados pelo mar após o degelo."
+    },
+    {
+      "id": "geografia-8-6",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Qual é o nome do fenômeno climático causado pelo aquecimento anormal das águas do Pacífico Equatorial?",
+      "options": [
+        "La Niña",
+        "Monção",
+        "El Niño",
+        "Dipolo do Índico"
+      ],
+      "correctAnswer": "El Niño",
+      "explanation": "El Niño é o aquecimento anormal das águas superficiais do Pacífico equatorial central e oriental, que altera padrões climáticos globais, causando secas em algumas regiões e chuvas intensas em outras."
+    },
+    {
+      "id": "geografia-8-7",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Em qual país está localizado o Lago Titicaca, o lago navegável mais alto do mundo?",
+      "options": [
+        "Chile e Argentina",
+        "Peru e Bolívia",
+        "Equador e Peru",
+        "Colômbia e Venezuela"
+      ],
+      "correctAnswer": "Peru e Bolívia",
+      "explanation": "O Lago Titicaca fica a 3.812 metros de altitude na fronteira entre Peru e Bolívia. Com cerca de 8.372 km², é o maior lago da América do Sul e o lago navegável mais alto do mundo."
+    },
+    {
+      "id": "geografia-8-8",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Qual é o nome do maior deserto frio do mundo?",
+      "options": [
+        "Ártico",
+        "Gobi",
+        "Patagônia",
+        "Antártica"
+      ],
+      "correctAnswer": "Antártica",
+      "explanation": "A Antártica é classificada como o maior deserto do mundo (14 milhões de km²), pois recebe menos de 200 mm de precipitação por ano. É também o continente mais frio, seco e ventoso da Terra."
+    },
+    {
+      "id": "geografia-8-9",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Qual é o nome do território disputado entre Argentina e Reino Unido, que foi palco de uma guerra em 1982?",
+      "options": [
+        "Ilhas Geórgia do Sul",
+        "Ilhas Malvinas",
+        "Ilha Tristão da Cunha",
+        "Ilhas Sandwich do Sul"
+      ],
+      "correctAnswer": "Ilhas Malvinas",
+      "explanation": "As Ilhas Malvinas (Falkland Islands para os britânicos) foram palco de um conflito armado em 1982 entre Argentina e Reino Unido. Atualmente são administradas pelo Reino Unido, mas a Argentina continua reivindicando sua soberania."
+    },
+    {
+      "id": "geografia-8-10",
+      "category": "geografia",
+      "difficulty": 8,
+      "question": "Qual é o nome da cadeia de vulcões que circunda o Oceano Pacífico, conhecida pela intensa atividade sísmica?",
+      "options": [
+        "Arco Alpino-Himalaia",
+        "Cinturão de Fogo do Pacífico",
+        "Dorsal Meso-Atlântica",
+        "Arco das Antilhas"
+      ],
+      "correctAnswer": "Cinturão de Fogo do Pacífico",
+      "explanation": "O Cinturão de Fogo do Pacífico é uma área de intensa atividade vulcânica e sísmica que percorre as margens do Oceano Pacífico. Concentra cerca de 75% dos vulcões ativos do mundo e 90% dos terremotos."
     }
   ]
 }

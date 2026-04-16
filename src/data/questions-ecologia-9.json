@@ -6,13 +6,139 @@
       "difficulty": 9,
       "question": "O que é 'biodiversidade funcional' e como ela difere da biodiversidade taxonômica?",
       "options": [
-        "Biodiversidade funcional conta espécies úteis para humanos; taxonômica conta todas as espécies",
-        "Biodiversidade funcional mede a variedade de funções ecológicas desempenhadas por organismos; taxonômica mede o número e variedade de espécies",
-        "Biodiversidade funcional refere-se a genes; taxonômica refere-se a ecossistemas",
-        "São sinônimos usados em contextos diferentes"
+        "Genes vs. espécies",
+        "Úteis vs. todas espécies",
+        "Funções ecológicas vs. riqueza de espécies",
+        "São sinônimos científicos"
       ],
-      "correctAnswer": "Biodiversidade funcional mede a variedade de funções ecológicas desempenhadas por organismos; taxonômica mede o número e variedade de espécies",
-      "explanation": "Biodiversidade funcional foca em traits (características) e papéis ecológicos. Dois ecossistemas podem ter igual riqueza taxonômica mas diferente resiliência dependendo de sua diversidade funcional."
+      "correctAnswer": "Funções ecológicas vs. riqueza de espécies",
+      "explanation": "Biodiversidade funcional mede a variedade de funções ecológicas (traits) desempenhadas pelos organismos. Dois ecossistemas podem ter igual riqueza taxonômica mas diferente resiliência dependendo de sua diversidade funcional."
+    },
+    {
+      "id": "ecologia-9-2",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "Qual é o conceito de 'cascata trófica' e qual é um exemplo clássico de cascata trófica de topo?",
+      "options": [
+        "Extinção em cadeia",
+        "Efeito indireto de predadores",
+        "Colapso de produtores primários",
+        "Acúmulo de toxinas"
+      ],
+      "correctAnswer": "Efeito indireto de predadores",
+      "explanation": "Cascatas tróficas são efeitos indiretos de predadores de topo que regulam populações de presas, que por sua vez afetam produtores. Ex. clássico: reintrodução de lobos em Yellowstone que controlou alces, permitindo recuperação da vegetação ribeirinha."
+    },
+    {
+      "id": "ecologia-9-3",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "Qual é a diferença entre resiliência ecológica e resistência ecológica de um ecossistema?",
+      "options": [
+        "São conceitos opostos",
+        "Resistência = absorver perturbação; resiliência = recuperar-se",
+        "Resiliência = absorver; resistência = recuperar",
+        "São sinônimos em ecologia"
+      ],
+      "correctAnswer": "Resistência = absorver perturbação; resiliência = recuperar-se",
+      "explanation": "Resistência é a capacidade de um ecossistema de suportar uma perturbação sem mudar significativamente. Resiliência é a velocidade com que retorna ao estado original após ser perturbado. Sistemas podem ter alta resistência mas baixa resiliência, ou vice-versa."
+    },
+    {
+      "id": "ecologia-9-4",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "O que é a 'hipótese dos perturbadores intermediários' (IDH) em ecologia de comunidades?",
+      "options": [
+        "Extinções causam diversidade",
+        "Perturbações moderadas maximizam diversidade",
+        "Ambientes estáveis têm maior riqueza",
+        "Perturbações extremas regeneram ecossistemas"
+      ],
+      "correctAnswer": "Perturbações moderadas maximizam diversidade",
+      "explanation": "A IDH (Connell, 1978) propõe que a maior diversidade de espécies ocorre em ambientes com perturbações de intensidade e frequência intermediárias. Perturbações muito raras permitem dominância; muito frequentes, só espécies oportunistas sobrevivem."
+    },
+    {
+      "id": "ecologia-9-5",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "Qual é o conceito de 'savanização da Amazônia' como ponto de virada climático?",
+      "options": [
+        "Expansão natural do Cerrado",
+        "Desertificação por seca",
+        "Colapso irreversível para savana",
+        "Conversão agrícola planejada"
+      ],
+      "correctAnswer": "Colapso irreversível para savana",
+      "explanation": "Modelos indicam que o desmatamento amazônico, combinado com as mudanças climáticas, pode ultrapassar um limiar (~20-25% de desmatamento) a partir do qual a floresta perde capacidade de gerar chuva e colapsa irreversivelmente para uma savana degradada."
+    },
+    {
+      "id": "ecologia-9-6",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "Como se chama a abordagem que integra saúde humana, animal e dos ecossistemas num único framework de políticas públicas?",
+      "options": [
+        "Medicina planetária",
+        "Ecosaúde",
+        "Saúde única (One Health)",
+        "Bem-estar interespécies"
+      ],
+      "correctAnswer": "Saúde única (One Health)",
+      "explanation": "One Health reconhece que a saúde humana, animal e dos ecossistemas são interdependentes. Foi consagrada após pandemias como COVID-19 e Ebola, originadas em interfaces humano-animal-ambiente decorrentes do desmatamento."
+    },
+    {
+      "id": "ecologia-9-7",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "Qual é a diferença entre mitigação e adaptação às mudanças climáticas?",
+      "options": [
+        "São estratégias idênticas",
+        "Mitigação = reduz causas; adaptação = lida com efeitos",
+        "Adaptação = reduz emissões; mitigação = ajusta sociedade",
+        "Mitigação é nacional; adaptação é local"
+      ],
+      "correctAnswer": "Mitigação = reduz causas; adaptação = lida com efeitos",
+      "explanation": "Mitigação visa reduzir as causas do aquecimento (emissões de GEE, desmatamento). Adaptação prepara sociedades e ecossistemas para os impactos inevitáveis já em curso. Ambas são necessárias e complementares."
+    },
+    {
+      "id": "ecologia-9-8",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "O que é o 'efeito Allee' no contexto de populações ameaçadas de extinção?",
+      "options": [
+        "Aceleração reprodutiva em baixas densidades",
+        "Declínio do fitness em baixas densidades",
+        "Aumento da diversidade genética",
+        "Competição inter-específica reduzida"
+      ],
+      "correctAnswer": "Declínio do fitness em baixas densidades",
+      "explanation": "O efeito Allee ocorre quando populações muito pequenas têm fitness reduzida — dificuldade de encontrar parceiros, perda de comportamentos sociais, endogamia. Cria um limiar crítico abaixo do qual a extinção se torna inevitável mesmo sem novas perturbações."
+    },
+    {
+      "id": "ecologia-9-9",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "Qual é o conceito de 'rewilding' (reusilvestramento) como estratégia de conservação?",
+      "options": [
+        "Criação de reservas isoladas",
+        "Restauração com reintrodução de espécies-chave",
+        "Reflorestamento com espécies exóticas",
+        "Conservação ex-situ em zoológicos"
+      ],
+      "correctAnswer": "Restauração com reintrodução de espécies-chave",
+      "explanation": "Rewilding é a restauração ecológica que reintroduz espécies-chave (especialmente grandes predadores e herbívoros) para reativar processos ecológicos e cascatas tróficas, permitindo que ecossistemas se auto-regulem com mínima intervenção humana."
+    },
+    {
+      "id": "ecologia-9-10",
+      "category": "ecologia",
+      "difficulty": 9,
+      "question": "O que são 'soluções baseadas na natureza' (NbS) para enfrentar crises climáticas e de biodiversidade?",
+      "options": [
+        "Geoengenharia solar",
+        "Biotecnologia de restauração",
+        "Ações que usam ecossistemas",
+        "Energia a partir de biomassa"
+      ],
+      "correctAnswer": "Ações que usam ecossistemas",
+      "explanation": "NbS são ações que protegem, restauram ou gerenciam ecossistemas para endereçar desafios socioambientais como mudanças climáticas, segurança hídrica e alimentar. Ex.: reflorestamento, manguezais como barreiras costeiras, telhados verdes."
     }
   ]
 }

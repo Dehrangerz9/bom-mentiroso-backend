@@ -4,15 +4,141 @@
       "id": "historia-geral-8-1",
       "category": "historia-geral",
       "difficulty": 8,
-      "question": "Em qual ano ocorreu a Revolução Russa de outubro que levou os bolcheviques ao poder?",
+      "question": "Em qual ano a Revolução Russa de outubro levou os bolcheviques ao poder, derrubando o Governo Provisório?",
       "options": [
         "1905",
         "1914",
-        "1917",
-        "1921"
+        "1921",
+        "1917"
       ],
       "correctAnswer": "1917",
-      "explanation": "A Revolução de Outubro de 1917 (novembro no calendário gregoriano) derrubou o Governo Provisório e instalou o poder soviético."
+      "explanation": "A Revolução de Outubro de 1917 (novembro no calendário gregoriano) derrubou o Governo Provisório de Kerenski. Os bolcheviques, liderados por Lênin, instauraram o poder dos sovietes, abrindo caminho para a criação da URSS em 1922."
+    },
+    {
+      "id": "historia-geral-8-2",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Qual foi o nome da conferência de 1884-1885 que formalizou a partilha colonial da África entre as potências europeias?",
+      "options": [
+        "Conferência de Viena",
+        "Conferência de Versalhes",
+        "Conferência de Potsdam",
+        "Conferência de Berlim"
+      ],
+      "correctAnswer": "Conferência de Berlim",
+      "explanation": "A Conferência de Berlim (1884-1885), convocada por Bismarck, estabeleceu as regras para a partilha da África. Em menos de 30 anos, mais de 90% do continente estava sob domínio europeu. A África foi dividida sem respeito às fronteiras étnicas ou culturais."
+    },
+    {
+      "id": "historia-geral-8-3",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Qual líder indiano liderou o movimento de resistência não-violenta contra o domínio colonial britânico?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Muhammad Ali Jinnah",
+        "Mahatma Gandhi"
+      ],
+      "correctAnswer": "Mahatma Gandhi",
+      "explanation": "Mohandas Karamchand Gandhi ('Mahatma' = grande alma) desenvolveu a resistência não-violenta (satyagraha) contra o domínio britânico. Liderou campanhas como a Marcha do Sal (1930) e a campanha Quit India (1942). A Índia ganhou independência em 1947."
+    },
+    {
+      "id": "historia-geral-8-4",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Qual foi o nome da estratégia militar alemã de guerra rápida e decisiva, usada com sucesso na invasão da França em 1940?",
+      "options": [
+        "Sturmabteilung",
+        "Festung Europa",
+        "Anschluss",
+        "Blitzkrieg"
+      ],
+      "correctAnswer": "Blitzkrieg",
+      "explanation": "O Blitzkrieg ('guerra relâmpago') combinava tanques, aviação e infantaria motorizada em ataques rápidos e coordenados para romper linhas defensivas antes que o inimigo pudesse reagir. A França capitulou em apenas seis semanas em maio-junho de 1940."
+    },
+    {
+      "id": "historia-geral-8-5",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Qual foi o nome da política soviética de reforma econômica e abertura política introduzida por Gorbachev nos anos 1980?",
+      "options": [
+        "Glasnost apenas",
+        "Détente soviética",
+        "Perestroika e Glasnost",
+        "NEP de Gorbachev"
+      ],
+      "correctAnswer": "Perestroika e Glasnost",
+      "explanation": "A perestroika ('reestruturação') visava reformar a economia soviética estagnada; a glasnost ('transparência') abriu o debate público. Juntas, desestabilizaram o sistema soviético e contribuíram para o colapso da URSS em 1991."
+    },
+    {
+      "id": "historia-geral-8-6",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Qual país foi o primeiro a conceder o direito de voto às mulheres em nível nacional, em 1893?",
+      "options": [
+        "Reino Unido",
+        "Finlândia",
+        "Austrália",
+        "Nova Zelândia"
+      ],
+      "correctAnswer": "Nova Zelândia",
+      "explanation": "A Nova Zelândia tornou-se em 1893 o primeiro país autogovernanado a conceder sufrágio feminino nacional. Kate Sheppard liderou o movimento sufragista. O Reino Unido concedeu voto parcial às mulheres em 1918 e pleno em 1928."
+    },
+    {
+      "id": "historia-geral-8-7",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Qual foi o nome do desembarque aliado na Normandia em 6 de junho de 1944, que abriu a segunda frente contra a Alemanha?",
+      "options": [
+        "Operação Market Garden",
+        "Operação Torch",
+        "Operação Compass",
+        "Dia D"
+      ],
+      "correctAnswer": "Dia D",
+      "explanation": "A Operação Overlord (Dia D), em 6 de junho de 1944, foi o maior desembarque anfíbio da história: 156.000 soldados aliados em cinco praias da Normandia. Abriu a frente ocidental e foi decisiva para a derrota da Alemanha nazista."
+    },
+    {
+      "id": "historia-geral-8-8",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Qual foi o nome da política externa americana de contenção do comunismo formulada por George Kennan e adotada pelo governo Truman?",
+      "options": [
+        "Doutrina Monroe",
+        "Política do Big Stick",
+        "Détente",
+        "Política de contenção"
+      ],
+      "correctAnswer": "Política de contenção",
+      "explanation": "A política de contenção (containment), formulada por George Kennan no 'Telegrama Longo' de 1946, propunha impedir a expansão soviética por pressão diplomática, econômica e militar. Moldou a estratégia americana durante toda a Guerra Fria."
+    },
+    {
+      "id": "historia-geral-8-9",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Em que período ocorreu a 'Pax Romana', era de paz e prosperidade relativa no Império Romano?",
+      "options": [
+        "753-500 a.C.",
+        "44 a.C.-14 d.C.",
+        "27 a.C.-180 d.C.",
+        "100-300 d.C."
+      ],
+      "correctAnswer": "27 a.C.-180 d.C.",
+      "explanation": "A Pax Romana foi um período de relativa paz e estabilidade no Império Romano, de Augusto (27 a.C.) até a morte de Marco Aurélio (180 d.C.). Permitiu o florescimento do comércio, da cultura e da infraestrutura em todo o Mediterrâneo."
+    },
+    {
+      "id": "historia-geral-8-10",
+      "category": "historia-geral",
+      "difficulty": 8,
+      "question": "Qual foi o nome do sistema de alianças secretas e rivalidades que tornou a Europa uma 'polvorinha' antes de 1914?",
+      "options": [
+        "Equilíbrio de poder",
+        "Concerto Europeu",
+        "Corrida armamentista",
+        "Sistema de alianças"
+      ],
+      "correctAnswer": "Sistema de alianças",
+      "explanation": "O sistema de alianças europeu — Tríplice Aliança (Alemanha, Áustria-Hungria, Itália) vs. Tríplice Entente (França, Rússia, Reino Unido) — transformou um conflito regional nos Bálcãs em uma guerra continental que arrastou todas as grandes potências."
     }
   ]
 }

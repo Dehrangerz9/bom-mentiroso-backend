@@ -4,15 +4,141 @@
       "id": "historia-geral-6-1",
       "category": "historia-geral",
       "difficulty": 6,
-      "question": "Qual imperatriz romana foi a mãe de Constantino I e contribuiu para a difusão do Cristianismo no império?",
+      "question": "Qual imperatriz romana, mãe de Constantino I, contribuiu para a difusão do Cristianismo no Império Romano?",
       "options": [
         "Lívia",
         "Agripina",
-        "Helena",
-        "Teodora"
+        "Teodora",
+        "Helena"
       ],
       "correctAnswer": "Helena",
-      "explanation": "Santa Helena, mãe de Constantino I, empreendeu peregrinação à Terra Santa e é creditada pela descoberta de relíquias cristãs."
+      "explanation": "Santa Helena empreendeu peregrinação à Terra Santa e é creditada pela descoberta de relíquias cristãs, incluindo a Vera Cruz. Seu filho Constantino legalizou o Cristianismo pelo Édito de Milão (313 d.C.)."
+    },
+    {
+      "id": "historia-geral-6-2",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Qual civilização da América pré-colombiana construiu Machu Picchu nos Andes peruanos no século XV?",
+      "options": [
+        "Astecas",
+        "Maias",
+        "Olmecas",
+        "Incas"
+      ],
+      "correctAnswer": "Incas",
+      "explanation": "Machu Picchu foi construída pelos Incas por volta de 1450, durante o reinado de Pachacuti. Localizada a 2.430 m de altitude, foi 'redescoberta' pelo mundo ocidental em 1911 pelo explorador Hiram Bingham."
+    },
+    {
+      "id": "historia-geral-6-3",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Qual foi o nome da revolução inglesa do século XVII que resultou na execução do Rei Carlos I e na instauração da república?",
+      "options": [
+        "Revolução Gloriosa",
+        "Revolução Puritana",
+        "Guerra das Rosas",
+        "Revolução Inglesa"
+      ],
+      "correctAnswer": "Revolução Inglesa",
+      "explanation": "A Revolução Inglesa (1642-1651) foi um conflito entre o Parlamento e a monarquia de Carlos I. Liderada por Oliver Cromwell, resultou na execução do rei em 1649 e no estabelecimento da Commonwealth republicana."
+    },
+    {
+      "id": "historia-geral-6-4",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Qual imperador romano tornou o Cristianismo a religião oficial do Império no século IV?",
+      "options": [
+        "Augusto",
+        "Trajano",
+        "Diocleciano",
+        "Teodósio I"
+      ],
+      "correctAnswer": "Teodósio I",
+      "explanation": "Teodósio I proclamou o Édito de Tessalônica em 380 d.C., tornando o Cristianismo niceno a religião oficial do Império Romano. Em 391, proibiu os cultos pagãos. Constantino havia apenas legalizado o Cristianismo (313 d.C.)."
+    },
+    {
+      "id": "historia-geral-6-5",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Em que país ocorreu a Revolução Cultural de 1966-1976, campanha política liderada por Mao Tsé-Tung?",
+      "options": [
+        "Coreia do Norte",
+        "Vietnã",
+        "União Soviética",
+        "China"
+      ],
+      "correctAnswer": "China",
+      "explanation": "A Revolução Cultural Chinesa (1966-1976) foi uma campanha de Mao Tsé-Tung para purgar 'elementos capitalistas' do Partido Comunista. Causou milhões de mortes, destruiu patrimônio cultural e prendeu intelectuais e professores."
+    },
+    {
+      "id": "historia-geral-6-6",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Qual rainha egípcia foi a última faraó do Antigo Egito e famosa por suas relações com Júlio César e Marco Antônio?",
+      "options": [
+        "Nefertiti",
+        "Hatshepsut",
+        "Nefertari",
+        "Cleópatra VII"
+      ],
+      "correctAnswer": "Cleópatra VII",
+      "explanation": "Cleópatra VII (69-30 a.C.) foi a última rainha da dinastia ptolemaica. Aliou-se a Júlio César e depois a Marco Antônio em tentativas de manter a independência egípcia. Com a derrota para Otávio, suicidou-se e o Egito virou província romana."
+    },
+    {
+      "id": "historia-geral-6-7",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Qual movimento intelectual europeu do século XVIII, baseado na razão e na ciência, influenciou as Revoluções Americana e Francesa?",
+      "options": [
+        "Renascimento",
+        "Romantismo",
+        "Positivismo",
+        "Iluminismo"
+      ],
+      "correctAnswer": "Iluminismo",
+      "explanation": "O Iluminismo (Século das Luzes) foi um movimento filosófico que defendia a razão, a liberdade e os direitos naturais contra o absolutismo e a superstição. Pensadores como Locke, Voltaire, Rousseau e Montesquieu moldaram as revoluções do século XVIII."
+    },
+    {
+      "id": "historia-geral-6-8",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Qual foi o nome da aliança militar que incluía Alemanha, Áustria-Hungria e Itália antes da Primeira Guerra Mundial?",
+      "options": [
+        "Tríplice Entente",
+        "Aliança Dual",
+        "Eixo Berlim-Roma",
+        "Tríplice Aliança"
+      ],
+      "correctAnswer": "Tríplice Aliança",
+      "explanation": "A Tríplice Aliança (1882) uniu Alemanha, Áustria-Hungria e Itália. Do outro lado estava a Tríplice Entente (França, Reino Unido e Rússia). A Itália não entrou na WWI pelo lado dos aliados inicialmente, depois mudou para a Entente em 1915."
+    },
+    {
+      "id": "historia-geral-6-9",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Qual explorador português foi o primeiro a circum-navegar o globo terrestre, completando a viagem iniciada por Magalhães em 1519?",
+      "options": [
+        "Vasco da Gama",
+        "Pedro Álvares Cabral",
+        "Bartolomeu Dias",
+        "Juan Sebastián Elcano"
+      ],
+      "correctAnswer": "Juan Sebastián Elcano",
+      "explanation": "Fernão de Magalhães morreu nas Filipinas em 1521. O espanhol Juan Sebastián Elcano assumiu o comando e completou a primeira circum-navegação em setembro de 1522, chegando à Espanha com apenas 18 dos 270 tripulantes originais."
+    },
+    {
+      "id": "historia-geral-6-10",
+      "category": "historia-geral",
+      "difficulty": 6,
+      "question": "Qual conflito medieval, entre 1337 e 1453, foi travado entre França e Inglaterra pela sucessão ao trono francês?",
+      "options": [
+        "Guerra dos Cem Anos",
+        "Cruzadas",
+        "Guerra das Rosas",
+        "Reconquista"
+      ],
+      "correctAnswer": "Guerra dos Cem Anos",
+      "explanation": "A Guerra dos Cem Anos (1337-1453) foi uma série de conflitos entre França e Inglaterra pelo trono francês. Joana d'Arc tornou-se heroína ao liderar forças francesas antes de ser capturada e queimada viva pelos ingleses em 1431."
     }
   ]
 }

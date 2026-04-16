@@ -4,15 +4,141 @@
       "id": "ecologia-8-1",
       "category": "ecologia",
       "difficulty": 8,
-      "question": "O que é o 'Limite Planetário' de nitrogênio, e por que está sendo ultrapassado?",
+      "question": "O que é o 'Limite Planetário' de nitrogênio e por que já está sendo amplamente ultrapassado?",
       "options": [
-        "A quantidade máxima de nitrogênio na atmosfera, reduzida pela emissão de NOₓ",
-        "A quantidade segura de nitrogênio reativo introduzido nos ecossistemas pela atividade humana, amplamente excedida pela agricultura com fertilizantes sintéticos",
-        "O nível de óxido nitroso aceitável para não comprometer a camada de ozônio",
-        "A taxa de perda de nitrogênio dos oceanos por acidificação"
+        "Nível de NOₓ atmosférico",
+        "Nitrogênio seguro nos oceanos",
+        "Nitrogênio reativo nos ecossistemas",
+        "Taxa de denitrificação global"
       ],
-      "correctAnswer": "A quantidade segura de nitrogênio reativo introduzido nos ecossistemas pela atividade humana, amplamente excedida pela agricultura com fertilizantes sintéticos",
-      "explanation": "Rockström et al. (2009) identificaram 9 limites planetários; o ciclo de nitrogênio é um dos mais violados, causando eutrofização de rios, lagos e zonas costeiras."
+      "correctAnswer": "Nitrogênio reativo nos ecossistemas",
+      "explanation": "Rockström et al. (2009) identificaram 9 limites planetários. O ciclo de nitrogênio é um dos mais violados: fertilizantes sintéticos introduzem nitrogênio reativo em excesso, causando eutrofização generalizada de rios, lagos e zonas costeiras."
+    },
+    {
+      "id": "ecologia-8-2",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "O que é a 'sexta extinção em massa' e qual é sua principal causa identificada?",
+      "options": [
+        "Glaciação natural",
+        "Impacto de asteroide",
+        "Atividade humana",
+        "Erupções vulcânicas"
+      ],
+      "correctAnswer": "Atividade humana",
+      "explanation": "A sexta extinção em massa (Holoceno/Antropoceno) é a perda acelerada de biodiversidade causada principalmente por humanos: perda de habitat, caça, poluição, espécies invasoras e mudanças climáticas. A taxa atual é 100-1000x acima do normal geológico."
+    },
+    {
+      "id": "ecologia-8-3",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "Como se chama a relação simbiótica entre fungos e raízes de plantas que aumenta a absorção de nutrientes do solo?",
+      "options": [
+        "Liquenização",
+        "Endofitismo",
+        "Micorriza",
+        "Rizobiose"
+      ],
+      "correctAnswer": "Micorriza",
+      "explanation": "As micorrizas são associações mutualísticas entre fungos e raízes de ~90% das plantas terrestres. O fungo aumenta enormemente a superfície de absorção de fósforo e água; a planta fornece carboidratos ao fungo."
+    },
+    {
+      "id": "ecologia-8-4",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "Qual é o conceito de 'débito de extinção' (extinction debt) na ecologia de fragmentos?",
+      "options": [
+        "Espécies já extintas",
+        "Extinções futuras inevitáveis",
+        "Dívida ecológica histórica",
+        "Compensação por desmatamento"
+      ],
+      "correctAnswer": "Extinções futuras inevitáveis",
+      "explanation": "O débito de extinção é o conjunto de espécies condenadas a desaparecer no futuro devido à fragmentação e perda de habitat já ocorridas, mesmo sem novas perturbações. O efeito pode demorar décadas a séculos para se manifestar."
+    },
+    {
+      "id": "ecologia-8-5",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "O que é a acidificação oceânica e qual é sua principal causa química?",
+      "options": [
+        "Poluição por mercúrio",
+        "Absorção de CO₂",
+        "Despejo de ácidos industriais",
+        "Decomposição anaeróbica"
+      ],
+      "correctAnswer": "Absorção de CO₂",
+      "explanation": "Os oceanos absorvem ~30% do CO₂ atmosférico. O CO₂ dissolve em água formando ácido carbônico, reduzindo o pH oceânico. Desde a Revolução Industrial, o pH caiu de 8,2 para 8,1 — redução de 26% na concentração de íons H⁺."
+    },
+    {
+      "id": "ecologia-8-6",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "Qual é o mecanismo pelo qual florestas tropicais geram suas próprias chuvas através de ciclos de evapotranspiração?",
+      "options": [
+        "Efeito albedo",
+        "Rios voadores",
+        "Circulação termohalina",
+        "Corrente de jato"
+      ],
+      "correctAnswer": "Rios voadores",
+      "explanation": "Os 'rios voadores' são imensos fluxos de vapor d'água liberados pela evapotranspiração amazônica (estimados em 20 bilhões de toneladas por dia), que transportam umidade para o Centro-Sul do Brasil, onde precipita como chuva."
+    },
+    {
+      "id": "ecologia-8-7",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "Como se chama o ponto de inflexão ambiental a partir do qual um ecossistema muda irreversivelmente para um novo estado de equilíbrio?",
+      "options": [
+        "Cascata trófica",
+        "Ponto de virada",
+        "Limiar ecológico",
+        "Colapso funcional"
+      ],
+      "correctAnswer": "Ponto de virada",
+      "explanation": "Os pontos de virada (tipping points) são limiares críticos onde pequenas mudanças adicionais provocam transições abruptas e frequentemente irreversíveis. Ex.: colapso de recifes de coral, savanização da Amazônia, degelo do Ártico."
+    },
+    {
+      "id": "ecologia-8-8",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "O que é o REDD+ no contexto de política climática internacional?",
+      "options": [
+        "Imposto global de carbono",
+        "Tratado de biodiversidade",
+        "Pagamento por conservação florestal",
+        "Programa de reflorestamento"
+      ],
+      "correctAnswer": "Pagamento por conservação florestal",
+      "explanation": "REDD+ (Redução de Emissões por Desmatamento e Degradação) é um mecanismo da ONU que remunera países em desenvolvimento pela conservação de florestas, medida pela redução de emissões de carbono em relação a uma linha de base."
+    },
+    {
+      "id": "ecologia-8-9",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "Qual é a diferença entre migração ecológica e dispersão de espécies no contexto das mudanças climáticas?",
+      "options": [
+        "São processos idênticos",
+        "Migração = sazonal; dispersão = colonização permanente",
+        "Migração = plantas; dispersão = animais",
+        "Dispersão = sazonal; migração = permanente"
+      ],
+      "correctAnswer": "Migração = sazonal; dispersão = colonização permanente",
+      "explanation": "Com as mudanças climáticas, espécies estão se deslocando para maiores latitudes e altitudes (dispersão). Isso difere da migração sazonal tradicional, pois representa uma mudança permanente no território ocupado."
+    },
+    {
+      "id": "ecologia-8-10",
+      "category": "ecologia",
+      "difficulty": 8,
+      "question": "O que é a 'economia circular' em oposição à economia linear no contexto da sustentabilidade?",
+      "options": [
+        "Mercado de carbono",
+        "Produção sem resíduos",
+        "Energia renovável total",
+        "Comércio justo global"
+      ],
+      "correctAnswer": "Produção sem resíduos",
+      "explanation": "A economia circular visa eliminar resíduos mantendo materiais em uso pelo maior tempo possível, em oposição ao modelo linear 'extrair-fabricar-descartar'. Inspira-se nos ciclos naturais onde o lixo de um sistema é o recurso de outro."
     }
   ]
 }

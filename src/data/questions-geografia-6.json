@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Gibraltar",
       "explanation": "O Estreito de Gibraltar separa a Espanha (Europa) de Marrocos (África) com apenas 14 km em seu ponto mais estreito."
+    },
+    {
+      "id": "geografia-6-2",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Qual é a cadeia montanhosa que forma a fronteira natural entre a Europa e a Ásia?",
+      "options": [
+        "Alpes",
+        "Cárpatos",
+        "Urais",
+        "Cáucaso"
+      ],
+      "correctAnswer": "Urais",
+      "explanation": "Os Montes Urais estendem-se por cerca de 2.500 km no sentido norte-sul e são tradicionalmente considerados a fronteira geográfica entre a Europa e a Ásia."
+    },
+    {
+      "id": "geografia-6-3",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Qual é o maior lago de água doce do mundo em área superficial?",
+      "options": [
+        "Lago Superior",
+        "Lago Vitória",
+        "Lago Huron",
+        "Lago Baikal"
+      ],
+      "correctAnswer": "Lago Superior",
+      "explanation": "O Lago Superior, localizado na fronteira entre os Estados Unidos e o Canadá, possui área de aproximadamente 82.100 km², sendo o maior lago de água doce do mundo em superfície."
+    },
+    {
+      "id": "geografia-6-4",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Em qual continente está localizado o deserto do Saara?",
+      "options": [
+        "Ásia",
+        "América do Sul",
+        "Austrália",
+        "África"
+      ],
+      "correctAnswer": "África",
+      "explanation": "O Saara, com cerca de 9,2 milhões de km², é o maior deserto quente do mundo e está localizado no norte do continente africano."
+    },
+    {
+      "id": "geografia-6-5",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Qual é a capital da Austrália?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Camberra"
+      ],
+      "correctAnswer": "Camberra",
+      "explanation": "Camberra é a capital federal da Austrália. Foi construída especialmente para ser a capital, pois Sydney e Melbourne disputavam esse posto e a solução foi criar uma nova cidade entre as duas."
+    },
+    {
+      "id": "geografia-6-6",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Qual rio é considerado o mais longo do mundo?",
+      "options": [
+        "Amazonas",
+        "Yangtzé",
+        "Mississippi",
+        "Nilo"
+      ],
+      "correctAnswer": "Nilo",
+      "explanation": "O Nilo, com aproximadamente 6.650 km de extensão, é geralmente reconhecido como o rio mais longo do mundo, percorrendo o nordeste africano até o Mar Mediterrâneo."
+    },
+    {
+      "id": "geografia-6-7",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Qual país possui a maior costa litorânea do mundo?",
+      "options": [
+        "Rússia",
+        "Noruega",
+        "Canadá",
+        "Indonésia"
+      ],
+      "correctAnswer": "Canadá",
+      "explanation": "O Canadá possui a maior linha costeira do mundo, com aproximadamente 202.080 km, incluindo ilhas e recortes do litoral continental."
+    },
+    {
+      "id": "geografia-6-8",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Qual é o nome do ponto mais profundo dos oceanos do mundo?",
+      "options": [
+        "Fossa de Tonga",
+        "Fossa de Porto Rico",
+        "Fossa das Marianas",
+        "Fossa de Java"
+      ],
+      "correctAnswer": "Fossa das Marianas",
+      "explanation": "A Fossa das Marianas, no Oceano Pacífico, é o ponto mais profundo conhecido da Terra. Seu ponto mais fundo, o Abismo Challenger, atinge cerca de 11.034 metros abaixo do nível do mar."
+    },
+    {
+      "id": "geografia-6-9",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Qual é o país com o maior número de fusos horários do mundo?",
+      "options": [
+        "Rússia",
+        "Estados Unidos",
+        "China",
+        "França"
+      ],
+      "correctAnswer": "França",
+      "explanation": "A França, incluindo seus territórios ultramarinos espalhados pelo mundo, abrange 12 fusos horários, o maior número de qualquer país no planeta."
+    },
+    {
+      "id": "geografia-6-10",
+      "category": "geografia",
+      "difficulty": 6,
+      "question": "Qual é o menor país do mundo em área territorial?",
+      "options": [
+        "Mônaco",
+        "San Marino",
+        "Liechtenstein",
+        "Vaticano"
+      ],
+      "correctAnswer": "Vaticano",
+      "explanation": "O Vaticano, com apenas 0,44 km², é o menor país do mundo em área, situado dentro de Roma, Itália, e sede da Igreja Católica."
     }
   ]
 }

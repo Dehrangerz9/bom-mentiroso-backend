@@ -4,15 +4,141 @@
       "id": "historia-geral-5-1",
       "category": "historia-geral",
       "difficulty": 5,
-      "question": "Qual tratado encerrou a Primeira Guerra Mundial?",
+      "question": "Qual tratado encerrou oficialmente a Primeira Guerra Mundial, impondo pesadas reparações à Alemanha?",
       "options": [
         "Tratado de Viena",
-        "Tratado de Versalhes",
         "Tratado de Paris",
-        "Tratado de Lausanne"
+        "Tratado de Lausanne",
+        "Tratado de Versalhes"
       ],
       "correctAnswer": "Tratado de Versalhes",
-      "explanation": "O Tratado de Versalhes foi assinado em 28 de junho de 1919 e impôs pesadas reparações à Alemanha."
+      "explanation": "O Tratado de Versalhes foi assinado em 28 de junho de 1919, impondo reparações financeiras, perdas territoriais e a 'culpa de guerra' à Alemanha — condições que alimentaram o ressentimento que levou à Segunda Guerra Mundial."
+    },
+    {
+      "id": "historia-geral-5-2",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Em que ano caiu o Muro de Berlim, símbolo do fim da Guerra Fria?",
+      "options": [
+        "1985",
+        "1987",
+        "1991",
+        "1989"
+      ],
+      "correctAnswer": "1989",
+      "explanation": "O Muro de Berlim caiu em 9 de novembro de 1989, após pressão popular crescente na Alemanha Oriental. Sua queda simbolizou o colapso do bloco soviético e levou à reunificação alemã em outubro de 1990."
+    },
+    {
+      "id": "historia-geral-5-3",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Quem liderou a Revolução Cubana que derrubou Fulgencio Batista em 1959?",
+      "options": [
+        "Che Guevara",
+        "Raúl Castro",
+        "Camilo Cienfuegos",
+        "Fidel Castro"
+      ],
+      "correctAnswer": "Fidel Castro",
+      "explanation": "Fidel Castro liderou o Movimento 26 de Julho que derrubou o ditador Batista em janeiro de 1959. Governou Cuba por quase cinco décadas, tornando-a o principal Estado socialista do hemisfério ocidental."
+    },
+    {
+      "id": "historia-geral-5-4",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Qual evento de 1929 desencadeou a Grande Depressão mundial?",
+      "options": [
+        "Quebra da Bolsa de Londres",
+        "Falência do Banco da França",
+        "Colapso do padrão-ouro",
+        "Crash da Bolsa de NY"
+      ],
+      "correctAnswer": "Crash da Bolsa de NY",
+      "explanation": "A Quebra da Bolsa de Nova York em outubro de 1929 (Black Thursday e Black Tuesday) destruiu bilhões de dólares em valor de mercado, desencadeando uma crise bancária e econômica global que durou até o final dos anos 1930."
+    },
+    {
+      "id": "historia-geral-5-5",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Qual país lançou as primeiras bombas atômicas sobre Hiroshima e Nagasaki em agosto de 1945?",
+      "options": [
+        "União Soviética",
+        "Reino Unido",
+        "França",
+        "Estados Unidos"
+      ],
+      "correctAnswer": "Estados Unidos",
+      "explanation": "Os EUA lançaram bombas atômicas sobre Hiroshima (6 ago.) e Nagasaki (9 ago.) de 1945, matando entre 130.000 e 226.000 pessoas. O Japão se rendeu dias depois, encerrando a Segunda Guerra Mundial."
+    },
+    {
+      "id": "historia-geral-5-6",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Qual foi o sistema de segregação racial institucionalizada que vigorou na África do Sul até 1994?",
+      "options": [
+        "Segregação Jim Crow",
+        "Bantustão",
+        "Homelands policy",
+        "Apartheid"
+      ],
+      "correctAnswer": "Apartheid",
+      "explanation": "O apartheid (em africâner: 'separação') foi o regime de segregação racial oficial da África do Sul de 1948 a 1994. Nelson Mandela lutou contra ele, foi preso por 27 anos e tornou-se o primeiro presidente negro do país após eleições livres em 1994."
+    },
+    {
+      "id": "historia-geral-5-7",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Em que ano Cristóvão Colombo chegou à América, inaugurando a presença europeia no Novo Mundo?",
+      "options": [
+        "1498",
+        "1488",
+        "1500",
+        "1492"
+      ],
+      "correctAnswer": "1492",
+      "explanation": "Em 12 de outubro de 1492, Colombo chegou às Bahamas, acreditando ter chegado às Índias. A viagem, financiada pelos Reis Católicos da Espanha, abriu o caminho para a colonização europeia das Américas."
+    },
+    {
+      "id": "historia-geral-5-8",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Qual organização internacional foi criada em 1945 para substituir a Liga das Nações e manter a paz mundial?",
+      "options": [
+        "OTAN",
+        "Pacto de Varsóvia",
+        "Liga das Nações",
+        "ONU"
+      ],
+      "correctAnswer": "ONU",
+      "explanation": "A Organização das Nações Unidas (ONU) foi fundada em 1945 com 51 países membros para prevenir novos conflitos globais. Hoje conta com 193 Estados membros e sede em Nova York."
+    },
+    {
+      "id": "historia-geral-5-9",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Qual imperador francês foi derrotado definitivamente na Batalha de Waterloo em junho de 1815?",
+      "options": [
+        "Luís XVI",
+        "Carlos X",
+        "Napoleão III",
+        "Napoleão Bonaparte"
+      ],
+      "correctAnswer": "Napoleão Bonaparte",
+      "explanation": "Napoleão foi derrotado pelas forças aliadas (britânicos e prussianos) em Waterloo, Bélgica, em 18 de junho de 1815. Exilado em Santa Helena, morreu em 1821, encerrando definitivamente o período napoleônico."
+    },
+    {
+      "id": "historia-geral-5-10",
+      "category": "historia-geral",
+      "difficulty": 5,
+      "question": "Qual foi o nome do plano americano de reconstrução econômica da Europa devastada pela Segunda Guerra Mundial?",
+      "options": [
+        "Plano Truman",
+        "Plano Dawes",
+        "Doutrina Monroe",
+        "Plano Marshall"
+      ],
+      "correctAnswer": "Plano Marshall",
+      "explanation": "O Plano Marshall (1948-1952), proposto pelo Secretário de Estado George Marshall, destinou cerca de 13 bilhões de dólares para reconstruir as economias europeias, ao mesmo tempo contendo a expansão do comunismo."
     }
   ]
 }

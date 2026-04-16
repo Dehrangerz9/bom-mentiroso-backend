@@ -4,15 +4,141 @@
       "id": "gastronomia-7-1",
       "category": "gastronomia",
       "difficulty": 7,
-      "question": "Qual é o nome da reação química entre aminoácidos e açúcares redutores que causa o escurecimento e o sabor de crosta em carnes e pães assados?",
+      "question": "Qual é o nome da reação química entre aminoácidos e açúcares redutores que causa o escurecimento e o sabor de crosta em carnes e pães?",
       "options": [
         "Caramelização",
         "Fermentação",
-        "Reação de Maillard",
-        "Oxidação lipídica"
+        "Oxidação lipídica",
+        "Reação de Maillard"
       ],
       "correctAnswer": "Reação de Maillard",
-      "explanation": "A Reação de Maillard, descrita pelo químico Louis-Camille Maillard em 1912, é responsável pelos aromas e sabores de crosta em alimentos aquecidos."
+      "explanation": "A Reação de Maillard, descrita por Louis-Camille Maillard em 1912, ocorre acima de ~140°C e é responsável pelos aromas, sabores e cor dourada de crosta em alimentos aquecidos."
+    },
+    {
+      "id": "gastronomia-7-2",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Qual é o processo de temperagem do chocolate que alinha os cristais de manteiga de cacau para obter brilho e snap?",
+      "options": [
+        "Conchagem",
+        "Temperagem",
+        "Torrefação",
+        "Alcalinização"
+      ],
+      "correctAnswer": "Temperagem",
+      "explanation": "A temperagem controla o aquecimento e resfriamento do chocolate fundido para formar cristais beta estáveis da manteiga de cacau. Resulta em chocolate brilhante, crocante e que não derrete na mão."
+    },
+    {
+      "id": "gastronomia-7-3",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Como se chama o método de extrair sabor de ingredientes aromáticos aquecendo-os suavemente em gordura fria antes do cozimento?",
+      "options": [
+        "Infusão a frio",
+        "Percolação",
+        "Fat washing",
+        "Enfleurage"
+      ],
+      "correctAnswer": "Fat washing",
+      "explanation": "Fat washing é uma técnica de infundir gorduras (manteiga, bacon, óleo) com sabores de outros ingredientes pelo calor, depois resfriando para separar a gordura aromatizada. Usada em coquetéis e molhos."
+    },
+    {
+      "id": "gastronomia-7-4",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Qual é o nome da técnica de cozinha japonesa que consiste em grelhar alimentos sobre carvão de binchotan em alta temperatura?",
+      "options": [
+        "Teppanyaki",
+        "Robatayaki",
+        "Yakitori",
+        "Sumibiyaki"
+      ],
+      "correctAnswer": "Sumibiyaki",
+      "explanation": "Sumibiyaki é o cozimento sobre carvão (sumi = carvão, yaki = grelhar). O binchotan (carvão branco japonês) queima de forma limpa a altíssima temperatura, conferindo sabor defumado sutil sem fumaça excessiva."
+    },
+    {
+      "id": "gastronomia-7-5",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Qual é o nome do molho madre francês feito de fundo de vitela escuro reduzido com mirepoix, tomate e roux escuro?",
+      "options": [
+        "Velouté",
+        "Espagnole",
+        "Demi-glace",
+        "Jus de veau"
+      ],
+      "correctAnswer": "Espagnole",
+      "explanation": "O molho Espagnole é um dos cinco molhos madre da cozinha clássica francesa (Escoffier). É a base para o demi-glace, jus lié e inúmeros molhos derivados. Leva horas de preparo para desenvolver sabor profundo."
+    },
+    {
+      "id": "gastronomia-7-6",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Que técnica de panificação consiste em dobrar e estirar repetidamente a massa sem sovar, desenvolvendo glúten de forma suave?",
+      "options": [
+        "Autólise",
+        "Laminação",
+        "Stretch and fold",
+        "Windowpane test"
+      ],
+      "correctAnswer": "Stretch and fold",
+      "explanation": "O stretch and fold (esticar e dobrar) é uma técnica de desenvolver a rede de glúten durante a fermentação, sem sovar. Preserva as bolhas de gás formadas e resulta em pão com alvéolos irregulares e abertos."
+    },
+    {
+      "id": "gastronomia-7-7",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Como se chama o processo de envelhecimento de vinhos tintos baseado na troca alternada entre barricas de carvalho novo e usado?",
+      "options": [
+        "Sistema Solera",
+        "Método champenoise",
+        "Crianza rotativa",
+        "Elevage"
+      ],
+      "correctAnswer": "Elevage",
+      "explanation": "Élevage é o processo de envelhecimento e criação do vinho após a fermentação, que inclui maturação em barrica ou inox, bâtonnage, trasfegas e clarificação. Molda estrutura, taninos e complexidade aromática do vinho."
+    },
+    {
+      "id": "gastronomia-7-8",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Qual é o nome do processo de defumação a frio, onde o alimento é exposto à fumaça a temperaturas abaixo de 30°C?",
+      "options": [
+        "Defumação quente",
+        "Cura seca",
+        "Defumação fria",
+        "Salmoura líquida"
+      ],
+      "correctAnswer": "Defumação fria",
+      "explanation": "Na defumação fria (cold smoking), o alimento é exposto à fumaça a 10-30°C, sem cozinhar. Confere sabor defumado intenso e preserva a textura crua. Usado em salmão defumado, charcuterie e queijos."
+    },
+    {
+      "id": "gastronomia-7-9",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Qual é o nome do estilo de cozinha baseado em técnicas tradicionais regionais francesas, valorizando ingredientes locais e sazonais?",
+      "options": [
+        "Nouvelle cuisine",
+        "Haute cuisine",
+        "Cuisine du terroir",
+        "Bistronomy"
+      ],
+      "correctAnswer": "Cuisine du terroir",
+      "explanation": "Cuisine du terroir valoriza os produtos do território (terroir) — clima, solo, tradição — expressos na culinária regional francesa. É a antítese da globalização gastronômica e inspirou movimentos como o farm-to-table."
+    },
+    {
+      "id": "gastronomia-7-10",
+      "category": "gastronomia",
+      "difficulty": 7,
+      "question": "Qual é o nome do corte de faca que produz tiras finas de folhas de ervas ou vegetais, obtido enrolando-as e fatiando em tiras finas?",
+      "options": [
+        "Brunoise",
+        "Concassé",
+        "Chiffonade",
+        "Paysanne"
+      ],
+      "correctAnswer": "Chiffonade",
+      "explanation": "Chiffonade (do francês: 'trapos') é o corte em tiras finas obtido enrolando folhas de manjericão, espinafre ou couve e fatiando finamente. Usado como guarnição ou base aromática."
     }
   ]
 }

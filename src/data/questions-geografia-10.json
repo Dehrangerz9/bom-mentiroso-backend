@@ -4,7 +4,7 @@
       "id": "geografia-10-1",
       "category": "geografia",
       "difficulty": 10,
-      "question": "Qual é o nome do fenômeno geográfico onde o Rio Casiquiare conecta naturalmente as bacias do Orinoco e do Amazonas, formando um bifurcação fluvial rara?",
+      "question": "Qual é o nome do fenômeno geográfico onde o Rio Casiquiare conecta naturalmente as bacias do Orinoco e do Amazonas, formando uma bifurcação fluvial rara?",
       "options": [
         "Anastomose do Casiquiare",
         "Canal do Casiquiare",
@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Canal do Casiquiare",
       "explanation": "O Canal do Casiquiare é uma das poucas bifurcações naturais do mundo que conecta duas grandes bacias hidrográficas distintas, na Venezuela."
+    },
+    {
+      "id": "geografia-10-2",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome do efeito pelo qual a rotação da Terra deflete ventos e correntes oceânicas para a direita no hemisfério norte e para a esquerda no sul?",
+      "options": [
+        "Efeito Bernoulli",
+        "Efeito Coriolis",
+        "Efeito Foehn",
+        "Efeito Venturi"
+      ],
+      "correctAnswer": "Efeito Coriolis",
+      "explanation": "O efeito Coriolis, descrito pelo matemático Gaspard-Gustave de Coriolis em 1835, é uma força aparente resultante da rotação da Terra. Ele deflete objetos em movimento para a direita no hemisfério norte e para a esquerda no sul, sendo fundamental na formação de ciclones, anticiclones e giros oceânicos."
+    },
+    {
+      "id": "geografia-10-3",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome do supercontinente que existiu há cerca de 300 milhões de anos e precedeu a separação dos continentes atuais?",
+      "options": [
+        "Rodínia",
+        "Laurásia",
+        "Gondwana",
+        "Pangeia"
+      ],
+      "correctAnswer": "Pangeia",
+      "explanation": "Pangeia foi o supercontinente que reuniu praticamente toda a massa continental terrestre há cerca de 300 milhões de anos. Começou a se fragmentar há aproximadamente 175 milhões de anos, primeiro dividindo-se em Laurásia (norte) e Gondwana (sul), que por sua vez deram origem aos continentes atuais."
+    },
+    {
+      "id": "geografia-10-4",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome do tipo de fronteira tectônica onde duas placas se afastam, criando nova crosta oceânica?",
+      "options": [
+        "Fronteira convergente",
+        "Fronteira transformante",
+        "Fronteira divergente",
+        "Fronteira de subducção"
+      ],
+      "correctAnswer": "Fronteira divergente",
+      "explanation": "Nas fronteiras divergentes, duas placas tectônicas se afastam uma da outra, permitindo que magma suba do manto e forme nova crosta oceânica. O exemplo mais claro é a Dorsal Meso-Atlântica, onde a América do Sul e a África se afastam cerca de 2,5 cm por ano."
+    },
+    {
+      "id": "geografia-10-5",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome do ciclo hidrológico de longo prazo em que a água oceânica circula pelas profundezas dos oceanos impulsionada por diferenças de temperatura e salinidade?",
+      "options": [
+        "Corrente de superfície",
+        "Termohalina",
+        "Circulação de Walker",
+        "Giro Subtropical"
+      ],
+      "correctAnswer": "Termohalina",
+      "explanation": "A circulação termohalina, também chamada de 'esteira oceânica global', é acionada por diferenças de densidade causadas por temperatura (termo) e salinidade (halina). Ela distribui calor e nutrientes por todos os oceanos, influenciando profundamente o clima global, e completa um ciclo em cerca de 1.000 anos."
+    },
+    {
+      "id": "geografia-10-6",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome do índice que mede a vulnerabilidade de um país às mudanças climáticas considerando sua exposição, sensibilidade e capacidade adaptativa?",
+      "options": [
+        "Índice de Desenvolvimento Humano",
+        "Índice de Vulnerabilidade Climática",
+        "Índice de Risco Climático Global",
+        "Índice de Pegada Ecológica"
+      ],
+      "correctAnswer": "Índice de Vulnerabilidade Climática",
+      "explanation": "O Índice de Vulnerabilidade Climática avalia o quanto um país está exposto a eventos climáticos extremos, sua sensibilidade aos impactos e sua capacidade de se adaptar. Países do Sul Global, especialmente pequenos estados insulares e nações africanas, geralmente apresentam os índices de maior vulnerabilidade apesar de contribuírem menos para as emissões globais."
+    },
+    {
+      "id": "geografia-10-7",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome do processo geomorfológico que descreve o recuo progressivo de uma escarpa rochosa por erosão diferencial, comum em regiões semiáridas?",
+      "options": [
+        "Pediplanação",
+        "Inselberg",
+        "Aplainamento lateral",
+        "Recuo paralelo de vertentes"
+      ],
+      "correctAnswer": "Recuo paralelo de vertentes",
+      "explanation": "O recuo paralelo de vertentes é um processo geomorfológico descrito por Walter Penck, em que escarpas rochosas recuam mantendo sua inclinação original, ao contrário do aplainamento progressivo de Davis. Esse processo é dominante em climas áridos e semiáridos, onde a erosão lateral supera a aprofundamento vertical, resultando em pedimentos e inselbergs residuais."
+    },
+    {
+      "id": "geografia-10-8",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome do fenômeno pelo qual ventos úmidos perdem umidade ao subir uma montanha e chegam ao outro lado quentes e secos?",
+      "options": [
+        "Efeito Orográfico",
+        "Efeito Foehn",
+        "Inversão Térmica",
+        "Efeito de Sombra de Chuva"
+      ],
+      "correctAnswer": "Efeito Foehn",
+      "explanation": "O efeito Foehn ocorre quando massas de ar úmido sobem uma encosta de montanha, perdem umidade por precipitação orográfica e descem o outro lado mais quentes e secos. Esse fenômeno ocorre nos Alpes, nos Andes (Zonda na Argentina) e nas Montanhas Rochosas (Chinook), podendo elevar a temperatura em 10°C ou mais em poucas horas."
+    },
+    {
+      "id": "geografia-10-9",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome da zona de convergência atmosférica que circunda o globo próxima ao equador, onde ventos alísios dos dois hemisférios se encontram?",
+      "options": [
+        "Frente Polar",
+        "Jet Stream Equatorial",
+        "Zona de Convergência Intertropical",
+        "Célula de Ferrel"
+      ],
+      "correctAnswer": "Zona de Convergência Intertropical",
+      "explanation": "A Zona de Convergência Intertropical (ZCIT) é uma faixa de baixa pressão onde os ventos alísios do hemisfério norte e do sul convergem. Caracteriza-se por grande nebulosidade e precipitações intensas. Sua posição migra sazonalmente seguindo a zona de maior insolação, influenciando o regime de chuvas de países tropicais como o Brasil."
+    },
+    {
+      "id": "geografia-10-10",
+      "category": "geografia",
+      "difficulty": 10,
+      "question": "Qual é o nome da teoria geomorfológica que propõe que paisagens evoluem por ciclos de erosão, passando por estágios de juventude, maturidade e senilidade?",
+      "options": [
+        "Teoria do Equilíbrio Dinâmico",
+        "Teoria da Pediplanação",
+        "Ciclo Geográfico de Davis",
+        "Teoria da Tectônica de Placas"
+      ],
+      "correctAnswer": "Ciclo Geográfico de Davis",
+      "explanation": "O Ciclo Geográfico, ou Ciclo de Erosão de William Morris Davis, propõe que relevos passam por estágios evolutivos: juventude (rios encaixados, vales em V), maturidade (planaltos dissecados, interflúvios arredondados) e senilidade (peneplanície com monadnocks residuais). Embora criticado por simplificar demais a realidade, o modelo foi fundamental para o desenvolvimento da geomorfologia moderna."
     }
   ]
 }

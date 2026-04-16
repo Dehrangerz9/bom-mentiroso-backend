@@ -5,14 +5,90 @@
       "category": "esportes",
       "difficulty": 7,
       "question": "Em que ano o Brasil sediou a Copa do Mundo de Futebol pela segunda vez?",
-      "options": [
-        "2006",
-        "2010",
-        "2014",
-        "2018"
-      ],
+      "options": ["2006", "2010", "2014", "2018"],
       "correctAnswer": "2014",
       "explanation": "O Brasil sediou pela primeira vez em 1950 e novamente em 2014, quando foi eliminado pela Alemanha por 7×1 na semifinal."
+    },
+    {
+      "id": "esportes-7-2",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "Na NBA, qual jogador tem o maior número de pontos marcados na história?",
+      "options": ["Michael Jordan", "Kareem Abdul-Jabbar", "LeBron James", "Kobe Bryant"],
+      "correctAnswer": "LeBron James",
+      "explanation": "LeBron James ultrapassou Kareem Abdul-Jabbar em 2023 e se tornou o maior pontuador da história da NBA."
+    },
+    {
+      "id": "esportes-7-3",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "No futebol, qual clube europeu venceu mais Ligas dos Campeões?",
+      "options": ["Barcelona", "Bayern de Munique", "AC Milan", "Real Madrid"],
+      "correctAnswer": "Real Madrid",
+      "explanation": "O Real Madrid é o clube com mais títulos da UEFA Champions League, com 15 conquistas até 2024."
+    },
+    {
+      "id": "esportes-7-4",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "Qual tenista tem mais títulos de Grand Slam masculino?",
+      "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+      "correctAnswer": "Novak Djokovic",
+      "explanation": "Novak Djokovic lidera com 24 títulos de Grand Slam no tênis masculino, superando Federer e Nadal."
+    },
+    {
+      "id": "esportes-7-5",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "No automobilismo, qual piloto venceu 7 títulos de F1?",
+      "options": ["Ayrton Senna", "Alain Prost", "Michael Schumacher", "Lewis Hamilton"],
+      "correctAnswer": "Michael Schumacher",
+      "explanation": "Tanto Michael Schumacher quanto Lewis Hamilton têm 7 títulos de F1, empatados como maiores campeões da história."
+    },
+    {
+      "id": "esportes-7-6",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "No beisebol, o que é um 'home run'?",
+      "options": ["Ponto extra", "Bola no limite", "Rebatida completa", "Falta do arremessador"],
+      "correctAnswer": "Rebatida completa",
+      "explanation": "Um home run ocorre quando o rebatedor acerta a bola para fora do campo e completa todo o percurso das bases, marcando pelo menos um ponto."
+    },
+    {
+      "id": "esportes-7-7",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "Qual país ganhou mais medalhas de ouro no judô olímpico?",
+      "options": ["Brasil", "França", "Japão", "Coreia do Sul"],
+      "correctAnswer": "Japão",
+      "explanation": "O Japão, criador do judô, é historicamente o país com mais medalhas de ouro olímpicas na modalidade."
+    },
+    {
+      "id": "esportes-7-8",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "No ciclismo, quantas etapas tem em média o Tour de France?",
+      "options": ["15", "18", "21", "25"],
+      "correctAnswer": "21",
+      "explanation": "O Tour de France possui 21 etapas disputadas ao longo de 23 dias, cobrindo cerca de 3.500 km pela França."
+    },
+    {
+      "id": "esportes-7-9",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "No golfe, quantas pancadas abaixo do par é um 'eagle'?",
+      "options": ["1", "2", "3", "4"],
+      "correctAnswer": "2",
+      "explanation": "Eagle significa completar um buraco com 2 pancadas abaixo do par estabelecido para aquele buraco."
+    },
+    {
+      "id": "esportes-7-10",
+      "category": "esportes",
+      "difficulty": 7,
+      "question": "Em qual ano a seleção brasileira feminina de vôlei ganhou seu primeiro ouro olímpico?",
+      "options": ["1992", "1996", "2008", "2012"],
+      "correctAnswer": "2008",
+      "explanation": "A seleção brasileira feminina de vôlei conquistou sua primeira medalha de ouro olímpica em Pequim 2008, repetindo o feito em Londres 2012."
     }
   ]
 }

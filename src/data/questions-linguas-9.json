@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Proto-indo-europeu",
       "explanation": "O Proto-indo-europeu (PIE) é uma língua reconstruída que teria sido falada entre 4.500-2.500 a.C. e é ancestral de mais de 400 línguas atuais, incluindo o português."
+    },
+    {
+      "id": "linguas-9-2",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "O que é a 'neogramática' no contexto da linguística histórica do século XIX?",
+      "options": [
+        "Uma corrente que estuda a gramática de línguas recentemente criadas",
+        "A escola que postulou que as mudanças fonéticas são regulares e sem exceção",
+        "Um método de ensino de gramática baseado em regras",
+        "O estudo das inovações lexicais em línguas modernas"
+      ],
+      "correctAnswer": "A escola que postulou que as mudanças fonéticas são regulares e sem exceção",
+      "explanation": "Os neogramáticos (Junggrammatiker) alemães do séc. XIX propuseram que leis fonéticas não têm exceção. Exceções aparentes seriam explicadas por analogia ou empréstimo. Isso revolucionou a linguística comparativa."
+    },
+    {
+      "id": "linguas-9-3",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "Qual é o conceito de 'marked' e 'unmarked' em tipologia linguística?",
+      "options": [
+        "Palavras com e sem acento gráfico",
+        "A distinção entre a forma linguística mais básica/neutra (não marcada) e a mais específica/complexa (marcada)",
+        "Morfemas obrigatórios e opcionais numa língua",
+        "A diferença entre formas escritas e faladas de uma língua"
+      ],
+      "correctAnswer": "A distinção entre a forma linguística mais básica/neutra (não marcada) e a mais específica/complexa (marcada)",
+      "explanation": "Em marcação tipológica, a forma não marcada é mais frequente e menos complexa (ex: singular em português). A marcada é mais restrita e complexa (plural). Isso é universal em tipologia linguística."
+    },
+    {
+      "id": "linguas-9-4",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "O que distingue a reconstituição linguística interna da comparativa?",
+      "options": [
+        "A interna usa uma língua; a comparativa usa pelo menos duas línguas aparentadas",
+        "A interna é mais precisa; a comparativa é apenas aproximada",
+        "A interna estuda falantes modernos; a comparativa estuda textos antigos",
+        "Não há diferença substancial entre elas"
+      ],
+      "correctAnswer": "A interna usa uma língua; a comparativa usa pelo menos duas línguas aparentadas",
+      "explanation": "A reconstrução interna analisa variações dentro de uma única língua para inferir formas mais antigas. A reconstrução comparativa usa cognatos de múltiplas línguas aparentadas para reconstruir o ancestral comum."
+    },
+    {
+      "id": "linguas-9-5",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "Qual é o nome do princípio pragmático de Grice que estabelece que os falantes devem ser informativos, verdadeiros, relevantes e claros?",
+      "options": [
+        "Princípio da cooperação",
+        "Máxima da polidez",
+        "Teoria dos atos de fala",
+        "Princípio da relevância"
+      ],
+      "correctAnswer": "Princípio da cooperação",
+      "explanation": "Paul Grice formulou o Princípio da Cooperação, com quatro máximas: quantidade (seja informativo), qualidade (seja verdadeiro), relação (seja relevante) e modo (seja claro). Violações geram implicaturas conversacionais."
+    },
+    {
+      "id": "linguas-9-6",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "O que é supletivismo em morfologia?",
+      "options": [
+        "O uso de mais morfemas do que o necessário",
+        "A substituição de uma forma esperada por uma raiz completamente diferente para expressar uma categoria gramatical",
+        "A omissão de morfemas em fala informal",
+        "A criação de novas formas por analogia com paradigmas existentes"
+      ],
+      "correctAnswer": "A substituição de uma forma esperada por uma raiz completamente diferente para expressar uma categoria gramatical",
+      "explanation": "Supletivismo ocorre quando formas gramaticalmente relacionadas têm raízes distintas. Em português: 'bom/melhor', 'ir/fui'. Em inglês: 'go/went', 'good/better'. Não há relação fonológica previsível."
+    },
+    {
+      "id": "linguas-9-7",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "Qual é o conceito de 'deriva linguística' proposto por Edward Sapir?",
+      "options": [
+        "A tendência de línguas em contato se tornarem mais semelhantes",
+        "A tendência de uma língua de mudar em direções específicas determinadas por sua estrutura interna",
+        "A migração geográfica de línguas ao longo de séculos",
+        "A perda gradual de falantes de uma língua minoritária"
+      ],
+      "correctAnswer": "A tendência de uma língua de mudar em direções específicas determinadas por sua estrutura interna",
+      "explanation": "Sapir propôs que línguas não mudam aleatoriamente; elas têm uma 'deriva' interna — uma tendência estrutural que determina a direção das mudanças. O inglês, por exemplo, deriva para maior analiticidade."
+    },
+    {
+      "id": "linguas-9-8",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "O que é o 'período crítico' na aquisição de linguagem?",
+      "options": [
+        "O período em que a criança começa a falar as primeiras palavras",
+        "A fase escolar em que o ensino formal da língua é mais eficaz",
+        "A janela de desenvolvimento durante a qual a aquisição de uma língua se dá de forma mais natural e completa",
+        "O período de maior plasticidade vocabular na adolescência"
+      ],
+      "correctAnswer": "A janela de desenvolvimento durante a qual a aquisição de uma língua se dá de forma mais natural e completa",
+      "explanation": "A hipótese do período crítico (Lenneberg) propõe que há uma janela, geralmente antes da puberdade, em que a aquisição linguística é biologicamente facilitada. O caso de Genie é frequentemente citado como evidência."
+    },
+    {
+      "id": "linguas-9-9",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "O que é a 'hierarquia de acessibilidade' proposta por Keenan e Comrie em tipologia linguística?",
+      "options": [
+        "Uma classificação das línguas por complexidade gramatical",
+        "A ordem universal de funções sintáticas que podem ser relativizadas nas línguas do mundo",
+        "A hierarquia de importância dos constituintes numa frase",
+        "A escala de prestígio social das variedades linguísticas"
+      ],
+      "correctAnswer": "A ordem universal de funções sintáticas que podem ser relativizadas nas línguas do mundo",
+      "explanation": "Keenan e Comrie (1977) propuseram que línguas relativizam funções numa hierarquia: sujeito > objeto direto > objeto indireto > oblíquo > genitivo > objeto de comparação. Se uma língua relativiza uma posição, também relativiza as anteriores."
+    },
+    {
+      "id": "linguas-9-10",
+      "category": "linguas",
+      "difficulty": 9,
+      "question": "Qual é o nome da pedra que foi fundamental para a decifração dos hieróglifos egípcios?",
+      "options": [
+        "Pedra de Roseta",
+        "Pedra do Destino",
+        "Pedra de Palermo",
+        "Estela de Merneptah"
+      ],
+      "correctAnswer": "Pedra de Roseta",
+      "explanation": "A Pedra de Roseta (196 a.C.) contém o mesmo decreto em três escritas: hieróglifos, demótico e grego. Jean-François Champollion usou o grego como chave para decifrar os hieróglifos em 1822."
     }
   ]
 }

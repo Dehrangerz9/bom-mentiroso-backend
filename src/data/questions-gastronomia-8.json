@@ -7,12 +7,138 @@
       "question": "Qual é a denominação de origem protegida do presunto curado a seco produzido na região de Parma, Itália?",
       "options": [
         "Prosciutto di San Daniele",
-        "Prosciutto di Parma",
         "Culatello di Zibello",
-        "Speck dell'Alto Adige"
+        "Speck dell'Alto Adige",
+        "Prosciutto di Parma"
       ],
       "correctAnswer": "Prosciutto di Parma",
-      "explanation": "O Prosciutto di Parma possui DOP (Denominação de Origem Protegida) e deve ser produzido em área específica de Parma segundo rígidos critérios."
+      "explanation": "O Prosciutto di Parma possui DOP (Denominação de Origem Protegida) e deve ser produzido em área específica de Parma segundo rígidos critérios de raça suína, alimentação e cura mínima de 12 meses."
+    },
+    {
+      "id": "gastronomia-8-2",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Como se chama o processo de criar vinho espumante pelo método tradicional, com segunda fermentação na própria garrafa?",
+      "options": [
+        "Método charmat",
+        "Método ancestral",
+        "Método de transferência",
+        "Método champenoise"
+      ],
+      "correctAnswer": "Método champenoise",
+      "explanation": "O méthode champenoise (ou méthode traditionnelle) inclui segunda fermentação na garrafa com adição de liqueur de tirage, seguida de remuage (girar as garrafas) e dégorgement (remoção das borras). Obrigatório para Champagne AOC."
+    },
+    {
+      "id": "gastronomia-8-3",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Qual é o nome da técnica de cozinha americana de defumar e cozinhar lentamente carnes a baixa temperatura por muitas horas?",
+      "options": [
+        "Grilling",
+        "Smoking",
+        "Barbecue",
+        "Broiling"
+      ],
+      "correctAnswer": "Barbecue",
+      "explanation": "O barbecue americano (BBQ) é uma técnica de cocção lenta (low and slow) a 90-135°C com fumaça de madeiras como hickory e mesquite. Difere do grill, que usa calor direto e alto. Cada região dos EUA tem sua tradição distinta."
+    },
+    {
+      "id": "gastronomia-8-4",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Qual é o nome do sistema espanhol de envelhecimento de vinhos em que volumes são transferidos gradualmente entre barricas de diferentes idades?",
+      "options": [
+        "Crianza",
+        "Reserva",
+        "Sistema Solera",
+        "Gran Reserva"
+      ],
+      "correctAnswer": "Sistema Solera",
+      "explanation": "O sistema Solera, usado no Sherry (Jerez), Madeira e alguns vinagres, consiste em pilhas de barricas (criaderas) onde o vinho mais novo é adicionado ao topo e o produto final retirado da barrica mais velha (solera). Garante consistência de estilo."
+    },
+    {
+      "id": "gastronomia-8-5",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Como se chama o processo químico de gelatinização do colágeno que ocorre durante o cozimento lento de carnes ricas em tecido conjuntivo?",
+      "options": [
+        "Oxidação proteica",
+        "Desnaturação miofibrilar",
+        "Hidrólise do colágeno",
+        "Coagulação proteica"
+      ],
+      "correctAnswer": "Hidrólise do colágeno",
+      "explanation": "Durante o cozimento lento acima de 70°C, o colágeno das carnes se hidrolisa em gelatina, resultando na textura macia e suculenta característica de ossobuco, costela e carnes braseadas. É por isso que carnes duras ficam macias com tempo longo."
+    },
+    {
+      "id": "gastronomia-8-6",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Qual é o nome do ingrediente umami japonês feito de alga kombu seca, rico em ácido glutâmico livre?",
+      "options": [
+        "Katsuobushi",
+        "Niboshi",
+        "Shiitake seco",
+        "Kombu"
+      ],
+      "correctAnswer": "Kombu",
+      "explanation": "O kombu (Saccharina japonica) é rico em glutamato livre — o mesmo composto que Ikeda identificou em 1908 ao descrever o umami. É a base do dashi ichibanbushi e pode ser usado para amaciar feijões durante o cozimento."
+    },
+    {
+      "id": "gastronomia-8-7",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Qual é o nome do método de cura de peixe com sal e açúcar sem calor, como no preparo do gravlax escandinavo?",
+      "options": [
+        "Defumação fria",
+        "Marinada ácida",
+        "Cura a seco",
+        "Salmoura úmida"
+      ],
+      "correctAnswer": "Cura a seco",
+      "explanation": "A cura a seco (dry cure) mistura sal e açúcar (e às vezes especiarias) aplicados diretamente ao peixe ou carne. A osmose retira água e preserva o alimento sem calor. O gravlax sueco usa endro, o salmão curado nórdico usa pimenta."
+    },
+    {
+      "id": "gastronomia-8-8",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Qual é o nome da cozinha de vanguarda espanhola desenvolvida por Ferran Adrià no El Bulli, que ficou conhecida como?",
+      "options": [
+        "Cuisine fusion",
+        "Gastronomia molecular",
+        "Cozinha de autor",
+        "Tecno-emocional"
+      ],
+      "correctAnswer": "Tecno-emocional",
+      "explanation": "O crítico Pau Arenós cunhou o termo 'cozinha tecno-emocional' para descrever o movimento liderado por Adrià, que usava técnicas científicas (esferificação, gelificação, espumas) para criar experiências gastronômicas com forte impacto emocional."
+    },
+    {
+      "id": "gastronomia-8-9",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Como se chama a técnica de clarificar caldos usando uma mistura de claras de ovo, carne picada e vegetais chamada?",
+      "options": [
+        "Degraissage",
+        "Passoire fine",
+        "Consommé",
+        "Clearmeat"
+      ],
+      "correctAnswer": "Clearmeat",
+      "explanation": "O clearmeat (ou clarification) é a mistura de proteínas (carne moída, claras) e aromáticos que, ao aquecer no caldo, atrai e absorve partículas em suspensão. O resultado é o consommé — caldo límpido como cristal e de sabor concentrado."
+    },
+    {
+      "id": "gastronomia-8-10",
+      "category": "gastronomia",
+      "difficulty": 8,
+      "question": "Qual é o nome do processo de envelhecimento de destilados em barril que adiciona cor, sabor e taninos ao líquido claro original?",
+      "options": [
+        "Destilação fracionada",
+        "Retificação",
+        "Maturação em barril",
+        "Blending"
+      ],
+      "correctAnswer": "Maturação em barril",
+      "explanation": "A maturação em barril de carvalho transforma destilados claros (whisky novo, aguardente) por extração de compostos da madeira (lignina, taninos, vanilina), oxidação e reações de ésterificação. O tamanho do barril e o clima determinam a velocidade do processo."
     }
   ]
 }

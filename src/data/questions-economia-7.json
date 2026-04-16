@@ -4,91 +4,91 @@
       "id": "economia-7-1",
       "category": "economia",
       "difficulty": 7,
-      "question": "Qual é o nome do paradoxo em que um aumento de preço de um bem inferior eleva sua demanda, contrariando a lei da demanda?",
-      "options": ["Paradoxo de Veblen", "Paradoxo de Giffen", "Paradoxo de Leontief", "Paradoxo de Jevons"],
+      "question": "Qual paradoxo descreve um bem inferior cuja demanda aumenta quando seu preço sobe?",
+      "options": ["Paradoxo de Giffen", "Paradoxo de Veblen", "Paradoxo de Leontief", "Paradoxo de Jevons"],
       "correctAnswer": "Paradoxo de Giffen",
-      "explanation": "Bens Giffen são bens inferiores tão essenciais que, ao subirem de preço, consomem renda que seria gasta em bens superiores, aumentando sua própria demanda."
+      "explanation": "Os bens Giffen são bens inferiores tão essenciais que, ao subirem de preço, consomem renda que seria gasta em bens superiores, aumentando sua própria demanda."
     },
     {
       "id": "economia-7-2",
       "category": "economia",
       "difficulty": 7,
-      "question": "Como se chama o fenômeno em que agentes tomam mais risco porque sabem que outros arcarão com as consequências?",
-      "options": ["Seleção adversa", "Risco moral", "Externalidade negativa", "Falha de mercado"],
-      "correctAnswer": "Risco moral",
-      "explanation": "Risco moral (moral hazard) ocorre quando uma parte muda seu comportamento após um contrato porque não suporta os custos totais de seu risco, como bancos 'grandes demais para quebrar'."
+      "question": "Quem formulou a teoria das vantagens comparativas no comércio internacional?",
+      "options": ["David Ricardo", "Adam Smith", "John Stuart", "Thomas Malthus"],
+      "correctAnswer": "David Ricardo",
+      "explanation": "David Ricardo formulou a teoria das vantagens comparativas em 1817, mostrando que países se beneficiam do comércio ao se especializarem no que produzem com menor custo relativo."
     },
     {
       "id": "economia-7-3",
       "category": "economia",
       "difficulty": 7,
-      "question": "Qual é o nome da alocação em que ninguém pode melhorar sem piorar a situação de outro?",
-      "options": ["Equilíbrio de Nash", "Ótimo de Pareto", "Equilíbrio de Walras", "Máximo de Kaldor"],
-      "correctAnswer": "Ótimo de Pareto",
-      "explanation": "A eficiência de Pareto (Vilfredo Pareto) é atingida quando não é possível melhorar a situação de alguém sem deteriorar a de outro agente."
+      "question": "O que descreve o efeito multiplicador keynesiano?",
+      "options": ["Gasto gera renda", "Imposto reduz PIB", "Oferta cria demanda", "Poupança estimula crescimento"],
+      "correctAnswer": "Gasto gera renda",
+      "explanation": "O multiplicador keynesiano descreve como um gasto inicial se propaga pela economia, gerando aumentos de renda superiores ao gasto original."
     },
     {
       "id": "economia-7-4",
       "category": "economia",
       "difficulty": 7,
-      "question": "Como se chama o efeito em que consumidores demandam mais de um bem justamente por ele ser caro, associando preço a status?",
-      "options": ["Efeito Giffen", "Efeito Veblen", "Efeito renda", "Efeito bandwagon"],
-      "correctAnswer": "Efeito Veblen",
-      "explanation": "Bens Veblen (Thorstein Veblen) são bens de luxo cuja demanda aumenta com o preço porque o alto custo sinaliza status social."
+      "question": "O que relaciona a Curva de Phillips?",
+      "options": ["Inflação e desemprego", "Oferta e demanda", "Risco e retorno", "Juros e câmbio"],
+      "correctAnswer": "Inflação e desemprego",
+      "explanation": "A Curva de Phillips (1958) descreve a relação inversa entre inflação e desemprego: menor desemprego tende a pressionar inflação para cima e vice-versa."
     },
     {
       "id": "economia-7-5",
       "category": "economia",
       "difficulty": 7,
-      "question": "Qual é o nome do modelo macroeconômico que analisa equilíbrio simultâneo no mercado de bens e no mercado monetário?",
-      "options": ["AD-AS", "IS-LM", "Mundell-Fleming", "Solow-Swan"],
-      "correctAnswer": "IS-LM",
-      "explanation": "O modelo IS-LM (Hicks-Hansen) representa o equilíbrio simultâneo entre o mercado de bens (IS) e o mercado monetário (LM), base da macroeconomia keynesiana."
+      "question": "Quem escreveu 'A Riqueza das Nações' (1776)?",
+      "options": ["Adam Smith", "David Ricardo", "John Keynes", "Karl Marx"],
+      "correctAnswer": "Adam Smith",
+      "explanation": "Adam Smith publicou 'A Riqueza das Nações' em 1776, obra fundadora da economia moderna, introduzindo conceitos como divisão do trabalho e a 'mão invisível' do mercado."
     },
     {
       "id": "economia-7-6",
       "category": "economia",
       "difficulty": 7,
-      "question": "Como se chama o custo que já foi incorrido e não pode ser recuperado, portanto não deve influenciar decisões futuras?",
-      "options": ["Custo variável", "Custo de oportunidade", "Custo irrecuperável", "Custo marginal"],
-      "correctAnswer": "Custo irrecuperável",
-      "explanation": "O sunk cost (custo irrecuperável) é um custo passado que não pode ser revertido. A racionalidade econômica diz que ele não deve influenciar decisões futuras, mas psicologicamente tende a."
+      "question": "O que descreve a eficiência de Pareto?",
+      "options": ["Sem melhora possível", "Máximo de lucro", "Equilíbrio de Nash", "Ótimo social"],
+      "correctAnswer": "Sem melhora possível",
+      "explanation": "Uma situação é Pareto-eficiente quando não é possível melhorar a situação de nenhum agente sem piorar a de outro. É um critério central de bem-estar em economia."
     },
     {
       "id": "economia-7-7",
       "category": "economia",
       "difficulty": 7,
-      "question": "Qual é o nome do modelo de crescimento econômico que enfatiza acumulação de capital e produtividade total dos fatores?",
-      "options": ["Modelo Keynesiano", "Modelo Solow-Swan", "Modelo Harrod-Domar", "Modelo Mundell-Fleming"],
-      "correctAnswer": "Modelo Solow-Swan",
-      "explanation": "O modelo de Solow-Swan (1956) mostra que crescimento de longo prazo depende do progresso tecnológico; apenas acumular capital leva a retornos decrescentes."
+      "question": "O que é estagflação?",
+      "options": ["Inflação e estagnação", "Deflação e crescimento", "Inflação e crescimento", "Deflação e recessão"],
+      "correctAnswer": "Inflação e estagnação",
+      "explanation": "Estagflação é a combinação de inflação alta com estagnação econômica e desemprego elevado. Tornou-se proeminente na crise do petróleo dos anos 1970."
     },
     {
       "id": "economia-7-8",
       "category": "economia",
       "difficulty": 7,
-      "question": "Qual é o nome do fenômeno em que o uso de um bem por uma pessoa reduz sua disponibilidade para outros?",
-      "options": ["Bem público", "Rivalidade", "Externalidade", "Exclusividade"],
-      "correctAnswer": "Rivalidade",
-      "explanation": "Bens rivais são aqueles em que o consumo por um agente reduz a quantidade disponível para outros, como alimentos. Bens não-rivais, como conhecimento, podem ser consumidos por muitos sem se esgotar."
+      "question": "Qual é o modelo macroeconômico que representa equilíbrio no mercado de bens e no monetário?",
+      "options": ["Modelo IS-LM", "Curva de Phillips", "Modelo de Mundell", "Teoria Quantitativa"],
+      "correctAnswer": "Modelo IS-LM",
+      "explanation": "O modelo IS-LM, desenvolvido por John Hicks (1937) como interpretação de Keynes, representa o equilíbrio simultâneo no mercado de bens (IS) e no mercado monetário (LM)."
     },
     {
       "id": "economia-7-9",
       "category": "economia",
       "difficulty": 7,
-      "question": "Como se chama a tendência de indivíduos subestimarem perdas futuras e superestimarem ganhos imediatos?",
-      "options": ["Ancoragem cognitiva", "Desconto hiperbólico", "Aversão à perda", "Ilusão monetária"],
-      "correctAnswer": "Desconto hiperbólico",
-      "explanation": "O desconto hiperbólico descreve a inconsistência temporal em que preferências mudam ao longo do tempo; as pessoas preferem R$100 hoje a R$110 amanhã, mas não amanhã a depois de amanhã."
+      "question": "Como se calcula a taxa de juros real?",
+      "options": ["Juros menos inflação", "Juros mais inflação", "Taxa Selic atual", "CDI anual"],
+      "correctAnswer": "Juros menos inflação",
+      "explanation": "A taxa de juros real é aproximadamente a taxa nominal menos a inflação. Pela equação de Fisher: taxa real = ((1 + nominal) / (1 + inflação)) - 1."
     },
     {
       "id": "economia-7-10",
       "category": "economia",
       "difficulty": 7,
-      "question": "Qual é o nome do imposto que incide sobre externalidades negativas para internalizar o custo social ao produtor?",
-      "options": ["Imposto de Pigou", "Imposto de Tobin", "Tarifa de Ramsey", "Imposto de Coase"],
-      "correctAnswer": "Imposto de Pigou",
-      "explanation": "O imposto pigouviano (Arthur Pigou) taxa atividades com externalidades negativas (como poluição) no valor do dano social, corrigindo a falha de mercado."
+      "question": "O que afirma a teoria quantitativa da moeda?",
+      "options": ["Moeda afeta preços", "Moeda afeta PIB", "Moeda afeta câmbio", "Moeda e emprego"],
+      "correctAnswer": "Moeda afeta preços",
+      "explanation": "A teoria quantitativa da moeda (MV=PQ) postula que aumentos na quantidade de moeda levam proporcionalmente a aumentos no nível de preços, sendo base do monetarismo."
     }
   ]
 }

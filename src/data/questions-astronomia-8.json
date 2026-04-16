@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Chang'e 4 (China)",
       "explanation": "A sonda Chang'e 4 e o rover Yutu-2 pousaram na cratera Von Kármán na face oculta lunar em janeiro de 2019, uma primeiríssima na exploração espacial."
+    },
+    {
+      "id": "astronomia-8-2",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "O que é o 'paradoxo da informação' em buracos negros?",
+      "options": [
+        "A impossibilidade de medir simultaneamente posição e velocidade de partículas perto do horizonte de eventos",
+        "O conflito entre a Relatividade Geral (que prevê destruição da informação) e a Mecânica Quântica (que exige preservação)",
+        "A perda de sinal de rádio de naves que cruzam o cinturão de Van Allen",
+        "A impossibilidade de transmitir informação mais rápido que a luz usando buracos negros"
+      ],
+      "correctAnswer": "O conflito entre a Relatividade Geral (que prevê destruição da informação) e a Mecânica Quântica (que exige preservação)",
+      "explanation": "Se um buraco negro evapora via radiação de Hawking, a informação do que caiu nele parece ser destruída — violando um princípio fundamental da mecânica quântica. Este paradoxo ainda não tem resolução aceita."
+    },
+    {
+      "id": "astronomia-8-3",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "Qual é o período de rotação do pulsar mais rápido conhecido (milissegundo)?",
+      "options": [
+        "Vários segundos por rotação",
+        "Centenas de rotações por segundo",
+        "Uma rotação por hora",
+        "Uma rotação por minuto"
+      ],
+      "correctAnswer": "Centenas de rotações por segundo",
+      "explanation": "Pulsares de milissegundo giram centenas de vezes por segundo. O PSR J1748-2446ad gira 716 vezes por segundo — o mais rápido conhecido. Eles são acelerados por acreção de matéria de uma estrela companheira."
+    },
+    {
+      "id": "astronomia-8-4",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "O que é o 'Limite de Tolman-Oppenheimer-Volkoff' (TOV)?",
+      "options": [
+        "Massa máxima de uma anã branca antes de colapsar em estrela de nêutrons",
+        "Massa máxima de uma estrela de nêutrons antes de colapsar em buraco negro",
+        "Massa mínima para uma estrela iniciar fusão nuclear",
+        "Velocidade máxima de rotação de um pulsar antes de se desintegrar"
+      ],
+      "correctAnswer": "Massa máxima de uma estrela de nêutrons antes de colapsar em buraco negro",
+      "explanation": "O limite TOV, análogo ao de Chandrasekhar para anãs brancas, é de ~2-3 massas solares. Acima disso, a pressão de degenerescência dos nêutrons não sustenta a estrela, que colapsa em buraco negro."
+    },
+    {
+      "id": "astronomia-8-5",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "Qual fenômeno explica por que sempre vemos apenas um lado da Lua da Terra?",
+      "options": [
+        "A Lua não rotaciona em torno de seu próprio eixo",
+        "Rotação síncrona: o período de rotação da Lua é igual ao seu período orbital",
+        "O campo gravitacional terrestre bloqueia a rotação lunar",
+        "A Lua rotaciona, mas em sentido oposto à sua órbita, cancelando o efeito"
+      ],
+      "correctAnswer": "Rotação síncrona: o período de rotação da Lua é igual ao seu período orbital",
+      "explanation": "A rotação síncrona ocorre por aprisionamento de maré (tidal locking). Ao longo de bilhões de anos, as forças de maré da Terra desaceleraram a rotação lunar até que os dois períodos se igualaram (~27,3 dias)."
+    },
+    {
+      "id": "astronomia-8-6",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "O que são 'Gamma Ray Bursts' (GRBs)?",
+      "options": [
+        "Explosões de raios gama emitidas pelo Sol durante tempestades solares intensas",
+        "Os eventos mais energéticos do universo, associados ao colapso de estrelas massivas ou fusão de estrelas de nêutrons",
+        "Emissões periódicas de pulsares de alta energia",
+        "Reflexo de raios cósmicos na atmosfera superior da Terra"
+      ],
+      "correctAnswer": "Os eventos mais energéticos do universo, associados ao colapso de estrelas massivas ou fusão de estrelas de nêutrons",
+      "explanation": "GRBs são flashes brevíssimos (de milissegundos a horas) de radiação gama extremamente intensa. Os de longa duração vêm de colapso de estrelas hipermassivas (hipenovas); os curtos, de fusão de estrelas de nêutrons."
+    },
+    {
+      "id": "astronomia-8-7",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "O que é a 'Constante de Hubble' e qual seu significado cosmológico?",
+      "options": [
+        "A velocidade de rotação média das galáxias espirais",
+        "A taxa de expansão do universo, indicando a velocidade de afastamento das galáxias por unidade de distância",
+        "A relação entre luminosidade e período das estrelas variáveis Cefeidas",
+        "A constante que define a curvatura do espaço-tempo na Relatividade Geral"
+      ],
+      "correctAnswer": "A taxa de expansão do universo, indicando a velocidade de afastamento das galáxias por unidade de distância",
+      "explanation": "A Constante de Hubble (H₀) é ~70 km/s/Mpc: para cada megaparsec de distância, as galáxias se afastam ~70 km/s mais rápido. Seu valor preciso é objeto de debate (tensão de Hubble) entre diferentes métodos de medição."
+    },
+    {
+      "id": "astronomia-8-8",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "Qual é a composição aproximada do universo observável em termos de matéria comum, matéria escura e energia escura?",
+      "options": [
+        "50% matéria, 30% matéria escura, 20% energia escura",
+        "5% matéria comum, 27% matéria escura, 68% energia escura",
+        "33% de cada componente em proporções iguais",
+        "10% matéria comum, 10% matéria escura, 80% vácuo"
+      ],
+      "correctAnswer": "5% matéria comum, 27% matéria escura, 68% energia escura",
+      "explanation": "Segundo as medições do satélite Planck (2018), o universo é composto de ~5% matéria bariônica (átomos), ~27% matéria escura (natureza desconhecida) e ~68% energia escura (responsável pela expansão acelerada)."
+    },
+    {
+      "id": "astronomia-8-9",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "O que é a 'Era de Reionização' no contexto da cosmologia?",
+      "options": [
+        "A fase em que prótons e nêutrons se formaram após o Big Bang",
+        "O período em que as primeiras estrelas e galáxias ionizaram o hidrogênio neutro do universo primordial",
+        "O momento em que a matéria e antimatéria se aniquilaram deixando o resíduo atual",
+        "A fase em que a CMB se desacoplou da matéria, tornando o universo transparente"
+      ],
+      "correctAnswer": "O período em que as primeiras estrelas e galáxias ionizaram o hidrogênio neutro do universo primordial",
+      "explanation": "A Era de Reionização (z~6-20, ~200-900 milhões de anos após o Big Bang) marca o fim das 'Idades Sombrias'. As primeiras fontes de luz ultravioleta ionizaram o hidrogênio neutro que enchia o universo."
+    },
+    {
+      "id": "astronomia-8-10",
+      "category": "astronomia",
+      "difficulty": 8,
+      "question": "Qual evento astronômico foi detectado em 2017 tanto por ondas gravitacionais quanto por luz eletromagnética, inaugurando a 'astronomia multimensageiro'?",
+      "options": [
+        "Fusão de dois buracos negros supermassivos",
+        "Explosão de supernova na Grande Nuvem de Magalhães",
+        "Fusão de duas estrelas de nêutrons (GW170817)",
+        "Impacto de asteroide em Marte detectado pelo InSight"
+      ],
+      "correctAnswer": "Fusão de duas estrelas de nêutrons (GW170817)",
+      "explanation": "GW170817 foi detectado pelo LIGO/Virgo e confirmado em gama, óptico, rádio e raios-X. Confirmou que fusões de estrelas de nêutrons criam kilonova — forja de elementos pesados como ouro e platina — inaugurando a astronomia multimensageiro."
     }
   ]
 }

@@ -5,14 +5,90 @@
       "category": "esportes",
       "difficulty": 9,
       "question": "Qual equipe de Fórmula 1 tem o maior número de títulos de construtores na história do esporte?",
-      "options": [
-        "McLaren",
-        "Williams",
-        "Red Bull",
-        "Ferrari"
-      ],
+      "options": ["McLaren", "Williams", "Red Bull", "Ferrari"],
       "correctAnswer": "Ferrari",
       "explanation": "A Ferrari é a equipe mais vitoriosa da F1 em títulos de construtores, com 16 conquistas até 2023."
+    },
+    {
+      "id": "esportes-9-2",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "No críquete, qual é o recorde individual de corridas em um innings de teste?",
+      "options": ["375", "400", "501", "365"],
+      "correctAnswer": "400",
+      "explanation": "Brian Lara (West Indies) marcou 400 não eliminado contra a Inglaterra em 2004, o recorde individual em testes."
+    },
+    {
+      "id": "esportes-9-3",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "Qual judoca brasileiro é o único pentacampeão mundial da história?",
+      "options": ["Leandro Guilheiro", "Flávio Canto", "Rogério Sampaio", "Rafaela Silva"],
+      "correctAnswer": "Rogério Sampaio",
+      "explanation": "Rogério Sampaio foi pentacampeão mundial de judô na categoria meio-leve, além de campeão olímpico em Barcelona 1992."
+    },
+    {
+      "id": "esportes-9-4",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "No xadrez, qual abertura se inicia com e4 e5, Cf3, Cc6, Bb5?",
+      "options": ["Siciliana", "Francesa", "Ruy Lopez", "Caro-Kann"],
+      "correctAnswer": "Ruy Lopez",
+      "explanation": "A abertura Ruy Lopez (ou Espanhola) começa com 1.e4 e5 2.Cf3 Cc6 3.Bb5, desenvolvida pelo bispo para pressionar o cavalo."
+    },
+    {
+      "id": "esportes-9-5",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "Qual ciclista belga é conhecido como 'O Canibal' por dominar o ciclismo nos anos 1970?",
+      "options": ["Bernard Hinault", "Jacques Anquetil", "Eddy Merckx", "Felice Gimondi"],
+      "correctAnswer": "Eddy Merckx",
+      "explanation": "Eddy Merckx ganhou 11 Grand Tours, 5 Tour de France e 5 Giro d'Italia, sendo apelidado de 'O Canibal' pela dominância."
+    },
+    {
+      "id": "esportes-9-6",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "No polo, quantos 'chukkers' (períodos) tem uma partida padrão?",
+      "options": ["4", "6", "8", "10"],
+      "correctAnswer": "6",
+      "explanation": "Uma partida padrão de polo é composta por 6 chukkers de 7 minutos cada, com intervalos entre eles."
+    },
+    {
+      "id": "esportes-9-7",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "Em que ano a FIBA introduziu a regra dos 24 segundos no basquete?",
+      "options": ["1950", "1954", "1960", "1968"],
+      "correctAnswer": "1954",
+      "explanation": "A NBA introduziu o shot clock de 24 segundos em 1954 para acelerar o jogo; a FIBA adotou a regra para competições internacionais posteriormente."
+    },
+    {
+      "id": "esportes-9-8",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "Qual é o nome da prova de remo onde 8 remadores competem com um timoneiro?",
+      "options": ["Par sem timoneiro", "Quatro com timoneiro", "Oito com timoneiro", "Skiff duplo"],
+      "correctAnswer": "Oito com timoneiro",
+      "explanation": "O oito com timoneiro (eights) é a prova mais celebrada do remo olímpico, com 8 remadores e 1 timoneiro."
+    },
+    {
+      "id": "esportes-9-9",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "No atletismo, o que é 'steeple chase'?",
+      "options": ["Salto com vara", "Corrida com obstáculos e água", "Revezamento 4x400m", "Decatlo feminino"],
+      "correctAnswer": "Corrida com obstáculos e água",
+      "explanation": "O steeple chase (3.000m com obstáculos) é uma prova de atletismo com barreiras fixas e uma fossa com água."
+    },
+    {
+      "id": "esportes-9-10",
+      "category": "esportes",
+      "difficulty": 9,
+      "question": "Qual país venceu a primeira Copa do Mundo de Rugby em 1987?",
+      "options": ["África do Sul", "Austrália", "Nova Zelândia", "Inglaterra"],
+      "correctAnswer": "Nova Zelândia",
+      "explanation": "A Nova Zelândia (All Blacks) venceu a primeira Copa do Mundo de Rugby em 1987, derrotando a França na final."
     }
   ]
 }

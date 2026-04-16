@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Lente gravitacional",
       "explanation": "Prevista por Einstein na Relatividade Geral, a lente gravitacional foi observada pela primeira vez em 1979 e é usada para estudar matéria escura."
+    },
+    {
+      "id": "astronomia-6-2",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "O que é a nucleossíntese estelar?",
+      "options": [
+        "A formação de estrelas dentro de nebulosas moleculares",
+        "A criação de elementos químicos mais pesados nas reações de fusão no interior das estrelas",
+        "O processo de ionização do hidrogênio na cromosfera solar",
+        "A síntese de moléculas orgânicas em discos protoplanetários"
+      ],
+      "correctAnswer": "A criação de elementos químicos mais pesados nas reações de fusão no interior das estrelas",
+      "explanation": "Elementos como carbono, oxigênio e ferro são forjados nas estrelas por fusão nuclear. Elementos ainda mais pesados (como ouro) são criados em explosões de supernovas ou colisões de estrelas de nêutrons."
+    },
+    {
+      "id": "astronomia-6-3",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "Qual é a causa das marés oceânicas na Terra?",
+      "options": [
+        "A rotação da Terra em torno de seu eixo",
+        "A pressão do vento solar sobre a superfície terrestre",
+        "A atração gravitacional diferencial da Lua (e do Sol) sobre diferentes partes da Terra",
+        "O campo magnético terrestre interagindo com correntes oceânicas"
+      ],
+      "correctAnswer": "A atração gravitacional diferencial da Lua (e do Sol) sobre diferentes partes da Terra",
+      "explanation": "A Lua atrai com mais força o lado da Terra voltado para ela do que o lado oposto, criando dois 'bojos' de água. O Sol contribui com cerca de 46% do efeito total das marés."
+    },
+    {
+      "id": "astronomia-6-4",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "Qual é o nome do diagrama clássico que classifica as estrelas por luminosidade e temperatura superficial?",
+      "options": [
+        "Diagrama de Hubble",
+        "Diagrama de Hertzsprung-Russell",
+        "Diagrama de Planck",
+        "Diagrama de Chandrasekhar"
+      ],
+      "correctAnswer": "Diagrama de Hertzsprung-Russell",
+      "explanation": "O diagrama H-R, desenvolvido independentemente por Ejnar Hertzsprung e Henry Norris Russell no início do séc. XX, é a ferramenta fundamental para classificar e entender a evolução estelar."
+    },
+    {
+      "id": "astronomia-6-5",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "O que é um quasar?",
+      "options": [
+        "Uma nebulosa planetária muito brilhante",
+        "Um núcleo galáctico ativo extremamente luminoso alimentado por um buraco negro supermassivo",
+        "Uma estrela hipermassiva perto do fim de sua vida",
+        "Um aglomerado globular no halo galáctico"
+      ],
+      "correctAnswer": "Um núcleo galáctico ativo extremamente luminoso alimentado por um buraco negro supermassivo",
+      "explanation": "Quasares (quasi-stellar objects) são os objetos mais luminosos do universo. São vistos a bilhões de anos-luz e representam galáxias jovens com buracos negros supermassivos em fase de acreção intensa."
+    },
+    {
+      "id": "astronomia-6-6",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "Qual é a principal composição dos anéis de Saturno?",
+      "options": [
+        "Poeira e gases ionizados",
+        "Rocha sólida vulcânica e metais pesados",
+        "Predominantemente partículas de gelo de água com alguma poeira e rocha",
+        "Cristais de dióxido de carbono e nitrogênio sólido"
+      ],
+      "correctAnswer": "Predominantemente partículas de gelo de água com alguma poeira e rocha",
+      "explanation": "Os anéis de Saturno são compostos principalmente de partículas de gelo de água de tamanhos variados (de grãos de poeira a blocos de vários metros), com traços de silicatos e carbono."
+    },
+    {
+      "id": "astronomia-6-7",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "O que diferencia uma galáxia elíptica de uma galáxia espiral?",
+      "options": [
+        "Galáxias elípticas têm buracos negros; espirais não",
+        "Galáxias elípticas têm pouco gás e formação estelar ativa; espirais têm braços com regiões de formação de estrelas",
+        "Galáxias elípticas giram mais rapidamente em torno de seu eixo",
+        "Galáxias elípticas são menores e menos massivas que as espirais"
+      ],
+      "correctAnswer": "Galáxias elípticas têm pouco gás e formação estelar ativa; espirais têm braços com regiões de formação de estrelas",
+      "explanation": "Galáxias elípticas são dominadas por estrelas velhas e têm pouco gás interestelar, resultando em baixa taxa de formação estelar. Galáxias espirais, como a Via Láctea, têm braços ricos em gás onde novas estrelas se formam."
+    },
+    {
+      "id": "astronomia-6-8",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "Qual é o destino final previsto para o nosso Sol?",
+      "options": [
+        "Supernova tipo II, deixando uma estrela de nêutrons",
+        "Colapso direto em buraco negro",
+        "Expansão em gigante vermelha, seguida de nebulosa planetária e anã branca",
+        "Fusão com a galáxia de Andrômeda formando uma nova estrela"
+      ],
+      "correctAnswer": "Expansão em gigante vermelha, seguida de nebulosa planetária e anã branca",
+      "explanation": "Em ~5 bilhões de anos, o Sol esgotará seu hidrogênio e se expandirá em gigante vermelha (engolindo Mercúrio e Vênus). Depois ejeta suas camadas externas como nebulosa planetária, deixando o núcleo quente como anã branca."
+    },
+    {
+      "id": "astronomia-6-9",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "Qual sonda espacial foi a primeira a atravessar a heliopausa e entrar no espaço interestelar?",
+      "options": [
+        "Pioneer 10",
+        "New Horizons",
+        "Voyager 1",
+        "Cassini"
+      ],
+      "correctAnswer": "Voyager 1",
+      "explanation": "Lançada em 1977, a Voyager 1 cruzou a heliopausa em agosto de 2012, tornando-se o primeiro objeto humano a entrar no espaço interestelar. Em 2025, está a mais de 23 bilhões de km da Terra."
+    },
+    {
+      "id": "astronomia-6-10",
+      "category": "astronomia",
+      "difficulty": 6,
+      "question": "O que é a 'Grande Mancha Vermelha' de Júpiter?",
+      "options": [
+        "Um vulcão ativo na superfície de Júpiter",
+        "Uma tempestade anticiclônica persistente com mais de 350 anos de duração",
+        "Uma região de impacto de asteroide coberta por óxido de ferro",
+        "Uma nuvem de amônia avermelhada no hemisfério norte do planeta"
+      ],
+      "correctAnswer": "Uma tempestade anticiclônica persistente com mais de 350 anos de duração",
+      "explanation": "A Grande Mancha Vermelha é uma gigantesca tempestade anticiclônica que existe há pelo menos 350 anos. Chegou a ter o tamanho de três Terras, embora esteja encolhendo nas últimas décadas."
     }
   ]
 }
