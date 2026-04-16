@@ -5,14 +5,115 @@
       "category": "ciencia-natureza",
       "difficulty": 8,
       "question": "Qual é o nome do fenômeno em que elétrons são emitidos por um metal ao ser iluminado por luz de frequência suficiente?",
-      "options": [
-        "Efeito Compton",
-        "Efeito fotoelétrico",
-        "Efeito Doppler",
-        "Efeito Zeeman"
-      ],
+      "options": ["Efeito Compton", "Efeito fotoelétrico", "Efeito Doppler", "Efeito Zeeman"],
       "correctAnswer": "Efeito fotoelétrico",
-      "explanation": "O efeito fotoelétrico foi explicado por Einstein em 1905, rendendo-lhe o Nobel de Física de 1921."
+      "explanation": "O efeito fotoelétrico foi explicado por Einstein em 1905, rendendo-lhe o Nobel de Física de 1921. Mostrou que a luz se comporta como fótons."
+    },
+    {
+      "id": "ciencia-natureza-8-2",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "Qual é a fórmula da Segunda Lei de Newton?",
+      "options": ["F = mv", "F = ma", "F = mv²/2", "F = Gm₁m₂/r²"],
+      "correctAnswer": "F = ma",
+      "explanation": "A Segunda Lei de Newton (F = ma) afirma que a força resultante é igual ao produto da massa pela aceleração do corpo."
+    },
+    {
+      "id": "ciencia-natureza-8-3",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "Qual é o nome da molécula que transporta oxigênio no sangue humano?",
+      "options": ["Mioglobina", "Albumina", "Hemoglobina", "Fibrinogênio"],
+      "correctAnswer": "Hemoglobina",
+      "explanation": "A hemoglobina é uma proteína nos glóbulos vermelhos que contém ferro e liga o O₂ nos pulmões para transportá-lo aos tecidos."
+    },
+    {
+      "id": "ciencia-natureza-8-4",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "O que é radioatividade?",
+      "options": [
+        "Emissão de luz por corpos aquecidos",
+        "Emissão espontânea de partículas ou radiação por núcleos instáveis",
+        "Reflexão de ondas eletromagnéticas",
+        "Absorção de fótons por elétrons"
+      ],
+      "correctAnswer": "Emissão espontânea de partículas ou radiação por núcleos instáveis",
+      "explanation": "Núcleos instáveis emitem radiação alfa, beta ou gama para atingir configuração mais estável, fenômeno descoberto por Becquerel em 1896."
+    },
+    {
+      "id": "ciencia-natureza-8-5",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "Qual é o produto da respiração celular aeróbica a partir da glicose?",
+      "options": [
+        "Glicose e oxigênio",
+        "Etanol e CO₂",
+        "ATP, CO₂ e água",
+        "Ácido lático e ATP"
+      ],
+      "correctAnswer": "ATP, CO₂ e água",
+      "explanation": "Na respiração aeróbica, C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + ~38 ATP. É a principal via de obtenção de energia nas células."
+    },
+    {
+      "id": "ciencia-natureza-8-6",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "O que é um catalisador em uma reação química?",
+      "options": [
+        "Substância que é consumida na reação",
+        "Substância que aumenta a temperatura da reação",
+        "Substância que aumenta a velocidade da reação sem ser consumida",
+        "Substância que diminui a temperatura de ativação e é consumida"
+      ],
+      "correctAnswer": "Substância que aumenta a velocidade da reação sem ser consumida",
+      "explanation": "Catalisadores reduzem a energia de ativação e aceleram a reação sem serem consumidos. Enzimas são catalisadores biológicos."
+    },
+    {
+      "id": "ciencia-natureza-8-7",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "Qual é o nome do campo da física que estuda o comportamento de partículas no nível subatômico?",
+      "options": ["Física clássica", "Termodinâmica", "Mecânica quântica", "Relatividade geral"],
+      "correctAnswer": "Mecânica quântica",
+      "explanation": "A mecânica quântica descreve o comportamento de partículas subatômicas, onde fenômenos como superposição e tunelamento ocorrem."
+    },
+    {
+      "id": "ciencia-natureza-8-8",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "Qual é o nome do processo pelo qual plantas perdem água em forma de vapor pelas folhas?",
+      "options": ["Osmose", "Transpiração", "Gutação", "Evaporação direta"],
+      "correctAnswer": "Transpiração",
+      "explanation": "Na transpiração, vapor d'água sai pelas estômatos das folhas. Esse processo move água e nutrientes das raízes até as folhas (fluxo xilemático)."
+    },
+    {
+      "id": "ciencia-natureza-8-9",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "Qual é a diferença entre fusão nuclear e fissão nuclear?",
+      "options": [
+        "Fusão divide núcleos pesados; fissão une núcleos leves",
+        "Fusão une núcleos leves liberando energia; fissão divide núcleos pesados liberando energia",
+        "Fusão ocorre em reatores; fissão ocorre no Sol",
+        "Fusão libera energia; fissão absorve energia"
+      ],
+      "correctAnswer": "Fusão une núcleos leves liberando energia; fissão divide núcleos pesados liberando energia",
+      "explanation": "Fusão (como no Sol) une hidrogênio em hélio. Fissão (usinas nucleares) divide urânio ou plutônio. Ambas liberam enorme energia."
+    },
+    {
+      "id": "ciencia-natureza-8-10",
+      "category": "ciencia-natureza",
+      "difficulty": 8,
+      "question": "O que é seleção natural segundo Darwin?",
+      "options": [
+        "Mudanças no DNA causadas pelo ambiente",
+        "Cruzamento seletivo feito pelo ser humano",
+        "Processo pelo qual indivíduos com características mais adaptadas sobrevivem e reproduzem mais",
+        "Mutação aleatória que ocorre em todos os organismos igualmente"
+      ],
+      "correctAnswer": "Processo pelo qual indivíduos com características mais adaptadas sobrevivem e reproduzem mais",
+      "explanation": "Na seleção natural, variações hereditárias vantajosas aumentam de frequência na população ao longo das gerações."
     }
   ]
 }

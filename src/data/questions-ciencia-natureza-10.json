@@ -12,7 +12,133 @@
         "Princípio da Complementaridade de Bohr"
       ],
       "correctAnswer": "Princípio da Incerteza de Heisenberg",
-      "explanation": "Formulado por Werner Heisenberg em 1927, o princípio estabelece que Δx·Δp ≥ ℏ/2, limitando fundamentalmente o conhecimento simultâneo de posição e momento."
+      "explanation": "Formulado por Heisenberg em 1927, o princípio estabelece que Δx·Δp ≥ ℏ/2, limitando fundamentalmente o conhecimento simultâneo de posição e momento."
+    },
+    {
+      "id": "ciencia-natureza-10-2",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "O que descreve a equação de Schrödinger?",
+      "options": [
+        "A trajetória determinística de uma partícula clássica",
+        "A evolução temporal da função de onda de um sistema quântico",
+        "A relação entre energia e temperatura em gases ideais",
+        "A força entre cargas elétricas no vácuo"
+      ],
+      "correctAnswer": "A evolução temporal da função de onda de um sistema quântico",
+      "explanation": "A equação de Schrödinger (iℏ∂ψ/∂t = Ĥψ) governa como o estado quântico de um sistema evolui no tempo, sendo central para a mecânica quântica."
+    },
+    {
+      "id": "ciencia-natureza-10-3",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "Qual é o mecanismo pelo qual o Higgs bóson confere massa às partículas elementares?",
+      "options": [
+        "Por atração gravitacional entre partículas",
+        "Por interação com o campo de Higgs que permeia o universo",
+        "Por fusão de quarks no interior das partículas",
+        "Por absorção de fótons virtuais do vácuo quântico"
+      ],
+      "correctAnswer": "Por interação com o campo de Higgs que permeia o universo",
+      "explanation": "O campo de Higgs permeia o espaço; partículas que interagem com ele adquirem massa. O bóson de Higgs é a excitação quantizada desse campo, detectado no LHC em 2012."
+    },
+    {
+      "id": "ciencia-natureza-10-4",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "O que é a entropia em termodinâmica estatística segundo Boltzmann?",
+      "options": [
+        "S = Q/T, onde Q é o calor e T a temperatura",
+        "S = k_B ln(Ω), onde Ω é o número de microestados e k_B a constante de Boltzmann",
+        "S = nR ln(V₂/V₁), válida apenas para gases ideais",
+        "S = ΔH/T, onde ΔH é a variação de entalpia"
+      ],
+      "correctAnswer": "S = k_B ln(Ω), onde Ω é o número de microestados e k_B a constante de Boltzmann",
+      "explanation": "A fórmula de Boltzmann S = k_B ln(Ω) conecta a entropia termodinâmica ao número de configurações microscópicas possíveis do sistema."
+    },
+    {
+      "id": "ciencia-natureza-10-5",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "O que são telômeros e qual é seu papel no envelhecimento celular?",
+      "options": [
+        "Regiões do centrômero que guiam a separação dos cromossomos; seu encurtamento causa câncer",
+        "Sequências repetitivas que protegem as extremidades dos cromossomos; seu encurtamento progressivo limita a divisão celular",
+        "Proteínas que reparam o DNA danificado; sua degradação causa envelhecimento",
+        "Regiões ricas em genes essenciais; seu silenciamento causa apoptose"
+      ],
+      "correctAnswer": "Sequências repetitivas que protegem as extremidades dos cromossomos; seu encurtamento progressivo limita a divisão celular",
+      "explanation": "Telômeros (TTAGGG repetido) protegem os cromossomos. A telomerase recompõe telômeros em células germinativas; nas somáticas eles encurtam a cada divisão, contribuindo para o envelhecimento."
+    },
+    {
+      "id": "ciencia-natureza-10-6",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "O que é a dualidade onda-partícula e quem a propôs formalmente?",
+      "options": [
+        "A ideia de que elétrons orbitam como ondas; proposta por Bohr",
+        "O princípio de que partículas podem se teletransportar; proposto por Einstein",
+        "A propriedade de que entidades quânticas exibem comportamento tanto de onda quanto de partícula; formalizada por de Broglie",
+        "A teoria de que fótons têm massa; proposta por Compton"
+      ],
+      "correctAnswer": "A propriedade de que entidades quânticas exibem comportamento tanto de onda quanto de partícula; formalizada por de Broglie",
+      "explanation": "De Broglie propôs em 1924 que toda matéria tem comprimento de onda λ = h/p. O experimento da dupla fenda comprova o caráter ondulatório do elétron."
+    },
+    {
+      "id": "ciencia-natureza-10-7",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "Qual é a principal diferença entre uma reação de oxidação-redução (redox) e uma reação ácido-base?",
+      "options": [
+        "Reações redox envolvem transferência de prótons; ácido-base envolvem transferência de elétrons",
+        "Reações redox envolvem transferência de elétrons com mudança de número de oxidação; ácido-base envolvem transferência de prótons",
+        "Redox ocorre apenas em soluções aquosas; ácido-base ocorre em qualquer meio",
+        "Não há diferença; ambas envolvem transferência de cargas entre espécies"
+      ],
+      "correctAnswer": "Reações redox envolvem transferência de elétrons com mudança de número de oxidação; ácido-base envolvem transferência de prótons",
+      "explanation": "Em reações redox, um agente redutor perde elétrons (oxida-se) e um agente oxidante ganha elétrons (reduz-se). Em ácido-base, ácidos doam prótons (H⁺) e bases os aceitam."
+    },
+    {
+      "id": "ciencia-natureza-10-8",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "O que é a radiação de Hawking?",
+      "options": [
+        "Radiação emitida por estrelas de nêutrons em colapso",
+        "Radiação cósmica de fundo gerada pelo Big Bang",
+        "Radiação térmica que buracos negros deveriam emitir por efeitos quânticos na fronteira do horizonte de eventos",
+        "Radiação gama emitida por pulsares em rotação"
+      ],
+      "correctAnswer": "Radiação térmica que buracos negros deveriam emitir por efeitos quânticos na fronteira do horizonte de eventos",
+      "explanation": "Hawking previu em 1974 que buracos negros emitem radiação térmica por efeitos de flutuações quânticas do vácuo próximo ao horizonte de eventos, levando à evaporação gradual."
+    },
+    {
+      "id": "ciencia-natureza-10-9",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "O que são quarks e como eles formam os prótons?",
+      "options": [
+        "Quarks são subpartículas do elétron; três quarks formam um próton por fusão nuclear",
+        "Quarks são partículas elementares confinadas por força forte; um próton é formado por dois quarks up e um quark down",
+        "Quarks são formas de energia escura; prótons emergem de sua condensação",
+        "Quarks são bósons que mediam a força fraca; três deles formam cada barion"
+      ],
+      "correctAnswer": "Quarks são partículas elementares confinadas por força forte; um próton é formado por dois quarks up e um quark down",
+      "explanation": "Quarks são férmions elementares que interagem via força forte (mediada por glúons). Um próton (uud) tem carga +1; um nêutron (udd) tem carga 0."
+    },
+    {
+      "id": "ciencia-natureza-10-10",
+      "category": "ciencia-natureza",
+      "difficulty": 10,
+      "question": "O que afirma o Teorema de Noether sobre leis de conservação?",
+      "options": [
+        "Toda grandeza conservada implica uma força fundamental associada",
+        "Para cada simetria contínua de um sistema físico existe uma lei de conservação correspondente",
+        "Sistemas simétricos têm entropia mínima em equilíbrio",
+        "A soma das forças em um sistema simétrico é sempre zero"
+      ],
+      "correctAnswer": "Para cada simetria contínua de um sistema físico existe uma lei de conservação correspondente",
+      "explanation": "O Teorema de Noether (1915) liga simetria e conservação: simetria temporal → conservação de energia; simetria espacial → conservação de momento; simetria rotacional → conservação do momento angular."
     }
   ]
 }

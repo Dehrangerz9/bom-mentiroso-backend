@@ -5,14 +5,110 @@
       "category": "ciencia-natureza",
       "difficulty": 7,
       "question": "Qual lei da termodinâmica afirma que a entropia de um sistema isolado nunca diminui?",
-      "options": [
-        "1ª Lei",
-        "2ª Lei",
-        "3ª Lei",
-        "Lei Zero"
-      ],
+      "options": ["1ª Lei", "2ª Lei", "3ª Lei", "Lei Zero"],
       "correctAnswer": "2ª Lei",
       "explanation": "A 2ª Lei da Termodinâmica estabelece que processos naturais tendem ao aumento da desordem (entropia)."
+    },
+    {
+      "id": "ciencia-natureza-7-2",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "Qual é o nome do processo em que uma substância passa diretamente do estado sólido para o gasoso?",
+      "options": ["Evaporação", "Fusão", "Sublimação", "Condensação"],
+      "correctAnswer": "Sublimação",
+      "explanation": "Na sublimação, o sólido passa direto para gás sem passar pelo estado líquido. Exemplos: gelo seco (CO₂ sólido) e naftalina."
+    },
+    {
+      "id": "ciencia-natureza-7-3",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "O que é a constante de Avogadro?",
+      "options": [
+        "6,022 × 10²³ partículas por mol",
+        "6,022 × 10²⁰ partículas por mol",
+        "9,109 × 10⁻³¹ kg",
+        "1,602 × 10⁻¹⁹ C"
+      ],
+      "correctAnswer": "6,022 × 10²³ partículas por mol",
+      "explanation": "A constante de Avogadro (Nₐ ≈ 6,022 × 10²³) define o número de entidades em um mol de qualquer substância."
+    },
+    {
+      "id": "ciencia-natureza-7-4",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "Qual é a diferença entre DNA e RNA?",
+      "options": [
+        "DNA é fita simples, RNA é dupla hélice",
+        "DNA contém uracila, RNA contém timina",
+        "DNA é dupla hélice com desoxirribose; RNA é fita simples com ribose",
+        "RNA fica no núcleo; DNA atua no citoplasma"
+      ],
+      "correctAnswer": "DNA é dupla hélice com desoxirribose; RNA é fita simples com ribose",
+      "explanation": "DNA usa desoxirribose e timina; RNA usa ribose e uracila. O DNA é majoritariamente nuclear; o RNA atua no citoplasma."
+    },
+    {
+      "id": "ciencia-natureza-7-5",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "Em física, o que é trabalho?",
+      "options": [
+        "Força multiplicada pelo tempo",
+        "Massa multiplicada pela aceleração",
+        "Produto escalar da força pelo deslocamento",
+        "Energia dividida pelo tempo"
+      ],
+      "correctAnswer": "Produto escalar da força pelo deslocamento",
+      "explanation": "Trabalho (W = F·d·cosθ) é a transferência de energia quando uma força age em um objeto ao longo de um deslocamento."
+    },
+    {
+      "id": "ciencia-natureza-7-6",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "Qual é o nome do processo de separação baseado em diferentes pontos de ebulição dos componentes de uma mistura?",
+      "options": ["Filtração", "Centrifugação", "Destilação", "Cromatografia"],
+      "correctAnswer": "Destilação",
+      "explanation": "A destilação separa misturas líquidas com base nas diferenças de pontos de ebulição. É usada na produção de combustíveis e bebidas."
+    },
+    {
+      "id": "ciencia-natureza-7-7",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "Qual tipo de radiação eletromagnética tem o maior comprimento de onda?",
+      "options": ["Raios gama", "Luz visível", "Microondas", "Ondas de rádio"],
+      "correctAnswer": "Ondas de rádio",
+      "explanation": "No espectro eletromagnético, as ondas de rádio têm os maiores comprimentos de onda (até centenas de km) e menor frequência."
+    },
+    {
+      "id": "ciencia-natureza-7-8",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "O que é pressão osmótica?",
+      "options": [
+        "Pressão causada pela gravidade em fluidos",
+        "Pressão necessária para impedir o fluxo de solvente por uma membrana semipermeável",
+        "Diferença de pressão entre dois fluidos imiscíveis",
+        "Pressão exercida por gases dissolvidos em líquidos"
+      ],
+      "correctAnswer": "Pressão necessária para impedir o fluxo de solvente por uma membrana semipermeável",
+      "explanation": "A osmose é o fluxo de solvente de menor para maior concentração de soluto; a pressão osmótica é a força necessária para barrar esse fluxo."
+    },
+    {
+      "id": "ciencia-natureza-7-9",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "Qual partícula subatômica tem carga negativa?",
+      "options": ["Próton", "Nêutron", "Elétron", "Positron"],
+      "correctAnswer": "Elétron",
+      "explanation": "O elétron possui carga de -1,602 × 10⁻¹⁹ C. Prótons têm carga positiva igual e nêutrons são neutros."
+    },
+    {
+      "id": "ciencia-natureza-7-10",
+      "category": "ciencia-natureza",
+      "difficulty": 7,
+      "question": "Qual é o nome da teoria que descreve o universo como originado de uma singularidade há cerca de 13,8 bilhões de anos?",
+      "options": ["Teoria do Estado Estacionário", "Big Bang", "Teoria da Inflação Cósmica", "Modelo de Steady State"],
+      "correctAnswer": "Big Bang",
+      "explanation": "O modelo do Big Bang descreve o universo como originado de uma singularidade de altíssima temperatura e densidade, expandindo-se desde então."
     }
   ]
 }

@@ -5,14 +5,125 @@
       "category": "ciencia-natureza",
       "difficulty": 9,
       "question": "Em qual organela celular ocorre o Ciclo de Krebs?",
-      "options": [
-        "Núcleo",
-        "Retículo endoplasmático",
-        "Mitocôndria",
-        "Lisossomo"
-      ],
+      "options": ["Núcleo", "Retículo endoplasmático", "Mitocôndria", "Lisossomo"],
       "correctAnswer": "Mitocôndria",
       "explanation": "O Ciclo de Krebs (ou Ciclo do Ácido Cítrico) ocorre na matriz mitocondrial e é central para a respiração celular aeróbica."
+    },
+    {
+      "id": "ciencia-natureza-9-2",
+      "category": "ciencia-natureza",
+      "difficulty": 9,
+      "question": "Qual é o princípio de exclusão de Pauli?",
+      "options": [
+        "Dois fótons não podem ocupar o mesmo estado quântico",
+        "Dois férmions idênticos não podem ocupar o mesmo estado quântico simultaneamente",
+        "Elétrons e prótons se repelem em estados iguais",
+        "Nenhuma partícula pode ter velocidade maior que a da luz"
+      ],
+      "correctAnswer": "Dois férmions idênticos não podem ocupar o mesmo estado quântico simultaneamente",
+      "explanation": "O princípio de Pauli (1925) explica a estrutura eletrônica dos átomos e a estabilidade da matéria; se aplica a férmions (elétrons, prótons, nêutrons)."
+    },
+    {
+      "id": "ciencia-natureza-9-3",
+      "category": "ciencia-natureza",
+      "difficulty": 9,
+      "question": "O que é o potencial de ação em neurônios?",
+      "options": [
+        "Gradiente de concentração de íons em repouso",
+        "Diferença de potencial elétrico entre interior e exterior da célula em repouso",
+        "Sinal elétrico rápido gerado pela inversão do potencial de membrana",
+        "Liberação de neurotransmissores na fenda sináptica"
+      ],
+      "correctAnswer": "Sinal elétrico rápido gerado pela inversão do potencial de membrana",
+      "explanation": "O potencial de ação é um evento 'tudo ou nada' em que a membrana do neurônio se despolariza (~-70mV a +40mV) e se repolariza, propagando o sinal nervoso."
+    },
+    {
+      "id": "ciencia-natureza-9-4",
+      "category": "ciencia-natureza",
+      "difficulty": 9,
+      "question": "Qual é a equação de Einstein que relaciona massa e energia?",
+      "options": ["E = mc", "E = mc²", "E = m²c", "E = hf"],
+      "correctAnswer": "E = mc²",
+      "explanation": "A equação E = mc² da teoria da relatividade especial mostra que massa e energia são equivalentes; c é a velocidade da luz (~3×10⁸ m/s)."
+    },
+    {
+      "id": "ciencia-natureza-9-5",
+      "category": "ciencia-natureza",
+      "difficulty": 9,
+      "question": "O que são enzimas de restrição e para que são usadas?",
+      "options": [
+        "Enzimas que degradam proteínas; usadas na digestão",
+        "Enzimas que cortam DNA em sequências específicas; usadas em engenharia genética",
+        "Enzimas que replicam o DNA; usadas na PCR",
+        "Enzimas que transcrevem DNA em RNA; usadas em síntese proteica"
+      ],
+      "correctAnswer": "Enzimas que cortam DNA em sequências específicas; usadas em engenharia genética",
+      "explanation": "Enzimas de restrição (endonucleases) reconhecem sequências palindrômicas específicas de DNA e o cortam. São ferramentas essenciais da biologia molecular."
+    },
+    {
+      "id": "ciencia-natureza-9-6",
+      "category": "ciencia-natureza",
+      "difficulty": 9,
+      "question": "Qual é o nome do processo pelo qual o DNA é copiado antes da divisão celular?",
+      "options": ["Transcrição", "Tradução", "Replicação", "Recombinação"],
+      "correctAnswer": "Replicação",
+      "explanation": "Na replicação do DNA, a dupla hélice se separa e cada fita serve de molde para uma nova fita complementar, usando a DNA polimerase."
+    },
+    {
+      "id": "ciencia-natureza-9-7",
+      "category": "ciencia-natureza",
+      "difficulty": 9,
+      "question": "O que é a constante de Planck e para que é usada?",
+      "options": [
+        "Relaciona massa e energia; usada na relatividade",
+        "Define a carga do elétron; usada em eletromagnetismo",
+        "Relaciona energia de um fóton com sua frequência; usada na mecânica quântica",
+        "Define a pressão de um gás ideal; usada na termodinâmica"
+      ],
+      "correctAnswer": "Relaciona energia de um fóton com sua frequência; usada na mecânica quântica",
+      "explanation": "A constante de Planck (h ≈ 6,626 × 10⁻³⁴ J·s) aparece em E = hf, que define a energia de um quantum de luz (fóton)."
+    },
+    {
+      "id": "ciencia-natureza-9-8",
+      "category": "ciencia-natureza",
+      "difficulty": 9,
+      "question": "Qual é a diferença entre simbiose mutualista e parasitismo?",
+      "options": [
+        "No mutualismo ambos se beneficiam; no parasitismo um se beneficia e o outro é prejudicado",
+        "No mutualismo um se beneficia e o outro é neutro; no parasitismo ambos lucram",
+        "No mutualismo um organismo habita o outro; no parasitismo vivem separados",
+        "Não há diferença, ambos são tipos de simbiose com benefício mútuo"
+      ],
+      "correctAnswer": "No mutualismo ambos se beneficiam; no parasitismo um se beneficia e o outro é prejudicado",
+      "explanation": "Mutualismo (+/+): ex. abelha e flor. Parasitismo (+/-): ex. tênia e humano. Comensalismo (+/0) é quando um lucra e o outro é neutro."
+    },
+    {
+      "id": "ciencia-natureza-9-9",
+      "category": "ciencia-natureza",
+      "difficulty": 9,
+      "question": "Em química orgânica, o que são isômeros?",
+      "options": [
+        "Compostos com fórmulas moleculares diferentes mas mesmas propriedades",
+        "Compostos com mesma fórmula molecular mas arranjo estrutural diferente",
+        "Compostos com diferentes números de átomos de carbono",
+        "Compostos que possuem apenas carbono e hidrogênio"
+      ],
+      "correctAnswer": "Compostos com mesma fórmula molecular mas arranjo estrutural diferente",
+      "explanation": "Isômeros têm a mesma fórmula molecular (ex. C₄H₁₀) mas estruturas distintas, podendo ter propriedades físicas e químicas bem diferentes."
+    },
+    {
+      "id": "ciencia-natureza-9-10",
+      "category": "ciencia-natureza",
+      "difficulty": 9,
+      "question": "Qual é o nome do modelo atômico que introduziu os orbitais como regiões de probabilidade de encontrar elétrons?",
+      "options": [
+        "Modelo de Dalton",
+        "Modelo de Thomson",
+        "Modelo de Rutherford-Bohr",
+        "Modelo quântico-ondulatório (Schrödinger)"
+      ],
+      "correctAnswer": "Modelo quântico-ondulatório (Schrödinger)",
+      "explanation": "O modelo de Schrödinger (1926) substituiu órbitas definidas por orbitais, regiões de probabilidade descritas pela função de onda ψ."
     }
   ]
 }

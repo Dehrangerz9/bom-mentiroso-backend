@@ -5,14 +5,90 @@
       "category": "ciencia-natureza",
       "difficulty": 5,
       "question": "Qual é o símbolo químico do ouro?",
-      "options": [
-        "Go",
-        "Or",
-        "Au",
-        "Ag"
-      ],
+      "options": ["Go", "Or", "Au", "Ag"],
       "correctAnswer": "Au",
       "explanation": "Au vem do latim 'aurum'. O ouro tem número atômico 79 na tabela periódica."
+    },
+    {
+      "id": "ciencia-natureza-5-2",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "Qual é o processo pelo qual as plantas produzem seu próprio alimento usando luz solar?",
+      "options": ["Respiração celular", "Fotossíntese", "Fermentação", "Osmose"],
+      "correctAnswer": "Fotossíntese",
+      "explanation": "Na fotossíntese, plantas usam luz solar, água e CO₂ para produzir glicose e oxigênio, nos cloroplastos."
+    },
+    {
+      "id": "ciencia-natureza-5-3",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "Qual é a unidade de medida da corrente elétrica?",
+      "options": ["Volt", "Watt", "Ohm", "Ampere"],
+      "correctAnswer": "Ampere",
+      "explanation": "O Ampere (A) mede a intensidade da corrente elétrica, definido como a passagem de um coulomb por segundo."
+    },
+    {
+      "id": "ciencia-natureza-5-4",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "Quantos pares de cromossomos tem uma célula humana somática normal?",
+      "options": ["21", "23", "24", "46"],
+      "correctAnswer": "23",
+      "explanation": "Células somáticas humanas possuem 46 cromossomos organizados em 23 pares homólogos (diploides)."
+    },
+    {
+      "id": "ciencia-natureza-5-5",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "Qual camada da atmosfera contém a maior concentração de ozônio?",
+      "options": ["Troposfera", "Estratosfera", "Mesosfera", "Termosfera"],
+      "correctAnswer": "Estratosfera",
+      "explanation": "A camada de ozônio está na estratosfera (entre 15 e 35 km de altitude) e absorve a radiação UV solar."
+    },
+    {
+      "id": "ciencia-natureza-5-6",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "O DNA é composto por quatro bases nitrogenadas. Qual das opções NÃO é uma delas?",
+      "options": ["Adenina", "Guanina", "Uracila", "Citosina"],
+      "correctAnswer": "Uracila",
+      "explanation": "Uracila está presente no RNA, não no DNA. No DNA as bases são Adenina, Timina, Guanina e Citosina."
+    },
+    {
+      "id": "ciencia-natureza-5-7",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "Qual é o nome do processo de divisão celular que gera células com metade do número de cromossomos?",
+      "options": ["Mitose", "Meiose", "Carioquinese", "Citocinese"],
+      "correctAnswer": "Meiose",
+      "explanation": "A meiose gera células haploides (n) usadas na reprodução sexual. A mitose gera células diploides idênticas."
+    },
+    {
+      "id": "ciencia-natureza-5-8",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "Qual lei de Newton afirma que para toda ação há uma reação igual e oposta?",
+      "options": ["Primeira lei", "Segunda lei", "Terceira lei", "Lei da gravitação universal"],
+      "correctAnswer": "Terceira lei",
+      "explanation": "A Terceira Lei de Newton (ação e reação) diz que forças sempre ocorrem em pares iguais e opostos entre dois corpos."
+    },
+    {
+      "id": "ciencia-natureza-5-9",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "Qual é o nome do cientista que propôs a teoria da evolução por seleção natural?",
+      "options": ["Gregor Mendel", "Louis Pasteur", "Charles Darwin", "Alfred Wallace"],
+      "correctAnswer": "Charles Darwin",
+      "explanation": "Darwin publicou 'A Origem das Espécies' em 1859, propondo que espécies evoluem por seleção natural ao longo do tempo."
+    },
+    {
+      "id": "ciencia-natureza-5-10",
+      "category": "ciencia-natureza",
+      "difficulty": 5,
+      "question": "Qual é o pH aproximado do sangue humano saudável?",
+      "options": ["6,0", "6,8", "7,4", "8,0"],
+      "correctAnswer": "7,4",
+      "explanation": "O sangue humano é levemente alcalino, com pH entre 7,35 e 7,45. Desvios desse intervalo causam problemas graves."
     }
   ]
 }

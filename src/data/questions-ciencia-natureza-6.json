@@ -5,14 +5,100 @@
       "category": "ciencia-natureza",
       "difficulty": 6,
       "question": "Qual é o nome do processo pelo qual uma célula engolfa partículas grandes como bactérias?",
-      "options": [
-        "Pinocitose",
-        "Exocitose",
-        "Fagocitose",
-        "Osmose"
-      ],
+      "options": ["Pinocitose", "Exocitose", "Fagocitose", "Osmose"],
       "correctAnswer": "Fagocitose",
       "explanation": "Fagocitose é o processo pelo qual células (como macrófagos) englobam partículas sólidas. 'Pinocitose' é para líquidos."
+    },
+    {
+      "id": "ciencia-natureza-6-2",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "Qual é a velocidade da luz no vácuo, aproximadamente em km/s?",
+      "options": ["150.000 km/s", "200.000 km/s", "300.000 km/s", "450.000 km/s"],
+      "correctAnswer": "300.000 km/s",
+      "explanation": "A velocidade da luz no vácuo é aproximadamente 299.792 km/s, geralmente arredondada para 300.000 km/s."
+    },
+    {
+      "id": "ciencia-natureza-6-3",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "Qual tipo de ligação química envolve compartilhamento de pares de elétrons entre átomos?",
+      "options": ["Ligação iônica", "Ligação covalente", "Ligação metálica", "Ligação de hidrogênio"],
+      "correctAnswer": "Ligação covalente",
+      "explanation": "Ligações covalentes formam-se quando dois átomos compartilham elétrons para atingir configuração estável, como em H₂O."
+    },
+    {
+      "id": "ciencia-natureza-6-4",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "Qual organela celular é responsável pela síntese de proteínas?",
+      "options": ["Mitocôndria", "Nucléolo", "Ribossomo", "Complexo de Golgi"],
+      "correctAnswer": "Ribossomo",
+      "explanation": "Os ribossomos traduzem o mRNA em proteínas. Estão presentes em todos os tipos celulares, livres ou no retículo endoplasmático."
+    },
+    {
+      "id": "ciencia-natureza-6-5",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "Em química, o que é um isótopo?",
+      "options": [
+        "Átomo com carga elétrica",
+        "Átomo com mesmo número atômico mas diferente número de nêutrons",
+        "Molécula com mesma fórmula mas estrutura diferente",
+        "Elemento do mesmo grupo na tabela periódica"
+      ],
+      "correctAnswer": "Átomo com mesmo número atômico mas diferente número de nêutrons",
+      "explanation": "Isótopos são átomos do mesmo elemento (mesmo Z) com massas diferentes por terem números distintos de nêutrons."
+    },
+    {
+      "id": "ciencia-natureza-6-6",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "Qual é o nome da força que atua sobre um objeto imerso em fluido, empurrando-o para cima?",
+      "options": ["Força de atrito", "Força normal", "Empuxo", "Tensão superficial"],
+      "correctAnswer": "Empuxo",
+      "explanation": "O empuxo, descrito por Arquimedes, é igual ao peso do fluido deslocado pelo objeto, sendo responsável pela flutuação."
+    },
+    {
+      "id": "ciencia-natureza-6-7",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "O que afirma a Primeira Lei da Termodinâmica?",
+      "options": [
+        "A entropia sempre aumenta",
+        "Calor flui do quente para o frio",
+        "A energia total de um sistema isolado permanece constante",
+        "Não é possível atingir o zero absoluto"
+      ],
+      "correctAnswer": "A energia total de um sistema isolado permanece constante",
+      "explanation": "A Primeira Lei da Termodinâmica é a Lei da Conservação de Energia: energia não é criada nem destruída, apenas transformada."
+    },
+    {
+      "id": "ciencia-natureza-6-8",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "Qual é o número atômico do carbono?",
+      "options": ["4", "6", "8", "12"],
+      "correctAnswer": "6",
+      "explanation": "O carbono tem número atômico 6 (6 prótons) e é a base da química orgânica, podendo formar 4 ligações covalentes."
+    },
+    {
+      "id": "ciencia-natureza-6-9",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "Qual é o fenômeno pelo qual a luz muda de direção ao passar de um meio para outro de diferente densidade óptica?",
+      "options": ["Reflexão", "Difração", "Refração", "Polarização"],
+      "correctAnswer": "Refração",
+      "explanation": "A refração ocorre porque a luz muda de velocidade ao mudar de meio, alterando sua direção de propagação."
+    },
+    {
+      "id": "ciencia-natureza-6-10",
+      "category": "ciencia-natureza",
+      "difficulty": 6,
+      "question": "Qual é o principal gás causador do efeito estufa de origem humana?",
+      "options": ["Ozônio (O₃)", "Metano (CH₄)", "Dióxido de carbono (CO₂)", "Óxido nitroso (N₂O)"],
+      "correctAnswer": "Dióxido de carbono (CO₂)",
+      "explanation": "O CO₂ é o principal gás estufa antropogênico em volume. O metano é mais potente por molécula, mas emitido em menor quantidade."
     }
   ]
 }
