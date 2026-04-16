@@ -5,14 +5,90 @@
       "category": "literatura",
       "difficulty": 9,
       "question": "Qual é o nome do narrador-protagonista de 'Em Busca do Tempo Perdido', de Marcel Proust?",
-      "options": [
-        "Charles Swann",
-        "Marcel",
-        "Robert de Saint-Loup",
-        "Baron de Charlus"
-      ],
+      "options": ["Charles Swann", "Marcel", "Robert de Saint-Loup", "Baron de Charlus"],
       "correctAnswer": "Marcel",
       "explanation": "O narrador semi-autobiográfico é chamado apenas de 'Marcel' na obra; Proust nunca o nomeia explicitamente até perto do fim."
+    },
+    {
+      "id": "literatura-9-2",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Quem escreveu 'Rayuela' (O Jogo da Amarelinha)?",
+      "options": ["Julio Cortázar", "Jorge Luis Borges", "Juan Rulfo", "Mario Vargas Llosa"],
+      "correctAnswer": "Julio Cortázar",
+      "explanation": "'Rayuela' (1963) de Julio Cortázar é um romance experimental cujos capítulos podem ser lidos em ordens diferentes, desafiando a linearidade narrativa."
+    },
+    {
+      "id": "literatura-9-3",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Qual é o nome da teoria de Roland Barthes sobre a irrelevância da intenção do autor?",
+      "options": ["Morte do autor", "Prazer do texto", "Grau zero", "S/Z"],
+      "correctAnswer": "Morte do autor",
+      "explanation": "Em 'A Morte do Autor' (1967), Roland Barthes argumenta que o significado de um texto não deve ser buscado nas intenções do autor, mas na leitura do leitor."
+    },
+    {
+      "id": "literatura-9-4",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Quem escreveu 'A Terra Devastada' (The Waste Land)?",
+      "options": ["T.S. Eliot", "Ezra Pound", "W.B. Yeats", "Wallace Stevens"],
+      "correctAnswer": "T.S. Eliot",
+      "explanation": "'The Waste Land' (1922) de T.S. Eliot é o poema mais importante do Modernismo anglófono, com fragmentos culturais e linguísticos que retratam a crise espiritual do pós-guerra."
+    },
+    {
+      "id": "literatura-9-5",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Qual obra de Kafka narra Josef K., preso e julgado por um crime nunca revelado?",
+      "options": ["O Processo", "O Castelo", "Amerika", "Na Colônia Penal"],
+      "correctAnswer": "O Processo",
+      "explanation": "'O Processo' (publicado postumamente em 1925) de Franz Kafka narra Josef K., que é preso e julgado por um crime nunca revelado por um sistema judicial opaco e ameaçador."
+    },
+    {
+      "id": "literatura-9-6",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Quem escreveu 'Os Demônios', retratando niilistas revolucionários na Rússia?",
+      "options": ["Fiódor Dostoiévski", "Liev Tolstói", "Máximo Gorki", "Ivan Goncharov"],
+      "correctAnswer": "Fiódor Dostoiévski",
+      "explanation": "'Os Demônios' (1872) de Dostoiévski retrata um grupo de niilistas revolucionários numa cidade russa, sendo considerado uma das mais poderosas análises do extremismo ideológico."
+    },
+    {
+      "id": "literatura-9-7",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Quem escreveu 'A Consciência de Zeno'?",
+      "options": ["Italo Svevo", "Luigi Pirandello", "Alberto Moravia", "Carlo Levi"],
+      "correctAnswer": "Italo Svevo",
+      "explanation": "'A Consciência de Zeno' (1923) de Italo Svevo é um romance pioneiro da psicanálise literária, narrado pelo autodeclarado viciado em tabaco Zeno Cosini."
+    },
+    {
+      "id": "literatura-9-8",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Qual conceito de Northrop Frye classifica narrativas em arquétipos como comédia, tragédia e ironia?",
+      "options": ["Anatomia da crítica", "Grandes códigos", "Modo narrativo", "Arquétipo literário"],
+      "correctAnswer": "Anatomia da crítica",
+      "explanation": "Em 'Anatomia da Crítica' (1957), Northrop Frye propôs uma teoria sistemática da literatura baseada em modos, símbolos e arquétipos narrativos recorrentes."
+    },
+    {
+      "id": "literatura-9-9",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Quem cunhou o conceito de 'lo real maravilloso' precursor do realismo mágico?",
+      "options": ["Alejo Carpentier", "Gabriel García Márquez", "Miguel Ángel Asturias", "Ángel Flores"],
+      "correctAnswer": "Alejo Carpentier",
+      "explanation": "O cubano Alejo Carpentier formulou 'lo real maravilloso americano' no prólogo de 'O Reino deste Mundo' (1949), descrevendo o maravilhoso como inerente à realidade latino-americana."
+    },
+    {
+      "id": "literatura-9-10",
+      "category": "literatura",
+      "difficulty": 9,
+      "question": "Quem escreveu 'Se um Viajante numa Noite de Inverno'?",
+      "options": ["Italo Calvino", "Umberto Eco", "Leonardo Sciascia", "Pier Paolo Pasolini"],
+      "correctAnswer": "Italo Calvino",
+      "explanation": "'Se um Viajante numa Noite de Inverno' (1979) de Italo Calvino é um romance metaficcional em que o leitor é o protagonista, tentando completar dez romances que nunca terminam."
     }
   ]
 }

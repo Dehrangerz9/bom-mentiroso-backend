@@ -4,15 +4,91 @@
       "id": "literatura-10-1",
       "category": "literatura",
       "difficulty": 10,
-      "question": "Qual é o termo literário para o recurso narrativo em que o narrador revela ao leitor informações que os personagens desconhecem, criando tensão dramática?",
-      "options": [
-        "Analepse",
-        "Ironia dramática",
-        "Metalepse",
-        "Mise en abyme"
-      ],
+      "question": "Qual é o termo literário para quando o narrador revela ao leitor informações que os personagens desconhecem?",
+      "options": ["Ironia dramática", "Analepse", "Metalepse", "Mise en abyme"],
       "correctAnswer": "Ironia dramática",
-      "explanation": "A ironia dramática (ou ironia trágica) é o recurso pelo qual o leitor sabe mais que o personagem, criando suspense ou pathos."
+      "explanation": "A ironia dramática é o recurso pelo qual o leitor sabe mais que o personagem, criando suspense ou pathos — usado com maestria em Édipo Rei e em Shakespeare."
+    },
+    {
+      "id": "literatura-10-2",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Qual é o recurso narrativo em que o narrador se dirige diretamente ao leitor quebrando a quarta parede?",
+      "options": ["Apóstrofe narrativa", "Metalepse", "Prolepse", "Parábase"],
+      "correctAnswer": "Apóstrofe narrativa",
+      "explanation": "A apóstrofe narrativa é o recurso em que o narrador interrompe a ficção para se dirigir diretamente ao leitor, como Machado de Assis faz com frequência em Brás Cubas."
+    },
+    {
+      "id": "literatura-10-3",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Quem cunhou o termo 'ostranenie' (estranhamento) para descrever a função da arte?",
+      "options": ["Viktor Chklóvski", "Roman Jakobson", "Jan Mukařovský", "Mikhail Bakhtin"],
+      "correctAnswer": "Viktor Chklóvski",
+      "explanation": "Viktor Chklóvski, no ensaio 'A Arte como Procedimento' (1917), definiu 'ostranenie' (desfamiliarização): a arte torna o familiar estranho para renovar a percepção do leitor."
+    },
+    {
+      "id": "literatura-10-4",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Qual teórico desenvolveu o conceito de 'horizonte de expectativas' na Estética da Recepção?",
+      "options": ["Hans Robert Jauss", "Wolfgang Iser", "Stanley Fish", "Harold Bloom"],
+      "correctAnswer": "Hans Robert Jauss",
+      "explanation": "Hans Robert Jauss propôs o 'horizonte de expectativas' para descrever como leitores interpretam obras a partir de convenções literárias e experiências prévias, fundamentando a Estética da Recepção."
+    },
+    {
+      "id": "literatura-10-5",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Quem escreveu 'Finnegans Wake', o romance mais hermético da literatura ocidental?",
+      "options": ["James Joyce", "Samuel Beckett", "Djuna Barnes", "Gertrude Stein"],
+      "correctAnswer": "James Joyce",
+      "explanation": "'Finnegans Wake' (1939) de James Joyce é escrito numa língua inventada com portmanteaux de dezenas de idiomas, representando o sonho cíclico da humanidade através de HCE e ALP."
+    },
+    {
+      "id": "literatura-10-6",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Qual procedimento narrativo faz o tempo da história ser maior que o do discurso com saltos temporais?",
+      "options": ["Elipse narrativa", "Analepse", "Prolepse", "Sumário"],
+      "correctAnswer": "Elipse narrativa",
+      "explanation": "A elipse narrativa omite períodos da história, comprimindo o tempo do discurso; o leitor infere o que aconteceu no intervalo pelo contexto."
+    },
+    {
+      "id": "literatura-10-7",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Quem desenvolveu o conceito de 'arquitextualidade' como uma das cinco transtextualidades?",
+      "options": ["Gérard Genette", "Roland Barthes", "Julia Kristeva", "Michel Foucault"],
+      "correctAnswer": "Gérard Genette",
+      "explanation": "Gérard Genette em 'Palimpsestos' (1982) sistematizou cinco relações transtextuais: intertextualidade, paratextualidade, metatextualidade, hipertextualidade e arquitextualidade."
+    },
+    {
+      "id": "literatura-10-8",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Quem escreveu 'O Ser e o Nada' e 'A Náusea'?",
+      "options": ["Jean-Paul Sartre", "Albert Camus", "Simone de Beauvoir", "Maurice Merleau-Ponty"],
+      "correctAnswer": "Jean-Paul Sartre",
+      "explanation": "Jean-Paul Sartre é o principal filósofo-escritor do Existencialismo: 'A Náusea' (1938) é seu romance mais famoso e 'O Ser e o Nada' (1943) sua obra filosófica central."
+    },
+    {
+      "id": "literatura-10-9",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Qual é o nome da teoria de Harold Bloom sobre como poetas lidam com a influência dos precursores?",
+      "options": ["Angústia da influência", "Mapa do desvio", "Clinamen poético", "Revisão sublime"],
+      "correctAnswer": "Angústia da influência",
+      "explanation": "Harold Bloom em 'A Angústia da Influência' (1973) descreve como poetas fortes precisam 'desviar' criativamente dos seus precursores para criar obras originais, num processo de revisão criativa."
+    },
+    {
+      "id": "literatura-10-10",
+      "category": "literatura",
+      "difficulty": 10,
+      "question": "Quem escreveu 'A Vida: modo de usar', romance com estrutura de puzzle e restrições oulipo?",
+      "options": ["Georges Perec", "Raymond Queneau", "Italo Calvino", "Michel Butor"],
+      "correctAnswer": "Georges Perec",
+      "explanation": "'A Vida: modo de usar' (1978) de Georges Perec descreve um prédio parisiense e seus moradores usando restrições combinatórias do Oulipo, sendo um dos romances mais engenhosos do séc. XX."
     }
   ]
 }

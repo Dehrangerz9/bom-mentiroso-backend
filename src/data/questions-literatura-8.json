@@ -4,15 +4,91 @@
       "id": "literatura-8-1",
       "category": "literatura",
       "difficulty": 8,
-      "question": "Em qual obra James Joyce usa o fluxo de consciência para retratar um único dia (16 de junho de 1904) em Dublin?",
-      "options": [
-        "Dublinenses",
-        "Retrato do Artista Quando Jovem",
-        "Ulisses",
-        "Finnegans Wake"
-      ],
+      "question": "Em qual obra James Joyce retrata um único dia em Dublin com fluxo de consciência?",
+      "options": ["Ulisses", "Dublinenses", "Retrato do Artista", "Finnegans Wake"],
       "correctAnswer": "Ulisses",
-      "explanation": "'Ulisses' (1922) é considerado o romance mais influente do século XX, com cada capítulo correspondendo a um episódio da Odisseia de Homero."
+      "explanation": "'Ulisses' (1922) é considerado o romance mais influente do séc. XX, com cada capítulo correspondendo a um episódio da Odisseia de Homero, passado em 16 de junho de 1904."
+    },
+    {
+      "id": "literatura-8-2",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Quem escreveu 'As Ondas' (The Waves)?",
+      "options": ["Virginia Woolf", "Katherine Mansfield", "Dorothy Richardson", "Gertrude Stein"],
+      "correctAnswer": "Virginia Woolf",
+      "explanation": "'As Ondas' (1931) de Virginia Woolf é seu romance mais experimental, com seis vozes que alternam monólogos interiores ao longo da vida, intercalados por descrições da natureza."
+    },
+    {
+      "id": "literatura-8-3",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Qual recurso literário descreve uma narrativa que espelha ou contém a obra maior?",
+      "options": ["Mise en abyme", "Metalepse", "Analepse", "Prolepse"],
+      "correctAnswer": "Mise en abyme",
+      "explanation": "Mise en abyme é o recurso em que uma obra contém uma versão reduzida de si mesma, como um quadro dentro do quadro, criando efeito de espelho infinito."
+    },
+    {
+      "id": "literatura-8-4",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Quem escreveu 'O Som e a Fúria'?",
+      "options": ["William Faulkner", "Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck"],
+      "correctAnswer": "William Faulkner",
+      "explanation": "'O Som e a Fúria' (1929) de William Faulkner narra a decadência da família Compson no sul dos EUA com múltiplos narradores não confiáveis e fragmentação temporal."
+    },
+    {
+      "id": "literatura-8-5",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Qual poeta é considerado o pai do verso livre moderno?",
+      "options": ["Walt Whitman", "Edgar Allan Poe", "Ralph Waldo Emerson", "Henry Longfellow"],
+      "correctAnswer": "Walt Whitman",
+      "explanation": "Walt Whitman revolucionou a poesia com 'Folhas de Relva' (1855), abandonando a métrica e a rima convencionais em favor do verso livre longo e da voz democrática americana."
+    },
+    {
+      "id": "literatura-8-6",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Qual obra de Beckett tem dois personagens esperando por alguém que nunca chega?",
+      "options": ["Esperando Godot", "Fim de Jogo", "Murphy", "Molloy"],
+      "correctAnswer": "Esperando Godot",
+      "explanation": "'Esperando Godot' (1952) de Samuel Beckett é a obra central do Teatro do Absurdo, em que Vladimir e Estragon esperam eternamente por Godot, que nunca aparece."
+    },
+    {
+      "id": "literatura-8-7",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Quem escreveu 'O Mestre e Margarida'?",
+      "options": ["Mikhail Bulgákov", "Nikolai Gogol", "Ivan Turguêniev", "Maksim Gorki"],
+      "correctAnswer": "Mikhail Bulgákov",
+      "explanation": "'O Mestre e Margarida' (escrito nos anos 1930, publicado em 1966) de Mikhail Bulgákov mistura sátira política soviética com elementos fantásticos e a visita do diabo a Moscou."
+    },
+    {
+      "id": "literatura-8-8",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Qual movimento de vanguarda usa imagens irracionais inspiradas no inconsciente freudiano?",
+      "options": ["Surrealismo", "Dadaísmo", "Futurismo", "Expressionismo"],
+      "correctAnswer": "Surrealismo",
+      "explanation": "O Surrealismo, fundado por André Breton em 1924, buscava liberar o inconsciente através da escrita automática e da justaposição de imagens oníricas, influenciado pela psicanálise de Freud."
+    },
+    {
+      "id": "literatura-8-9",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Quem escreveu 'Pedro Páramo'?",
+      "options": ["Juan Rulfo", "Carlos Fuentes", "Augusto Roa Bastos", "Alejo Carpentier"],
+      "correctAnswer": "Juan Rulfo",
+      "explanation": "'Pedro Páramo' (1955) de Juan Rulfo é o romance mais influente da literatura mexicana, com vozes de mortos que constroem a narrativa fragmentada do cacique Pedro Páramo."
+    },
+    {
+      "id": "literatura-8-10",
+      "category": "literatura",
+      "difficulty": 8,
+      "question": "Qual é o conceito de Bakhtin para a multiplicidade de vozes independentes num romance?",
+      "options": ["Polifonia", "Dialogismo", "Carnavalização", "Heteroglossia"],
+      "correctAnswer": "Polifonia",
+      "explanation": "Mikhail Bakhtin cunhou 'polifonia' para descrever o romance de Dostoiévski, em que personagens têm vozes autônomas que dialogam sem serem subordinadas à voz do autor."
     }
   ]
 }

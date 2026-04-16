@@ -5,14 +5,90 @@
       "category": "literatura",
       "difficulty": 5,
       "question": "Qual movimento literário brasileiro do séc. XIX usou a natureza tropical e o índio como símbolos nacionais?",
-      "options": [
-        "Romantismo",
-        "Realismo",
-        "Parnasianismo",
-        "Modernismo"
-      ],
+      "options": ["Romantismo", "Realismo", "Parnasianismo", "Modernismo"],
       "correctAnswer": "Romantismo",
       "explanation": "O Romantismo brasileiro (1836-1881) exaltou o índio como herói nacional e a natureza tropical como identidade do país."
+    },
+    {
+      "id": "literatura-5-2",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Quem escreveu 'Dom Casmurro'?",
+      "options": ["Machado de Assis", "José de Alencar", "Aluísio Azevedo", "Raul Pompeia"],
+      "correctAnswer": "Machado de Assis",
+      "explanation": "'Dom Casmurro' (1899) é uma das obras-primas de Machado de Assis, com o célebre dilema sobre a fidelidade de Capitu."
+    },
+    {
+      "id": "literatura-5-3",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Quem escreveu 'O Guarani'?",
+      "options": ["José de Alencar", "Machado de Assis", "Gonçalves Dias", "Álvares de Azevedo"],
+      "correctAnswer": "José de Alencar",
+      "explanation": "'O Guarani' (1857) de José de Alencar é o romance indianista mais célebre do Romantismo brasileiro, com o índio Peri como protagonista."
+    },
+    {
+      "id": "literatura-5-4",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Quem escreveu 'Romeu e Julieta'?",
+      "options": ["Shakespeare", "Dante", "Cervantes", "Molière"],
+      "correctAnswer": "Shakespeare",
+      "explanation": "William Shakespeare escreveu 'Romeu e Julieta' por volta de 1595, tornando-a a história de amor trágico mais famosa da literatura ocidental."
+    },
+    {
+      "id": "literatura-5-5",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Em que movimento literário se enquadra 'Memórias Póstumas de Brás Cubas'?",
+      "options": ["Realismo", "Romantismo", "Naturalismo", "Modernismo"],
+      "correctAnswer": "Realismo",
+      "explanation": "'Memórias Póstumas de Brás Cubas' (1881) de Machado de Assis é considerado o marco inaugural do Realismo na literatura brasileira."
+    },
+    {
+      "id": "literatura-5-6",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Quem escreveu 'A Divina Comédia'?",
+      "options": ["Dante Alighieri", "Homero", "Virgílio", "Ovídio"],
+      "correctAnswer": "Dante Alighieri",
+      "explanation": "'A Divina Comédia' (séc. XIV) de Dante Alighieri é dividida em Inferno, Purgatório e Paraíso, sendo um dos maiores poemas épicos da literatura ocidental."
+    },
+    {
+      "id": "literatura-5-7",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Qual livro começa com a frase 'Chame-me Ismael'?",
+      "options": ["Moby Dick", "Billy Budd", "Lord Jim", "O Velho e o Mar"],
+      "correctAnswer": "Moby Dick",
+      "explanation": "'Moby Dick' (1851) de Herman Melville abre com a célebre frase 'Call me Ishmael', narrando a obsessiva caça à baleia branca pelo capitão Ahab."
+    },
+    {
+      "id": "literatura-5-8",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Quem é o autor de 'Grande Sertão: Veredas'?",
+      "options": ["Guimarães Rosa", "Graciliano Ramos", "Jorge Amado", "Érico Veríssimo"],
+      "correctAnswer": "Guimarães Rosa",
+      "explanation": "'Grande Sertão: Veredas' (1956) de Guimarães Rosa é considerado o maior romance da literatura brasileira do séc. XX, com linguagem inventiva e temas existenciais."
+    },
+    {
+      "id": "literatura-5-9",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Qual personagem de Shakespeare diz 'Ser ou não ser, eis a questão'?",
+      "options": ["Hamlet", "Macbeth", "Otelo", "Lear"],
+      "correctAnswer": "Hamlet",
+      "explanation": "O monólogo 'Ser ou não ser' é do Ato III de 'Hamlet', em que o príncipe dinamarquês reflete sobre a existência, o sofrimento e a morte."
+    },
+    {
+      "id": "literatura-5-10",
+      "category": "literatura",
+      "difficulty": 5,
+      "question": "Quem escreveu 'Os Miseráveis'?",
+      "options": ["Victor Hugo", "Alexandre Dumas", "Honoré de Balzac", "Émile Zola"],
+      "correctAnswer": "Victor Hugo",
+      "explanation": "'Os Miseráveis' (1862) de Victor Hugo é um dos maiores romances do Romantismo francês, seguindo Jean Valjean em sua redenção moral na França do séc. XIX."
     }
   ]
 }

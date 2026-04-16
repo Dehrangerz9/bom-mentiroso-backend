@@ -5,14 +5,90 @@
       "category": "literatura",
       "difficulty": 6,
       "question": "Qual autor russo escreveu 'Crime e Castigo' e 'O Idiota'?",
-      "options": [
-        "León Tolstói",
-        "Fiódor Dostoiévski",
-        "Anton Tchekhov",
-        "Nikolai Gogol"
-      ],
+      "options": ["León Tolstói", "Fiódor Dostoiévski", "Anton Tchekhov", "Nikolai Gogol"],
       "correctAnswer": "Fiódor Dostoiévski",
       "explanation": "Dostoiévski é um dos maiores romancistas da literatura universal, com obras que exploram culpa, fé e psicologia humana."
+    },
+    {
+      "id": "literatura-6-2",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Quem escreveu 'Cem Anos de Solidão'?",
+      "options": ["Gabriel García Márquez", "Jorge Luis Borges", "Pablo Neruda", "Julio Cortázar"],
+      "correctAnswer": "Gabriel García Márquez",
+      "explanation": "'Cem Anos de Solidão' (1967) de García Márquez é a obra mais representativa do realismo mágico e do Boom latino-americano, valendo-lhe o Nobel de 1982."
+    },
+    {
+      "id": "literatura-6-3",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Quem escreveu 'A Metamorfose' e 'O Processo'?",
+      "options": ["Franz Kafka", "Albert Camus", "Samuel Beckett", "Thomas Mann"],
+      "correctAnswer": "Franz Kafka",
+      "explanation": "Franz Kafka é o autor de 'A Metamorfose' (1915) e 'O Processo' (1925), obras que deram origem ao adjetivo 'kafkiano' para descrever situações absurdas e opressivas."
+    },
+    {
+      "id": "literatura-6-4",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Qual romance de Flaubert é considerado marco do Realismo francês?",
+      "options": ["Madame Bovary", "Germinal", "Nana", "A Obra"],
+      "correctAnswer": "Madame Bovary",
+      "explanation": "'Madame Bovary' (1857) de Gustave Flaubert revolucionou o romance ao retratar com precisão psicológica a insatisfação de Emma Bovary com sua vida provinciana."
+    },
+    {
+      "id": "literatura-6-5",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Quem escreveu 'Dom Quixote'?",
+      "options": ["Miguel de Cervantes", "Lope de Vega", "Francisco de Quevedo", "Luis de Góngora"],
+      "correctAnswer": "Miguel de Cervantes",
+      "explanation": "'Dom Quixote' (1605/1615) de Miguel de Cervantes é considerado o primeiro romance moderno e o livro mais publicado da história, depois da Bíblia."
+    },
+    {
+      "id": "literatura-6-6",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Quem escreveu 'O Retrato de Dorian Gray'?",
+      "options": ["Oscar Wilde", "Bernard Shaw", "James Joyce", "Thomas Hardy"],
+      "correctAnswer": "Oscar Wilde",
+      "explanation": "'O Retrato de Dorian Gray' (1890) de Oscar Wilde explora vaidade, corrupção moral e a relação entre arte e vida através de um jovem que permanece jovem enquanto seu retrato envelhece."
+    },
+    {
+      "id": "literatura-6-7",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Qual foi a primeira mulher a ganhar o Nobel de Literatura?",
+      "options": ["Gabriela Mistral", "Selma Lagerlöf", "Grazia Deledda", "Pearl Buck"],
+      "correctAnswer": "Selma Lagerlöf",
+      "explanation": "Selma Lagerlöf, escritora sueca, foi a primeira mulher a receber o Nobel de Literatura em 1909, conhecida por 'A Maravilhosa Viagem de Nils Holgersson'."
+    },
+    {
+      "id": "literatura-6-8",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Quem escreveu '1984'?",
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Arthur Koestler"],
+      "correctAnswer": "George Orwell",
+      "explanation": "'1984' (1949) de George Orwell é a distopia mais influente do séc. XX, introduzindo conceitos como 'Grande Irmão', 'Duplipensar' e 'Novilíngua'."
+    },
+    {
+      "id": "literatura-6-9",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Quem escreveu 'Vidas Secas'?",
+      "options": ["Graciliano Ramos", "Rachel de Queiroz", "José Lins do Rego", "Érico Veríssimo"],
+      "correctAnswer": "Graciliano Ramos",
+      "explanation": "'Vidas Secas' (1938) de Graciliano Ramos é o principal romance do Regionalismo nordestino, retratando a família de Fabiano flagelada pela seca."
+    },
+    {
+      "id": "literatura-6-10",
+      "category": "literatura",
+      "difficulty": 6,
+      "question": "Qual estilo literário se opõe ao sentimentalismo romântico com objetividade e perfeição formal?",
+      "options": ["Parnasianismo", "Simbolismo", "Modernismo", "Naturalismo"],
+      "correctAnswer": "Parnasianismo",
+      "explanation": "O Parnasianismo (séc. XIX) pregava 'a arte pela arte', valorizando a perfeição técnica, a objetividade e a forma impecável do poema, em reação ao subjetivismo romântico."
     }
   ]
 }

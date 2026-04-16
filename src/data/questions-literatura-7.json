@@ -5,14 +5,90 @@
       "category": "literatura",
       "difficulty": 7,
       "question": "Qual poeta brasileiro modernista publicou 'Alguma Poesia' em 1930 e é conhecido pelo poema 'No meio do caminho'?",
-      "options": [
-        "Oswald de Andrade",
-        "Mário de Andrade",
-        "Carlos Drummond de Andrade",
-        "Manuel Bandeira"
-      ],
+      "options": ["Oswald de Andrade", "Mário de Andrade", "Carlos Drummond de Andrade", "Manuel Bandeira"],
       "correctAnswer": "Carlos Drummond de Andrade",
       "explanation": "'No meio do caminho tinha uma pedra' é o verso mais famoso de Drummond, símbolo do modernismo brasileiro."
+    },
+    {
+      "id": "literatura-7-2",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Quem escreveu 'Ulisses' (1922)?",
+      "options": ["James Joyce", "Virginia Woolf", "T.S. Eliot", "William Faulkner"],
+      "correctAnswer": "James Joyce",
+      "explanation": "'Ulisses' de James Joyce é considerado o romance mais influente do séc. XX, com cada capítulo correspondendo a um episódio da Odisseia de Homero."
+    },
+    {
+      "id": "literatura-7-3",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Qual é o herói épico de 'Os Lusíadas' de Camões?",
+      "options": ["Vasco da Gama", "Dom Sebastião", "Afonso Henriques", "Pedro Álvares Cabral"],
+      "correctAnswer": "Vasco da Gama",
+      "explanation": "'Os Lusíadas' (1572) de Luís de Camões celebra a viagem de Vasco da Gama à Índia como símbolo das navegações portuguesas e da identidade lusitana."
+    },
+    {
+      "id": "literatura-7-4",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Quem escreveu 'A Hora da Estrela'?",
+      "options": ["Clarice Lispector", "Lygia Fagundes Telles", "Nélida Piñon", "Adélia Prado"],
+      "correctAnswer": "Clarice Lispector",
+      "explanation": "'A Hora da Estrela' (1977), última obra de Clarice Lispector, narra a vida de Macabéa, uma nordestina anônima no Rio de Janeiro, através do narrador Rodrigo S.M."
+    },
+    {
+      "id": "literatura-7-5",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Qual técnica narrativa caracteriza-se pelo monólogo interior e associação livre de pensamentos?",
+      "options": ["Fluxo de consciência", "Narrador onisciente", "Narrador personagem", "Discurso indireto"],
+      "correctAnswer": "Fluxo de consciência",
+      "explanation": "O fluxo de consciência (stream of consciousness) reproduz o pensamento contínuo e não linear dos personagens, técnica usada por Joyce, Woolf e Faulkner."
+    },
+    {
+      "id": "literatura-7-6",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Quem escreveu 'As Flores do Mal'?",
+      "options": ["Charles Baudelaire", "Paul Verlaine", "Arthur Rimbaud", "Stéphane Mallarmé"],
+      "correctAnswer": "Charles Baudelaire",
+      "explanation": "'As Flores do Mal' (1857) de Charles Baudelaire é a obra fundadora do Simbolismo, explorando beleza, decadência e spleen em linguagem inovadora."
+    },
+    {
+      "id": "literatura-7-7",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Quem é o autor de 'Ficciones'?",
+      "options": ["Jorge Luis Borges", "Julio Cortázar", "Octavio Paz", "Carlos Fuentes"],
+      "correctAnswer": "Jorge Luis Borges",
+      "explanation": "'Ficciones' (1944) de Jorge Luis Borges é uma das obras mais importantes da literatura hispânica, com contos que exploram labirintos, infinito e metaficção."
+    },
+    {
+      "id": "literatura-7-8",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Qual é o sobrenome da família central de 'Cem Anos de Solidão'?",
+      "options": ["Buendía", "Arcadio", "Aureliano", "Fernanda"],
+      "correctAnswer": "Buendía",
+      "explanation": "A família Buendía, fundada por José Arcadio Buendía e Úrsula, é o eixo central de 'Cem Anos de Solidão', repetindo nomes e destinos ao longo de sete gerações."
+    },
+    {
+      "id": "literatura-7-9",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Quem escreveu 'O Cortiço'?",
+      "options": ["Aluísio Azevedo", "Machado de Assis", "Raul Pompeia", "Inglês de Sousa"],
+      "correctAnswer": "Aluísio Azevedo",
+      "explanation": "'O Cortiço' (1890) de Aluísio Azevedo é o principal romance do Naturalismo brasileiro, retratando a vida coletiva e as determinações sociais num cortiço carioca."
+    },
+    {
+      "id": "literatura-7-10",
+      "category": "literatura",
+      "difficulty": 7,
+      "question": "Qual movimento literário é inaugurado pela Semana de Arte Moderna de 1922 no Brasil?",
+      "options": ["Modernismo brasileiro", "Romantismo tardio", "Concretismo", "Simbolismo"],
+      "correctAnswer": "Modernismo brasileiro",
+      "explanation": "A Semana de Arte Moderna de 1922, realizada no Teatro Municipal de São Paulo, marcou o início do Modernismo brasileiro, rompendo com o academicismo e renovando a arte e a literatura."
     }
   ]
 }
