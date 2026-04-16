@@ -4,15 +4,91 @@
       "id": "economia-5-1",
       "category": "economia",
       "difficulty": 5,
-      "question": "O que é a 'Lei de Oferta e Demanda'?",
-      "options": [
-        "Quanto maior o preço, maior a demanda",
-        "Preço de equilíbrio é aquele onde quantidade ofertada iguala quantidade demandada",
-        "O governo deve controlar preços para garantir equilíbrio",
-        "A produção sempre supera o consumo em economias livres"
-      ],
-      "correctAnswer": "Preço de equilíbrio é aquele onde quantidade ofertada iguala quantidade demandada",
-      "explanation": "Em mercados competitivos, o preço se estabiliza onde oferta e demanda se cruzam, chamado de equilíbrio de mercado."
+      "question": "Qual economista britânico criou a teoria que defende intervenção estatal para estimular a demanda em crises?",
+      "options": ["Adam Smith", "Milton Friedman", "John M. Keynes", "David Ricardo"],
+      "correctAnswer": "John M. Keynes",
+      "explanation": "Keynes propôs que o governo deve aumentar gastos públicos em recessões para estimular a demanda agregada e reduzir o desemprego."
+    },
+    {
+      "id": "economia-5-2",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "Qual é o nome da taxa básica de juros da economia brasileira?",
+      "options": ["CDI", "Selic", "IPCA", "TR"],
+      "correctAnswer": "Selic",
+      "explanation": "A taxa Selic é o principal instrumento de política monetária do Banco Central do Brasil, influenciando todas as taxas de juros da economia."
+    },
+    {
+      "id": "economia-5-3",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "Como se chama o mercado onde há apenas um vendedor dominando toda a oferta de um produto?",
+      "options": ["Oligopólio", "Monopólio", "Duopólio", "Concorrência perfeita"],
+      "correctAnswer": "Monopólio",
+      "explanation": "No monopólio, um único fornecedor controla totalmente o mercado, podendo fixar preços acima do equilíbrio competitivo."
+    },
+    {
+      "id": "economia-5-4",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "Qual índice oficial mede a inflação no Brasil para a população urbana?",
+      "options": ["IGP-M", "IPC-FIPE", "IPCA", "INPC"],
+      "correctAnswer": "IPCA",
+      "explanation": "O IPCA (Índice Nacional de Preços ao Consumidor Amplo) é o índice oficial de inflação do Brasil, usado pelo Banco Central para definir a meta de inflação."
+    },
+    {
+      "id": "economia-5-5",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "Qual é o nome do fenômeno em que preços sobem e o crescimento econômico estagna simultaneamente?",
+      "options": ["Deflação", "Recessão", "Estagflação", "Hiperinflação"],
+      "correctAnswer": "Estagflação",
+      "explanation": "Estagflação combina estagnação econômica com inflação elevada. Foi vivida nos EUA nos anos 1970 após os choques do petróleo."
+    },
+    {
+      "id": "economia-5-6",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "Como se chama trazer fluxos de caixa futuros ao presente descontando uma taxa de juros?",
+      "options": ["Valor futuro", "Valor presente", "Valor nominal", "Valor intrínseco"],
+      "correctAnswer": "Valor presente",
+      "explanation": "O valor presente (VP) é a base da análise de investimentos: mostra quanto vale hoje um fluxo de caixa futuro, descontado pelo custo do capital."
+    },
+    {
+      "id": "economia-5-7",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "Qual é a sigla do órgão internacional criado em Bretton Woods (1944) para estabilizar o sistema monetário global?",
+      "options": ["Banco Mundial", "OMC", "FMI", "BIS"],
+      "correctAnswer": "FMI",
+      "explanation": "O Fundo Monetário Internacional (FMI) foi criado em 1944 para promover estabilidade monetária e conceder empréstimos a países em dificuldade."
+    },
+    {
+      "id": "economia-5-8",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "Qual princípio afirma que a quantidade demandada de um bem varia inversamente ao seu preço?",
+      "options": ["Efeito renda", "Lei da demanda", "Elasticidade-preço", "Efeito substituição"],
+      "correctAnswer": "Lei da demanda",
+      "explanation": "A Lei da Demanda afirma que, ceteris paribus, a quantidade demandada de um bem varia inversamente ao seu preço."
+    },
+    {
+      "id": "economia-5-9",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "Como se chama a política do banco central de comprar ativos financeiros para injetar liquidez na economia?",
+      "options": ["Austeridade fiscal", "Quantitative easing", "Swap cambial", "Open market"],
+      "correctAnswer": "Quantitative easing",
+      "explanation": "O quantitative easing (QE) é usado quando os juros já estão próximos de zero; o banco central compra títulos para aumentar a oferta de dinheiro."
+    },
+    {
+      "id": "economia-5-10",
+      "category": "economia",
+      "difficulty": 5,
+      "question": "Qual é o nome do resultado positivo quando um país exporta mais do que importa?",
+      "options": ["Déficit comercial", "Superávit comercial", "Balança negativa", "Déficit externo"],
+      "correctAnswer": "Superávit comercial",
+      "explanation": "Superávit comercial ocorre quando o valor das exportações supera o das importações, contribuindo positivamente para a balança de pagamentos."
     }
   ]
 }

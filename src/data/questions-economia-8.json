@@ -4,15 +4,91 @@
       "id": "economia-8-1",
       "category": "economia",
       "difficulty": 8,
-      "question": "O que é o 'Trilema de Mundell-Fleming' em economia internacional?",
-      "options": [
-        "Um país não pode ter simultaneamente livre movimentação de capitais, taxa de câmbio fixa e política monetária autônoma",
-        "A impossibilidade de crescimento, equilíbrio fiscal e baixa inflação ao mesmo tempo",
-        "O trade-off entre desemprego e inflação descrito na Curva de Phillips",
-        "A incompatibilidade entre crescimento, sustentabilidade e equidade"
-      ],
-      "correctAnswer": "Um país não pode ter simultaneamente livre movimentação de capitais, taxa de câmbio fixa e política monetária autônoma",
-      "explanation": "O Trilema impossível (ou triângulo de Mundell-Fleming) afirma que de três objetivos — câmbio fixo, mobilidade de capital e autonomia monetária — apenas dois podem coexistir."
+      "question": "O trilema de Mundell-Fleming afirma que um país não pode ter simultaneamente câmbio fixo, livre mobilidade de capitais e o quê?",
+      "options": ["Déficit fiscal zero", "Pleno emprego", "Política monetária autônoma", "Inflação controlada"],
+      "correctAnswer": "Política monetária autônoma",
+      "explanation": "O trilema impossível diz que de três objetivos — câmbio fixo, mobilidade de capital e autonomia monetária — apenas dois podem coexistir simultaneamente."
+    },
+    {
+      "id": "economia-8-2",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "Qual é o nome da hipótese que afirma que os preços dos ativos refletem toda informação disponível, impossibilitando ganhos consistentes acima do mercado?",
+      "options": ["Hipótese de Keynes", "Hipótese dos mercados eficientes", "Teoria do passeio aleatório", "Hipótese de Minsky"],
+      "correctAnswer": "Hipótese dos mercados eficientes",
+      "explanation": "A Hipótese dos Mercados Eficientes (Eugene Fama, 1970) afirma que os preços incorporam toda informação disponível, tornando impossível 'bater o mercado' de forma consistente."
+    },
+    {
+      "id": "economia-8-3",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "Como se chama a teoria que sugere que crises financeiras emergem de períodos de estabilidade que encorajam especulação excessiva?",
+      "options": ["Teoria de Fisher", "Hipótese de Minsky", "Teoria dos ciclos reais", "Modelo de Diamond-Dybvig"],
+      "correctAnswer": "Hipótese de Minsky",
+      "explanation": "Hyman Minsky propôs que a estabilidade gera instabilidade: agentes assumem riscos crescentes em períodos de bonança, criando fragilidade financeira que culmina em crise (momento Minsky)."
+    },
+    {
+      "id": "economia-8-4",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "Qual é o nome do teorema que afirma que, na ausência de custos de transação, a alocação de direitos de propriedade é eficiente independente de quem os detém?",
+      "options": ["Teorema de Arrow", "Teorema de Coase", "Teorema de Modigliani-Miller", "Teorema de Pigou"],
+      "correctAnswer": "Teorema de Coase",
+      "explanation": "O Teorema de Coase (Ronald Coase, 1960) afirma que, sem custos de transação, negociações privadas resolvem externalidades eficientemente, independentemente da alocação inicial de direitos."
+    },
+    {
+      "id": "economia-8-5",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "Qual é o nome do paradoxo em que os EUA, sendo capital-intensivos, exportavam bens trabalho-intensivos, contrariando o teorema de Heckscher-Ohlin?",
+      "options": ["Paradoxo de Giffen", "Paradoxo de Leontief", "Paradoxo de Veblen", "Paradoxo de Triffin"],
+      "correctAnswer": "Paradoxo de Leontief",
+      "explanation": "Wassily Leontief (1953) verificou empiricamente que os EUA, abundantes em capital, exportavam bens intensivos em trabalho, contradizendo o modelo H-O de dotação de fatores."
+    },
+    {
+      "id": "economia-8-6",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "Como se chama o modelo de precificação de ativos que relaciona retorno esperado com o risco sistemático (beta) do ativo?",
+      "options": ["Modelo de Black-Scholes", "CAPM", "Modelo APT", "Modelo de Sharpe"],
+      "correctAnswer": "CAPM",
+      "explanation": "O Capital Asset Pricing Model (CAPM) de Sharpe-Lintner afirma que o retorno esperado de um ativo é igual à taxa livre de risco mais um prêmio pelo risco sistemático (beta)."
+    },
+    {
+      "id": "economia-8-7",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "Qual é o nome do fenômeno em que países ricos em recursos naturais tendem a ter crescimento econômico mais lento?",
+      "options": ["Maldição dos recursos", "Doença holandesa", "Armadilha da pobreza", "Paradoxo de Prebisch"],
+      "correctAnswer": "Maldição dos recursos",
+      "explanation": "A 'maldição dos recursos' (resource curse) descreve como abundância de recursos naturais pode levar a instituições fracas, conflito e crescimento abaixo do esperado."
+    },
+    {
+      "id": "economia-8-8",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "Como se chama a hipótese de que consumidores baseiam seu consumo em uma renda média esperada ao longo da vida, não apenas na renda atual?",
+      "options": ["Teoria da renda absoluta", "Hipótese da renda permanente", "Teoria do ciclo de vida", "Hipótese da poupança precaucional"],
+      "correctAnswer": "Hipótese da renda permanente",
+      "explanation": "Milton Friedman (1957) propôs que o consumo depende da renda permanente (média esperada de longo prazo), não da renda transitória. Isso explica por que cortes de impostos temporários têm pouco efeito no consumo."
+    },
+    {
+      "id": "economia-8-9",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "Qual é o nome da teoria que afirma que estrutura de capital (dívida vs. capital próprio) não afeta o valor da firma em mercados perfeitos?",
+      "options": ["Teoria da pecking order", "Teorema de Modigliani-Miller", "Teoria do trade-off", "Teoria da agência"],
+      "correctAnswer": "Teorema de Modigliani-Miller",
+      "explanation": "Modigliani e Miller (1958) demonstraram que, sem impostos e custos de falência, o valor da firma independe de como ela se financia; a estrutura de capital é irrelevante."
+    },
+    {
+      "id": "economia-8-10",
+      "category": "economia",
+      "difficulty": 8,
+      "question": "Como se chama o fenômeno em que a apreciação da moeda causada por exportações de recursos naturais prejudica outros setores exportadores?",
+      "options": ["Maldição dos recursos", "Doença holandesa", "Efeito Balassa-Samuelson", "Paradoxo de Prebisch"],
+      "correctAnswer": "Doença holandesa",
+      "explanation": "A doença holandesa surgiu quando a Holanda descobriu gás natural nos anos 1960: a entrada de divisas valorizou o florim, desindustrializando o país. O mesmo ocorre em países exportadores de commodities."
     }
   ]
 }

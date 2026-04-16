@@ -4,15 +4,91 @@
       "id": "economia-6-1",
       "category": "economia",
       "difficulty": 6,
-      "question": "Qual economista austríaco descreveu o processo de 'destruição criativa' como motor do capitalismo, em que inovações destroem setores obsoletos?",
-      "options": [
-        "Friedrich Hayek",
-        "Ludwig von Mises",
-        "Joseph Schumpeter",
-        "Karl Polanyi"
-      ],
+      "question": "Qual economista austríaco descreveu o processo de 'destruição criativa' como motor do capitalismo?",
+      "options": ["Friedrich Hayek", "Ludwig von Mises", "Joseph Schumpeter", "Karl Polanyi"],
       "correctAnswer": "Joseph Schumpeter",
       "explanation": "Em 'Capitalismo, Socialismo e Democracia' (1942), Schumpeter descreveu a destruição criativa como a essência do capitalismo: inovação que destrói o antigo para criar o novo."
+    },
+    {
+      "id": "economia-6-2",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Como se chama a sensibilidade da quantidade demandada de um bem em relação à variação do seu preço?",
+      "options": ["Custo marginal", "Elasticidade-preço", "Efeito Giffen", "Demanda derivada"],
+      "correctAnswer": "Elasticidade-preço",
+      "explanation": "A elasticidade-preço da demanda mede o percentual de variação na quantidade demandada para cada 1% de variação no preço do bem."
+    },
+    {
+      "id": "economia-6-3",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Como se chama o custo adicional de produzir uma unidade a mais de um bem ou serviço?",
+      "options": ["Custo fixo", "Custo total", "Custo marginal", "Custo de oportunidade"],
+      "correctAnswer": "Custo marginal",
+      "explanation": "O custo marginal é fundamental para decisões de produção: empresas maximizam lucro produzindo até que o custo marginal iguale a receita marginal."
+    },
+    {
+      "id": "economia-6-4",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Qual teoria defende que a oferta cria sua própria demanda, sem necessidade de intervenção estatal?",
+      "options": ["Keynesianismo", "Lei de Say", "Monetarismo", "Marxismo"],
+      "correctAnswer": "Lei de Say",
+      "explanation": "A Lei de Say (Jean-Baptiste Say, 1803) afirma que 'a oferta cria sua própria demanda'; toda produção gera renda suficiente para comprar o que foi produzido."
+    },
+    {
+      "id": "economia-6-5",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Qual é o nome do modelo gráfico que mostra combinações possíveis de dois bens que maximizam o bem-estar de um consumidor com renda fixa?",
+      "options": ["Curva de Laffer", "Curva de Phillips", "Curva de indiferença", "Fronteira de Pareto"],
+      "correctAnswer": "Curva de indiferença",
+      "explanation": "A curva de indiferença representa combinações de dois bens que proporcionam a mesma utilidade ao consumidor; a otimização ocorre no ponto de tangência com a restrição orçamentária."
+    },
+    {
+      "id": "economia-6-6",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Qual é o nome da relação inversa entre inflação e desemprego identificada por A.W. Phillips?",
+      "options": ["Curva de Laffer", "Curva de Phillips", "Curva de Lorenz", "Curva IS-LM"],
+      "correctAnswer": "Curva de Phillips",
+      "explanation": "A Curva de Phillips (1958) identificou empiricamente que inflação mais alta está associada a menor desemprego no curto prazo; no longo prazo essa relação se desfaz."
+    },
+    {
+      "id": "economia-6-7",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Qual é o nome do fenômeno em que um aumento de impostos gera menos receita porque desestimula a atividade econômica?",
+      "options": ["Efeito Pigou", "Efeito Laffer", "Efeito crowding-out", "Efeito riqueza"],
+      "correctAnswer": "Efeito Laffer",
+      "explanation": "A Curva de Laffer mostra que existe uma alíquota ótima de imposto; acima dela, a arrecadação cai porque a atividade econômica se reduz drasticamente."
+    },
+    {
+      "id": "economia-6-8",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Como se chama a situação em que gastos públicos excessivos elevam juros e reduzem o investimento privado?",
+      "options": ["Efeito multiplicador", "Crowding-out", "Armadilha de liquidez", "Risco moral"],
+      "correctAnswer": "Crowding-out",
+      "explanation": "O crowding-out (efeito de deslocamento) ocorre quando o governo toma crédito no mercado, elevando os juros e reduzindo o investimento privado."
+    },
+    {
+      "id": "economia-6-9",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Qual é o nome do índice que mede o grau de concentração de renda em uma população, indo de 0 a 1?",
+      "options": ["Índice de Theil", "Coeficiente de Gini", "Índice HDI", "Índice de Palma"],
+      "correctAnswer": "Coeficiente de Gini",
+      "explanation": "O Coeficiente de Gini (Corrado Gini, 1912) mede a desigualdade de renda: 0 é igualdade perfeita e 1 é concentração máxima."
+    },
+    {
+      "id": "economia-6-10",
+      "category": "economia",
+      "difficulty": 6,
+      "question": "Como se chama a teoria que atribui ao crescimento da oferta monetária a principal causa da inflação?",
+      "options": ["Keynesianismo", "Monetarismo", "Marxismo", "Institucionalismo"],
+      "correctAnswer": "Monetarismo",
+      "explanation": "O monetarismo, popularizado por Milton Friedman, defende que 'inflação é sempre e em todo lugar um fenômeno monetário'; controlar a oferta de moeda é a chave para a estabilidade de preços."
     }
   ]
 }

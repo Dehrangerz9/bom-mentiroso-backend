@@ -4,15 +4,91 @@
       "id": "economia-7-1",
       "category": "economia",
       "difficulty": 7,
-      "question": "Qual é o nome do paradoxo econômico em que um aumento de preço de um bem inferior leva a um aumento de sua demanda, contrariando a lei básica da demanda?",
-      "options": [
-        "Paradoxo de Giffen",
-        "Paradoxo de Veblen",
-        "Paradoxo de Leontief",
-        "Paradoxo de Jevons"
-      ],
+      "question": "Qual é o nome do paradoxo em que um aumento de preço de um bem inferior eleva sua demanda, contrariando a lei da demanda?",
+      "options": ["Paradoxo de Veblen", "Paradoxo de Giffen", "Paradoxo de Leontief", "Paradoxo de Jevons"],
       "correctAnswer": "Paradoxo de Giffen",
-      "explanation": "Os bens Giffen são bens inferiores tão essenciais que, ao subirem de preço, consomem renda que seria gasta em bens superiores, aumentando sua própria demanda."
+      "explanation": "Bens Giffen são bens inferiores tão essenciais que, ao subirem de preço, consomem renda que seria gasta em bens superiores, aumentando sua própria demanda."
+    },
+    {
+      "id": "economia-7-2",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Como se chama o fenômeno em que agentes tomam mais risco porque sabem que outros arcarão com as consequências?",
+      "options": ["Seleção adversa", "Risco moral", "Externalidade negativa", "Falha de mercado"],
+      "correctAnswer": "Risco moral",
+      "explanation": "Risco moral (moral hazard) ocorre quando uma parte muda seu comportamento após um contrato porque não suporta os custos totais de seu risco, como bancos 'grandes demais para quebrar'."
+    },
+    {
+      "id": "economia-7-3",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Qual é o nome da alocação em que ninguém pode melhorar sem piorar a situação de outro?",
+      "options": ["Equilíbrio de Nash", "Ótimo de Pareto", "Equilíbrio de Walras", "Máximo de Kaldor"],
+      "correctAnswer": "Ótimo de Pareto",
+      "explanation": "A eficiência de Pareto (Vilfredo Pareto) é atingida quando não é possível melhorar a situação de alguém sem deteriorar a de outro agente."
+    },
+    {
+      "id": "economia-7-4",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Como se chama o efeito em que consumidores demandam mais de um bem justamente por ele ser caro, associando preço a status?",
+      "options": ["Efeito Giffen", "Efeito Veblen", "Efeito renda", "Efeito bandwagon"],
+      "correctAnswer": "Efeito Veblen",
+      "explanation": "Bens Veblen (Thorstein Veblen) são bens de luxo cuja demanda aumenta com o preço porque o alto custo sinaliza status social."
+    },
+    {
+      "id": "economia-7-5",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Qual é o nome do modelo macroeconômico que analisa equilíbrio simultâneo no mercado de bens e no mercado monetário?",
+      "options": ["AD-AS", "IS-LM", "Mundell-Fleming", "Solow-Swan"],
+      "correctAnswer": "IS-LM",
+      "explanation": "O modelo IS-LM (Hicks-Hansen) representa o equilíbrio simultâneo entre o mercado de bens (IS) e o mercado monetário (LM), base da macroeconomia keynesiana."
+    },
+    {
+      "id": "economia-7-6",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Como se chama o custo que já foi incorrido e não pode ser recuperado, portanto não deve influenciar decisões futuras?",
+      "options": ["Custo variável", "Custo de oportunidade", "Custo irrecuperável", "Custo marginal"],
+      "correctAnswer": "Custo irrecuperável",
+      "explanation": "O sunk cost (custo irrecuperável) é um custo passado que não pode ser revertido. A racionalidade econômica diz que ele não deve influenciar decisões futuras, mas psicologicamente tende a."
+    },
+    {
+      "id": "economia-7-7",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Qual é o nome do modelo de crescimento econômico que enfatiza acumulação de capital e produtividade total dos fatores?",
+      "options": ["Modelo Keynesiano", "Modelo Solow-Swan", "Modelo Harrod-Domar", "Modelo Mundell-Fleming"],
+      "correctAnswer": "Modelo Solow-Swan",
+      "explanation": "O modelo de Solow-Swan (1956) mostra que crescimento de longo prazo depende do progresso tecnológico; apenas acumular capital leva a retornos decrescentes."
+    },
+    {
+      "id": "economia-7-8",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Qual é o nome do fenômeno em que o uso de um bem por uma pessoa reduz sua disponibilidade para outros?",
+      "options": ["Bem público", "Rivalidade", "Externalidade", "Exclusividade"],
+      "correctAnswer": "Rivalidade",
+      "explanation": "Bens rivais são aqueles em que o consumo por um agente reduz a quantidade disponível para outros, como alimentos. Bens não-rivais, como conhecimento, podem ser consumidos por muitos sem se esgotar."
+    },
+    {
+      "id": "economia-7-9",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Como se chama a tendência de indivíduos subestimarem perdas futuras e superestimarem ganhos imediatos?",
+      "options": ["Ancoragem cognitiva", "Desconto hiperbólico", "Aversão à perda", "Ilusão monetária"],
+      "correctAnswer": "Desconto hiperbólico",
+      "explanation": "O desconto hiperbólico descreve a inconsistência temporal em que preferências mudam ao longo do tempo; as pessoas preferem R$100 hoje a R$110 amanhã, mas não amanhã a depois de amanhã."
+    },
+    {
+      "id": "economia-7-10",
+      "category": "economia",
+      "difficulty": 7,
+      "question": "Qual é o nome do imposto que incide sobre externalidades negativas para internalizar o custo social ao produtor?",
+      "options": ["Imposto de Pigou", "Imposto de Tobin", "Tarifa de Ramsey", "Imposto de Coase"],
+      "correctAnswer": "Imposto de Pigou",
+      "explanation": "O imposto pigouviano (Arthur Pigou) taxa atividades com externalidades negativas (como poluição) no valor do dano social, corrigindo a falha de mercado."
     }
   ]
 }

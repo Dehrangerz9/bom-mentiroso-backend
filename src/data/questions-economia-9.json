@@ -4,15 +4,91 @@
       "id": "economia-9-1",
       "category": "economia",
       "difficulty": 9,
-      "question": "Qual é o nome do fenômeno em que mercados com informação assimétrica tendem a ser dominados por produtos de baixa qualidade, levando os produtos de alta qualidade a saírem do mercado?",
-      "options": [
-        "Risco moral",
-        "Seleção adversa (mercado de limões)",
-        "Tragédia dos comuns",
-        "Falha de coordenação"
-      ],
-      "correctAnswer": "Seleção adversa (mercado de limões)",
-      "explanation": "Descrito por George Akerlof em 'The Market for Lemons' (1970), o artigo que lhe valeu o Nobel: compradores não conseguem distinguir qualidade, pagam preço médio, vendedores de alta qualidade saem, deteriorando o mercado."
+      "question": "Qual é o nome do fenômeno em que mercados com informação assimétrica expulsam produtos de alta qualidade, pois compradores pagam preço médio?",
+      "options": ["Risco moral", "Seleção adversa", "Tragédia dos comuns", "Falha de coordenação"],
+      "correctAnswer": "Seleção adversa",
+      "explanation": "Descrito por George Akerlof em 'The Market for Lemons' (1970): compradores não distinguem qualidade, pagam preço médio, vendedores de alta qualidade saem do mercado, deteriorando-o."
+    },
+    {
+      "id": "economia-9-2",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Qual é o nome do dilema clássico da teoria dos jogos em que dois jogadores racionais, ao agirem por interesse próprio, chegam a um resultado pior para ambos?",
+      "options": ["Jogo do Galinha", "Dilema do Prisioneiro", "Equilíbrio de Stackelberg", "Jogo do ultimato"],
+      "correctAnswer": "Dilema do Prisioneiro",
+      "explanation": "No Dilema do Prisioneiro, dois agentes racionais traem um ao outro mesmo que a cooperação levasse a um resultado melhor para ambos; ilustra por que cooperação é difícil sem comunicação."
+    },
+    {
+      "id": "economia-9-3",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Como se chama a teoria que explica ciclos econômicos por choques reais de produtividade, sem recorrer a falhas monetárias?",
+      "options": ["Teoria Keynesiana", "Teoria dos ciclos reais", "Teoria monetarista", "Teoria pós-keynesiana"],
+      "correctAnswer": "Teoria dos ciclos reais",
+      "explanation": "A Teoria dos Ciclos Reais de Negócios (RBC, Kydland e Prescott, 1982) atribui flutuações econômicas a choques de produtividade reais; agentes respondem racionalmente maximizando utilidade intertemporal."
+    },
+    {
+      "id": "economia-9-4",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Qual é o nome do problema em teoria dos jogos em que há múltiplos equilíbrios de Nash e agentes precisam coordenar para atingir o melhor?",
+      "options": ["Falha de coordenação", "Dilema do Prisioneiro", "Tragédia dos comuns", "Seleção adversa"],
+      "correctAnswer": "Falha de coordenação",
+      "explanation": "Falhas de coordenação ocorrem quando há equilíbrios de Nash múltiplos e agentes ficam presos no pior por ausência de mecanismo de coordenação; explicam armadilhas de pobreza e subdesenvolvimento."
+    },
+    {
+      "id": "economia-9-5",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Como se chama o paradoxo em que uma política de câmbio fixo de um país cria um dilema para a moeda de reserva global?",
+      "options": ["Paradoxo de Leontief", "Paradoxo de Triffin", "Paradoxo de Gibson", "Paradoxo de Feldstein-Horioka"],
+      "correctAnswer": "Paradoxo de Triffin",
+      "explanation": "O Dilema de Triffin (1960) afirma que o país emissor da moeda de reserva mundial precisa ter déficits externos para fornecer liquidez global, mas isso mina a confiança na sua moeda."
+    },
+    {
+      "id": "economia-9-6",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Qual é o nome do teorema que, sob certas condições, garante que um equilíbrio competitivo é eficiente no sentido de Pareto?",
+      "options": ["Teorema de Coase", "Teorema de Arrow-Debreu", "Primeiro teorema do bem-estar", "Teorema de Walras"],
+      "correctAnswer": "Primeiro teorema do bem-estar",
+      "explanation": "O Primeiro Teorema Fundamental do Bem-Estar afirma que, em mercados completos e competitivos, qualquer equilíbrio geral de Arrow-Debreu é Pareto-eficiente."
+    },
+    {
+      "id": "economia-9-7",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Como se chama a abordagem econômica que incorpora insights da psicologia para explicar desvios da racionalidade plena dos agentes?",
+      "options": ["Economia comportamental", "Economia institucional", "Economia experimental", "Economia evolucionária"],
+      "correctAnswer": "Economia comportamental",
+      "explanation": "A economia comportamental (Kahneman, Thaler) integra psicologia e economia para explicar heurísticas e vieses como aversão à perda, ancoragem e desconto hiperbólico."
+    },
+    {
+      "id": "economia-9-8",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Qual é o nome da teoria que descreve como países mais produtivos têm níveis de preços mais altos, explicando desvios da paridade do poder de compra?",
+      "options": ["Efeito Balassa-Samuelson", "Efeito Fisher", "Efeito Mundell", "Lei do preço único"],
+      "correctAnswer": "Efeito Balassa-Samuelson",
+      "explanation": "O efeito Balassa-Samuelson (1964) explica por que países ricos têm preços mais altos: maior produtividade no setor comercializável eleva salários em toda a economia, incluindo o setor não-comercializável."
+    },
+    {
+      "id": "economia-9-9",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Como se chama o mecanismo pelo qual um banco central sinaliza intenções futuras de política monetária para influenciar expectativas dos agentes?",
+      "options": ["Afrouxamento quantitativo", "Forward guidance", "Open market", "Operação twist"],
+      "correctAnswer": "Forward guidance",
+      "explanation": "O forward guidance é uma ferramenta de comunicação em que o banco central comunica sua trajetória pretendida de juros, influenciando expectativas e decisões de consumo e investimento."
+    },
+    {
+      "id": "economia-9-10",
+      "category": "economia",
+      "difficulty": 9,
+      "question": "Qual é o nome do fenômeno em que a acumulação ilimitada de dívida pública pode tornar a política fiscal insustentável, levando à dominância fiscal?",
+      "options": ["Crowding-out", "Dominância fiscal", "Armadilha de liquidez", "Desequilíbrio de Ponzi"],
+      "correctAnswer": "Dominância fiscal",
+      "explanation": "Dominância fiscal ocorre quando a política monetária é subordinada à necessidade de financiar o déficit público, perdendo eficácia no controle da inflação."
     }
   ]
 }
