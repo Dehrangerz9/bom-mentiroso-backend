@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "TDD",
       "explanation": "Test-Driven Development (TDD) exige o ciclo Red-Green-Refactor: escrever o teste que falha, implementar o mínimo para passar e refatorar."
+    },
+    {
+      "id": "thoughtworks-9-2",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "O que é 'Tolerant Reader' pattern em integração entre serviços?",
+      "options": [
+        "Um padrão em que o consumidor de uma API ignora campos desconhecidos ou ausentes, tornando a integração resiliente a mudanças no contrato",
+        "Um serviço que aceita múltiplos formatos de payload sem validação estrita",
+        "Uma estratégia de retry que tolera falhas transitórias em chamadas de rede",
+        "Um padrão de versionamento de API que mantém compatibilidade retroativa por tempo indefinido"
+      ],
+      "correctAnswer": "Um padrão em que o consumidor de uma API ignora campos desconhecidos ou ausentes, tornando a integração resiliente a mudanças no contrato",
+      "explanation": "Tolerant Reader, de Martin Fowler, orienta que consumidores de APIs devem ser liberais no que aceitam: ignorar campos extras e não quebrar na ausência de campos opcionais. Isso desacopla a evolução do provedor do consumidor."
+    },
+    {
+      "id": "thoughtworks-9-3",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "O que é 'Inverse Conway Maneuver' e como é usado pela Thoughtworks em projetos de transformação?",
+      "options": [
+        "A prática de deliberadamente estruturar times para que a arquitetura resultante do software seja a desejada, invertendo a causalidade da Lei de Conway",
+        "Uma técnica de reorganização de microsserviços para eliminar dependências indesejadas entre serviços",
+        "Um método de reestruturação organizacional que parte da arquitetura existente para definir os times",
+        "A estratégia de criar times multi-disciplinares para superar barreiras criadas por silos organizacionais"
+      ],
+      "correctAnswer": "A prática de deliberadamente estruturar times para que a arquitetura resultante do software seja a desejada, invertendo a causalidade da Lei de Conway",
+      "explanation": "Se sistemas espelham estruturas de comunicação (Conway's Law), então para obter a arquitetura desejada, deve-se primeiro estruturar os times de forma que suas interfaces de comunicação correspondam às interfaces arquiteturais almejadas."
+    },
+    {
+      "id": "thoughtworks-9-4",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "O que é 'Continuous Discovery' no contexto de desenvolvimento de produto?",
+      "options": [
+        "A prática de times de produto realizarem pesquisas com usuários de forma contínua e cadenciada, em paralelo à entrega, para reduzir o risco de construir a coisa errada",
+        "Um processo de integração contínua focado em descoberta de bugs de regressão",
+        "Uma metodologia de roadmap que mantém o backlog sempre atualizado com novas descobertas de mercado",
+        "O uso de ferramentas de analytics para monitorar continuamente o comportamento do usuário em produção"
+      ],
+      "correctAnswer": "A prática de times de produto realizarem pesquisas com usuários de forma contínua e cadenciada, em paralelo à entrega, para reduzir o risco de construir a coisa errada",
+      "explanation": "Continuous Discovery (Teresa Torres) propõe que product trios (PM, designer, engenheiro) realizem entrevistas semanais com usuários e testem oportunidades continuamente, alimentando decisões de produto com evidências constantes."
+    },
+    {
+      "id": "thoughtworks-9-5",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "O que diferencia 'orchestration' de 'choreography' em arquiteturas de microsserviços?",
+      "options": [
+        "Orchestration usa um controlador central que coordena serviços; choreography distribui a lógica entre os serviços que reagem a eventos",
+        "Orchestration é síncrono; choreography é assíncrono por definição",
+        "Orchestration é usado em monolitos; choreography é exclusivo de microsserviços",
+        "Orchestration usa Kubernetes; choreography usa message brokers como Kafka"
+      ],
+      "correctAnswer": "Orchestration usa um controlador central que coordena serviços; choreography distribui a lógica entre os serviços que reagem a eventos",
+      "explanation": "Na orquestração (ex: Saga com orquestrador), um serviço central conhece e controla o fluxo. Na coreografia, cada serviço publica e reage a eventos sem coordenador central, resultando em maior autonomia e menor acoplamento."
+    },
+    {
+      "id": "thoughtworks-9-6",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "O que é 'TCR' (test && commit || revert) e como difere do TDD tradicional?",
+      "options": [
+        "Uma prática radical onde o código é automaticamente comitado se os testes passam ou revertido se falham, forçando passos minúsculos",
+        "Um fluxo de CI/CD que só faz merge se todos os testes passam e reverte automaticamente deploys com falha",
+        "Uma variação do TDD em que o refactor é substituído por revert quando o código não melhora a cobertura",
+        "Uma técnica de controle de versão que usa tags de commit para marcar versões com testes verdes"
+      ],
+      "correctAnswer": "Uma prática radical onde o código é automaticamente comitado se os testes passam ou revertido se falham, forçando passos minúsculos",
+      "explanation": "TCR, proposto por Kent Beck, automatiza: se testes passam → commit; se falham → revert. Isso força o desenvolvedor a trabalhar em passos extremamente pequenos, pois código que quebra testes é imediatamente perdido."
+    },
+    {
+      "id": "thoughtworks-9-7",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "O que é 'Cynefin framework' e como ele auxilia na tomada de decisões técnicas?",
+      "options": [
+        "Um modelo de sentido que classifica problemas em domínios (óbvio, complicado, complexo, caótico) para orientar o tipo adequado de resposta",
+        "Uma ferramenta de priorização de backlog baseada em incerteza e valor de negócio",
+        "Um framework de gestão de riscos técnicos para projetos de transformação digital",
+        "Um modelo de maturidade para times de engenharia com cinco níveis de capacidade"
+      ],
+      "correctAnswer": "Um modelo de sentido que classifica problemas em domínios (óbvio, complicado, complexo, caótico) para orientar o tipo adequado de resposta",
+      "explanation": "Cynefin (Dave Snowden) ajuda a escolher a abordagem certa: problemas complicados pedem expertise e análise; complexos pedem experimentação (probe-sense-respond). Na Thoughtworks, é usado para evitar aplicar práticas simples a problemas complexos."
+    },
+    {
+      "id": "thoughtworks-9-8",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "O que é 'specification by example' (SbE)?",
+      "options": [
+        "Uma abordagem em que requisitos são capturados como exemplos concretos e executáveis que se tornam tanto documentação quanto testes automatizados",
+        "Uma técnica de documentação de APIs usando exemplos de request e response",
+        "Um método de estimativa de esforço baseado em histórias de usuário exemplares",
+        "Uma prática de design de banco de dados usando dados de exemplo para definir o esquema"
+      ],
+      "correctAnswer": "Uma abordagem em que requisitos são capturados como exemplos concretos e executáveis que se tornam tanto documentação quanto testes automatizados",
+      "explanation": "Specification by Example (Gojko Adzic) alinha negócio e desenvolvimento usando exemplos concretos para definir o comportamento esperado. Esses exemplos se tornam testes automatizados (ex: Cucumber), criando 'living documentation'."
+    },
+    {
+      "id": "thoughtworks-9-9",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "O que é 'psychological safety' e por que é considerado crítico em times de alta performance na Thoughtworks?",
+      "options": [
+        "A crença compartilhada de que o time é seguro para assumir riscos interpessoais, como admitir erros e propor ideias sem medo de punição",
+        "Um protocolo de segurança para proteger dados sensíveis de usuários em sistemas de saúde",
+        "Um conjunto de práticas de bem-estar para prevenir burnout em times de tecnologia",
+        "A confiança de que o sistema em produção é seguro o suficiente para deploys frequentes"
+      ],
+      "correctAnswer": "A crença compartilhada de que o time é seguro para assumir riscos interpessoais, como admitir erros e propor ideias sem medo de punição",
+      "explanation": "O Projeto Aristóteles da Google identificou segurança psicológica como o fator #1 de times de alta performance. Na Thoughtworks, é cultivada como pré-requisito para práticas como pair programming, retrospectivas honestas e aprendizado com falhas."
+    },
+    {
+      "id": "thoughtworks-9-10",
+      "category": "thoughtworks",
+      "difficulty": 9,
+      "question": "O que é 'Wardley Mapping' e como auxilia em estratégia tecnológica?",
+      "options": [
+        "Uma técnica de mapeamento visual que posiciona componentes de um sistema em uma cadeia de valor e por grau de evolução, revelando oportunidades estratégicas",
+        "Um framework de análise de mercado para posicionamento de produtos de tecnologia",
+        "Um método de mapeamento de dependências técnicas em arquiteturas de microsserviços",
+        "Uma técnica de roadmap que posiciona funcionalidades por valor de negócio e complexidade técnica"
+      ],
+      "correctAnswer": "Uma técnica de mapeamento visual que posiciona componentes de um sistema em uma cadeia de valor e por grau de evolução, revelando oportunidades estratégicas",
+      "explanation": "Wardley Maps (Simon Wardley) mostram componentes no eixo Y (visibilidade na cadeia de valor) e X (evolução: gênese → custom → produto → commodity). Permitem decisões de build vs. buy e identificar onde inovar versus onde usar commodities."
     }
   ]
 }

@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Domain-Driven Design",
       "explanation": "O DDD (Domain-Driven Design) é amplamente adotado e promovido pela Thoughtworks como forma de alinhar código ao negócio."
+    },
+    {
+      "id": "thoughtworks-7-2",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "O que é 'aggregate' no Domain-Driven Design?",
+      "options": [
+        "Um conjunto de objetos de domínio tratados como uma unidade para fins de consistência e persistência",
+        "Uma função que agrega métricas de múltiplos microsserviços",
+        "Um tipo especial de repositório que combina dados de múltiplas fontes",
+        "Um serviço que consolida eventos de domínio para análise"
+      ],
+      "correctAnswer": "Um conjunto de objetos de domínio tratados como uma unidade para fins de consistência e persistência",
+      "explanation": "No DDD, um Aggregate é um cluster de objetos (entidades e value objects) tratado como uma unidade. Tem um Aggregate Root que controla o acesso e garante invariantes de negócio."
+    },
+    {
+      "id": "thoughtworks-7-3",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "O que é 'CQRS' (Command Query Responsibility Segregation)?",
+      "options": [
+        "Um padrão que separa as operações de escrita (commands) das operações de leitura (queries) em modelos distintos",
+        "Uma prática de separar testes de unidade de testes de integração em pipelines distintos",
+        "Um princípio de API design que distingue endpoints REST de GraphQL",
+        "Uma técnica de cache que separa dados frequentemente lidos de dados frequentemente escritos"
+      ],
+      "correctAnswer": "Um padrão que separa as operações de escrita (commands) das operações de leitura (queries) em modelos distintos",
+      "explanation": "CQRS separa o modelo de escrita (commands que mudam estado) do modelo de leitura (queries otimizadas). Isso permite escalar e otimizar leitura e escrita independentemente, frequentemente combinado com Event Sourcing."
+    },
+    {
+      "id": "thoughtworks-7-4",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "O que é 'Event Sourcing'?",
+      "options": [
+        "Um padrão em que o estado da aplicação é derivado de uma sequência imutável de eventos armazenados",
+        "Uma técnica de coleta de logs de eventos de sistema para análise post-mortem",
+        "Um modelo de publicação e assinatura de eventos entre microsserviços",
+        "A prática de documentar eventos de negócio ocorridos durante um sprint"
+      ],
+      "correctAnswer": "Um padrão em que o estado da aplicação é derivado de uma sequência imutável de eventos armazenados",
+      "explanation": "No Event Sourcing, em vez de persistir o estado atual, persistem-se todos os eventos que levaram a esse estado. O estado atual é reconstruído reproduzindo os eventos. Permite auditoria completa e reconstrução histórica."
+    },
+    {
+      "id": "thoughtworks-7-5",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "O que é 'Behavior-Driven Development' (BDD)?",
+      "options": [
+        "Uma extensão do TDD que foca na descrição do comportamento do sistema em linguagem compreensível por negócio e técnicos",
+        "Uma técnica de testes baseada em análise do comportamento do usuário em produção",
+        "Um framework de automação de testes que simula o comportamento do navegador",
+        "Uma metodologia de gestão de produto centrada em métricas de comportamento do usuário"
+      ],
+      "correctAnswer": "Uma extensão do TDD que foca na descrição do comportamento do sistema em linguagem compreensível por negócio e técnicos",
+      "explanation": "BDD, popularizado por Dan North (ex-Thoughtworker), usa a sintaxe Given-When-Then para descrever comportamentos esperados. Ferramentas como Cucumber permitem que testes sejam escritos em linguagem natural."
+    },
+    {
+      "id": "thoughtworks-7-6",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "O que é 'anti-pattern' no contexto de desenvolvimento de software?",
+      "options": [
+        "Uma solução comumente aplicada a um problema recorrente que, na prática, gera mais problemas do que resolve",
+        "Um padrão de design considerado obsoleto por tecnologias mais modernas",
+        "Um conjunto de práticas proibidas por diretrizes de segurança",
+        "Um padrão arquitetural recomendado apenas para sistemas legados"
+      ],
+      "correctAnswer": "Uma solução comumente aplicada a um problema recorrente que, na prática, gera mais problemas do que resolve",
+      "explanation": "Anti-patterns são soluções intuitivas mas prejudiciais. Exemplos: God Object, Spaghetti Code, Golden Hammer. O livro 'AntiPatterns' de Brown et al. catalogou os mais comuns em software e gestão."
+    },
+    {
+      "id": "thoughtworks-7-7",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "O que é 'canary release' em estratégias de deploy?",
+      "options": [
+        "Liberar uma nova versão para um subconjunto pequeno de usuários antes de fazer rollout completo",
+        "Fazer deploy em produção apenas fora do horário comercial para minimizar impacto",
+        "Lançar uma versão beta pública para coletar feedback antes do release oficial",
+        "Usar um ambiente de staging idêntico ao de produção para validação final"
+      ],
+      "correctAnswer": "Liberar uma nova versão para um subconjunto pequeno de usuários antes de fazer rollout completo",
+      "explanation": "Canary release (referência aos canários usados em minas de carvão) expõe a nova versão a uma pequena porcentagem do tráfego. Se métricas forem saudáveis, o rollout é expandido gradualmente."
+    },
+    {
+      "id": "thoughtworks-7-8",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "O que é 'Conway's Law' e como ela se relaciona com microsserviços?",
+      "options": [
+        "A lei que afirma que sistemas de software tendem a refletir a estrutura de comunicação da organização que os cria",
+        "Um princípio que define que times maiores produzem software mais complexo",
+        "A observação de que o custo de manutenção de software cresce exponencialmente com o tempo",
+        "Uma regra que limita o número de dependências entre serviços de um sistema distribuído"
+      ],
+      "correctAnswer": "A lei que afirma que sistemas de software tendem a refletir a estrutura de comunicação da organização que os cria",
+      "explanation": "Conway's Law, de Melvin Conway (1968), diz que 'organizações projetam sistemas que espelham sua própria estrutura de comunicação'. Na Thoughtworks, é usada para justificar o 'Inverse Conway Maneuver': estruturar times para obter a arquitetura desejada."
+    },
+    {
+      "id": "thoughtworks-7-9",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "O que é 'technical excellence' no contexto da cultura Thoughtworks?",
+      "options": [
+        "O compromisso com práticas de engenharia rigorosas como TDD, refatoração e design limpo como meio de entregar valor sustentável",
+        "A busca por usar as tecnologias mais recentes e avançadas em todos os projetos",
+        "Um programa interno de certificações técnicas para Thoughtworkers",
+        "A métrica de qualidade de código medida por cobertura de testes acima de 90%"
+      ],
+      "correctAnswer": "O compromisso com práticas de engenharia rigorosas como TDD, refatoração e design limpo como meio de entregar valor sustentável",
+      "explanation": "Technical excellence é um dos pilares da Thoughtworks: a crença de que práticas técnicas rigorosas não são um fim em si mesmas, mas o meio pelo qual times entregam software de qualidade de forma sustentável ao longo do tempo."
+    },
+    {
+      "id": "thoughtworks-7-10",
+      "category": "thoughtworks",
+      "difficulty": 7,
+      "question": "O que é 'four key metrics' (as quatro métricas chave) do relatório DORA e qual sua importância?",
+      "options": [
+        "Frequência de deploy, tempo de lead time, tempo de restauração e taxa de falhas de mudança — métricas que medem a eficácia de entrega de software",
+        "Cobertura de testes, dívida técnica, bugs em produção e satisfação do time",
+        "Velocidade do sprint, NPS do produto, uptime e custo por deploy",
+        "Número de commits, pull requests, revisões de código e deploys por sprint"
+      ],
+      "correctAnswer": "Frequência de deploy, tempo de lead time, tempo de restauração e taxa de falhas de mudança — métricas que medem a eficácia de entrega de software",
+      "explanation": "As 4 métricas DORA (DevOps Research and Assessment) são: deployment frequency, lead time for changes, mean time to restore e change failure rate. Times de alta performance têm alto deploy frequency, baixo lead time, baixo MTTR e baixa taxa de falhas."
     }
   ]
 }

@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "GoCD",
       "explanation": "O GoCD é uma ferramenta open-source de Continuous Delivery criada e mantida pela Thoughtworks."
+    },
+    {
+      "id": "thoughtworks-5-2",
+      "category": "thoughtworks",
+      "difficulty": 5,
+      "question": "O que é o 'Manifesto Ágil' e em que ano foi publicado?",
+      "options": [
+        "Um framework de gerenciamento de projetos, publicado em 1999",
+        "Um documento com valores e princípios para desenvolvimento de software, publicado em 2001",
+        "Um guia de boas práticas de segurança, publicado em 2003",
+        "Um padrão ISO para qualidade de software, publicado em 2000"
+      ],
+      "correctAnswer": "Um documento com valores e princípios para desenvolvimento de software, publicado em 2001",
+      "explanation": "O Manifesto Ágil foi assinado em 2001 por 17 desenvolvedores, incluindo Thoughtworkers como Martin Fowler. Ele define 4 valores e 12 princípios para desenvolvimento ágil de software."
+    },
+    {
+      "id": "thoughtworks-5-3",
+      "category": "thoughtworks",
+      "difficulty": 5,
+      "question": "O que é 'Extreme Programming' (XP)?",
+      "options": [
+        "Uma linguagem de programação de alto desempenho",
+        "Uma metodologia ágil com práticas como TDD, pair programming e integração contínua",
+        "Um framework de testes automatizados",
+        "Um modelo de governança corporativa para times de TI"
+      ],
+      "correctAnswer": "Uma metodologia ágil com práticas como TDD, pair programming e integração contínua",
+      "explanation": "XP (Extreme Programming), criado por Kent Beck, é uma metodologia ágil que enfatiza práticas técnicas rigorosas como TDD, pair programming, refatoração e entregas frequentes."
+    },
+    {
+      "id": "thoughtworks-5-4",
+      "category": "thoughtworks",
+      "difficulty": 5,
+      "question": "O que significa o princípio 'You Aren't Gonna Need It' (YAGNI)?",
+      "options": [
+        "Implementar funcionalidades apenas quando elas forem realmente necessárias",
+        "Sempre escrever testes antes de implementar código",
+        "Não usar bibliotecas de terceiros sem necessidade comprovada",
+        "Evitar comentários desnecessários no código"
+      ],
+      "correctAnswer": "Implementar funcionalidades apenas quando elas forem realmente necessárias",
+      "explanation": "YAGNI é um princípio do XP que orienta os desenvolvedores a não implementar funcionalidades antecipadas especulativas. Isso reduz complexidade e desperdício."
+    },
+    {
+      "id": "thoughtworks-5-5",
+      "category": "thoughtworks",
+      "difficulty": 5,
+      "question": "O que é um 'pipeline de CI/CD'?",
+      "options": [
+        "Uma sequência automatizada de etapas para construir, testar e entregar software",
+        "Um protocolo de comunicação entre microsserviços",
+        "Uma estratégia de branching para controle de versão",
+        "Um modelo de contrato entre times de frontend e backend"
+      ],
+      "correctAnswer": "Uma sequência automatizada de etapas para construir, testar e entregar software",
+      "explanation": "Um pipeline de CI/CD automatiza o caminho do código-fonte até a produção, incluindo compilação, testes, análise estática e deploy, reduzindo erros e acelerando entregas."
+    },
+    {
+      "id": "thoughtworks-5-6",
+      "category": "thoughtworks",
+      "difficulty": 5,
+      "question": "Qual é o conceito de 'Infrastructure as Code' (IaC)?",
+      "options": [
+        "Gerenciar e provisionar infraestrutura por meio de arquivos de configuração versionados",
+        "Hospedar código-fonte em servidores próprios da empresa",
+        "Usar containers para isolar aplicações",
+        "Automatizar testes de performance em ambientes de produção"
+      ],
+      "correctAnswer": "Gerenciar e provisionar infraestrutura por meio de arquivos de configuração versionados",
+      "explanation": "IaC trata servidores, redes e outros recursos como código, permitindo versionamento, revisão e automação de infraestrutura com as mesmas práticas usadas no desenvolvimento de software."
+    },
+    {
+      "id": "thoughtworks-5-7",
+      "category": "thoughtworks",
+      "difficulty": 5,
+      "question": "O que é 'code review' e por que é importante?",
+      "options": [
+        "Uma reunião semanal para discutir métricas de qualidade de código",
+        "O processo de inspecionar código de outro desenvolvedor para encontrar problemas e compartilhar conhecimento",
+        "Um relatório automatizado gerado por ferramentas de análise estática",
+        "A aprovação formal de um arquiteto antes de qualquer deploy"
+      ],
+      "correctAnswer": "O processo de inspecionar código de outro desenvolvedor para encontrar problemas e compartilhar conhecimento",
+      "explanation": "Code review é uma prática essencial no desenvolvimento colaborativo. Além de encontrar bugs, promove disseminação de conhecimento, padronização e melhoria contínua da qualidade do código."
+    },
+    {
+      "id": "thoughtworks-5-8",
+      "category": "thoughtworks",
+      "difficulty": 5,
+      "question": "O que é 'trunk-based development'?",
+      "options": [
+        "Uma prática em que todos os desenvolvedores integram seu código em um único branch principal com frequência",
+        "Uma estratégia de deploy que usa múltiplos ambientes separados",
+        "Um modelo de branching com uma branch por funcionalidade de longa duração",
+        "Uma técnica de versionamento semântico para APIs"
+      ],
+      "correctAnswer": "Uma prática em que todos os desenvolvedores integram seu código em um único branch principal com frequência",
+      "explanation": "No trunk-based development, os desenvolvedores fazem commits diretamente na branch principal (trunk/main) ou em branches de vida muito curta, facilitando a integração contínua e reduzindo conflitos de merge."
+    },
+    {
+      "id": "thoughtworks-5-9",
+      "category": "thoughtworks",
+      "difficulty": 5,
+      "question": "O que é 'observabilidade' em sistemas distribuídos?",
+      "options": [
+        "A capacidade de entender o estado interno de um sistema a partir de suas saídas externas (logs, métricas e traces)",
+        "O monitoramento de uptime e disponibilidade de serviços",
+        "A visualização de dependências entre microsserviços em um diagrama",
+        "O rastreamento de requisições HTTP em tempo real"
+      ],
+      "correctAnswer": "A capacidade de entender o estado interno de um sistema a partir de suas saídas externas (logs, métricas e traces)",
+      "explanation": "Observabilidade vai além do monitoramento tradicional. Seus três pilares são logs, métricas e rastreamento distribuído (traces), permitindo diagnosticar problemas desconhecidos em sistemas complexos."
+    },
+    {
+      "id": "thoughtworks-5-10",
+      "category": "thoughtworks",
+      "difficulty": 5,
+      "question": "Qual é o propósito de uma 'retrospectiva' em times ágeis, segundo as práticas da Thoughtworks?",
+      "options": [
+        "Revisar os requisitos do próximo sprint com o cliente",
+        "Inspecionar e adaptar o processo do time para melhorar continuamente a forma de trabalhar",
+        "Apresentar o software desenvolvido para os stakeholders",
+        "Estimar o esforço das histórias de usuário do backlog"
+      ],
+      "correctAnswer": "Inspecionar e adaptar o processo do time para melhorar continuamente a forma de trabalhar",
+      "explanation": "A retrospectiva é uma cerimônia ágil em que o time reflete sobre seu processo, identifica o que funcionou bem e o que pode melhorar, gerando ações concretas de melhoria contínua."
     }
   ]
 }

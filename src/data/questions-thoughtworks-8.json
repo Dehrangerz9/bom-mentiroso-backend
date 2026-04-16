@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Microservices",
       "explanation": "O artigo 'Microservices' de Fowler e Lewis (2014) definiu e popularizou o termo e a abordagem arquitetural."
+    },
+    {
+      "id": "thoughtworks-8-2",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "O que é 'data mesh' e qual problema ele endereça?",
+      "options": [
+        "Uma arquitetura descentralizada de dados que trata dados como produto e distribui a propriedade para times de domínio",
+        "Uma camada de rede que conecta bancos de dados heterogêneos em microsserviços",
+        "Um padrão de sincronização de dados entre múltiplas regiões geográficas",
+        "Uma estratégia de migração de data warehouses monolíticos para data lakes"
+      ],
+      "correctAnswer": "Uma arquitetura descentralizada de dados que trata dados como produto e distribui a propriedade para times de domínio",
+      "explanation": "Data Mesh, conceito criado por Zhamak Dehghani (ex-Thoughtworker), propõe descentralizar a propriedade de dados para os times de domínio, tratando datasets como produtos com SLAs, documentação e qualidade garantida."
+    },
+    {
+      "id": "thoughtworks-8-3",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "O que é 'Team Topologies' e como se relaciona com a arquitetura de software?",
+      "options": [
+        "Um framework que define quatro tipos de time e três modos de interação para otimizar o fluxo de entrega de software",
+        "Um modelo organizacional hierárquico para escalar times ágeis em grandes empresas",
+        "Uma metodologia de design de squads baseada em análise de redes sociais",
+        "Um conjunto de métricas para medir a saúde e a produtividade de times de desenvolvimento"
+      ],
+      "correctAnswer": "Um framework que define quatro tipos de time e três modos de interação para otimizar o fluxo de entrega de software",
+      "explanation": "Team Topologies (Skelton e Pais) define Stream-aligned, Platform, Enabling e Complicated-subsystem teams, com interações de colaboração, X-as-a-Service e facilitação. Conecta-se a Conway's Law para co-projetar org e arquitetura."
+    },
+    {
+      "id": "thoughtworks-8-4",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "O que é 'property-based testing' e como difere dos testes de exemplo?",
+      "options": [
+        "Testes que verificam propriedades (invariantes) do sistema com dados gerados aleatoriamente, em vez de casos específicos fixos",
+        "Testes que verificam as propriedades CSS de componentes de interface do usuário",
+        "Uma técnica de teste que utiliza propriedades de objetos como insumo para gerar casos de teste",
+        "Testes que validam as propriedades de configuração de um sistema em diferentes ambientes"
+      ],
+      "correctAnswer": "Testes que verificam propriedades (invariantes) do sistema com dados gerados aleatoriamente, em vez de casos específicos fixos",
+      "explanation": "Em property-based testing (ex: QuickCheck, fast-check), você define propriedades que sempre devem ser verdadeiras (ex: 'serializar e deserializar retorna o objeto original') e o framework gera centenas de casos aleatórios para tentar refutá-las."
+    },
+    {
+      "id": "thoughtworks-8-5",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "O que é 'Accelerate' e qual sua relevância para times de engenharia?",
+      "options": [
+        "Um livro de Nicole Forsgren, Jez Humble e Gene Kim que apresenta evidências científicas de como práticas DevOps impactam desempenho organizacional",
+        "Uma ferramenta interna da Thoughtworks para acelerar onboarding de novos projetos",
+        "Um programa de mentoria técnica para desenvolvedores júnior na Thoughtworks",
+        "Um framework de OKRs adaptado para times de tecnologia de alto crescimento"
+      ],
+      "correctAnswer": "Um livro de Nicole Forsgren, Jez Humble e Gene Kim que apresenta evidências científicas de como práticas DevOps impactam desempenho organizacional",
+      "explanation": "'Accelerate' (2018) apresenta resultados de pesquisas do State of DevOps Report, demonstrando com dados que práticas como CI/CD, TDD e arquitetura loosely-coupled são preditores de performance organizacional."
+    },
+    {
+      "id": "thoughtworks-8-6",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "O que é 'sidecar pattern' em arquiteturas de microsserviços?",
+      "options": [
+        "Um padrão em que um container auxiliar é acoplado ao serviço principal para fornecer funcionalidades transversais como logging, proxy e segurança",
+        "Um serviço secundário que assume o lugar do serviço principal em caso de falha",
+        "Um padrão de cache local que armazena dados próximos ao serviço que os consome",
+        "Uma técnica de deploy em que duas versões de um serviço rodam em paralelo"
+      ],
+      "correctAnswer": "Um padrão em que um container auxiliar é acoplado ao serviço principal para fornecer funcionalidades transversais como logging, proxy e segurança",
+      "explanation": "O sidecar pattern coloca preocupações transversais (observabilidade, mTLS, circuit breaking) em um container separado que roda junto ao serviço. É a base dos service meshes como Istio, onde o Envoy proxy é o sidecar."
+    },
+    {
+      "id": "thoughtworks-8-7",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "O que é 'innersource' e como se relaciona com cultura open-source dentro de empresas?",
+      "options": [
+        "A adoção de práticas de desenvolvimento open-source (contribuições abertas, revisões públicas, forks) dentro dos limites de uma organização",
+        "O uso de bibliotecas open-source em projetos comerciais com gestão rigorosa de licenças",
+        "Uma estratégia de abertura gradual do código-fonte proprietário para a comunidade",
+        "Um modelo de governança de repositórios privados baseado em pull requests obrigatórios"
+      ],
+      "correctAnswer": "A adoção de práticas de desenvolvimento open-source (contribuições abertas, revisões públicas, forks) dentro dos limites de uma organização",
+      "explanation": "InnerSource aplica a cultura open-source internamente: qualquer desenvolvedor pode contribuir para qualquer repositório da empresa. Reduz silos, aumenta reutilização e promove transparência interna."
+    },
+    {
+      "id": "thoughtworks-8-8",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "O que é 'Domain Storytelling' como técnica de modelagem?",
+      "options": [
+        "Uma técnica colaborativa em que especialistas de domínio narram como trabalham usando uma linguagem pictográfica com atores, objetos e atividades",
+        "Uma abordagem de documentação em que times escrevem histórias sobre o comportamento do sistema",
+        "Um método de entrevista com usuários para capturar requisitos em formato narrativo",
+        "Uma técnica de priorização de backlog baseada em narrativas de valor para o negócio"
+      ],
+      "correctAnswer": "Uma técnica colaborativa em que especialistas de domínio narram como trabalham usando uma linguagem pictográfica com atores, objetos e atividades",
+      "explanation": "Domain Storytelling, de Stefan Hofer e Henning Schwentner, usa uma linguagem visual simples para capturar fluxos de trabalho do domínio. Facilita comunicação entre especialistas de negócio e desenvolvedores, alimentando o DDD."
+    },
+    {
+      "id": "thoughtworks-8-9",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "O que é 'shift-left security' e por que é relevante em DevSecOps?",
+      "options": [
+        "A prática de incorporar segurança mais cedo no ciclo de desenvolvimento, em vez de tratá-la apenas no final antes do deploy",
+        "Uma estratégia de mover a responsabilidade de segurança dos times de operação para os desenvolvedores",
+        "O uso de ferramentas de segurança no ambiente de desenvolvimento local antes de commits",
+        "Uma metodologia de pentest realizada durante o desenvolvimento em vez de após o lançamento"
+      ],
+      "correctAnswer": "A prática de incorporar segurança mais cedo no ciclo de desenvolvimento, em vez de tratá-la apenas no final antes do deploy",
+      "explanation": "Shift-left security integra análise de vulnerabilidades, revisão de dependências e threat modeling desde o início do desenvolvimento. Corrigir falhas de segurança cedo é exponencialmente mais barato do que após o lançamento."
+    },
+    {
+      "id": "thoughtworks-8-10",
+      "category": "thoughtworks",
+      "difficulty": 8,
+      "question": "O que é 'value stream mapping' no contexto de entrega de software?",
+      "options": [
+        "Uma técnica para visualizar e analisar o fluxo completo de trabalho, do conceito ao cliente, identificando gargalos e desperdícios",
+        "Um diagrama que mostra o valor de negócio gerado por cada funcionalidade do produto",
+        "Uma ferramenta de priorização de backlog baseada em ROI esperado por história de usuário",
+        "Um modelo de roadmap que mapeia entregas de valor ao longo de quarters"
+      ],
+      "correctAnswer": "Uma técnica para visualizar e analisar o fluxo completo de trabalho, do conceito ao cliente, identificando gargalos e desperdícios",
+      "explanation": "Value Stream Mapping, originado no Lean Manufacturing, mapeia cada etapa que um trabalho atravessa (da ideia ao deploy) com tempos de processamento e espera. Revela onde o tempo é desperdiçado e orienta melhorias de fluxo."
     }
   ]
 }

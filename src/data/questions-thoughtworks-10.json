@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Um mecanismo automatizado que avalia se a arquitetura mantém suas características desejadas",
       "explanation": "Definido no livro 'Building Evolutionary Architectures' de Neal Ford, Rebecca Parsons e Patrick Kua (Thoughtworkers), fitness functions guiam a evolução arquitetural."
+    },
+    {
+      "id": "thoughtworks-10-2",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "O que é 'Architectural Decision Record' (ADR) e por que é importante para times de engenharia?",
+      "options": [
+        "Um documento que captura o contexto, as opções consideradas e a justificativa de uma decisão arquitetural significativa",
+        "Um registro de auditoria automático gerado por ferramentas de análise estática de código",
+        "Um relatório periódico de métricas de qualidade arquitetural gerado pelo time de arquitetura",
+        "Um template de documentação para APIs que inclui decisões de design de interface"
+      ],
+      "correctAnswer": "Um documento que captura o contexto, as opções consideradas e a justificativa de uma decisão arquitetural significativa",
+      "explanation": "ADRs (Michael Nygard) são documentos curtos e imutáveis que registram o 'porquê' de decisões arquiteturais. Evitam que contexto se perca com rotatividade de pessoas e previnem que decisões sejam revertidas sem entender as razões originais."
+    },
+    {
+      "id": "thoughtworks-10-3",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "O que é 'Saga pattern' em transações distribuídas e quais são suas duas implementações principais?",
+      "options": [
+        "Um padrão para gerenciar transações longas em microsserviços via sequência de transações locais compensáveis, implementado por orquestração ou coreografia",
+        "Um padrão de cache distribuído para garantir consistência eventual entre microsserviços",
+        "Uma estratégia de rollback automático para transações distribuídas usando two-phase commit",
+        "Um mecanismo de retry com backoff exponencial para transações que falham em ambientes distribuídos"
+      ],
+      "correctAnswer": "Um padrão para gerenciar transações longas em microsserviços via sequência de transações locais compensáveis, implementado por orquestração ou coreografia",
+      "explanation": "Sagas substituem transações ACID distribuídas (impossíveis em microsserviços) por sequências de transações locais com transações compensatórias para desfazer operações em caso de falha. Orquestração usa um coordenador central; coreografia usa eventos."
+    },
+    {
+      "id": "thoughtworks-10-4",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "O que é 'Platform Engineering' e como difere de DevOps tradicional?",
+      "options": [
+        "A prática de construir plataformas internas (IDP) que abstraem complexidade de infraestrutura e oferecem capacidades self-service para times de desenvolvimento",
+        "Uma especialização de DevOps focada exclusivamente em engenharia de plataformas de nuvem pública",
+        "A separação formal entre times de plataforma e times de produto em organizações de grande escala",
+        "O desenvolvimento de ferramentas de observabilidade e monitoramento para ambientes de produção"
+      ],
+      "correctAnswer": "A prática de construir plataformas internas (IDP) que abstraem complexidade de infraestrutura e oferecem capacidades self-service para times de desenvolvimento",
+      "explanation": "Platform Engineering (relacionado a Team Topologies' Platform Team) cria Internal Developer Platforms que reduzem a carga cognitiva dos times de desenvolvimento. Diferente de DevOps, é um produto interno com roadmap, SLAs e foco em experiência do desenvolvedor."
+    },
+    {
+      "id": "thoughtworks-10-5",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "O que é 'reactive manifesto' e quais são seus quatro princípios?",
+      "options": [
+        "Um manifesto que define sistemas responsivos, resilientes, elásticos e orientados a mensagens como os princípios de sistemas reativos",
+        "Um conjunto de princípios para programação funcional reativa em linguagens como Scala e Haskell",
+        "Um guia de design de APIs que prioriza responsividade e feedbacks imediatos ao usuário",
+        "Um framework para construção de interfaces reativas com atualizações em tempo real via WebSocket"
+      ],
+      "correctAnswer": "Um manifesto que define sistemas responsivos, resilientes, elásticos e orientados a mensagens como os princípios de sistemas reativos",
+      "explanation": "O Reactive Manifesto (2013) define sistemas reativos como: Responsive (respondem em tempo hábil), Resilient (se recuperam de falhas), Elastic (escalam sob carga) e Message-Driven (comunicação assíncrona por mensagens). Influenciou frameworks como Akka e RxJava."
+    },
+    {
+      "id": "thoughtworks-10-6",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "O que é 'Mikado Method' para refatorações complexas?",
+      "options": [
+        "Uma técnica de refatoração que mapeia dependências em forma de grafo (Mikado graph) para decompor mudanças complexas em passos seguros e incrementais",
+        "Um método de estimativa de esforço para grandes refatorações baseado em pontos de complexidade",
+        "Uma abordagem de refatoração que usa feature flags para ocultar código em transição",
+        "Um processo de migração de sistemas legados que segue a ordem de camadas de uma arquitetura em camadas"
+      ],
+      "correctAnswer": "Uma técnica de refatoração que mapeia dependências em forma de grafo (Mikado graph) para decompor mudanças complexas em passos seguros e incrementais",
+      "explanation": "O Método Mikado (Ellnestam e Brolund) começa tentando a mudança final, ao encontrar obstáculos os registra como nós no grafo, reverte e resolve os pré-requisitos primeiro. Permite refatorações grandes sem longos períodos com testes quebrados."
+    },
+    {
+      "id": "thoughtworks-10-7",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "O que é 'Responsible Tech' na perspectiva da Thoughtworks?",
+      "options": [
+        "A prática de considerar ativamente o impacto ético, social e ambiental das decisões tecnológicas durante o desenvolvimento, não apenas a conformidade regulatória",
+        "Um framework de governança de TI para conformidade com LGPD e GDPR",
+        "Um programa de sustentabilidade para reduzir a pegada de carbono de data centers",
+        "Um conjunto de diretrizes de acessibilidade para produtos digitais desenvolvidos pela Thoughtworks"
+      ],
+      "correctAnswer": "A prática de considerar ativamente o impacto ético, social e ambiental das decisões tecnológicas durante o desenvolvimento, não apenas a conformidade regulatória",
+      "explanation": "Responsible Tech é um dos pilares da Thoughtworks: avaliar algoritmos quanto a viés, considerar privacidade desde o design, questionar o uso de tecnologia em contextos prejudiciais e incluir perspectivas diversas. Va além de compliance e inclui ética proativa."
+    },
+    {
+      "id": "thoughtworks-10-8",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "O que é 'cognitive load' (carga cognitiva) em engenharia de software e como o Team Topologies aborda esse conceito?",
+      "options": [
+        "A quantidade de esforço mental necessária para um time entender, manter e evoluir o software sob sua responsabilidade — Team Topologies orienta limitar o escopo de cada time para não exceder sua capacidade cognitiva",
+        "O tempo médio que um desenvolvedor leva para entender um trecho de código durante code review",
+        "O impacto mental causado por notificações e interrupções no ambiente de trabalho de desenvolvedores",
+        "A complexidade algorítmica do software medida em termos de memória e processamento necessários"
+      ],
+      "correctAnswer": "A quantidade de esforço mental necessária para um time entender, manter e evoluir o software sob sua responsabilidade — Team Topologies orienta limitar o escopo de cada time para não exceder sua capacidade cognitiva",
+      "explanation": "Team Topologies usa carga cognitiva como princípio central para dimensionar responsabilidades dos times. Quando um time tem carga cognitiva excessiva, a qualidade sofre e o fluxo desacelera. A solução é reduzir escopo ou criar plataformas que abstraiam complexidade."
+    },
+    {
+      "id": "thoughtworks-10-9",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "O que é 'generative AI governance' no contexto de desenvolvimento de software responsável?",
+      "options": [
+        "O conjunto de políticas, processos e controles para gerenciar riscos de uso de IA generativa em produtos — incluindo alucinações, viés, privacidade e transparência",
+        "Um framework para auditar modelos de linguagem usados em pipelines de CI/CD",
+        "As diretrizes da Thoughtworks para uso de ferramentas de geração de código como GitHub Copilot por seus consultores",
+        "Um sistema automatizado que monitora outputs de LLMs em produção para detectar conteúdo prejudicial"
+      ],
+      "correctAnswer": "O conjunto de políticas, processos e controles para gerenciar riscos de uso de IA generativa em produtos — incluindo alucinações, viés, privacidade e transparência",
+      "explanation": "Com a adoção crescente de LLMs em produtos, governance de GenAI envolve: avaliação de riscos de alucinação, proteção de dados do usuário, transparência sobre uso de IA, monitoramento de outputs, consentimento e responsabilidade sobre decisões assistidas por IA."
+    },
+    {
+      "id": "thoughtworks-10-10",
+      "category": "thoughtworks",
+      "difficulty": 10,
+      "question": "O que é 'continuous architecture' e como difere de big design up front (BDUF)?",
+      "options": [
+        "Uma abordagem em que decisões arquiteturais são tomadas incrementalmente conforme o sistema evolui, guiadas por fitness functions, em contraste com BDUF que exige design completo antecipado",
+        "A prática de atualizar continuamente diagramas de arquitetura para refletir o estado atual do sistema",
+        "Um processo de revisão arquitetural periódico realizado a cada sprint pelo time de arquitetura",
+        "Uma metodologia que combina entrega contínua com revisões de arquitetura automáticas em cada merge"
+      ],
+      "correctAnswer": "Uma abordagem em que decisões arquiteturais são tomadas incrementalmente conforme o sistema evolui, guiadas por fitness functions, em contraste com BDUF que exige design completo antecipado",
+      "explanation": "Continuous Architecture (Ford, Parsons, Kua) reconhece que a arquitetura deve evoluir com o sistema. BDUF tenta prever tudo no início, desperdiçando esforço em decisões prematuras. Fitness functions automatizadas garantem que a evolução não viole características arquiteturais essenciais."
     }
   ]
 }

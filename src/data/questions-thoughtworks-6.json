@@ -13,6 +13,132 @@
       ],
       "correctAnswer": "Patterns of Enterprise Application Architecture",
       "explanation": "Martin Fowler publicou 'Patterns of Enterprise Application Architecture' em 2002, tornando-se referência na área."
+    },
+    {
+      "id": "thoughtworks-6-2",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "O que é 'Strangler Fig Pattern' no contexto de modernização de sistemas legados?",
+      "options": [
+        "Reescrever o sistema legado do zero em uma nova tecnologia",
+        "Substituir gradualmente partes do sistema legado por novos serviços até que o legado seja eliminado",
+        "Encapsular o sistema legado em um container para isolar dependências",
+        "Adicionar uma camada de API sobre o sistema legado sem modificá-lo"
+      ],
+      "correctAnswer": "Substituir gradualmente partes do sistema legado por novos serviços até que o legado seja eliminado",
+      "explanation": "O Strangler Fig Pattern, popularizado por Martin Fowler, consiste em construir a nova solução ao redor do sistema legado e ir migrando funcionalidades gradualmente, até que o legado possa ser desligado."
+    },
+    {
+      "id": "thoughtworks-6-3",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "O que é 'Event Storming'?",
+      "options": [
+        "Uma técnica de testes de performance baseada em simulação de eventos",
+        "Um workshop colaborativo de modelagem de domínio usando eventos de negócio como ponto de partida",
+        "Uma abordagem de monitoramento baseada em eventos de sistema",
+        "Um padrão de arquitetura para processamento de streams de eventos"
+      ],
+      "correctAnswer": "Um workshop colaborativo de modelagem de domínio usando eventos de negócio como ponto de partida",
+      "explanation": "Event Storming, criado por Alberto Brandolini, é uma técnica de modelagem onde especialistas de negócio e desenvolvedores colaboram para mapear domínios complexos usando post-its coloridos para representar eventos, comandos e agregados."
+    },
+    {
+      "id": "thoughtworks-6-4",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "O que é 'Consumer-Driven Contract Testing'?",
+      "options": [
+        "Testes que verificam se a API do provedor atende às expectativas definidas pelo consumidor",
+        "Contratos jurídicos que definem SLAs entre times de desenvolvimento",
+        "Testes end-to-end que simulam o comportamento do usuário final",
+        "Uma estratégia de versionamento de APIs baseada em demanda dos clientes"
+      ],
+      "correctAnswer": "Testes que verificam se a API do provedor atende às expectativas definidas pelo consumidor",
+      "explanation": "Consumer-Driven Contract Testing (ex: Pact) permite que cada consumidor de uma API defina suas expectativas em um contrato. O provedor verifica se o contrato é satisfeito, sem precisar de testes de integração pesados."
+    },
+    {
+      "id": "thoughtworks-6-5",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "Qual é o conceito de 'dark launching' em entregas de software?",
+      "options": [
+        "Fazer deploy em produção sem notificar os usuários, coletando dados reais sem expor a funcionalidade",
+        "Lançar uma funcionalidade apenas para usuários internos antes do lançamento público",
+        "Desabilitar uma funcionalidade defeituosa em produção sem rollback completo",
+        "Publicar código ofuscado para proteger propriedade intelectual"
+      ],
+      "correctAnswer": "Fazer deploy em produção sem notificar os usuários, coletando dados reais sem expor a funcionalidade",
+      "explanation": "Dark launching permite testar o comportamento de uma funcionalidade em produção sem expô-la aos usuários. O código é executado em paralelo ao fluxo atual, mas os resultados são descartados ou apenas monitorados."
+    },
+    {
+      "id": "thoughtworks-6-6",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "O que é 'Continuous Integration' e qual seu principal benefício?",
+      "options": [
+        "Integrar código de todos os desenvolvedores frequentemente em um repositório compartilhado, detectando conflitos cedo",
+        "Automatizar o processo de deploy em ambientes de produção sem intervenção humana",
+        "Sincronizar automaticamente o backlog do produto com o código-fonte",
+        "Manter múltiplas versões do software integradas e disponíveis simultaneamente"
+      ],
+      "correctAnswer": "Integrar código de todos os desenvolvedores frequentemente em um repositório compartilhado, detectando conflitos cedo",
+      "explanation": "CI reduz o risco de grandes conflitos de integração ao promover integrações pequenas e frequentes, com verificação automática por build e testes a cada commit."
+    },
+    {
+      "id": "thoughtworks-6-7",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "O que é 'Hexagonal Architecture' (Ports and Adapters)?",
+      "options": [
+        "Uma arquitetura em que o domínio da aplicação é isolado de detalhes técnicos por interfaces (ports) e implementações (adapters)",
+        "Uma topologia de rede em forma hexagonal para microsserviços",
+        "Um padrão de banco de dados com seis tipos de relacionamento",
+        "Uma abordagem de CI/CD com seis estágios de pipeline"
+      ],
+      "correctAnswer": "Uma arquitetura em que o domínio da aplicação é isolado de detalhes técnicos por interfaces (ports) e implementações (adapters)",
+      "explanation": "A Arquitetura Hexagonal, criada por Alistair Cockburn, protege o núcleo de negócio de dependências externas. Ports definem interfaces; adapters implementam integrações com bancos, UIs, APIs externas, etc."
+    },
+    {
+      "id": "thoughtworks-6-8",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "O que é 'blue-green deployment'?",
+      "options": [
+        "Uma estratégia que mantém dois ambientes de produção idênticos, alternando o tráfego entre eles durante deploys",
+        "Uma prática de colorir código por nível de criticidade para facilitar revisões",
+        "Um modelo de branching com duas branches de longa duração para features e bugfixes",
+        "Uma técnica de deploy com rollout gradual por percentual de usuários"
+      ],
+      "correctAnswer": "Uma estratégia que mantém dois ambientes de produção idênticos, alternando o tráfego entre eles durante deploys",
+      "explanation": "No blue-green deployment, o ambiente 'blue' está em produção enquanto o 'green' recebe o novo deploy. Após validação, o tráfego é redirecionado para o 'green', permitindo rollback instantâneo."
+    },
+    {
+      "id": "thoughtworks-6-9",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "O que é 'test pyramid' (pirâmide de testes) e quem a popularizou?",
+      "options": [
+        "Um modelo que orienta ter mais testes unitários, menos de integração e ainda menos end-to-end, popularizado por Mike Cohn",
+        "Uma metodologia de priorização de casos de teste baseada em risco, criada pela Thoughtworks",
+        "Um framework de automação de testes em três camadas, criado pela Google",
+        "Um diagrama que mostra a cobertura de código por tipo de teste"
+      ],
+      "correctAnswer": "Um modelo que orienta ter mais testes unitários, menos de integração e ainda menos end-to-end, popularizado por Mike Cohn",
+      "explanation": "A pirâmide de testes de Mike Cohn orienta a ter uma base larga de testes unitários (rápidos e baratos), uma camada média de testes de integração e poucos testes E2E (lentos e frágeis no topo)."
+    },
+    {
+      "id": "thoughtworks-6-10",
+      "category": "thoughtworks",
+      "difficulty": 6,
+      "question": "O que é 'mob programming'?",
+      "options": [
+        "Uma prática em que todo o time trabalha junto no mesmo problema, na mesma máquina, ao mesmo tempo",
+        "Uma técnica de code review em que múltiplos revisores analisam o código simultaneamente",
+        "Uma sessão de brainstorming para identificar bugs em produção",
+        "Um formato de stand-up diário com toda a empresa"
+      ],
+      "correctAnswer": "Uma prática em que todo o time trabalha junto no mesmo problema, na mesma máquina, ao mesmo tempo",
+      "explanation": "Mob programming (ou ensemble programming) é a evolução do pair programming para o time inteiro. Um 'driver' digita enquanto os demais 'navigators' guiam. Os papéis se revezam regularmente."
     }
   ]
 }
